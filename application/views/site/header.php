@@ -216,7 +216,7 @@
 	  	Please note that the maximum size for the image file is 2MB (2048 KB). <br>
 	  	For best quality, portrait-type images are recommended. <br><br><br>
   	</div>
-  	<form id="editProfilePicture" action="/social/editProfilePic" method="post" accept-charset="utf-8" enctype="multipart/form-data">
+  	<form id="editProfilePicture" action="/social/edit_profilepic" method="post" accept-charset="utf-8" enctype="multipart/form-data">
     <input type="file" name="userfile" size="20" />
   </div>
   <div class="modal-footer">

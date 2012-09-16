@@ -15,7 +15,7 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
   
   
   
-";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T09:00:50Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
+";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T01:32:09Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
     
     
     
@@ -23,27 +23,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T09:00:50Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T09:00:50Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:65:"Bluetooth SIG finalizes standards for running and cycling sensors";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1371:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T01:32:09Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T01:32:09Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"The dream of an automated mechanical army impeded by a lack of trust";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1545:"
   
   
-    <img alt="Bluetooth on iPhone stock photo" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5198586/bluetooth-on-iphone-4-rm-verge_large.jpg" width="630" />
+    <img alt="DoD: cyber attacks may provoke military response" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5532313/blue-screen-of-pentagon_large.jpeg" width="630" />
   
 
 
 
 
 
-  <p>The Bluetooth Special Interest Group (SIG) has <a href="http://www.bluetooth.com/Pages/Press-Releases-Detail.aspx?ItemID=156" target="_blank">finalized standards for running and cycling sensors</a>, paving the way for a new generation of smart devices to monitor performance. The new standards, known as profiles, allow manufacturers to measure and transmit information such as speed, distance, and cadence in a universally recognizable format. They build on similar guidelines published for heart rate monitors, used in devices such as the <a href="http://www.polarusa.com/us-en/products/accessories/H7_heart_rate_sensor" target="_blank">Polar H7</a>.</p>
-<p>Perhaps the most high-profile Bluetooth-connected fitness device so far has been the general-purpose <a href="http://www.theverge.com/2012/3/8/2853088/nike-fuelband-review">Nike+ FuelBand</a>, which measures exercise performance using a proprietary algorithm &mdash; the opposite of an open standard. The Bluetooth SIG's new profiles, on the other hand, appear to be aimed...</p>
+  <p>The idea of a fully autonomous drone army right around the corner is unsettling to say the least, but a cursory look at the state of the military makes us wonder, given recent advances in <a href="http://www.theverge.com/2012/9/10/3280803/limits-consumer-technology-everything-amazing-nothing-perfect">navigation</a> and <a href="http://www.theverge.com/2012/9/10/3308675/darpas-four-legged-robotic-pack-mule-wants-to-follow-you-around">robotics</a>, why <i>isn't</i> more of it automated? <a href="http://www.wired.com/dangerroom/2012/09/robot-autonomy/?utm_source=twitter" target="_blank"><em>Wired</em> responds</a> by examining the false dichotomy between a fully-autonomous "Terminator" and current-generation drones that simply shift the piloting to a control room away from the battlefield. According to a <a href="http://www.fas.org/irp/agency/dod/dsb/autonomy.pdf" target="_blank">Department of Defense report</a> on autonomous systems in the military, one of the biggest roadblocks to automation is &mdash; unsurprisingly &mdash; that the humans just don&rsquo;t trust the systems, which "were rushed to theater with inadequate support, resources, training and concepts of operation."</p>
   <p>
-    <a href="http://www.theverge.com/2012/8/28/3273701/bluetooth-running-cycling-standards">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/15/3339530/military-automation-defense-robot-drone">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:77:"http://www.theverge.com/2012/8/28/3273701/bluetooth-running-cycling-standards";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:77:"http://www.theverge.com/2012/8/28/3273701/bluetooth-running-cycling-standards";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:81:"http://www.theverge.com/2012/9/15/3339530/military-automation-defense-robot-drone";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:81:"http://www.theverge.com/2012/9/15/3339530/military-automation-defense-robot-drone";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Louis Goddard";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Jeff Blagdon";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
     
     
     
@@ -51,27 +50,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T08:32:31Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T08:32:31Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"Sony A99 specs revealed: the first full-frame SLT camera comes into focus";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1233:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T00:34:12Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T00:34:12Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:62:"Neural implant enhances brain function in monkeys, study finds";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1141:"
   
   
-    <img alt="Photo" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5198564/DSC_0567-hero_large.jpg" width="630" />
+    <img alt="Deus Ex Brain" height="420" src="http://cdn2.sbnation.com/entry_photo_images/5525329/Deus_Ex_brain_large.png" width="630" />
   
 
 
 
 
 
-  <p>Sony's latest SLT (Single-Lens Translucent) camera, the A99, has been detailed by two prominent camera blogs. Both <a target="_blank" href="http://www.sonyalpharumors.com/sr5-full-a99-specs/"><i>Sony Alpha Rumors</i></a> and <a target="_blank" href="http://photorumors.com/2012/08/27/sony-a99-full-specifications/"><i>Photo Rumors</i></a> have posted a spec sheet for the high-end camera, revealing a 24.3-megapixel full-frame sensor, an ISO range of 100-25,600, 1/8000 maximum shutter speed, 10fps continuous shooting, 14-bit RAW output, and a 102-point AF system. The A99 will also have auto HDR capture out of the box, as well as the ability shoot Full HD video at 60p and output it through a dedicated HDMI port. Because of its translucent mirror, the A99 will also be able to use phase detection autofocus during video recording, continuous shooting mode, and when in "live view."</p>
-<p>Apparently due to be unveiled on September 12th,...</p>
+  <p>Scientists have successfully enhanced monkeys' brains using a neural implant, and hope to apply this research to humans, according to <a href="http://iopscience.iop.org/1741-2552/9/5/056012" target="_blank">a new study published in <i>IOP Science's Journal of Neural Engineering</i></a>.  The study focused on five rhesus monkeys that were shown a picture and tasked with selecting the same image from a number of others after a short delay.  Scientists studied the electrical patterns in the monkeys' prefrontal cortexes when they selected correct images, and programmed a brain implant to mimic those signals.  The researchers found that the MIMO neuroprosthetic noticeably improved the monkeys' performance on the matching test.</p>
+<p>Then they drugged the monkeys with cocaine to dampen their cognitive processes and decrease their...</p>
   <p>
-    <a href="http://www.theverge.com/2012/8/28/3273681/sony-a99-slt-camera-specs-rumor">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/15/3337178/brain-neural-implant-monkeys-cocaine">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:73:"http://www.theverge.com/2012/8/28/3273681/sony-a99-slt-camera-specs-rumor";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:73:"http://www.theverge.com/2012/8/28/3273681/sony-a99-slt-camera-specs-rumor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:78:"http://www.theverge.com/2012/9/15/3337178/brain-neural-implant-monkeys-cocaine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:78:"http://www.theverge.com/2012/9/15/3337178/brain-neural-implant-monkeys-cocaine";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:16:"Aaron Souppouris";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Kimber Streams";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
     
     
     
@@ -79,27 +78,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T08:26:39Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T08:26:39Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:81:"Michael Dell unfazed by post-PC era, describes it as 'pretty good for PCs so far'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1730:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T21:46:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T21:46:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"Google Fiber TV now includes Cartoon Network, CNN, and other Turner channels";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1395:"
   
   
-    <img alt="Michael Dell" height="420" src="http://cdn2.sbnation.com/entry_photo_images/5198546/Dell-7-inch-Tablet-Michael-Dell-e1285190526755_large.jpg" width="630" />
+    <img alt="Gallery Photo: Google Fiber + TV hardware hands-on photos" height="420" src="http://cdn2.sbnation.com/entry_photo_images/5525043/google-fiber-03-verge-1020_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Michael Dell, founder and CEO of Dell, doesn't seem too concerned about the post-PC era of computing that <a href="http://www.theverge.com/apple/2012/7/12/3151491/fighting-words-apple-post-pc-microsoft-pc-plus">Apple regularly uses</a> to describe an era where desktop PCs are less relevant in a world of mobile computing. Speaking at VMworld 2012 this week, Dell used the 380 million PCs sold last year figure to point towards a healthy PC ecosystem, according to a <a href="http://www.citeworld.com/consumerization/20627/michael-dell-vmworld-consumerization" target="_blank">report from <i>Citeworld</i></a>. "The post-PC era has been pretty good for PCs so far," says Dell, noting the sales growth over the years. Dell has <a href="http://www.theverge.com/2012/8/22/3259661/dell-windows-8-ultrabooks-tablets-converged-devices">promised a number of Windows 8 products</a> for launch this year, but the company has not yet revealed any plans for a <a href="http://www.theverge.com/2012/6/14/3085077/dell-windows-rt-tablet-october-rumor">rumored Windows RT tablet</a>.</p>
-<p>Although Microsoft likes to <a href="http://www.theverge.com/2012/7/11/3151472/microsoft-kevin-turner-apple-wrong-pc-plus-era">refer to the post-PC era as a PC Plus one</a>, there's <a href="http://www.theverge.com/microsoft/2012/1/10/2698678/microsoft-warns-pc-sales-weak-q2-2012">growing evidence</a> that PC sales...</p>
+  <p>After introducing a <a href="http://www.theverge.com/2012/7/26/3188944/google-fiber-tv-channel-listing">somewhat lackluster channel lineup</a> for <a href="http://www.theverge.com/2012/7/26/3188845/google-fiber-tv">Fiber TV</a>, Google has quickly added many of the missing stations to the new service. Just days after taking in a <a href="http://www.theverge.com/2012/9/12/3321440/google-fiber-channel-lineup-additions-espn-disney-abc/in/2953031">number of major Disney channels</a>, the company <a target="_blank" href="http://googlefiberblog.blogspot.com/2012/09/even-more-channels-on-google-fiber-tv.html">has announced</a> that Turner stations are now included as well. The agreement brings notable entries to the lineup, such as Cartoon Network, CNN, TBS, and TNT. A few major channels like HBO and AMC are still nowhere to be found, but the lineup as a whole is shaping up nicely. Overall, Google Fiber is a truly competitive offering at $120 a month, which includes gigabit internet and now almost 200 television channels.</p>
   <p>
-    <a href="http://www.theverge.com/2012/8/28/3273699/michael-dell-post-pc-era-vmworld-2012">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/15/3337934/google-fiber-tv-turner-cartoon-network-cnn">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:79:"http://www.theverge.com/2012/8/28/3273699/michael-dell-post-pc-era-vmworld-2012";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.theverge.com/2012/8/28/3273699/michael-dell-post-pc-era-vmworld-2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:84:"http://www.theverge.com/2012/9/15/3337934/google-fiber-tv-turner-cartoon-network-cnn";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:84:"http://www.theverge.com/2012/9/15/3337934/google-fiber-tv-turner-cartoon-network-cnn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Warren";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Justin Rubio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
     
     
     
@@ -107,27 +105,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T07:59:12Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T07:59:12Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"4.3-inch Droid RAZR M 4G LTE revealed ahead of Motorola's September 5th event";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1366:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T21:14:55Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T21:14:55Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:83:"New York's 'Lowline' exhibit shows off naturally-lit underground park of the future";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1323:"
   
   
-    <img alt="Motorola Droid RAZR M leaked pic" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5198549/57_large.png" width="630" />
+    <img alt="lowline exhibit " height="420" src="http://cdn0.sbnation.com/entry_photo_images/5527193/lowline_exhibit_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Just over a week before Motorola and Verizon's big <a href="http://www.theverge.com/2012/8/17/3250345/motorola-event-september-5th">September 5th event in New York</a>, detailed pictures and specs for what appears to be a new mid-range smartphone, the Droid RAZR M 4G LTE, have been <a target="_blank" href="http://www.engadget.com/2012/08/27/motorola-razr-m-4g-lte-specs/">leaked to <i>Engadget</i></a>. The device features a dual-core Snapdragon S4 (MSM8960) processor, 1GB of RAM, a standard 8-megapixel rear-facing camera and a 3-megapixel shooter on the front. It runs Android 4.0 Ice Cream Sandwich on a 4.3-inch qHD (960 x 540) Super AMOLED Advanced display, which, as <i>Engadget</i> points out, it likely the same panel used in the company's <a href="http://www.theverge.com/2012/8/13/3239435/motorola-photon-q-4g-lte-sprint-availability">Photon Q QWERTY handset</a> &mdash; another similarity with the Photon Q is a set of virtual Android navigation buttons at the base of the screen.</p>
-<p>It is not yet clear what relation the Droid RAZR M...</p>
+  <p>After a successful <a target="_blank" href="http://www.kickstarter.com/projects/855802805/lowline-an-underground-park-on-nycs-lower-east-sid">Kickstarter campaign</a>, the team behind <a target="_blank" href="http://thelowline.org/">Lowline</a> is now able to demonstrate its proposed project to the public: an underground park in New York City. "Imagining the Lowline" reveals what may become of the abandoned Williamsburg Trolley Terminal once it is equipped with parabolic solar dishes and fiber optic cables, which will be used to transport solar radiation from the surface to the park to enable subterranean photosynthesis. Check out <a target="_blank" href="http://www.scientificamerican.com/article.cfm?id=lowline-park-green-space-nyc"><i>Scientific American's</i> report</a> about the Lowline team for a look at their plans to create an entire ecosystem, or if you're in New York, the "Imagining the Lowline" exhibition can be seen at the Essex Street Warehouse from September 15th through 27th.</p>
+<p></p>
   <p>
-    <a href="http://www.theverge.com/2012/8/28/3273663/droid-razr-m-4g-lte-leaked-pics-specs">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/15/3338374/lowline-exhibit-underground-new-york-park">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:79:"http://www.theverge.com/2012/8/28/3273663/droid-razr-m-4g-lte-leaked-pics-specs";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.theverge.com/2012/8/28/3273663/droid-razr-m-4g-lte-leaked-pics-specs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:83:"http://www.theverge.com/2012/9/15/3338374/lowline-exhibit-underground-new-york-park";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:83:"http://www.theverge.com/2012/9/15/3338374/lowline-exhibit-underground-new-york-park";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Louis Goddard";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Justin Rubio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
     
     
     
@@ -135,27 +133,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T07:54:49Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T07:54:49Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:89:"Apple to stream iTunes Festival 2012 concerts through the web, iOS devices, and Apple TVs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1286:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T20:12:45Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T20:12:45Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:57:"Samsung responds to the iPhone 5 with inflammatory new ad";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1292:"
   
   
-    <img alt="iTunes Festival 2012" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5198468/itunesfestival2012_large.jpg" width="630" />
+    <img alt="samsung no-genius ad" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5526249/samsung-iphone-ad_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Apple has revealed that it plans to stream this years iTunes Festival online. The event kicks off on September 1st with Usher and runs for 30 days with various artists including David Guetta, P!nk, and Deadmau5. For the first time in its five year history, Apple will stream each event from its <a target="_blank" href="http://www.itunesfestival.com/gb/live">iTunes Festival website</a>, a universal iOS app, and its Apple TV. <a target="_blank" href="http://www.macrumors.com/2012/08/27/itunes-festival-2012-live-streaming-app-appears-on-apple-tv/"><i>MacRumors</i> reports</a> that Apple updated its Apple TV recently to include a new iTunes Festival app that supports the live streaming.</p>
-<p>It's not clear whether the event will be streamed via the company's iTunes app or in a browser stream that works across platforms. Apple has previously streamed live events for its product announcements, but the streams have lacked official support for...</p>
+  <p>Even after suffering <a href="http://www.theverge.com/2012/8/24/3266571/apple-decisively-wins-samsung-trial-what-it-means">a very public and costly defeat</a> to Apple in the US courts, Samsung has lost none of its zeal in marketing itself up against Apple's latest and greatest. Now that <a href="http://www.theverge.com/2012/9/12/3316830/iphone-5-release-date-specs-features-price-announcement">the iPhone 5's full feature list</a> has been detailed, Samsung has taken it to task with its own, <i>highly objective</i>, spec sheet comparison. On the Apple side of the equation you'll find such items as "a totally different plug," while the Samsung portion is padded out with pretty much every software feature the Korean company's been able to give a name to.</p>
+<p>The cherry atop this cake of provocation is the slogan "it doesn't take a genius," which simultaneously pokes fun at Apple's Genius store employees and implies that choosing the Galaxy S III over the iPhone 5...</p>
   <p>
-    <a href="http://www.theverge.com/2012/8/28/3273686/apple-itunes-festival-2012-live-stream-ios-apple-tv-web">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/15/3338248/samsung-anti-iphone-5-ad-spec-sheet">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:97:"http://www.theverge.com/2012/8/28/3273686/apple-itunes-festival-2012-live-stream-ios-apple-tv-web";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:97:"http://www.theverge.com/2012/8/28/3273686/apple-itunes-festival-2012-live-stream-ios-apple-tv-web";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:77:"http://www.theverge.com/2012/9/15/3338248/samsung-anti-iphone-5-ad-spec-sheet";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:77:"http://www.theverge.com/2012/9/15/3338248/samsung-anti-iphone-5-ad-spec-sheet";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Warren";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Vlad Savov";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
     
     
     
@@ -163,27 +161,28 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T07:34:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T07:34:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"LG showing 29-inch 21:9 IPS monitor at IFA";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1168:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T19:00:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T19:00:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:37:"The Classics: '2001: A Space Odyssey'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1147:"
   
   
-    <img alt="lg e93 monitor" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5198396/LG_E83_E93_02_20120828155311765__large.jpg" width="630" />
+    <img alt="2001 Classics" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5523367/2001classics_large.png" width="630" />
   
 
 
 
 
 
-  <p>We struggled to find the utility in a 21:9 aspect ratio display when we reviewed the <a href="http://www.theverge.com/2012/8/2/3210834/toshiba-satellite-u845w-u845-review">Toshiba Satellite U845W ultrabook</a>, but perhaps it was just too small. If that's the case, LG's cinematic EA93 might be just the ticket &mdash; it's a 29-inch IPS monitor with 2560 x 1080 resolution, which should be great for watching movies or maintaining dozens of feeds in TweetDeck. LG claims it'll improve productivity, and to that end there's a "4-Screen Split" feature that breaks the display up into four segments.</p>
-<p>The company also announced the EA83, a more conventional 27-inch IPS monitor with 2560 x 1440 resolution. We don't have details on pricing or release yet, but both models will be shown off at IFA in Berlin this week and we'll try to check them...</p>
+  <p><i><a href="http://www.theverge.com/label/the-classics">The Classics</a> are must-see, must-read, must-play works revered by </i>The Verge<i> staff. They offer glimpses of the future, glimpses of humanity, and a glimpse of our very souls. You should check them out.</i></p>
+<p>In high school my friends and I would end up at the chain video store (Hastings, it was called) about once a week. There we'd spend an hour or two selecting a movie that nobody ended up liking. I usually gravitated toward sci-fi, and one week I happened upon <i>2001: A Space Odyssey</i>. This was before I knew anything about Kubrick's legend as a director, or <i>2001</i>'s vaunted status in film and sci-fi circles. I just knew I liked spaceships, and <i>Space Odyssey </i>promised that and more.</p>
+<p>We went to my house to watch it. I made sure the tape was rewound,...</p>
   <p>
-    <a href="http://www.theverge.com/2012/8/28/3273665/lg-29-inch-21-9-ips-monitor-ifa">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/15/3323354/classics-2001-a-space-odyssey">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:73:"http://www.theverge.com/2012/8/28/3273665/lg-29-inch-21-9-ips-monitor-ifa";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:73:"http://www.theverge.com/2012/8/28/3273665/lg-29-inch-21-9-ips-monitor-ifa";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:71:"http://www.theverge.com/2012/9/15/3323354/classics-2001-a-space-odyssey";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:71:"http://www.theverge.com/2012/9/15/3323354/classics-2001-a-space-odyssey";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Sam Byford";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Paul Miller";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
     
     
     
@@ -191,26 +190,30 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T07:00:10Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T07:00:10Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"Samsung announces Series 5 and Series 7 All-in-Ones with Windows 8";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1185:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T17:42:54Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T17:42:54Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"The Weekender: Kindle Fire HD review, space exploration, and the DNC ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:895:"
   
   
-    <img alt="Samsung Series 5 All-in-One" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5197021/HERO_21.5_013_Right_Set_56977_large.jpg" width="630" />
+    <img alt="weekender lead 9.10" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5523407/weekender_lead_9.10_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>At IFA today in Germany, Samsung kicked off its announcements by refreshing its lineup of All-in-One PCs with new Series 5 and Series 7 models, all running Windows 8. The new devices, which <a href="http://www.theverge.com/2012/6/4/3064427/samsung-series-7-all-in-one-redesign">we first saw at Computex</a> in June come in three sizes: the Series 7 has 27-inch and 23-inch display options, and the Series 5 features a 21.5-inch screen. All are 1080p panels with ten-point multitouch, and the machines also come with USB 3.0, Bluetooth 4.0, Wi-Fi and Ethernet, and just about every other port you could want. Design is paramount for the new devices &mdash; the Series 5 is meant for use in the kitchen, and has space underneath where you can slide the keyboard and mouse in case, as reps told us, you need more room for cutting. All have...</p>
+  <p class="hidden">
+</p>
+<!--  ########  END SNIPPET  ########  -->
+<p>Welcome to The Verge: Weekender edition. Each week, we'll bring you important articles from the previous weeks' original <a href="http://www.theverge.com/label/report">reports</a>, <a href="http://www.theverge.com/features/">features</a> and <a href="http://www.theverge.com/reviews">reviews</a> on <i>The Verge</i>. Think of it as a collection of a few (very few!) of our favorite pieces from the week gone by, which you may have missed, or which you might want to read again.</p>
+<p></p>
   <p>
-    <a href="http://www.theverge.com/2012/8/28/3273425/samsung-series-5-series-7-all-in-one-pcs-windows-8">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/15/3337684/the-weekender-kindle-fire-hd-review-space-exploration-and-the-dnc">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:92:"http://www.theverge.com/2012/8/28/3273425/samsung-series-5-series-7-all-in-one-pcs-windows-8";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:92:"http://www.theverge.com/2012/8/28/3273425/samsung-series-5-series-7-all-in-one-pcs-windows-8";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:107:"http://www.theverge.com/2012/9/15/3337684/the-weekender-kindle-fire-hd-review-space-exploration-and-the-dnc";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:107:"http://www.theverge.com/2012/9/15/3337684/the-weekender-kindle-fire-hd-review-space-exploration-and-the-dnc";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"David Pierce";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Laura June";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
     
     
     
@@ -218,28 +221,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T06:12:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T06:12:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:55:"Samsung launches Drive Link in-car app for Galaxy S III";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1302:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T15:18:40Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T15:18:40Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:87:"Come play Vergecraft Realms, our new Minecraft experience, tonight at 6PM ET / 10PM GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1125:"
   
   
-    <img alt="samsung drive link" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5197578/samsung_drive_link_large.jpg" width="630" />
+    <img alt="VCrealms" height="420" src="http://cdn2.sbnation.com/entry_photo_images/5521301/VCR_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Samsung this week <a href="http://global.samsungtomorrow.com/?p=17740" target="_blank">launched Drive Link</a>, an in-car app for the Galaxy S III that allows users to listen to music, access GPS navigation, and make hands-free calls while driving.  </p>
-<p>Samsung made mention of Drive Link earlier this year, when it <a href="http://www.theverge.com/2012/5/3/2996509/samsung-features-android-galaxy-s-iii">unveiled its TouchWiz Nature UX</a> for the Galaxy S III. The app's welcome screen, displayed above, presents local weather and upcoming appointments, alongside large icons for navigation and calls. If a scheduled appointment or received text message contains an address, drivers can set it as their destination with one tap of the screen.</p>
-<p>Drive Link can also connect to a car's infotainment system through <a href="http://www.theverge.com/tag/mirrorlink">MirrorLink</a>, and uses text-to-speech technology to read aloud any incoming texts, emails, or social media...</p>
+  <p>Vergecraft lies in ruins. They say its citizens became <a href="http://www.theverge.com/2012/5/26/3045039/vergecraft-oceana-mega-pyramid-party">too advanced for their own good</a>, creating a sprawling empire of stone and steel &mdash; until their own technology destroyed them from within. It's one-thousand years in the future, and the descendants of those noble adventurers are ready to reclaim their former glory. There's just one problem: it's a gritty, deadly, post-apocalyptic anarchy out there, and you'll have to deal with warring militias that want to keep you shackled in the stone age. But you're not going to let them. You're going to hustle out there, like a young Tom Cruise, and plant your flag in the ground for the future.</p>
+<p>It's a tougher, meaner, more exciting Vergecraft. Come play with us, tonight at 6PM EDT / 10PM GMT,...</p>
   <p>
-    <a href="http://www.theverge.com/2012/8/28/3273542/samsung-drive-link-android-app-galaxy-s-iii">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/15/3337190/vergecraft-realms-launch">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:85:"http://www.theverge.com/2012/8/28/3273542/samsung-drive-link-android-app-galaxy-s-iii";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.theverge.com/2012/8/28/3273542/samsung-drive-link-android-app-galaxy-s-iii";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:66:"http://www.theverge.com/2012/9/15/3337190/vergecraft-realms-launch";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:66:"http://www.theverge.com/2012/9/15/3337190/vergecraft-realms-launch";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Amar  Toor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"T.C. Sottek";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
     
     
     
@@ -247,27 +249,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T05:31:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T05:31:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:50:"Prepare for Hurricane Isaac with Google Crisis Map";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1297:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T11:12:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T11:12:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:43:"Watch this: 'NASA Remembers Neil Armstrong'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1169:"
   
   
-    <img alt="google hurricane isaac" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5196754/isaac_large.jpg" width="630" />
+    <img alt="Neil Armstrong" height="420" src="http://cdn2.sbnation.com/entry_photo_images/5514337/neil_armstrong_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>With Tropical Storm Isaac barreling its way toward the Gulf Coast, Google has <a target="_blank" href="http://google.org/crisismap/2012-tropical-system-isaac">launched a new website</a> dedicated to tracking its path. Launched as part of <a href="http://www.theverge.com/products/brands/google/436" class="sbn-auto-link">Google's</a> <a target="_blank" href="http://www.google.org/crisisresponse/">Crisis Response</a> project, the site maps out Isaac's location and likely trajectory, and provides information on hurricane warnings and evacuation orders in affected areas.</p>
-<p>Users can find advisories and warnings pertaining to their own neighborhoods using the search tab at the top of the site, as well information on local evacuation routes and active shelters. The map also provides links to any relevant YouTube videos and live webcam feeds from impacted regions. As of this writing, Isaac is classified as a tropical storm, though it is expected to reach hurricane status by the time...</p>
+  <p>In remembrance of Neil Armstrong, NASA has put together a video of footage of the astronaut's moon landing, anecdotes from his friends and colleagues, and stories that reveal a bit more about his personality. You can find <a href="http://www.theverge.com/2012/8/28/3273736/neil-armstrong-coverage">more coverage of his life and work here</a>, and NASA has also <a target="_blank" href="http://www.youtube.com/watch?v=CfbMZHCh5ZI&amp;feature=edu&amp;list=PLA9816761C506B34E">posted the full video of the memorial service</a> that <a href="http://www.theverge.com/2012/9/5/3292512/neil-armstrong-memorial-stream-NASA">was held on September 13th</a>. Armstrong died on August 25th "following complications resulting from cardiovascular procedures" and as you can see below, his colleagues at NASA miss him just as by the rest of us.</p>
+<p> <br id="1347678297908"></p>
   <p>
-    <a href="http://www.theverge.com/2012/8/28/3273382/hurricane-isaac-google-crisis-map">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/15/3335552/watch-this-nasa-remembers-neil-armstrong">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:75:"http://www.theverge.com/2012/8/28/3273382/hurricane-isaac-google-crisis-map";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:75:"http://www.theverge.com/2012/8/28/3273382/hurricane-isaac-google-crisis-map";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:82:"http://www.theverge.com/2012/9/15/3335552/watch-this-nasa-remembers-neil-armstrong";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:82:"http://www.theverge.com/2012/9/15/3335552/watch-this-nasa-remembers-neil-armstrong";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Amar  Toor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Dieter Bohn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
     
     
     
@@ -275,24 +277,23 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T04:50:54Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-08-28T04:50:54Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:88:"LG Optimus G official: quad-core flagship hits Korea next month, global launch to follow";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1269:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T07:34:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-15T07:34:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"X-ray telescope produces gorgeous photos of Kepler supernova's remains";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1124:"
   
   
-    <img alt="LG Optimus G stock press 1024" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5197624/LG_Optimus_G_large.jpg" width="630" />
+    <img alt="kepler supernova" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5505593/kepler_supernova_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>We've heard a lot about <a href="http://www.theverge.com/2012/8/25/3268802/lg-quad-core-true-hd-ips-snapdragon-s4-pro-announcement">LG's new flagship phone</a> over the past week or so, and now it's official: <a href="http://www.theverge.com/2012/8/22/3259870/lg-optimus-g-lte2-international-13-megapixel">the Optimus G</a> will arrive in South Korea next month on all three major operators, and will arrive globally after that, including an October or November launch at Japan's NTT Docomo. As expected, the Android 4.0 smartphone has a quad-core Snapdragon S4 Pro processor, a 4.7-inch 1280 x 768 IPS display, 2GB RAM, and a 13-megapixel camera, as well as a 2,100mAh battery. LG is particularly talking up its "fully integrated touch technology" for the 8.45mm-thick phone, which the company claims allowed it to reduce the air gap between the display and the surface, as well as the size of the bezel.</p>
-<p>In Japan, the phone will run on Docomo's Xi LTE...</p>
+  <p>Over 400 hundred years ago, famed astronomer Johannes Kepler witnessed a bright new star light up the sky which, unbeknownst to him, was actually the remnants of a star that had exploded tens of thousands of years prior. But the supernova's remains are still active to this day, and scientists have been able to use a specially designed X-ray telescope at the <a href="http://chandra.harvard.edu/about/" target="_blank">Chandra observatory</a> to monitor its activity. After more than 200 hours of observation in 2006, a composite image of Kepler's lingering form has been created, showing the varying energy levels of its X-ray emissions. If you're concerned about the effects that Kepler's stellar explosion may have on our planet, worry not &mdash; the remnants are estimated to be at least 16,000 light years...</p>
   <p>
-    <a href="http://www.theverge.com/2012/8/28/3273518/lg-optimus-g-japan-docomo">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/15/3331882/kepler-supernova-remnants-x-ray-image">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:67:"http://www.theverge.com/2012/8/28/3273518/lg-optimus-g-japan-docomo";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:67:"http://www.theverge.com/2012/8/28/3273518/lg-optimus-g-japan-docomo";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:79:"http://www.theverge.com/2012/9/15/3331882/kepler-supernova-remnants-x-ray-image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.theverge.com/2012/9/15/3331882/kepler-supernova-remnants-x-ray-image";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Sam Byford";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Tue, 28 Aug 2012 09:21:40 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"cd443859f3994597736331e89b7fb5e7";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"510";s:14:"content-length";s:4:"6576";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Justin Rubio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Sun, 16 Sep 2012 01:45:49 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"7a7f3e437859031ade47b964d5941d3e";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"185";s:14:"content-length";s:4:"6136";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}

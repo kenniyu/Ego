@@ -31,7 +31,7 @@ if ($init < sizeof($clip_list)){
 		<div class="etbox_share_popover">
 		<div class="esp_arrow"><img src="/icons/feed_toolbox/arrow.png" /></div>
 		<div class="esp_ego">
-		<form class="esp_share" action="/social/shareEntry" method="post" accept-charset="utf-8"><input type="text" autofocus name="recipient" class="esp_recipient" placeholder="Enter your friend\'s ID" /></form> <div class="esp_send">Send</div> 
+		<form class="esp_share" action="/social/share_entry" method="post" accept-charset="utf-8"><input type="text" autofocus name="recipient" class="esp_recipient" placeholder="Enter your friend\'s ID" /></form> <div class="esp_send">Send</div> 
 		</div>
 		<div class="esp_sns">
 		<div class="esp_fb esp_icon"><img src="/icons/entry_toolbox/facebook.png" /></div><div class="esp_twit esp_icon"><img src="/icons/entry_toolbox/twitter.png" /></div><div class="esp_google esp_icon"><img src="/icons/entry_toolbox/google.png" /></div>

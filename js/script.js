@@ -272,7 +272,7 @@
 			var id = $(this).attr('data-id');
 			var parent = $(this).parent();
 			var messageBox = $(this).children('.labelAddMessage');
-			$.post("/query/updateLabel", 
+			$.post("/query/update_label", 
       		{ 'feeds': feeds, 'id': id }, 
       		function(data) {
       			if (data.substring(0, 3) == '<li'){
@@ -325,7 +325,7 @@
 					var feeds = $(ui.draggable).attr('data-feed');
 					var id = $(this).attr('id').slice(6);
 					var target = $(this);
-					$.post("/query/updateLabel", 
+					$.post("/query/update_label", 
 					{'feeds': feeds, 'id': id},
 					function(data){
 						if (data.substring(0, 3) == '<li'){
@@ -455,7 +455,7 @@
 			$('#end_feedContent').waypoint('remove');
 			$('#loading').show();
 			$.get(
-			'http://localhost/index.php/loader/feed/'+feed_type+'/'+feed_id+'/'+init_feed,
+			'http://localhost/index.php/feed/feed_loader/'+feed_type+'/'+feed_id+'/'+init_feed,
 			function(data) {
 				$('#feedContent').append(data);
 				$('#end_feedContent').waypoint(opts);
@@ -486,7 +486,7 @@
 			$('#end_clipContent').waypoint('remove');
 			$('#loading').show();
 			$.get(
-			'/loader/clips/'+init_clip+'/'+clip_user,
+			'/social/clips/'+init_clip+'/'+clip_user,
 			function(data) {
 				$('#clipContent').append(data);
 				$('#end_clipContent').waypoint(opts);
@@ -498,7 +498,7 @@
 							$(this).parent().fadeOut(300, function(){
 								var id = $(this).attr("data-id");
 								$(this).remove(); 
-								$.post("/query/delete_clip/"+id);
+								$.post("/social/delete_clip/"+id);
 							});
 						} else {
 							$(this).animate({left: 0});
@@ -516,15 +516,15 @@
 		$('.eps_selector').live('click', function(){
 			if ($(this).hasClass('eps_public')){
 				var id = $(this).parent().parent().parent().children('.entry_data').text();
-				$.post("/query/move_clip/"+id+"/private");
+				$.post("/social/move_clip/"+id+"/private");
 				$(this).replaceWith('<div class="eps_private eps_selector">Private</div>');
 			}else if ($(this).hasClass('eps_private')){
 				var id = $(this).parent().parent().parent().children('.entry_data').text();
-				$.post("/query/move_clip/"+id+"/public");
+				$.post("/social/move_clip/"+id+"/public");
 				$(this).replaceWith('<div class="eps_public eps_selector">Public</div>');
 			}else if ($(this).hasClass('eps_move')){
 				var id = $(this).parent().parent().parent().children('.entry_data').text();
-				$.post("/query/move_clip/"+id+"/public");
+				$.post("/social/move_clip/"+id+"/public");
 				$(this).replaceWith('<div class="eps_selector">Successfully moved!</div>');
 			}
 		});
@@ -539,7 +539,7 @@
 			var date = root.children('.entry_header').children('.entry_info').children('.entry_date').text();
       		var content = root.children('.entry_content').html();
       		var target = $(this).children('.clip_count');
-  			$.post("/query/add_clip", 
+  			$.post("/social/add_clip", 
       		{ 'permalink': permalink, 'title': title, 'content': content, 'source': source, 'date': date }, // data to send JSON-hash encoded        
       		function(data) {
       			target.text(data);
@@ -578,7 +578,7 @@
 			var date = root.children('.entry_header').children('.entry_info').children('.entry_date').text();
       		var content = root.children('.entry_content').html();
       		var target = root.children('.entry_footer').children('.etbox_share').children('.share_count');
-      		$.post("/social/shareEntry", 
+      		$.post("/social/share_entry", 
       		{ 'recipient': recipient, 'permalink': permalink, 'title': title, 'content': content, 'source': source, 'date': date }, 
       		function(data) {
       			target.text(data);
@@ -606,7 +606,7 @@
     			$('#discovery').animate({height:180}, 500);
     			$('#discovery_loading').show();
     			$.get(
-    				'/loader/feed/'+$('#feed_type').text()+'/'+$('#feed_id').text()+'/discovery',
+    				'/feed/feed_loader/'+$('#feed_type').text()+'/'+$('#feed_id').text()+'/discovery',
     				function(data) {
 	    				$('#discovery_container').append(data);
 	    				$('#discovery_loading').hide();

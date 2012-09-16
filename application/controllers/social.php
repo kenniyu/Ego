@@ -7,6 +7,43 @@ Each function call loads entries from RSS feeds or the user's clips.
 
 class Social extends CI_controller{
 	
+	function clips($init, $username){
+		$this->load->model('social_model');
+		if ($username == $this->session->userdata('username')){
+			$clip_array = $this->social_model->get_myClips();
+			$data['clip_list'] = array_reverse($clip_array);
+		} else if ($username == 'received'){
+			$data['clip_list'] = $this->social_model->get_receivedClips();
+		} else{
+			$clip_array = $this->social_model->get_clips($username);
+			$data['clip_list'] = array_reverse($clip_array);
+		}
+		$data['init'] = $init;
+		$this->load->view('loader/clip_viewer', $data);
+	}
+	
+	function add_clip(){
+		$permalink = $this->input->post('permalink');
+		$title = $this->input->post('title');
+		$content = $this->input->post('content');
+		$source = $this->input->post('source');
+		$date = $this->input->post('date');
+		$this->load->model('query_model');
+		$result = $this->query_model->add_clip($permalink, $title, $content, $source, $date, 'public');
+		echo $result;
+	}
+	
+	function move_clip($id, $destination){
+		$this->load->model('query_model');
+		$this->query_model->move_clip($id, $destination);
+	}
+	
+	function delete_clip($id){
+		$this->load->model('query_model');
+		$this->query_model->delete_clip($id);
+		redirect('site/clips');
+	}
+	
 	function get_friendsList($username){
 		$this->load->model('social_model');
 		$data['friendsList'] = $this->social_model->get_friendsList($username);
@@ -27,7 +64,7 @@ class Social extends CI_controller{
 		redirect('site/clips');
 	}
 	
-	function shareEntry(){
+	function share_entry(){
 		$sender = $this->session->userdata('username');
 		$recipient = $this->input->post('recipient');
 		$permalink = $this->input->post('permalink');
@@ -40,7 +77,7 @@ class Social extends CI_controller{
 		echo $result;
 	}
 	
-	function editProfilePic(){
+	function edit_profilepic(){
 		$config['upload_path'] = './user/profilePic';
 		$config['allowed_types'] = 'gif|jpg|png';
 		$config['max_width']  = '1024';

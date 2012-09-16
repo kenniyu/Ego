@@ -7,15 +7,15 @@ foreach ($entries as $item)
 	$source = str_replace('topic', 'keyword', $source);
 	$source = str_replace('- Google News', ' ', $source);
 	$aid = $item->get_permalink();
-	if ($this->loader_model->checkMark($aid) == true){
+	if ($this->loader_model->check_mark($aid) == true){
 		continue;
 	}
-	$hasAid = $this->loader_model->checkAid($aid);
+	$hasAid = $this->loader_model->check_aid($aid);
 	echo '<div class="entryContainer" data-aid="'.$aid.'">';
 	echo '<div class="entryMattress"><div class="entryMark"><img src="http://www.egodecal.com/icons/entry_toolbox/markRead.png" />Drag to<br>Mark as read</div></div>';
 	echo '<div class="entryBox">';
 	if ($hasAid == true){
-		$article = $this->loader_model->loadArticle($aid);
+		$article = $this->loader_model->load_article($aid);
 		echo '<div class="entry hasAid">';
 	}else {
 		echo '<div class="entry">';
@@ -77,7 +77,7 @@ foreach ($entries as $item)
 	<div class="etbox_share_popover">
 		<div class="esp_arrow"><img src="/icons/feed_toolbox/arrow.png" /></div>
 		<div class="esp_ego">
-		<form class="esp_share" action="/social/shareEntry" method="post" accept-charset="utf-8"><input type="text" autofocus name="recipient" class="esp_recipient" placeholder="Enter your friend\'s ID" /></form> <div class="esp_send">Send</div> 
+		<form class="esp_share" action="/social/share_entry" method="post" accept-charset="utf-8"><input type="text" autofocus name="recipient" class="esp_recipient" placeholder="Enter your friend\'s ID" /></form> <div class="esp_send">Send</div> 
 		</div>
 		<div class="esp_sns">
 		<div class="esp_fb esp_icon"><img src="/icons/entry_toolbox/facebook.png" /></div><div class="esp_twit esp_icon"><img src="/icons/entry_toolbox/twitter.png" /></div><div class="esp_google esp_icon"><img src="/icons/entry_toolbox/google.png" /></div>

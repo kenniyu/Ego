@@ -4,6 +4,50 @@ class Social_model extends CI_Model{
 	public function __construct(){
 			$this->load->database();
 	}
+	function get_clips($username){
+			/*
+			$query = $this->db->get_where('clip', array('username' => $username, 'type' => 'public'));
+			return $query->result();
+			*/
+			$result = array();
+			$target = $this->db->get_where('clips', array('username' => $username, 'type' => 'public'))->result();
+			foreach ($target as $item){
+				$article = $this->db->get_where('articles', array('id' => $item->ref_id))->row();
+				$article->type = $item->type;
+				array_push($result, $article);
+			}
+			return $result;
+	}
+	function get_myClips(){
+			/*
+			$query = $this->db->get_where('clip', array('username' => $this->session->userdata('username'), 'type !=' => 'received'));
+			return $query->result();
+			*/
+			$result = array();
+			$target = $this->db->get_where('clips', array('username' => $this->session->userdata('username'), 'type !=' => 'received'))->result();
+			foreach($target as $item){
+				$article = $this->db->get_where('articles', array('id' => $item->ref_id))->row();
+				$article->id = $item->id;
+				$article->type = $item->type;
+				$article->ref_id = $item->ref_id;
+				array_push($result, $article);
+			}
+			return $result;
+	}
+	function get_receivedClips(){
+			/*
+			$query = $this->db->get_where('clip', array('username' => $this->session->userdata('username'), 'type' => 'received'));
+			return $query->result();
+			*/
+			$result = array();
+			$target = $this->db->get_where('clips', array('username' => $this->session->userdata('username'), 'type' => 'received'))->result();
+			foreach($target as $item){
+				$article = $this->db->get_where('articles', array('id' => $item->ref_id))->row();
+				$article->type = $item->type;
+				array_push($result, $article);
+			}
+			return $result;
+	}	
 	function get_friendsList($username){
 		$query = $this->db->get_where('friendship', array('username' => $username));
 		

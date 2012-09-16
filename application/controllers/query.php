@@ -30,26 +30,8 @@ class Query extends CI_Controller{
 		$this->query_model->add_label($label_name, $new_label);
 		header('Location: '.$_SERVER['HTTP_REFERER']);
 	}
-	function add_clip(){
-		$permalink = $this->input->post('permalink');
-		$title = $this->input->post('title');
-		$content = $this->input->post('content');
-		$source = $this->input->post('source');
-		$date = $this->input->post('date');
-		$this->load->model('query_model');
-		$result = $this->query_model->add_clip($permalink, $title, $content, $source, $date, 'public');
-		echo $result;
-	}
-	function mark(){
-		$aid = $this->input->post('aid');
-		$this->load->model('query_model');
-		$this->query_model->mark($aid);
-	}
-	function move_clip($id, $destination){
-		$this->load->model('query_model');
-		$this->query_model->move_clip($id, $destination);
-	}
-	function updateLabel(){
+
+	function update_label(){
 		$feeds = $this->input->post('feeds');
 		$id = $this->input->post('id');
 		$this->load->model('query_model');
@@ -61,11 +43,7 @@ class Query extends CI_Controller{
 		}
 		
 	}
-	function delete_clip($id){
-		$this->load->model('query_model');
-		$this->query_model->delete_clip($id);
-		redirect('site/clips');
-	}
+
 	function delete_feed($id){
 		$this->load->model('query_model');
 		$this->query_model->delete_feed($id);
@@ -94,6 +72,11 @@ class Query extends CI_Controller{
 		parse_str($_POST['labelContents'], $labelContentOrder);
 		$this->load->model('query_model');
 		$this->query_model->labelContent_position($labelContentOrder);
+	}
+	function mark(){
+		$aid = $this->input->post('aid');
+		$this->load->model('query_model');
+		$this->query_model->mark($aid);
 	}
 	function add_mailingList(){
 		$this->load->library('form_validation');
