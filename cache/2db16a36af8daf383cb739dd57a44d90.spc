@@ -53,7 +53,113 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 		
 		
 		
-	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:44:"MacRumors: Mac News and Rumors - All Stories";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:24:"http://www.macrumors.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:27:"the mac news you care about";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 15 Sep 2012 20:00:10 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:2:"en";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:24:"http://www.macrumors.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:20:{i:0;a:6:{s:4:"data";s:28:"
+	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:44:"MacRumors: Mac News and Rumors - All Stories";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:24:"http://www.macrumors.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:27:"the mac news you care about";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 17 Sep 2012 01:45:11 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:2:"en";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:24:"http://www.macrumors.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:20:{i:0;a:6:{s:4:"data";s:28:"
+		
+		
+		
+		
+		
+		
+		
+
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"First iPhone 5 Orders Have Begun Shipping, Line Begins at 5th Avenue Apple Store";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:116:"http://www.macrumors.com/2012/09/17/first-iphone-5-orders-have-begun-shipping-line-begins-at-5th-avenue-apple-store/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1443678";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 16 Sep 2012 22:52:56 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:116:"http://www.macrumors.com/2012/09/17/first-iphone-5-orders-have-begun-shipping-line-begins-at-5th-avenue-apple-store/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3705:"Over the weekend, several readers have let us know that iPhone 5 orders have begun shipping from China.  It's common for Apple to spread out shipments for the week prior to the launch with special instructions to couriers to hold deliveries at local warehouses until the target date.  In this case, the iPhone 5 is set to be delivered to customers on September 21st.
+<br/>
+
+<br/>
+<img src="http://images.macrumors.com/article-new/2012/09/iphoneshipcrop.png" alt="" title="iphoneshipcrop" width="545" height="180" class="aligncenter size-full wp-image-352600" />
+<br/>
+Those who are impatient to receive their tracking number from Apple, may be able to determine it from the UPS website. <a href="http://forums.macrumors.com/showthread.php?t=1443280">TSX posts</a> how to obtain your UPS tracking number.  The same technique may work for Fed-Ex as well.  Apple uses both carriers for iPhone deliveries.  
+<br/>
+
+<br/>
+Our <b><a href="http://forums.macrumors.com/forumdisplay.php?f=99">iPhone forums</a></b> are buzzing with activity amongst those waiting for their deliveries.   Several discussion threads are active tracking activity and movement of deliveries.   Several are listed here:
+<br/>
+
+<br/>
+- <b><a href="http://forums.macrumors.com/showthread.php?t=1441208">Apple.com Pre-Order Discussion</a></b>
+<br/>
+- <b><a href="http://forums.macrumors.com/showthread.php?t=1441041">AT&T Pre-Order Discussion</a></b>
+<br/>
+- <b><a href="http://forums.macrumors.com/showthread.php?t=1440947">Verizon Pre-Order Discussion</a></b>
+<br/>
+- <b><a href="http://forums.macrumors.com/showthread.php?t=1441461">Sprint Pre-Order Discussion</a></b>
+<br/>
+- <b><a href="http://forums.macrumors.com/showthread.php?t=1440999">Canadian Pre-Order Discussion</a></b>
+<br/>
+- <b><a href="http://forums.macrumors.com/showthread.php?t=1438664">UK Pre-Order Discussion</a></b>
+<br/>
+
+<br/>
+Readers are even <a href="http://forums.macrumors.com/showpost.php?p=15708508&postcount=1817">decoding serial numbers</a> to find when their iPhone 5 was manufactured.  The earliest recorded manufacture date is the week of August 5-11.   Those who ordered from Apple.com can see their iPhone 5's serial number in <A href="https://supportprofile.apple.com/MySupportProfile.do">Apple's Support Profile page</a>.
+<br/>
+
+<br/>
+<img src="http://images.macrumors.com/article-new/2012/09/iphone-5-500x474.jpg" alt="" title="iphone-5" width="500" height="474" class="aligncenter size-large wp-image-352594" />
+<br/>
+Meanwhile, Fortune has <a href="http://tech.fortune.cnn.com/2012/09/16/iphone-5-customers-in-the-big-apple-camp-out-8-days-early/">posted</a> that the line has already begun at New York City's 5th Avenue Apple store.   The line, however, currently consists of those there for promotional/paid purposes rather than personal purchases.
+<p><a href="http://feedads.g.doubleclick.net/~a/Ffo3Ldg4PTkaEK4kSPNmrFnAJzU/0/da"><img src="http://feedads.g.doubleclick.net/~a/Ffo3Ldg4PTkaEK4kSPNmrFnAJzU/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/Ffo3Ldg4PTkaEK4kSPNmrFnAJzU/1/da"><img src="http://feedads.g.doubleclick.net/~a/Ffo3Ldg4PTkaEK4kSPNmrFnAJzU/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=toUQPoghCZw:tDh4DMhNqZM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=toUQPoghCZw:tDh4DMhNqZM:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/toUQPoghCZw" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:28:"
+		
+		
+		
+		
+		
+		
+		
+
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"iPhone 5 Benchmarks Appear in Geekbench Showing a Dual Core, 1GHz A6 CPU";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:106:"http://www.macrumors.com/2012/09/16/iphone-5-benchmarks-appear-in-geekbench-showing-dual-core-1ghz-a6-cpu/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1443297";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 16 Sep 2012 13:00:56 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:106:"http://www.macrumors.com/2012/09/16/iphone-5-benchmarks-appear-in-geekbench-showing-dual-core-1ghz-a6-cpu/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2927:"John Poole of <a href="http://www.primatelabs.com">PrimateLabs</a> let us know that the first iPhone 5 benchmark has hit <a href="http://www.primatelabs.com/geekbench/">Geekbench</a>. 
+<br/>
+
+<br/>
+<img src="http://images.macrumors.com/article-new/2012/09/gb.png" alt="" title="gb" width="573" height="274" class="aligncenter size-full wp-image-352566" />The <a href="http://browser.primatelabs.com/geekbench2/1030202">results</a> show an iPhone5,2 device running iOS 6 with a Dual-Core 1.02GHz ARMv7 processor and 1GB of RAM.  
+<br/>
+
+<br/>
+The total Geekbench 2 score comes in at <b>1601</b>.  Poole notes that the average score for the iPhone 4S is 629 and the average score for the iPad 3 is 766.    A comparison <a href="http://browser.primatelabs.com/ios-benchmarks">chart</a> of previous iOS devices can be <a href="http://browser.primatelabs.com/ios-benchmarks">viewed</a> at Geekbench.   The numbers seem to validate Apple's claim that the A6 processor is twice as fast as the A5 and any previous iOS device.   This one score also places the iPhone 5 <a href="http://browser.primatelabs.com/android-benchmarks">ahead</a> of the average scores of all Android phones on Geekbench. The <a href="http://browser.primatelabs.com/geekbench2/1030202">full Geekbench results</a> further breakdown processor, memory and bandwidth performance.
+<br/>
+
+<br/>
+<img src="http://images.macrumors.com/article-new/2012/09/gb2.png" alt="" title="gb2" width="568" height="398" class="aligncenter size-full wp-image-352567" />
+<br/>
+The A6 also appears to be clocked higher than the A5 at 1GHz (the iPhone 4S A5 ran at 800Mhz).   The 1GB of RAM was <A href="http://www.macrumors.com/2012/09/15/apples-new-iphone-5-has-1gb-of-ram/">previously confirmed</a> by part number markings on the A6 processor itself.
+<br/>
+
+<br/>
+Poole acknowledges that any pre-release results on Geekbench have a chance of being faked, but he seems to believe that these results are legitimate.   The iPhone 5 will be available to the general public on September 21st.
+<p><a href="http://feedads.g.doubleclick.net/~a/RxklNWkofhRj8WzVLQbJpIX5Gdc/0/da"><img src="http://feedads.g.doubleclick.net/~a/RxklNWkofhRj8WzVLQbJpIX5Gdc/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/RxklNWkofhRj8WzVLQbJpIX5Gdc/1/da"><img src="http://feedads.g.doubleclick.net/~a/RxklNWkofhRj8WzVLQbJpIX5Gdc/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=93N0s3V7KvE:2noOYA9iTnE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=93N0s3V7KvE:2noOYA9iTnE:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/93N0s3V7KvE" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:28:"
+		
+		
+		
+		
+		
+		
+		
+
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"Samsung Running an iPhone 5 Attack Ad in Newspapers on Sunday";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:98:"http://www.macrumors.com/2012/09/15/samsung-running-an-iphone-5-attack-ad-in-newspapers-on-sunday/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1442609";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 15 Sep 2012 20:30:27 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:98:"http://www.macrumors.com/2012/09/15/samsung-running-an-iphone-5-attack-ad-in-newspapers-on-sunday/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2806:"<img src="http://images.macrumors.com/article-new/2012/09/genius.jpg" alt="" title="genius" width="250" height="189" class="alignright size-full wp-image-352537" /><a href="http://news.cnet.com/8301-17852_3-57513628-71/samsung-attacks-iphone-5-in-new-ad/">CNet</a> and <a href="http://www.businessinsider.com/samsung-galaxy-s-iii-anti-iphone-5-ad-2012-9">Businessinsider</a> have published a new print ad that Samsung will be running in national newspapers tomorrow.  <blockquote>And so Samsung is greeting the arrival of the iPhone 5 with an ad that will run tomorrow in certain national and local newspapers (how modern). It is not a flattering ad. It suggests that the iPhone 5 isn't even good enough to be, well, a copy of the Galaxy S3.</blockquote>The ad is titled "It doesn't take a genius." which serves as a dig against Apple Retail's genius bars.   The rest of the ad shows the iPhone 5 alongside the Samsung Galaxy S III and lists a number of system specifications as well as features.   The list is obviously heavily weighted towards Samsung where many of their software features are preferentially listed.    At the end is the line "The Next Big Thing Is Already Here".
+<br/>
+
+<br/>
+Apple and Samsung have been competing head to head in the smartphone market and in the courtroom.   Apple won a <a href="http://www.macrumors.com/2012/08/24/jury-reaches-verdict-in-apple-vs-samsung-trial/">massive victory</a> in their U.S. patent trial against Samsung with a &#36;1.05 billion verdict. 
+<br/>
+
+<br/>
+We've included the entire ad below.
+<br/>
+<!--more-->
+<br/>
+<a href="http://images.macrumors.com/article-new/2012/09/SAM12172-PrintWSJ10.87x21_copy_610x1179.jpg"><img src="http://images.macrumors.com/article-new/2012/09/SAM12172-PrintWSJ10.87x21_copy_610x1179.jpg" alt="" title="SAM12172-PrintWSJ10.87x21_copy_610x1179" width="580" height="1121" class="aligncenter size-full wp-image-352542" /></a>
+<p><a href="http://feedads.g.doubleclick.net/~a/uLIBeSgU4cQprXJEsXQd1y8fJJo/0/da"><img src="http://feedads.g.doubleclick.net/~a/uLIBeSgU4cQprXJEsXQd1y8fJJo/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/uLIBeSgU4cQprXJEsXQd1y8fJJo/1/da"><img src="http://feedads.g.doubleclick.net/~a/uLIBeSgU4cQprXJEsXQd1y8fJJo/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=5WO2UaCLW3U:crVQAwLFOQQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=5WO2UaCLW3U:crVQAwLFOQQ:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/5WO2UaCLW3U" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -81,7 +187,7 @@ The chart above comes from Samsung's <a href="http://www.samsung.com/us/business
 <p><a href="http://feedads.g.doubleclick.net/~a/yEjsIgl1eNNDlP1j_knjChabdvs/0/da"><img src="http://feedads.g.doubleclick.net/~a/yEjsIgl1eNNDlP1j_knjChabdvs/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/yEjsIgl1eNNDlP1j_knjChabdvs/1/da"><img src="http://feedads.g.doubleclick.net/~a/yEjsIgl1eNNDlP1j_knjChabdvs/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=W-UwDax5kjg:anmSOnzq-ss:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=W-UwDax5kjg:anmSOnzq-ss:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/W-UwDax5kjg" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/W-UwDax5kjg" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -113,7 +219,7 @@ While Anadtech goes into the finer details, the ultimate benefit for Apple is th
 <p><a href="http://feedads.g.doubleclick.net/~a/fOzgW4ZBDozjqOsq8XFJ2O8h148/0/da"><img src="http://feedads.g.doubleclick.net/~a/fOzgW4ZBDozjqOsq8XFJ2O8h148/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/fOzgW4ZBDozjqOsq8XFJ2O8h148/1/da"><img src="http://feedads.g.doubleclick.net/~a/fOzgW4ZBDozjqOsq8XFJ2O8h148/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=QOQ1_t_BwEk:honnEvHUCFo:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=QOQ1_t_BwEk:honnEvHUCFo:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/QOQ1_t_BwEk" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/QOQ1_t_BwEk" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -129,7 +235,7 @@ The iPhone 5's initial shipment <a href="http://www.macrumors.com/2012/09/14/iph
 <p><a href="http://feedads.g.doubleclick.net/~a/Nypn7by6IT8qBU6kUOjARfIzSqQ/0/da"><img src="http://feedads.g.doubleclick.net/~a/Nypn7by6IT8qBU6kUOjARfIzSqQ/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/Nypn7by6IT8qBU6kUOjARfIzSqQ/1/da"><img src="http://feedads.g.doubleclick.net/~a/Nypn7by6IT8qBU6kUOjARfIzSqQ/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=KuWSDobtc2o:SduhQN59Qyc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=KuWSDobtc2o:SduhQN59Qyc:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/KuWSDobtc2o" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/KuWSDobtc2o" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -153,7 +259,7 @@ We appreciate your patience. <br/>
 <p><a href="http://feedads.g.doubleclick.net/~a/88JhAOp1m3M5h1TWyblr7bN1oZY/0/da"><img src="http://feedads.g.doubleclick.net/~a/88JhAOp1m3M5h1TWyblr7bN1oZY/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/88JhAOp1m3M5h1TWyblr7bN1oZY/1/da"><img src="http://feedads.g.doubleclick.net/~a/88JhAOp1m3M5h1TWyblr7bN1oZY/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=YNj0yN6bsWQ:DA5LqRuRKhA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=YNj0yN6bsWQ:DA5LqRuRKhA:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/YNj0yN6bsWQ" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/YNj0yN6bsWQ" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -183,7 +289,7 @@ Consequently, we hesitate to give too much importance to this claim, as Apple ha
 <p><a href="http://feedads.g.doubleclick.net/~a/dT_F0MNOWJr0BnPQy-5FnHRGBMw/0/da"><img src="http://feedads.g.doubleclick.net/~a/dT_F0MNOWJr0BnPQy-5FnHRGBMw/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/dT_F0MNOWJr0BnPQy-5FnHRGBMw/1/da"><img src="http://feedads.g.doubleclick.net/~a/dT_F0MNOWJr0BnPQy-5FnHRGBMw/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=Gl8cAcWMr8o:ZjhxfLxyat8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=Gl8cAcWMr8o:ZjhxfLxyat8:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/Gl8cAcWMr8o" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/Gl8cAcWMr8o" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -217,7 +323,7 @@ Following some <a href="http://www.macrumors.com/2012/04/17/greenpeace-takes-on-
 <p><a href="http://feedads.g.doubleclick.net/~a/MbsG6RE3zTOmzb-IqK2zjD0BiGU/0/da"><img src="http://feedads.g.doubleclick.net/~a/MbsG6RE3zTOmzb-IqK2zjD0BiGU/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/MbsG6RE3zTOmzb-IqK2zjD0BiGU/1/da"><img src="http://feedads.g.doubleclick.net/~a/MbsG6RE3zTOmzb-IqK2zjD0BiGU/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=SnIYBDZwSEo:lR5VybIiX0w:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=SnIYBDZwSEo:lR5VybIiX0w:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/SnIYBDZwSEo" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/SnIYBDZwSEo" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -245,7 +351,7 @@ Apple's adapters are available for standalone purchase at &#36;29 for the direct
 <p><a href="http://feedads.g.doubleclick.net/~a/i4EXicXGVDgdPeLOQOJmCd3Jp94/0/da"><img src="http://feedads.g.doubleclick.net/~a/i4EXicXGVDgdPeLOQOJmCd3Jp94/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/i4EXicXGVDgdPeLOQOJmCd3Jp94/1/da"><img src="http://feedads.g.doubleclick.net/~a/i4EXicXGVDgdPeLOQOJmCd3Jp94/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=jJ-opgEGaPM:z5w8jTF8u3U:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=jJ-opgEGaPM:z5w8jTF8u3U:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/jJ-opgEGaPM" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/jJ-opgEGaPM" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -277,7 +383,7 @@ AT&T and Sprint are still citing September 21 availability, but it appears that 
 <p><a href="http://feedads.g.doubleclick.net/~a/L_sUlpgYEUnsqLJRso4gqiaw-c4/0/da"><img src="http://feedads.g.doubleclick.net/~a/L_sUlpgYEUnsqLJRso4gqiaw-c4/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/L_sUlpgYEUnsqLJRso4gqiaw-c4/1/da"><img src="http://feedads.g.doubleclick.net/~a/L_sUlpgYEUnsqLJRso4gqiaw-c4/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=BJgp_S-X5Wo:N7QVAm80nqI:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=BJgp_S-X5Wo:N7QVAm80nqI:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/BJgp_S-X5Wo" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/BJgp_S-X5Wo" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -309,7 +415,7 @@ Apple has also acknowledged that it will be launching <a href="http://www.macrum
 <p><a href="http://feedads.g.doubleclick.net/~a/qRpOFVrYXGpS2OOBxX3TnM5FYTY/0/da"><img src="http://feedads.g.doubleclick.net/~a/qRpOFVrYXGpS2OOBxX3TnM5FYTY/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/qRpOFVrYXGpS2OOBxX3TnM5FYTY/1/da"><img src="http://feedads.g.doubleclick.net/~a/qRpOFVrYXGpS2OOBxX3TnM5FYTY/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=RPBu9_yACgA:2cDSvJGFWUE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=RPBu9_yACgA:2cDSvJGFWUE:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/RPBu9_yACgA" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/RPBu9_yACgA" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -337,7 +443,7 @@ Last year, it took about <a href="http://www.macrumors.com/2011/10/08/apple-sell
 <p><a href="http://feedads.g.doubleclick.net/~a/_e5MOUX-HCO4ajvbgp_ym4Zw9J0/0/da"><img src="http://feedads.g.doubleclick.net/~a/_e5MOUX-HCO4ajvbgp_ym4Zw9J0/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/_e5MOUX-HCO4ajvbgp_ym4Zw9J0/1/da"><img src="http://feedads.g.doubleclick.net/~a/_e5MOUX-HCO4ajvbgp_ym4Zw9J0/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=X-UyRARR7ck:15s21YYkcqA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=X-UyRARR7ck:15s21YYkcqA:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/X-UyRARR7ck" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/X-UyRARR7ck" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -365,7 +471,7 @@ Delivery for pre-orders is expected on September 21st.  Alternatively, customers
 <p><a href="http://feedads.g.doubleclick.net/~a/yaCgB8Egr6tphF6tiHRgBejnptM/0/da"><img src="http://feedads.g.doubleclick.net/~a/yaCgB8Egr6tphF6tiHRgBejnptM/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/yaCgB8Egr6tphF6tiHRgBejnptM/1/da"><img src="http://feedads.g.doubleclick.net/~a/yaCgB8Egr6tphF6tiHRgBejnptM/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=cZlnyQ55qgA:nqS1lcSplkE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=cZlnyQ55qgA:nqS1lcSplkE:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/cZlnyQ55qgA" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/cZlnyQ55qgA" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -393,7 +499,7 @@ Customers can also buy directly from retail stores starting on September 21st.  
 <p><a href="http://feedads.g.doubleclick.net/~a/ID0_xRkbyYv-Xh4cFi4kdOEycrY/0/da"><img src="http://feedads.g.doubleclick.net/~a/ID0_xRkbyYv-Xh4cFi4kdOEycrY/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/ID0_xRkbyYv-Xh4cFi4kdOEycrY/1/da"><img src="http://feedads.g.doubleclick.net/~a/ID0_xRkbyYv-Xh4cFi4kdOEycrY/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=d4ndESicjGk:jH6-d9DCEb8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=d4ndESicjGk:jH6-d9DCEb8:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/d4ndESicjGk" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/d4ndESicjGk" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -414,7 +520,7 @@ One <em>MacRumors</em> reader expressed particular concern over the lack of vide
 <p><a href="http://feedads.g.doubleclick.net/~a/MK2l-jB5gZ8s_Glmd7C_ZK6G6hk/0/da"><img src="http://feedads.g.doubleclick.net/~a/MK2l-jB5gZ8s_Glmd7C_ZK6G6hk/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/MK2l-jB5gZ8s_Glmd7C_ZK6G6hk/1/da"><img src="http://feedads.g.doubleclick.net/~a/MK2l-jB5gZ8s_Glmd7C_ZK6G6hk/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=ViKbE0PT_88:MMirHQkMt0M:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=ViKbE0PT_88:MMirHQkMt0M:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/ViKbE0PT_88" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/ViKbE0PT_88" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -433,7 +539,7 @@ The iCloud website has been updated in time for the iPhone preorder launch tomor
 <p><a href="http://feedads.g.doubleclick.net/~a/nchG5wQzprlC1x3QnC0eh6sfw60/0/da"><img src="http://feedads.g.doubleclick.net/~a/nchG5wQzprlC1x3QnC0eh6sfw60/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/nchG5wQzprlC1x3QnC0eh6sfw60/1/da"><img src="http://feedads.g.doubleclick.net/~a/nchG5wQzprlC1x3QnC0eh6sfw60/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=hWIVkF2I2uQ:8bjHtrhWjeE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=hWIVkF2I2uQ:8bjHtrhWjeE:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/hWIVkF2I2uQ" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/hWIVkF2I2uQ" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -461,7 +567,7 @@ Then why didn’t Apple add another antenna? It actually already has two antenna
 <p><a href="http://feedads.g.doubleclick.net/~a/jYLIbzISjuiZynAL7As8klSZk9k/0/da"><img src="http://feedads.g.doubleclick.net/~a/jYLIbzISjuiZynAL7As8klSZk9k/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/jYLIbzISjuiZynAL7As8klSZk9k/1/da"><img src="http://feedads.g.doubleclick.net/~a/jYLIbzISjuiZynAL7As8klSZk9k/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=pYHU3TELk2E:ECoRLR_3HaA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=pYHU3TELk2E:ECoRLR_3HaA:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/pYHU3TELk2E" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/pYHU3TELk2E" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -495,7 +601,7 @@ Customers can select one option from each of the three carriers and then view th
 <p><a href="http://feedads.g.doubleclick.net/~a/M9wHTl-vRehz6-1g_M8B5aldig0/0/da"><img src="http://feedads.g.doubleclick.net/~a/M9wHTl-vRehz6-1g_M8B5aldig0/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/M9wHTl-vRehz6-1g_M8B5aldig0/1/da"><img src="http://feedads.g.doubleclick.net/~a/M9wHTl-vRehz6-1g_M8B5aldig0/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=sUKh1q0E83w:PiLXIUz7to8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=sUKh1q0E83w:PiLXIUz7to8:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/sUKh1q0E83w" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/sUKh1q0E83w" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -516,86 +622,4 @@ Apple's iOS 6 footnotes say that the only <a href="http://www.apple.com/ios/what
 <p><a href="http://feedads.g.doubleclick.net/~a/wVZyCJK_FZ4VfhxO0vhBwvOVnmc/0/da"><img src="http://feedads.g.doubleclick.net/~a/wVZyCJK_FZ4VfhxO0vhBwvOVnmc/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/wVZyCJK_FZ4VfhxO0vhBwvOVnmc/1/da"><img src="http://feedads.g.doubleclick.net/~a/wVZyCJK_FZ4VfhxO0vhBwvOVnmc/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=PBu9FyjYeQ0:K4Mbj3BwwRc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=PBu9FyjYeQ0:K4Mbj3BwwRc:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/PBu9FyjYeQ0" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:28:"
-		
-		
-		
-		
-		
-		
-		
-
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"Late Night TV Pokes Fun at iPhone 5 Mania [iOS Blog]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:78:"http://www.macrumors.com/2012/09/13/late-night-tv-pokes-fun-at-iphone-5-mania/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1440184";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 13 Sep 2012 11:09:38 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:78:"http://www.macrumors.com/2012/09/13/late-night-tv-pokes-fun-at-iphone-5-mania/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:8:"iOS Blog";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2650:"Late night television has <a href="http://www.macrumors.com/2012/08/08/conan-obrien-on-samsung-vs-apple/">poked fun at the gadget wars</a> before, but the frenzy of the iPhone 5 launch has opened up a number of new comedic opportunities.<br/>
-<br/>
-<img src="http://images.macrumors.com/article-new/2012/09/NewImage23.png" alt="NewImage" title="NewImage.png" width="560" height="315" class="aligncenter"/><br/>
-TeamCoco -- the website behind Conan O'Brien's late night show -- has posted an article poking fun at the iPhone hysteria by detailing "<a href="http://teamcoco.com/content/everything-you-need-to-know-about-iphone5">Everything You Need To Know About The New iPhone 5</a>"<br/>
-<blockquote>- The new iPhone is 18% thinner and 20% lighter than the 4S, making it the first smartphone with specs one can measure in Triscuits.<br/>
-<br/>
-- Apes that touch the glowing new mini-monolith are suddenly able to turn basic tools into weapons.<br/>
-<br/>
-- Siri has been upgraded; the "intelligent personal assistant" will tell you sports scores, and automatically place bets with your bookie.<br/>
-<br/>
-- Price: &#36;199 for 16GB, &#36;299 for 32GB, &#36;399 for 64GB with two year contract signed in bone marrow.</blockquote>In addition to Conan's post, Jimmy Kimmel's team took the 'iPhone 5' <a href="http://allthingsd.com/20120913/jimmy-kimmel-dupes-iphone-fans/">out on the street yesterday</a> to get first impressions from the general public -- the obvious problem, however, is that the iPhone 5 isn't actually out yet. Instead, they took the iPhone 4S and told folks it was the new 5:<br/>
-<br/>
-<center><iframe width="560" height="315" src="http://www.youtube.com/embed/rdIWKytq_q4?rel=0" frameborder="0" allowfullscreen></iframe></center><br/>
-<p><a href="http://feedads.g.doubleclick.net/~a/iGZyDIYUsHbHNpoGDwN4yyifTLI/0/da"><img src="http://feedads.g.doubleclick.net/~a/iGZyDIYUsHbHNpoGDwN4yyifTLI/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/iGZyDIYUsHbHNpoGDwN4yyifTLI/1/da"><img src="http://feedads.g.doubleclick.net/~a/iGZyDIYUsHbHNpoGDwN4yyifTLI/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
-<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=VmFRH0dyyYA:sH-u585AUxE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=VmFRH0dyyYA:sH-u585AUxE:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/VmFRH0dyyYA" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:28:"
-		
-		
-		
-		
-		
-		
-		
-
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:89:"U.S. Carriers Unlikely to Support iPhone 5's Wideband Audio, European Support More Likely";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:123:"http://www.macrumors.com/2012/09/13/u-s-carriers-unlikely-to-support-iphone-5s-wideband-audio-european-support-more-likely/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1440154";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 13 Sep 2012 10:45:17 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:123:"http://www.macrumors.com/2012/09/13/u-s-carriers-unlikely-to-support-iphone-5s-wideband-audio-european-support-more-likely/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3570:"One of the iPhone 5 features highlighted by Phil Schiller during yesterday's introduction was wideband audio, which offers "crisper word clarity and more natural sounding speech" according to Apple's <a href="http://www.apple.com/pr/library/2012/09/12Apple-Introduces-iPhone-5.html">press release</a>.  Schiller noted that the feature requires carrier support and that it would be supported by over 20 carriers on the iPhone 5 at launch, but did not specify which carriers those would be.
-<br/>
-
-<br/>
-<img src="http://images.macrumors.com/article-new/2012/09/schiller_wideband_audio_1.jpg" alt="" title="schiller_wideband_audio_1" width="580" height="383" class="aligncenter size-full wp-image-352294" />
-<br/>
-<a href="http://www.phonescoop.com/articles/article.php?a=11134"><i>Phone Scoop</i> reported</a> late yesterday that Sprint has confirmed it will not support wideband audio (frequently marketed as "HD Voice") on the iPhone 5, and <i>PCMag.com</i> has a <a href="http://www.pcmag.com/article2/0,2817,2409672,00.asp">good overview</a> of why none of the three major U.S. carriers are likely to support it.<blockquote>There are three ways to do high-quality, or "wideband" voice calls.
-<br/>
-
-<br/>
-One is to use a new codec, called AMR-WB, over a "3G GSM" (UMTS) network. That's what some European carriers are doing and what's in the iPhone. This is relatively easy to implement on the phone side, provided that the network supports it. In the U.S., only AT&T and T-Mobile would be eligible to do this, and they won't because they're focused on 4G (see below.)</blockquote><img src="http://images.macrumors.com/article-new/2012/09/schiller_wideband_audio_2.jpg" alt="" title="schiller_wideband_audio_2" width="580" height="383" class="aligncenter size-full wp-image-352295" />
-<br/>
-The report goes on to discuss the other two mechanisms for providing HD Voice support, which include a CDMA-related codec being used by Sprint and voice-over-LTE technology being pursued by both AT&T and Verizon, but the iPhone 5 does not support either of those mechanisms.<blockquote>The result is going to be extremely limited HD Voice experiences in the U.S. for at least a few years. It'll be restricted to calls between limited sets of phones, probably on the same carrier, and it won't be on the iPhone 5.</blockquote>Beyond wideband audio, Schiller touted several other audio enhancements on the iPhone 5, including a total of three microphones for noise cancelation and accurate voice transcription, a smaller and improved speaker, and a noise-canceling earpiece.
-<br/>
-
-<br/>
-<i>(Images from <a href="http://live.theverge.com/apple-iphone-5-live-blog/">The Verge</a>)</i>
-<p><a href="http://feedads.g.doubleclick.net/~a/5MChgVdQ4quKJrQcSjhGiN1URFs/0/da"><img src="http://feedads.g.doubleclick.net/~a/5MChgVdQ4quKJrQcSjhGiN1URFs/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/5MChgVdQ4quKJrQcSjhGiN1URFs/1/da"><img src="http://feedads.g.doubleclick.net/~a/5MChgVdQ4quKJrQcSjhGiN1URFs/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
-<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=qS2vuRU_rFI:_mx48N2O6LA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=qS2vuRU_rFI:_mx48N2O6LA:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/qS2vuRU_rFI" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:28:"
-		
-		
-		
-		
-		
-		
-		
-
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"How an Architecture Website Got Featured in the iPhone 5 Launch Video";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:106:"http://www.macrumors.com/2012/09/13/how-an-architecture-website-got-featured-in-the-iphone-5-launch-video/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1440131";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 13 Sep 2012 10:23:11 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:106:"http://www.macrumors.com/2012/09/13/how-an-architecture-website-got-featured-in-the-iphone-5-launch-video/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2816:"Architecture website <a href="http://www.dezeen.com">Dezeen</a> was prominently featured in the iPhone 5 <a href="http://www.macrumors.com/2012/09/12/apple-posts-iphone-5-promotional-video/">promotional video</a> revealed yesterday, and today the site has posted a brief <a href="http://www.dezeen.com/2012/09/12/dezeen-features-in-apples-iphone-5-launch/">behind-the-scenes look</a> at how the collaboration came to fruition.
-<br/>
-
-<br/>
-<img src="http://images.macrumors.com/article-new/2012/09/NewImage22.png" alt="NewImage" title="NewImage.png" width="468" height="264" class="aligncenter"/>
-<br/>
-The site is featured in the <a href="http://www.macrumors.com/2012/09/12/apple-posts-iphone-5-promotional-video/">video</a> starting around the 1:16 mark, with the iPhone 5 user opening an email with a link to the website. He clicks the link, views the site, navigates to Safari's bookmarks list and then opens another page. The page is viewed during a section of the video discussing how LTE technology provides for "really fast downloads over your cellular network."
-<br/>
-<blockquote>Apple contacted Dezeen earlier this year asking us to create a bespoke version of our home page and an editorial page for a possible future marketing campaign. Apple specified that both had to be free of external advertisements and social media buttons, but they did not give any details of how the pages might be used.
-<br/>
-
-<br/>
-The pages [were] created for us by our long-term collaborators <a href="http://www.zerofee.org/">Zerofee</a>. Besides the iPhone versions of Dezeen, we also created billboard-sized pages that may, or may not, appear in Apple Stores and outdoor advertising hoardings as part of the marketing push for the iPhone 5.</blockquote>Given how secretive Apple tends to be with its marketing materials, it remains to be seen if this disclosure by Dezeen will impact Apple's marketing strategy going forward.
-<p><a href="http://feedads.g.doubleclick.net/~a/9M_GWgCQkn5mOLQRwvsHlpmSa54/0/da"><img src="http://feedads.g.doubleclick.net/~a/9M_GWgCQkn5mOLQRwvsHlpmSa54/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/9M_GWgCQkn5mOLQRwvsHlpmSa54/1/da"><img src="http://feedads.g.doubleclick.net/~a/9M_GWgCQkn5mOLQRwvsHlpmSa54/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
-<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=YcFsEeikE_U:gZiB-j0090I:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=YcFsEeikE_U:gZiB-j0090I:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/YcFsEeikE_U" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:6:"hourly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";s:4:"href";s:40:"http://feeds.macrumors.com/MacRumors-All";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:32:"http://pubsubhubbub.appspot.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:4:"info";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"uri";s:13:"macrumors-all";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:11:{s:12:"content-type";s:23:"text/xml; charset=UTF-8";s:4:"etag";s:27:"yy9zwYeyAua3sMFOmIZqMO66E/M";s:13:"last-modified";s:29:"Sun, 16 Sep 2012 03:00:11 GMT";s:16:"content-encoding";s:4:"gzip";s:17:"transfer-encoding";s:7:"chunked";s:4:"date";s:29:"Sun, 16 Sep 2012 03:05:17 GMT";s:7:"expires";s:29:"Sun, 16 Sep 2012 03:05:17 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:16:"x-xss-protection";s:13:"1; mode=block";s:6:"server";s:3:"GSE";}s:5:"build";s:14:"20111015034325";}
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/PBu9FyjYeQ0" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:6:"hourly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";s:4:"href";s:40:"http://feeds.macrumors.com/MacRumors-All";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:32:"http://pubsubhubbub.appspot.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:4:"info";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"uri";s:13:"macrumors-all";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:11:{s:12:"content-type";s:23:"text/xml; charset=UTF-8";s:4:"etag";s:27:"tbLs/VvJ4/NSspYkwt1BoSNFZbM";s:13:"last-modified";s:29:"Mon, 17 Sep 2012 08:45:12 GMT";s:16:"content-encoding";s:4:"gzip";s:17:"transfer-encoding";s:7:"chunked";s:4:"date";s:29:"Mon, 17 Sep 2012 08:45:29 GMT";s:7:"expires";s:29:"Mon, 17 Sep 2012 08:45:29 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:16:"x-xss-protection";s:13:"1; mode=block";s:6:"server";s:3:"GSE";}s:5:"build";s:14:"20111015034325";}
