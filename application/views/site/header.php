@@ -90,9 +90,8 @@
     <div id="right_addbox">
     <div id="right_addboxArrow"><img src="/icons/right_toolbox/arrow.png" /></div>
     <div id="rf_boxContainer">
-    <div class="rf_boxEnclosure"><div class="rf_box rf_boxActive" id="rf_box1"></div></div>
-    <div class="rf_boxEnclosure"><div class="rf_box" id="rf_box2"></div></div>
-    <div class="rf_box" id="rf_box3"></div>
+
+    
     </div>
     <div class="right_formbox" id="right_addbox_site">
     <form id="addFeedSite" action="/query/add_feed" method="post" accept-charset="utf-8" class="form">
