@@ -654,6 +654,14 @@
       		alert('msg');
       		discovery_firstinView = true;
       	});
+
+	    $('#queryTypeahead').typeahead({
+	      source: function(typeahead, query) {
+	        return $.post('/query/add_feed_keyword_label', { query: query }, function (data) {
+	            return typeahead.process(data);
+	        });
+	      }
+	    });
       	
 	});
 	
