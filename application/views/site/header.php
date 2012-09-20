@@ -8,6 +8,7 @@
     <script src="/js/inc/waypoints.js"></script>
     <script src="/js/inc/bootstrap-tooltip.js"></script>
     <script src="/js/inc/bootstrap-modal.js"></script>
+    <script src="/js/inc/bootstrap-typeahead.js"></script>
     <script src="/js/inc/jquery.appear-1.1.1.min.js"></script>
     <script type="text/javascript" src="/js/script.js" charset="utf-8"></script>
  	 <link rel="stylesheet" type="text/css" href="/css/style.css" />
