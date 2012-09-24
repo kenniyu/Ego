@@ -179,10 +179,14 @@
 		top: 12px;
 		left: 65px;
 	}
-	
-	#rf_boxContainer{
-		height: 40px;
-		border-bottom: 1px solid #DDD;
+	.feedHeader {
+		float: left;
+		width: 686px;
+		overflow: hidden;
+	}
+	.feedAdd {
+		float: left;
+		overflow: hidden;
 	}
 	.rf_boxEnclosure{
 		width: 55px;
@@ -274,7 +278,9 @@
 		box-shadow: inset 0 1px 0 #ccc;
 		-moz-box-shadow: inset 0 1px 0 #ccc;
 		-webkit-box-shadow: inset 0 1px 0 #ccc;
-		padding: 5px;
+		padding: 10px;
+		font-size: 13px;
+		width: 250px;
 	}
 	
 	#addLabel{

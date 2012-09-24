@@ -656,11 +656,15 @@
       	});
 
 	    $('#queryTypeahead').typeahead({
-	      source: function(typeahead, query) {
-	        return $.post('/query/add_feed_keyword_label', { query: query }, function (data) {
-	            return typeahead.process(data);
-	        });
-	      }
+			source: function(query, typeahead) {
+				console.log(query);
+				return $.ajax({
+					url: '/query/add_feed_keyword_label',
+					data: { query: query }
+				}).done(function(data) {
+					return typeahead.process(data);
+				});
+			}
 	    });
       	
 	});

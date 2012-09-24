@@ -13,9 +13,18 @@
 </div>
 <div id="content"> <!--the contents-->
 	<div id="header">	<!--the contents header-->
-	    	 <div id="feed_info">
-		<img src="/icons/feed_toolbox/feed.png" />
-		<h1><?php if ($feed_type == 'label'){echo $label_title;}else{echo $feed_title;}?></h1>
+    <div id="feed_info">
+      <div class="feedHeader">
+  		  <img src="/icons/feed_toolbox/feed.png" />
+  		  <h1><?php if ($feed_type == 'label'){echo $label_title;}else{echo $feed_title;}?></h1>
+		  </div>
+		  
+		  <div class="feedAdd">
+        <form id="addFeedSite" action="/query/add_feed_keyword_label" method="post" accept-charset="utf-8" class="form">
+          <input class="rightToolboxInput" type="text" data-provide="typeahead" autofocus name="site_name" id="queryTypeahead" placeholder="Search for web sites or interests" />
+        </form>
+		  </div>
+		  
 		</div>
 		<div class="head_toolbar_container">
 		<div class="head_toolbar">
