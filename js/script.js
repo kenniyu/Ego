@@ -110,6 +110,49 @@
 			$('#editProfilePicture').submit();
 		});
 		
+		$('.usersidebar_lists_edit').toggle(
+		function(){
+			$('.usersidebar_list_item').css('margin-left', '30px');
+			$('.usersidebar_list_delete').show('slide', {direction: 'left'}, 50);
+			
+		},
+		function(){
+			$('.usersidebar_list_delete').hide();
+			$('.usersidebar_list_item').css('margin-left', '0px');
+		});
+		
+		$('.usersidebar_list_toggle').click(function(){
+			id = $(this).parent().attr('id').substring(6);
+			if (id == 'myfeeds'){
+				$('#usersidebar_lists_label_content_myfeeds').show();
+			} else{
+				$('#labelcontent_'+id).show();	
+			}
+			$('#usersidebar_lists_content_wrapper').css('margin-left', '-200px');
+		});
+		
+		$('.usersidebar_lists_label_content_header_back').click(function(){
+			$(this).parent().parent().parent().parent().css('margin-left', '0px');
+			$(this).parent().parent().hide();
+		});
+		
+		$('.usersidebar_toggle').toggle(
+		function(){
+			//$('.usersidebar_main').animate({top: '253px', height: '60%'});
+			$('.usersidebar_main').addClass('usersidebar_toggled', 500);
+		},
+		function(){
+			//$('.usersidebar_main').animate({top: '-347px', height: 'auto'});
+			$('.usersidebar_main').removeClass('usersidebar_toggled', 500);
+		});
+		
+		$('.usersidebar_toggle').waypoint(function(event, direction){
+			$('.usersidebar_main').toggleClass('usersidebar_sticky', direction=='down');
+			$('.usersidebar_main').removeClass('usersidebar_toggled', direction=='up');
+		}, {offset: 203});
+		
+		
+		
 		//Right Menu: Show Add Feed
 		$('#addBox').click(function(){
 			$('#right_addbox').slideToggle();
@@ -358,6 +401,15 @@
     	//Enable sticky head toolbar
 		$('.head_toolbar_container').waypoint(function(event, direction){
 			$('.head_toolbar').toggleClass('sticky', direction=='down');
+			$('.head_filtering').toggleClass('head_filtering_sticky', direction=='down');
+			$('.head_toolbox').toggleClass('head_toolbox_sticky', direction=='down');
+			//Change selector to head_toolbar
+			if (direction=='down'){
+			$('.head_toolbar').css('background-color', 'rgba(0, 0, 0, 0.85)', direction=='down');
+			}
+			else{
+			$('.head_toolbar').css('background-color', 'rgba(0, 0, 0, 0.5)', direction=='up');
+			}
 		});
 		
 		//Feed Toolbox: Reload
@@ -529,24 +581,93 @@
 			}
 		});
 	
+		//Article Toolbox: Bump
+		
+		$('.etbox_bump_up').live('click', function() {
+			var root = $(this).parent().parent().parent();
+			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
+			var target = $(this).children('.etbox_bump_up_count');
+			if (!($(this).parent().parent().hasClass('hasAid'))){
+				var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
+				var source = root.children('.entry_header').children('.entry_info').children('.entry_source').text();
+				var date = root.children('.entry_header').children('.entry_info').children('.entry_date').text();
+				var content = root.children('.entry_content').html();
+				$.post("/query/add_article", 
+				{ 'permalink': permalink, 'title': title, 'content': content, 'source': source, 'date': date }, function(){
+					$.post("/social/give_bump/0", 
+					{ 'permalink': permalink }, // data to send JSON-hash encoded        
+					function(data) {
+						target.text(data);
+					});
+				}); // data to send JSON-hash encoded  
+				root.addClass('hasAid');      
+			} else{
+				$.post("/social/give_bump/0", 
+				{ 'permalink': permalink }, // data to send JSON-hash encoded        
+				function(data) {
+      				target.text(data);
+      			});
+  			}
+		});
+		
+		$('.etbox_bump_down').live('click', function() {
+			var root = $(this).parent().parent().parent();
+			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
+			var target = $(this).children('.etbox_bump_down_count');
+			if (!($(this).parent().parent().hasClass('hasAid'))){
+				var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
+				var source = root.children('.entry_header').children('.entry_info').children('.entry_source').text();
+				var date = root.children('.entry_header').children('.entry_info').children('.entry_date').text();
+				var content = root.children('.entry_content').html();
+				$.post("/query/add_article", 
+				{ 'permalink': permalink, 'title': title, 'content': content, 'source': source, 'date': date }, function(){
+					$.post("/social/give_bump/1", 
+					{ 'permalink': permalink }, // data to send JSON-hash encoded        
+					function(data) {
+						target.text(data);
+					});
+				}); // data to send JSON-hash encoded  
+				root.addClass('hasAid');      
+			} else{
+				$.post("/social/give_bump/1", 
+				{ 'permalink': permalink }, // data to send JSON-hash encoded        
+				function(data) {
+      				target.text(data);
+      			});
+  			}
+		});
+		
 		
 		//Article Toolbox: Clip
 		$('.etbox_clip').live('click', function() {
 			var root = $(this).parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
-			var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
-			var source = root.children('.entry_header').children('.entry_info').children('.entry_source').text();
-			var date = root.children('.entry_header').children('.entry_info').children('.entry_date').text();
-      		var content = root.children('.entry_content').html();
-      		var target = $(this).children('.clip_count');
-  			$.post("/social/add_clip", 
-      		{ 'permalink': permalink, 'title': title, 'content': content, 'source': source, 'date': date }, // data to send JSON-hash encoded        
-      		function(data) {
-      			target.text(data);
-     			alert("The article \""+title+"\" was successfully added to your Clip.");
-     			target.show();
-     			root.addClass('hasAid');
-  			});
+			var target = $(this).children('.clip_count');
+			if (!($(this).parent().parent().hasClass('hasAid'))){
+				var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
+				var source = root.children('.entry_header').children('.entry_info').children('.entry_source').text();
+				var date = root.children('.entry_header').children('.entry_info').children('.entry_date').text();
+				var content = root.children('.entry_content').html();
+				$.post("/query/add_article", 
+				{ 'permalink': permalink, 'title': title, 'content': content, 'source': source, 'date': date }, function(){
+					$.post("/social/add_clip", 
+					{ 'permalink': permalink }, // data to send JSON-hash encoded        
+					function(data) {
+						target.text(data);
+						alert("The article \""+title+"\" was successfully added to your Clip.");
+						target.show();
+					});
+				}); // data to send JSON-hash encoded  
+				root.addClass('hasAid');      
+			} else{
+				$.post("/social/add_clip", 
+				{ 'permalink': permalink }, // data to send JSON-hash encoded        
+				function(data) {
+      				target.text(data);
+      				alert("The article \""+title+"\" was successfully added to your Clip.");
+      				target.show();
+      			});
+  			}
     	});
 		
 		//Article Toolbox: Mark as read

@@ -1,0 +1,258 @@
+/* CSS for KPOPCON 13 Website */
+
+body {
+margin: 0px;
+}
+
+#container {
+width: 100%;
+height: 100%;
+float: left;
+position: absolute;
+right: 0px;
+z-index: 1;
+overflow: hidden;
+}
+
+#filler {
+position: absolute;
+width: 100%;
+height: 100%;
+z-index: -1;
+}
+
+#filler_overlay {
+position: absolute;
+z-index: 1;
+width: 100%;
+height: 100%;
+background-color: black;
+opacity: 0.65;
+}
+
+#filler video {
+width: 100%;
+}
+
+#filler img {
+width: 100%;
+height: 100%;
+}
+
+#strip_filler {
+width: 100%;
+height: 35%;
+z-index: -100;
+}
+
+#strip_bar {
+width: 80%;
+height: 100px;
+background-color: rgba(153, 216, 61, 0.85);
+z-index: 50;
+float: left;
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+}
+
+#strip_bar2 {
+height: 100px;
+background-color: rgba(153, 216, 61, 0.85);
+z-index: 50;
+width: 19%;
+float: right;
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+cursor: pointer;
+}
+
+#strip_container {
+width: 1024px;
+height: 100%;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+}
+
+#strip_header {
+position: absolute;
+right: 100px;
+padding-top: 25px;
+}
+
+#strip_header h2 {
+float: left;
+font-family: Helvetica Neue;
+color: white;
+font-weight: 200;
+margin: 0px;
+padding-top: 13px;
+padding-bottom: 15px;
+padding-right: 15px;
+margin-right: 15px;
+border-right: 1px solid white;
+font-size: 20px;
+}
+
+#strip_header h1 {
+float: left;
+font-family: Helvetica Neue;
+color: white;
+font-weight: 200;
+margin: 0px;
+font-size: 40px;
+}
+
+#menu {
+position: absolute;
+bottom: 0px;
+width: 100%;
+height: 60px;
+}
+
+#menu_overlay {
+width: 100%;
+height: 100%;
+position: absolute;
+background-color: black;
+opacity: 0.5;
+}
+
+#menu_container {
+width: 800px;
+height: 100%;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+}
+
+.menu_item {
+float: left;
+width: 113px;
+padding-top: 15px;
+}
+
+.menu_item_title {
+color: white;
+font-family: Helvetica Neue;
+font-size: 16px;
+font-weight: 200;
+text-align: center;
+}
+
+.menu_item_list {
+width: 103px;
+padding-left: 5px;
+padding-right: 5px;
+position: absolute;
+bottom: 0px;
+margin-bottom: 61px;
+overflow: hidden;
+-webkit-transition: all 0.2s ease-in-out;
+}
+
+.menu_item_list_container {
+position: relative;
+height: inherit;
+}
+
+.menu_item_list_wrapper {
+position: absolute;
+bottom: 0px;
+width: 103px;
+padding-top: 5px;
+border-top: 1px solid rgba(153, 216, 61, 1.0);
+}
+
+.menu_item_list_wrapper1 {
+	height: 39px;	
+}
+
+.menu_item_list_wrapper2 {
+	height: 75px;
+}
+
+.menu_item_list_wrapper3 {
+	height: 117px;	
+}
+
+.menu_item_list_wrapper4 {
+	height: 156px;
+}
+
+.menu_item_list_wrapper5 {
+	height: 195px;
+}
+
+.menu_item_list_wrapper6 {
+	height: 234px;
+}
+
+.menu_item_list_item {
+background-color: rgba(0, 0, 0, 0.6);
+font-family: Helvetica Neue;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+color: white;
+font-size: 13px;
+font-weight: 200;
+margin-bottom: 3px;
+cursor: pointer;
+}
+
+.menu_item_list_active{
+	height: 240px;
+}
+
+.menu_item_list_hidden {
+height: 0px;
+}
+
+#content {
+height: 97%;
+margin-top: 115px;
+padding-bottom: 15px;
+width: 100%;
+position: relative;
+}
+
+#content_wrapper {
+width: 1024px;
+height: 100%;
+margin-left: auto;
+margin-right: auto;
+background-color: rgba(0, 0, 0, 0.7);
+display: none;
+}
+
+.content_entry_header {
+height: 55px;
+margin-left: 20px;
+margin-right: 20px;
+padding-top: 15px;
+padding-left: 15px;
+color: white;
+font-family: Helvetica Neue;
+font-size: 36px;
+font-weight: 200;
+border-bottom: 1px solid white;
+}
+
+#registration_container {
+width: 500px;
+height: 100%;
+position: absolute;
+right: 0px;
+background-color: white;
+box-shadow: inset 5px 0px 5px #888;
+}
+
+#registration {
+padding-top: 24px;
+padding-left: 24px;
+}
+
+#registration_header {
+font-family: Helvetica Neue;
+font-weight: 200;
+font-size: 30px;
+}

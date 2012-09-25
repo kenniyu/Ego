@@ -1,6 +1,15 @@
 <?php
 
 class Query extends CI_Controller{
+	function add_article(){
+		$permalink = $this->input->post('permalink');
+		$title = $this->input->post('title');
+		$content = $this->input->post('content');
+		$source = $this->input->post('source');
+		$date = $this->input->post('date');
+		$this->load->model('query_model');
+		$this->query_model->add_article($permalink, $title, $source, $date, $content);
+	}
 	function add_feed(){
 		$title = $this->input->post('site_name');
 		$url = $this->input->post('rss_address');

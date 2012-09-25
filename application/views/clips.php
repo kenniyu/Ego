@@ -8,7 +8,49 @@
 </div>
 </div>
 <div id="content">
+	<div id="header_container"><img id="header_bg" src="/icons/head_toolbox/bg.jpg" />
 	<div id="header">	<!--the contents header-->
+	   	<div id="feed_info">
+	   	<h1><?php echo $clip_user_name; ?>'s Clips</h1></h1>
+	   	</div>
+	   	<div class="head_toolbar_container">
+	   	<div class="head_toolbar">
+	   		<div class="head_toolbar_wrapper">
+	   		<div class="head_filtering head_clipbox">
+	   			<div id="head_clipbox_add">
+		   		<img class="toolbox_icon" src="/icons/head_toolbox/add.svg" />
+	   			</div>
+	   			<div id="head_clipbox_friends">
+	   			<img class="toolbox_icon" src="/icons/head_toolbox/friends.svg" />
+	   			</div>
+	   			<div id="head_clipbox_inbox">
+	   			<img class="toolbox_icon" src="/icons/head_toolbox/inbox.svg" />
+	   			</div>
+	   		</div>
+	   		
+	   		
+	   		<div id="addbox">
+		   		<input id="addbox_input" placeholder="Add your interest" />
+		   		<div id="addbox_icon">
+		   		<img class="toolbox_icon" src="/icons/head_toolbox/search.svg" />
+		   		</div>
+	   		</div>
+	   		
+	   		<div class="head_toolbox">
+	   		<div class="head_toolbox_wrapper">
+	   			<img class="toolbox_icon" src="/icons/head_toolbox/settings.svg" />
+	   			<div class="head_toolbox_text">Toolbox</div>
+	   		</div>
+	   		</div>
+	   	</div>
+	   	</div>
+	   	</div>
+		
+	</div>
+	</div>
+
+<!--	
+	<div id="header">
     	 <div id="feed_info">
 		<img src="/icons/clip_toolbox/clip.png" />
 		<h1><?php echo $clip_user_name; ?>'s Clips</h1>
@@ -60,6 +102,7 @@
 		</div>
 		</div>
 	</div>
+	-->
     <div id="clipContent">
 	
     </div>

@@ -126,16 +126,18 @@
 				'aid' => $permalink, 'title' => $title, 'source' => $source, 'date' => $date, 'content' => $content
 			));
 		}
-		function add_clip($permalink, $title, $content, $source, $date, $type){
+		function add_clip($permalink, $username, $type){
+			/*
 			if ($this->db->get_where('articles', array('aid' => $permalink))->num_rows() == 0){
 				$this->db->insert('articles', array(
 					'aid' => $permalink, 'title' => $title, 'source' => $source, 'date' => $date, 'content' => $content
 				));
-			}  
+			} 
+			*/ 
 			$article = $this->db->get_where('articles', array('aid' => $permalink))->row();
 			$ref_id = $article->id;
 			$this->db->insert('clips', array(
-				'username' => $this->session->userdata('username'), 'type' => $type, 'ref_id' => $ref_id
+				'username' => $username, 'type' => $type, 'ref_id' => $ref_id
 			));
 			$clip_count = intval($article->clip_count);
 			$this->db->where('aid', $permalink);

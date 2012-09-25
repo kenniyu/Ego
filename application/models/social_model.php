@@ -4,6 +4,25 @@ class Social_model extends CI_Model{
 	public function __construct(){
 			$this->load->database();
 	}
+	function give_bump($type, $permalink, $username){
+		$article = $this->db->get_where('articles', array('aid' => $permalink))->row();
+		$ref_id = $article->id;
+		$this->db->insert('bumps', array(
+			'username' => $username, 'type' => $type, 'ref_id' => $ref_id
+		));
+		if ($type == '0'){
+			$bump_count = intval($article->bump_up_count);
+			$this->db->where('aid', $permalink);
+			$this->db->update('articles', array('bump_up_count' => $bump_count+1));
+			return $bump_count+1;
+		} else{
+			$bump_count = intval($article->bump_down_count);
+			$this->db->where('aid', $permalink);
+			$this->db->update('articles', array('bump_down_count' => $bump_count+1));
+			return $bump_count+1;
+		}
+		
+	}
 	function get_clips($username){
 			/*
 			$query = $this->db->get_where('clip', array('username' => $username, 'type' => 'public'));

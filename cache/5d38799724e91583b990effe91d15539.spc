@@ -1,4 +1,147 @@
-a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:7:"version";s:3:"2.0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:1:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:25:"예병일의 경제노트";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:35:"http://note.linxus.co.kr/yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:36:"하루 5분, 경제를 읽는 시간";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:3:{s:3:"url";a:1:{i:0;a:5:{s:4:"data";s:63:"http://file.linxus.co.kr/blog/y/e/yehbyungil/image/0k8O9Uyl.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:25:"예병일의 경제노트";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:35:"http://note.linxus.co.kr/yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:2:"kr";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:21:"Copyright, yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"17 Sep 2012 17:41:30 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:10:"LINXUS XML";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"docs";a:1:{i:0;a:5:{s:4:"data";s:52:"http://file.linxus.co.kr/blog/y/e/yehbyungil/rss.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:20:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:107:"금통위, "성장세가 미약하였다"... 금리는 동결 & '출판마케팅 핵심워크샵'(9.27.목)";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161052";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5314:"<div>국내경제를 보면, 내수가 개선과 악화를 반복하고 수출이 감소추세를 보임에 따라 성장세가 미약하였다. 고용 면에서는 취업자 수가 고령층 및 서비스업 중심의 증가세를 이어가는 가운데 제조업에서도 증가 폭이 확대되었다. 앞으로 국내경제는 유로지역 재정위기의 장기화, 글로벌 경제의 부진 등으로 마이너스의 GDP갭이 상당기간 지속될 것으로 예상된다.</div>
+a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:7:"version";s:3:"2.0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:1:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:25:"예병일의 경제노트";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:35:"http://note.linxus.co.kr/yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:36:"하루 5분, 경제를 읽는 시간";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:3:{s:3:"url";a:1:{i:0;a:5:{s:4:"data";s:63:"http://file.linxus.co.kr/blog/y/e/yehbyungil/image/0k8O9Uyl.jpg";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:25:"예병일의 경제노트";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:35:"http://note.linxus.co.kr/yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:2:"kr";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:21:"Copyright, yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"25 Sep 2012 13:17:34 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:10:"LINXUS XML";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"docs";a:1:{i:0;a:5:{s:4:"data";s:52:"http://file.linxus.co.kr/blog/y/e/yehbyungil/rss.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:20:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:50:"뇌를 건강하게 만들어주는 '씹기운동'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161209";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4462:"<div>장수시대를 맞이해 뇌를 건강하게 유지하는 것이 중요한 문제가 되고 있습니다. 치매에 대한 두려움 때문입니다. 이와 관련해 대뇌생리학을 전공한 의사이자 치매 전문가인 마쓰바라 에이타 박사는 건강한 뇌를 만들기 위한 좋은 방법으로 '씹기운동'을 추천합니다.&#160;</div>
+<div>&#160;</div>
+<div>"여러 조사와 보고에 따르면 충분히 씹을 때 뇌의 혈액순환이 약 50%나 증가한다고 한다. 50%나 향상되었다는 것은 실로 대단한 숫자다. 의사들이 사용하는 약제 중에는 뇌의 혈액순환을 원활하도록 돕는 뇌 순환촉진제라는 전문의약품이 있다. 뇌 순환촉진제를 사용했을 때 향상되는 평균적인 효과를 수치로 나타내면 약 30~40% 정도다. 전문의약품을 썼을 때의 효과가 30~40%인데, 잘 씹기만 해도 50%라니, 이 수치만 보더라도 씹기의 효과가 얼마나 엄청난지 쉽게 이해할 수 있을 것이다."(81P)</div>
+<div>&#160;</div>
+<div>그는 치매 예방을 위해 치주질환에 조심하고, 치아의 수를 유지하고 관리하는 것이 매우 중요하다고 강조합니다. 뇌는 씹을 수록 자극을 받는데, 만약 치아가 소실되어 치아 주변의 신경기능이 사라지면 뇌가 그만큼 자극을 덜 받게 되어 뇌 활동에 악영향을 끼친다는 겁니다.</div>
+<div>&#160;</div>
+<div>마쓰바라 에이타 박사는 '한 끼에 적어도 한 가지 씩 질긴 식품 먹기' 운동을 펼치고 있습니다. 무른 음식 위주의 식생활이 널리 퍼진 현대 사회에서는 의식적으로 노력하지 않으면 씹기운동을 하기가 쉽지 않지요. 이를 보완하기 위해 그는 '껌 씹기'도 추천합니다.</div>
+<div>"껌은 질긴 정도가 알맞아서 꼭꼭 씹으면 뇌의 혈액순환량이 눈에 띄게 증가하며 뇌의 모든 부분을 활성화시킨다. 당연히 치매의 싹을 물리치는 데 도움이 된다."(89p)</div>
+<div>실제로 풍경사진 64장을 기억하는 실험에서 2분간 껌을 씹게 했을 때 기억력이 무려 15% 이상 향상된 것으로 나타났다고 합니다. 그래서 마쓰바라 에이타 박사는 예전에 대입 수험생들에게 공부하기 전에 준비운동으로 껌을 한 개 씹고, 중간 휴식시간에 한 개, 공부를 마치고 머리를 식힐 겸 한 개를 씹으라는 '껌 공부법'을 추천하기도 했다고 합니다.</div>
+<div>&#160;</div>
+<div>"진심으로 치매의 싹을 조기에 퇴치해버리고 싶다면, 한 끼에 반찬 한 가지 정도는 질긴 식품을 밥상에 올리고 식후나 커피타임에 껌처럼 씹는 횟수를 늘려주는 간식을 준비해보자."(90p)</div>
+<div>&#160;</div>
+<div>뇌를 건강하게 만들어주는 '씹기운동'. 기억해두면 좋은 장수시대의 자기경영 방법입니다.</div>
+<div>&#160;</div>
+<div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; ">*&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; *&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; *</div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; ">&#160;</div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; ">&#160;</div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; "><b>&lt;비즈델리 컨퍼런스&gt;<br />
+</b><a href="http://www.bizdeli.com/offline/category.asp" style="font-size: 9pt; color: rgb(70, 104, 171); line-height: 13pt; ">1.출판 마케팅 핵심 워크샵2012 (9월27일 목)</a></div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; "><a href="http://www.bizdeli.com/offline/category.asp" style="font-size: 9pt; color: rgb(70, 104, 171); line-height: 13pt; ">2.모바일 커머스 기획&amp;마케팅 컨퍼런스 2012 (10월16일 화)</a></div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; "><a href="http://www.bizdeli.com/offline/category.asp" style="font-size: 9pt; color: rgb(70, 104, 171); line-height: 13pt; ">3.전자책,스마트러닝&amp;디지털콘텐츠 컨퍼런스 2012 (10월17일 수)</a></div>
+</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"24 Sep 2012 20:02:16 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161209";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:41:"겸손한 사람, 자만심이 큰 사람";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161190";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1462:"<div>사람을 보면 자만심이 큰 사람이 있습니다. 겸손한 사람도 있지요. 괴테는 대개 정신적으로 특별한 결함이 있는 사람이 자만심이 크다고 말합니다. 거꾸로 정신이나 육체가 강인한 사람은 대부분 겸손하다고 이야기합니다. 수긍이 갑니다.</div>
+<div>&#160;</div>
+<div>친구를 사귀거나 일을 함께 할 사람을 정하는 등 '사람'에 대해 고민할 때, 그가 겸손한지를 보고 결정하면 대개 기대하는 결과를 얻을 수 있습니다. 그의 겸손함은 그가 정신적으로, 육체적으로 강인하고 성숙하다는 것을 알려주는 지표이니까요. 앞으로 5년 동안 대한민국을 이끌 대통령을 정할 때도 마찬가지일 겁니다. 박근혜-문재인-안철수 등 출마를 선언한 후보들을 보면 겸손한 사람도 있고 자만심이 커보이는 사람도 있는듯 합니다. 말과 행동에서 우리는 느낄 수 있습니다. 강인함에서 나오는 겸손함을 갖춘 후보를 택하는 것이 우리 사회에 좋은 결과를 가져오겠지요.</div>
+<div>&#160;</div>
+<div>완연한 가을의 주말입니다. 정신적으로, 그리고 육체적으로 강인함을 기르면서 그것에서 우러나오는 겸손한 모습으로 세상을 살아가야겠다는 생각을 해봅니다.</div>
+<div>&#160;</div>
+<div>&#160;</div>
+<div>&#160;</div>
+<div>&#160;</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"21 Sep 2012 19:01:41 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161190";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:95:"확증편향과 경제적 선택, 그리고 대선 투표 &  출판마케팅 워크샵(9.27목)";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161176";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2565:"<div>우리의 '합리적인 판단'을 가로 막는 심리적인 기제가 있습니다. '인간'이기 때문에 어쩔 수 없는 부분이기도 하지요. 하지만 그 내용을 인식하고, 평소에 자신이 취약한 부분을 의식하며 지내면, 제대로 판단하는데 큰 도움이 됩니다.</div>
+<div>&#160;</div>
+<div>소유효과... 우리가 소유한 것에 대해 소유하지 않았을 때보다 더 큰 가치를 부여하는 심리를 의미합니다. 내가 매입한 주식의 가치를 제3자가 판단하는 가격보다 더 높게 평가하려는 경향이지요. 이것을 극복하지 못하면 자신이 소유한 자산의 가치를 객관적으로 평가하지 못하게 되고, 결국 중요한 순간에 판단을 그르칠 수 있습니다.</div>
+<div>&#160;</div>
+<div>또 하나 우리가 평소에 의식하면 좋은 것이 확증편향(Confirmation Bias)입니다. 내 판단과 일치하는 의견이나 정보는 확대해 받아들이고, 반대로 내 판단과 다른 의견이나 정보는 축소해 해석하려는 심리적 바이어스입니다. 인간이니 심리적으로 그러기 쉬울 겁니다. 예컨대 자신이 매입한 주식과 관련해 부정적인 의견이나 정보가 나오면 이를 애써 무시하거나 왜곡해 해석하려는 경우가 이에 해당됩니다. 그래서는 합리적인 판단을 내릴 수가 없습니다.</div>
+<div>&#160;</div>
+<div>안철수 후보의 출마선언으로 대통령 선거가 본격적으로 시작됐습니다. 앞으로 박근혜-문재인-안철수 3자의 치열한 경쟁이 펼쳐질 것이고, 연말의 어느날 우리는 선택을 해야겠지요. 경제활동에서는 물론이고 이런 정치적인 문제에 대해서도 확증편향 같은 심리적 바이어스에 빠지지 않고 합리적이고 객관적인 판단을 하는 것이 중요하다는 생각을 해보았습니다.<br />
+&#160;</div>
+<div>*                *                 *</div>
+<div>&#160;</div>
+<div>&#160;</div>
+<div><b>&lt;비즈델리 컨퍼런스&gt;<br />
+</b><a href="http://www.bizdeli.com/offline/category.asp">1.출판 마케팅 핵심 워크샵2012 (9월27일 목) </a></div>
+<div><a href="http://www.bizdeli.com/offline/category.asp">2.모바일 커머스 기획&amp;마케팅 컨퍼런스 2012 (10월16일 화) </a></div>
+<div><a href="http://www.bizdeli.com/offline/category.asp">3.전자책,스마트러닝&amp;디지털콘텐츠 컨퍼런스 2012 (10월17일 수)</a></div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"20 Sep 2012 18:25:33 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"증권금융재테크";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161176";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:47:"소중한 원칙은 결코 어렵지 않은 것";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161159";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1095:"<div>핵심은 절대 어렵지 않습니다. 가장 중요한 개념은 간단하고 명료하지요. 가장 소중한 원칙도 그렇습니다. 그런데 우리는 종종 이를 잊곤 합니다. 그리고는 다른 곳에서 헤맵니다.</div>
+<div>&#160;</div>
+<div>"가치투자 개념은 아주 간단하고 명료하다. 어려운 미분, 적분이 필요하지 않으며 경영학 석사나 박사의 지식이 필요하지 않다. 이것은 신학교에서 8년을 공부했는데 누군가 당신에게 가장 중요한 것은 모세의 십계명이라고 말하는 것과 같다."</div>
+<div>&#160;</div>
+<div>워렌 버핏의 말입니다. 자신의 투자원칙인 가치투자의 개념은 복잡한 미적분이 필요한 어려운 개념이 절대 아니라는 겁니다.</div>
+<div>&#160;</div>
+<div>어느 분야든 파고들고 심화학습을 하는 것은 필요하지만, 그 과정에서 핵심과 원칙을 놓쳐서는 안됩니다. 투자에서도 그렇고 다른 인생살이에서도 그렇습니다.<br />
+&#160;</div>
+<div>&#160;</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"19 Sep 2012 18:57:07 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:22:"자기계발&리더십";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161159";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:56:"샌드버그 페이스북 COO의 'impact'와 'plug-in'  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161147";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4250:"<div>&#160;"나는 사회에 대한 영향력(impact)을 좇아 여기에 왔다. 누군가는 높은 직급, 많은 연봉, 넓은 사무실, 전용 주차장 같은 것을 따질 수도 있다. 하지만 나는 '얼마나 세상을 바꿀 수 있느냐'를 따졌다. 페이스북의 COO가 세상에 주는 영향이 다른 기업의 CEO보다 훨씬 크기 때문이다. 세상을 연결하고 있는 지금 여기가 내 꿈의 직장이다."</div>
+<div>&#160;</div>
+<div><b>'페이스북 최고운영책임자 셰릴 샌드버그 인터뷰' 중에서 (조선일보, 2012.9.16)</b></div>
+<div>&#160;</div>
+<div>&#160;</div>
+<div>셰릴 샌드버그 페이스북 최고운영책임자(COO.43). 포브스지의 '2012년 글로벌 여성 리더 10인'으로 선정됐다는 그녀는 세계은행, 맥킨지, 미국 재무장관 비서실장을 거쳐 구글에서 새로운 인터넷 광고모델을 개발했고, 페이스북으로 옮겨 회사의 주요 비즈니스 모델을 만든 경영자입니다. 그녀의 인터뷰 기사중 눈에 띄는 두 부분이 있어 정리해봅니다.</div>
+<div>&#160;</div>
+<div>샌드버그는 영향력(impact)을 강조했습니다. 자신은 '사회에 대한 영향력'과 '세상을 얼마나 바꿀 수 있느냐'를 기준으로 일을 택해왔다고 그녀는 말합니다. 페이스북에 합류했던 일을 말하는 것이지요.</div>
+<div>&#160;</div>
+<div>샌드버그는 또 자신이 필요한 곳을 찾아서 끼워넣으라(plug-in)고 말합니다. 능동적인 느낌이 물씬 풍기는 'plug-in'이라는 표현이 인상적입니다.</div>
+<div>&#160;</div>
+<div>"당장 한국을 보자. 한국 경제는 전 세계 경제에 비해 매우 빠르게 일어나고 있다. 내가 만약 한국에 있다면, 미국에 있었던 15년에 비해 더 많은 기회를 잡을 수 있다고 본다. 나는 구글에 들어가기 전까지 정부에 있었는데, IT 업계의 성장성을 보고 이쪽으로 옮겼다. 불황 속에서 살아남으려면 내 실력이 필요한 곳을 찾아서 끼워넣어야(plug-in) 한다."</div>
+<div>&#160;</div>
+<div>"세상을 연결하고 있는 지금 여기가 내 꿈의 직장이다..."&#160;</div>
+<div>우리 경제노트 가족들도 샌드버그의 '사회에 대한 영향력' 같은 자신만의 기준을 정립해, 자신의 일에서 의미를 찾으며 "지금 이것이 내 꿈의 일이다"라고 행복하게 말할 수 있으면 좋겠습니다.</div>
+<div>&#160;</div>
+<div>&#160;</div>
+<div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; ">
+<div>*&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;*</div>
+<div>&#160;</div>
+<div>&#160;<a hidefocus="hidefocus" href="http://www.booksmba.com/" style="font-size: 9pt; color: rgb(70, 104, 171); line-height: 13pt; "><u><b>&lt;'직장인 독서교육 프로그램', 북스MBA&gt;</b></u></a></div>
+<div>&#160;</div>
+<div>&#160;</div>
+<div>1.자기경영14: '내가 알고 있는 걸 당신도 알게 된다면'과 '콰이어트'&#160;&#160;<br />
+2.OA 기초활용1: '회사에서 바로 통하는 엑셀 2010'&#160;&#160;<br />
+3.중간 관리자(팀장) 업무능력 향상1: '제대로 시켜라'와 '함께 일하고 싶은 팀장2'&#160;&#160;<br />
+4.기획과 프레젠테이션: '기획이란 무엇인가'와 '스토리텔링 프레젠테이션 프레지'&#160;&#160;<br />
+5.스피치의 기술 : '나승연의 프레젠테이션'과 '카네기식 휴먼 스피치'<br />
+6.빅 데이터와 데이터 활용 전략 : '분석의 힘'과 '빅 데이터 비즈니스'<br />
+7.직장인 건강경영3: 스트레스 내려놓기 연습과 두뇌영양실조&#160;&#160;<br />
+8.스마트폰&amp;태블릿PC 혁명의 이해: 올웨이즈 온과 아이패드혁명&#160;&#160;<br />
+9.트렌드 이해하기: '트렌드 코리아 2012'과 '10년 후 세상'<br />
+10.스티브 잡스에게 배운다 : '스티브 잡스'<br />
+&#160;</div>
+</div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; ">&#160;</div>
+</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"18 Sep 2012 18:28:31 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:22:"자기계발&리더십";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161147";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:53:"KDI, '상당 기간 저성장기조 지속 가능성'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161093";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6483:"<div>* 2012년 우리 경제는 성장세가 크게 둔화된 2.5%의 성장률을 기록한 후, 2013년</div>
+<div>에는 완만한 회복세를 나타내며 3.4%의 성장률을 기록할 것으로 예상</div>
+<div>- 2012년에는 유로지역 재정위기 등 세계경제의 불확실성 확대에 따라 수출과 내수 모두 증가세가 크게 둔화되면서 성장률이 2.5%로 하락할 것으로 전망</div>
+<div>- 2013년에는 세계경제의 완만한 회복세를 바탕으로 수출 증가세가 확대되고, 교역조건 안정 및 원화가치 상승 등으로 내수도 개선추세가 이어지면서 3.4%의 성장률을 기록할 것으로 예상</div>
+<div>&#160;</div>
+<div><b>'KDI 경제전망 2012년 9월' 중에서 (KDI, 14p, 2012.9.17)</b></div>
+<div>&#160;</div>
+<div>2012년 한국경제 성장률 2.5%... 국책연구기관인 한국개발연구원(KDI)이 내놓은 우리경제에 대한 수정 전망수치입니다. KDI의 기존 전망치가 3.6%였으니, 무려 1.1%포인트나 낮춘 수치입니다. 국내 민간 연구소는 물론 대부분의 외국 금융기관들이 내놓고 있는 전망치보다도 낮은 수준이지요.</div>
+<div>현재 다른 전망치들을 보면, 정부(3.4%)가 가장 높고, 현대경제연구원(2.8%), 한국경제연구원(2.6%), UBS(2.1%), JP모건과 노무라(2.5%) 등이 있습니다.</div>
+<div>&#160;</div>
+<div>KDI는 그동안 5월과 11월에 경제전망 자료를 발표해왔습니다. 그 중간에 전망치를 수정한 것은 글로벌 금융위기 이후인 2009년 1월과 9월 이후 처음입니다. 그만큼 KDI가 최근의 경기침체 상황을 심각하게 보고 있다는 의미입니다. KDI는 2013년 성장률도 기존의 4.1%에서 3.4%로 하향 조정했습니다.&#160;</div>
+<div>&#160;</div>
+<div>보고서를 살펴보면 KDI가 현재의 상황을 얼마나 어렵게 보고 있는지 알 수 있습니다. 원문을 직접 보시지요.</div>
+<div>&#160;</div>
+<div>"최근 우리 경제는 세계경제 불확실성에 기인하여 대내외 수요가 전반적으로 약화되면서 작년 하반기 이후 경기둔화가 지속되는 모습. 우리 경제의 GDP 성장률은 작년 1/4분기 4.2%를 기록한 이후 3분기 연속 둔화추세를 지속하며 금년 2/4분기에는 2.3%를 기록. 특히 전기대비로는 2/4분기 0.3%(연율 1.1%)를 기록하며 증가세가 크게 둔화."(3p)</div>
+<div>&#160;</div>
+<div>"광공업생산과 서비스업생산 증가폭이 모두 축소되면서 전반적으로 경기가 빠르게 둔화되는 모습."(4p)</div>
+<div>&#160;</div>
+<div>"총수요는 세계경제의 성장세 약화에 따라 수출수요가 비교적 크게 둔화되는 가운데, 대내외 불확실성을 반영하여 내수도 투자부문을 중심으로 부진한 모습. 설비투자는 대내외 불확실성을 반영하여 큰 폭으로 둔화되었으며, 건설투자는 부진이 지속되는 모습."(5p)</div>
+<div>&#160;</div>
+<div>"수출은 유로존 재정위기 등으로 세계경제 성장세가 약화됨에 따라 증가세가 큰폭으로 둔화되는 모습."(6p)</div>
+<div>&#160;</div>
+<div>"노동시장은 경기둔화에도 불구하고 높은 취업자 증가세가 유지되고 있으나, 구성상 여성과 고령층의 노동공급 증가에 상당 부분 기인. 최근 취업자 증가에서 자영업 부문이 상당부분을 차지하고 있음을 감안하면, 전반적으로 고용여건은 경기악화에 상대적으로 취약할 가능성."(7p)</div>
+<div>&#160;</div>
+<div>"향후 우리 경제는 유로존 위기를 둘러싼 불확실성 확대 등 대내외 여건의 악화로 수출 및 내수 모두 부진하면서 성장세가 둔화될 것으로 예상."(9p)</div>
+<div>&#160;</div>
+<div>'전반적으로 약화', '크게 둔화', '빠르게 둔화', '근 폭으로 둔화' 같은 표현이 자주 눈에 띕니다. &#160;KDI의 보고서는 "우리 경제는 대내외 경제여건의 구조적인 변화로 상당 기간 저성장기조가 지속될 가능성이 있으므로 경기안정화 대응과정에서 이를 감안할 필요"(11p)가 있다는 언급으로 마무리됩니다.&#160;</div>
+<div>&#160;</div>
+<div>'상당 기간 저성장기조 지속 가능성'을 염두에 두고 회사와 가정의 계획을 점검하시기 바랍니다.</div>
+<div>&#160;</div>
+<div>&#160;</div>
+<div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; ">*&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;*</div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; ">&#160;</div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; ">&#160;<a hidefocus="hidefocus" href="http://www.booksmba.com/" style="font-size: 9pt; color: rgb(70, 104, 171); line-height: 13pt; "><u><b>&lt;'직장인 독서교육 프로그램', 북스MBA&gt;</b></u></a></div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; ">&#160;</div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; ">&#160;</div>
+<div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; ">1.자기경영14: '내가 알고 있는 걸 당신도 알게 된다면'과 '콰이어트'&#160;&#160;<br />
+2.OA 기초활용1: '회사에서 바로 통하는 엑셀 2010'&#160;&#160;<br />
+3.중간 관리자(팀장) 업무능력 향상1: '제대로 시켜라'와 '함께 일하고 싶은 팀장2'&#160;&#160;<br />
+4.기획과 프레젠테이션: '기획이란 무엇인가'와 '스토리텔링 프레젠테이션 프레지'&#160;&#160;<br />
+5.스피치의 기술 : '나승연의 프레젠테이션'과 '카네기식 휴먼 스피치'<br />
+6.빅 데이터와 데이터 활용 전략 : '분석의 힘'과 '빅 데이터 비즈니스'<br />
+7.직장인 건강경영3: 스트레스 내려놓기 연습과 두뇌영양실조&#160;&#160;<br />
+8.스마트폰&amp;태블릿PC 혁명의 이해: 올웨이즈 온과 아이패드혁명&#160;&#160;<br />
+9.트렌드 이해하기: '트렌드 코리아 2012'과 '10년 후 세상'<br />
+10.스티브 잡스에게 배운다 : '스티브 잡스'<br />
+&#160;</div>
+</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"17 Sep 2012 18:52:22 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경제일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161093";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:107:"금통위, "성장세가 미약하였다"... 금리는 동결 & '출판마케팅 핵심워크샵'(9.27.목)";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161052";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5314:"<div>국내경제를 보면, 내수가 개선과 악화를 반복하고 수출이 감소추세를 보임에 따라 성장세가 미약하였다. 고용 면에서는 취업자 수가 고령층 및 서비스업 중심의 증가세를 이어가는 가운데 제조업에서도 증가 폭이 확대되었다. 앞으로 국내경제는 유로지역 재정위기의 장기화, 글로벌 경제의 부진 등으로 마이너스의 GDP갭이 상당기간 지속될 것으로 예상된다.</div>
 <div>&#160;</div>
 <div><b>'통화정책방향' 중에서(한국은행 금융통화위원회, 2012.9.13)</b></div>
 <div>&#160;</div>
@@ -32,7 +175,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 <div><a href="http://www.bizdeli.com/book/?src=">- '출판 마케팅 핵심 워크샵' (9월27일 목)</a></div>
 <div>&#160;</div>
 <div>&#160;</div>
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"13 Sep 2012 21:32:55 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경제일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161052";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:122:"티나(TINA:There Is No Alternative)와 타타(TATA:There Are Thousands of Alternatives) & 9월 이달의 책 함께읽기";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161036";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2689:"<div>&#160;'티나'(TINA)의 원칙이라는 게 있습니다. "대안은 없다!"(There Is No Alternative)라는 말의 영문 약자입니다. 그 '티나'는 위에 소개해드린 말들을 하면서 우리의 생각을 가로막습니다.&#160;</div>
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"13 Sep 2012 21:32:55 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경제일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161052";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:122:"티나(TINA:There Is No Alternative)와 타타(TATA:There Are Thousands of Alternatives) & 9월 이달의 책 함께읽기";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161036";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2689:"<div>&#160;'티나'(TINA)의 원칙이라는 게 있습니다. "대안은 없다!"(There Is No Alternative)라는 말의 영문 약자입니다. 그 '티나'는 위에 소개해드린 말들을 하면서 우리의 생각을 가로막습니다.&#160;</div>
 <div>내가 무언가를 시도해보려고 하는데, 옆에서 다른 사람이 이런 말을 던지면 스스로에 대해 의구심이 들기 시작합니다. 내 생각에 대해 불안감이 들고, 확신이 약해집니다. "정말 제대로 돌아갈 리가 없는거 아닐까?"라는 생각이 스멀스멀 일어납니다.</div>
 <div>&#160;</div>
 <div>사실 더 중요한 건 내 내부에서 이런 '티나'가 활동하는 경우입니다. 무언가 시도를 하려다가도, 내 안에서 '티나'가 나의 생각을 가로막으려 하는 경우이지요.</div>
@@ -55,7 +198,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 <div><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8935208760">2.현대교양반: '10년 후 미래' (다니엘 앨트먼, 청림출판)</a></div>
 </div>
 <div>&#160;</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"12 Sep 2012 20:15:45 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161036";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:39:"도움을 요청하는 것의 중요성";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161015";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3517:"<div>도움을 주고 받는다는 것. 생각보다 쉽지 않은 일입니다. 특히 도움을 받는다는 것은 도움을 요청하는 것을 전제로 하기 때문에 의외로 쉽지가 않습니다. 도움을 요청하는게 마치 자신의 약점과 한계를 드러내는 것이라고 생각하기 때문입니다.</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"12 Sep 2012 20:15:45 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161036";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:39:"도움을 요청하는 것의 중요성";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161015";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3517:"<div>도움을 주고 받는다는 것. 생각보다 쉽지 않은 일입니다. 특히 도움을 받는다는 것은 도움을 요청하는 것을 전제로 하기 때문에 의외로 쉽지가 않습니다. 도움을 요청하는게 마치 자신의 약점과 한계를 드러내는 것이라고 생각하기 때문입니다.</div>
 <div>&#160;</div>
 <div>하지만 도움을 요청하는 것은 상대에 대한 신뢰와 존경심을 보여주는 행동입니다. 그리고 앞으로 서로 편하게 도움을 주고 받을 수 있는 관계라는 인식을 줄 수 있는 행동이기도 합니다. 도움을 청하는 것을 불필요하게 꺼릴 필요가 없다는 얘깁니다.</div>
 <div>&#160;</div>
@@ -81,7 +224,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 9.트렌드 이해하기: '트렌드 코리아 2012'과 '10년 후 세상'<br />
 10.스티브 잡스에게 배운다 : '스티브 잡스'<br />
 &#160;</div>
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"11 Sep 2012 18:51:08 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경영일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161015";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:36:"웰스파고의 '청개구리 정신";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161001";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2083:"<div>&#160;“남들과 똑같이 하지 않는 ‘청개구리’ 정신이다. 경쟁자가 지점을 늘릴 때 우리는 축소하고, 그들이 자산을 축소할 때 우리는 늘려왔다. 경기가 어려울 때가 ‘고객이 진짜 은행의 손길이 필요한 시기다’고 믿는다. 1980년대 말, 미국 은행들이 모기지(mortgage·부동산을 담보로 장기주택자금을 대출해주는 제도) 사업에 손대지 않을 때, 우리는 뛰어들어 지금 모기지 대출시장 미국 1위가 됐다.”</div>
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"11 Sep 2012 18:51:08 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경영일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161015";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:36:"웰스파고의 '청개구리 정신";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/161001";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2083:"<div>&#160;“남들과 똑같이 하지 않는 ‘청개구리’ 정신이다. 경쟁자가 지점을 늘릴 때 우리는 축소하고, 그들이 자산을 축소할 때 우리는 늘려왔다. 경기가 어려울 때가 ‘고객이 진짜 은행의 손길이 필요한 시기다’고 믿는다. 1980년대 말, 미국 은행들이 모기지(mortgage·부동산을 담보로 장기주택자금을 대출해주는 제도) 사업에 손대지 않을 때, 우리는 뛰어들어 지금 모기지 대출시장 미국 1위가 됐다.”</div>
 <div>&#160;</div>
 <div><b>'"우린 금융 유통회사… 경쟁상대는 애플"' 중에서 (조선일보, 2012.9.9)</b></div>
 <div>&#160;</div>
@@ -97,7 +240,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 <div>소박한 참여형 CEO가 선택하는 '청개구리의 길'. 웰스파고의 성공비결입니다.</div>
 <div>&#160;</div>
 <div>&#160;</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"10 Sep 2012 18:52:52 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:22:"자기계발&리더십";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161001";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"지식시대에 맞는 경영자와 경영의 개념";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160980";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3795:"<div>&#160;경영(management)과 경영자. 19세기말~20세기초 대기업의 등장과 함께 나온, 그리 오래되지 않은 용어입니다. 요즘 경영은 영리를 추구하는 기업 뿐만 아니라 모든 조직과 개인에게도 중요한 그런 개념이 되었습니다.</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"10 Sep 2012 18:52:52 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:22:"자기계발&리더십";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"161001";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"지식시대에 맞는 경영자와 경영의 개념";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160980";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3795:"<div>&#160;경영(management)과 경영자. 19세기말~20세기초 대기업의 등장과 함께 나온, 그리 오래되지 않은 용어입니다. 요즘 경영은 영리를 추구하는 기업 뿐만 아니라 모든 조직과 개인에게도 중요한 그런 개념이 되었습니다.</div>
 <div>&#160;</div>
 <div>무언가를 제대로 경영하기 위해서는 '경영자'란 무엇인가에 대해 올바른 정의를 갖고 있는 것이 중요합니다. 경영자에 대한 생각은 시대에 따라 변화되어왔습니다.</div>
 <div>&#160;</div>
@@ -125,7 +268,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 9.트렌드 이해하기: '트렌드 코리아 2012'과 '10년 후 세상'<br />
 10.스티브 잡스에게 배운다 : '스티브 잡스'<br />
 &#160;</div>
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"07 Sep 2012 18:52:09 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경영일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160980";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:105:"'2000억 K-POP전용 공연장'과 WEF 국가경쟁력 순위... 정부지출낭비 144개국 중 107위 ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160966";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6600:"<div>'정부지출이 낭비되는지 여부'(Wastefulness of government spending)는 세계 144개국 중 107위.&#160;</div>
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"07 Sep 2012 18:52:09 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경영일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160980";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:105:"'2000억 K-POP전용 공연장'과 WEF 국가경쟁력 순위... 정부지출낭비 144개국 중 107위 ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160966";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6600:"<div>'정부지출이 낭비되는지 여부'(Wastefulness of government spending)는 세계 144개국 중 107위.&#160;</div>
 <div>'정치인에 대한 공공의 신뢰'(Public trust of politicians)는 144개국 중 117위.</div>
 <div>'정책결정의 투명성'(Transparency of government policymaking)은 144개국 중 133위.</div>
 <div>'조세의 범위와 효율성'(Extent and effect of taxation)은 144개국 중 108위.</div>
@@ -176,7 +319,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 </div>
 <div style="color: rgb(51, 51, 51); font-family: Gulim; line-height: 17.33333396911621px; ">&#160;</div>
 </div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"06 Sep 2012 17:49:06 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"정부행정";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160966";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"정보와 지식... 정보의 가공능력이 중요한 시대 ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160936";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1104:"<div>&#160;정보와 지식을 구별해야 합니다. 이제는 단순히 정보를 많이 가지고 있는 것만으로는 통하지 않는 사회가 되었습니다. 정보를 능숙하게 가공해 '물건'으로 만드는 것이 중요한 세상이지요.</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"06 Sep 2012 17:49:06 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"정부행정";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160966";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"정보와 지식... 정보의 가공능력이 중요한 시대 ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160936";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1104:"<div>&#160;정보와 지식을 구별해야 합니다. 이제는 단순히 정보를 많이 가지고 있는 것만으로는 통하지 않는 사회가 되었습니다. 정보를 능숙하게 가공해 '물건'으로 만드는 것이 중요한 세상이지요.</div>
 <div>&#160;</div>
 <div>과거에는 국내 사람들이 잘 모르는 외국 학자를 찾아 배우고 오기만 해도 교수가 되고 학자가 될 수 있었습니다. 미국이나 일본에서 유행하는 아이템을 발 빠르게 국내로 가져오기만 해도 쉽게 돈을 벌기도 했지요. 사회에서 '정보통'이 각광을 받던 시대였습니다.</div>
 <div>&#160;</div>
@@ -184,7 +327,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 <div>&#160;</div>
 <div>&#160;</div>
 <div>&#160;</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"04 Sep 2012 18:38:02 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160936";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:37:"가을의 경제, 가을의 변수들";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160922";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2239:"<div>한동안 잠잠했던 글로벌 증시가 올 가을 상당한 변동성에 시달릴 전망이다. 미국, 유럽, 중국 등지에서 쏟아질 정치·경제적 변수가 한둘이 아닌 탓이다.</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"04 Sep 2012 18:38:02 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160936";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:37:"가을의 경제, 가을의 변수들";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160922";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2239:"<div>한동안 잠잠했던 글로벌 증시가 올 가을 상당한 변동성에 시달릴 전망이다. 미국, 유럽, 중국 등지에서 쏟아질 정치·경제적 변수가 한둘이 아닌 탓이다.</div>
 <div>&#160;</div>
 <div><b>'글로벌 증시, '가을 폭풍' 부나' 중에서 (머니투데이, 2012.9.3)</b></div>
 <div>&#160;</div>
@@ -204,7 +347,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 <div>&#160;</div>
 <div>현재로서 분명한 것은 국내외 경제 모두 '하방위험'이 만만치 않다는 겁니다. 쉽지 않은 상황이라는 의미입니다. 이래저래 긴장을 풀지 못할 가을이 시작됐습니다.<br />
 &#160;</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"03 Sep 2012 18:18:50 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경제일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160922";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"간디, "때때로 우리는 칭찬에 대해 너무 많은 값을 치러야 해요"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160906";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1712:"<div>가끔은 '경제'노트에서도 '멈춰 서서' 생각해볼만한 이야기를 전해드리곤 합니다. '경제경영 이야기'보다 좋아하실 때가 많습니다.</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"03 Sep 2012 18:18:50 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경제일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160922";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"간디, "때때로 우리는 칭찬에 대해 너무 많은 값을 치러야 해요"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160906";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1712:"<div>가끔은 '경제'노트에서도 '멈춰 서서' 생각해볼만한 이야기를 전해드리곤 합니다. '경제경영 이야기'보다 좋아하실 때가 많습니다.</div>
 <div><a href="http://www.linxus.co.kr/blog/view_post.asp&#63;blogid=yehbyungil&amp;post_seq_no=160810&amp;order_by=1&amp;page=1&amp;post_type=&amp;dir_code=&amp;blog_cate_seq_no=0&amp;blog_cate_parent_seq_no=0&amp;expert_category_seq_no=0">지난 주말에 '타인의 평가'와 관련해 쇼펜하우어의 말을 전해드렸더니 </a>많은 분들께서 메일 등으로 공감을 표시해주셨습니다. 이와 관련해 간디가 한 말이 떠올라, 주말을 맞아 한번 더 비슷한 말씀을 드립니다.</div>
 <div> </div>
 <div>간디가 한 미국인 작가에게 "당신은 칭찬을 바라는가&#63;"라고 물었습니다.<br />
@@ -220,7 +363,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 <div> </div>
 <div>앞으로도 주말에는 가끔 이런 잠시 멈춰 서서 함께 생각해볼만한 말씀을 드리도록 하겠습니다.</div>
 <div>행복한 주말 보내세요.<br />
- </div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"31 Aug 2012 19:37:30 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:22:"자기계발&리더십";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160906";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"'30년 만기' 국고채의 데뷔와 그것이 시사하는 의미";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160893";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4104:"<div>기획재정부는 29일 "새로 도입하는 국고채 30년물을 첫 입찰에 부친 결과 금리가 연 3.11~3.15%로 결정됐다"고 밝혔다.</div>
+ </div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"31 Aug 2012 19:37:30 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:22:"자기계발&리더십";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160906";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"'30년 만기' 국고채의 데뷔와 그것이 시사하는 의미";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160893";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4104:"<div>기획재정부는 29일 "새로 도입하는 국고채 30년물을 첫 입찰에 부친 결과 금리가 연 3.11~3.15%로 결정됐다"고 밝혔다.</div>
 <div>&#160;</div>
 <div><b>'30년 만기 최장기 국고채 화려한 데뷔' 중에서 (조선일보, 2012.8.30자)</b></div>
 <div>&#160;</div>
@@ -244,7 +387,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 <div>'30년 만기 국고채 발행', 여러가지 문제와 어려움 속에서도 한국경제가 그만큼 시장의 인정을 받았고, 그만큼 불확실성이 감소했으며, 그만큼 중장기 전망이 안정적이고 예측 가능해진 것이라는 긍정적인 의미로 '해석'해도 되겠습니다. 어려운 경제 속에서 오래간만에 듣는 좋은 소식입니다.</div>
 <div>&#160;</div>
 <div>&#160;</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"30 Aug 2012 17:57:58 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"증권금융재테크";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160893";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"폴라로이드와 플랜B... '기꺼이 적응하려는 마인드'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160879";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3199:"<div>지난 봄 한 부부동반 모임에 참석했다가 정말 오래간만에 폴라로이드 카메라를 보았습니다. 주최측 인사가 '아날로그의 감성'을 느껴보라며 사진을 찍어 바로 인화된 모습을 주더군요. 오래전 폴라로이드로 사진을 찍던 추억이 떠오르며 절로 미소가 지어졌습니다. 사진을 보니 크기는 작았지만 뭔가 부드럽고 아날로그의 느낌이 다가왔습니다.</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"30 Aug 2012 17:57:58 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"증권금융재테크";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160893";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"폴라로이드와 플랜B... '기꺼이 적응하려는 마인드'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160879";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3199:"<div>지난 봄 한 부부동반 모임에 참석했다가 정말 오래간만에 폴라로이드 카메라를 보았습니다. 주최측 인사가 '아날로그의 감성'을 느껴보라며 사진을 찍어 바로 인화된 모습을 주더군요. 오래전 폴라로이드로 사진을 찍던 추억이 떠오르며 절로 미소가 지어졌습니다. 사진을 보니 크기는 작았지만 뭔가 부드럽고 아날로그의 느낌이 다가왔습니다.</div>
 <div>&#160;</div>
 <div>폴라로이드. 한때 지금의 아이패드나 갤럭시노트처럼 많은 이들이 갖고 싶어했던 제품이었습니다. 그러나 지금은 '추억' 속의 물건이 되었지요.</div>
 <div>&#160;</div>
@@ -270,7 +413,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 <div> </div>
 </div>
 <div>&#160;</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"29 Aug 2012 18:48:12 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경영일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160879";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"금통위 회의록에서 보는 저성장 시대에 대한 우려";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160857";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4396:"<div>다른 일부 위원은 수정전망에 의한 하반기 1% 내외의 경제성장률은 지난해 4/4분기∼금년 2/4분기중 평균 0%대 중반의 낮은 성장에 따른 반사효과와 하반기 정부의 재정투자 보강 효과까지 포함한 수준이어서 하반기 재정투자 보강 계획이 계획대로 이루어지지 않을 경우 이마저도 달성하기 힘들 수 있음을 지적한 후, 이처럼 우리 경제의 기조적인 성장모멘텀이 약화되어 있는 상황에서 대외충격이 발생한다면 그 영향이 증폭되어 나타날 소지가 있으므로, 유로지역 재정위기 상황, 미국 중국 등의 실물경기 둔화 움직임에 대한 모니터링을 강화하고, 이러한 여건 변화가 국내 경제에 미치는 영향도 계속 면밀히 점검할 필요가 있다는 의견을 밝혔음.</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"29 Aug 2012 18:48:12 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경영일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160879";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"금통위 회의록에서 보는 저성장 시대에 대한 우려";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160857";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4396:"<div>다른 일부 위원은 수정전망에 의한 하반기 1% 내외의 경제성장률은 지난해 4/4분기∼금년 2/4분기중 평균 0%대 중반의 낮은 성장에 따른 반사효과와 하반기 정부의 재정투자 보강 효과까지 포함한 수준이어서 하반기 재정투자 보강 계획이 계획대로 이루어지지 않을 경우 이마저도 달성하기 힘들 수 있음을 지적한 후, 이처럼 우리 경제의 기조적인 성장모멘텀이 약화되어 있는 상황에서 대외충격이 발생한다면 그 영향이 증폭되어 나타날 소지가 있으므로, 유로지역 재정위기 상황, 미국 중국 등의 실물경기 둔화 움직임에 대한 모니터링을 강화하고, 이러한 여건 변화가 국내 경제에 미치는 영향도 계속 면밀히 점검할 필요가 있다는 의견을 밝혔음.</div>
 <div>&#160;</div>
 <div><b>'2012년도 제13차 회의 금융통화위원회 의사록'중에서 (한국은행,3p,2012.8.28)</b></div>
 <div>&#160;</div>
@@ -288,7 +431,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 <div>금통위 회의록을 통해 본 한국경제의 현재 모습입니다.<br />
 &#160;</div>
 <div>&#160;</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"28 Aug 2012 09:26:07 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경제일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160857";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:126:"삼성과 애플, 그리고 카피캣(모방꾼)과 혁신의 의미 & 비즈델리 기업교육 강사파견 서비스 안내";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160840";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4299:"<div>삼성전자와 애플의 특허소송이 커다란 화제입니다. 미국 캘리포니아 북부지방법원의 배심원단이 현지시각으로 24일 삼성전자가 애플의 특허 5건을 고의적으로 침해했다며 약 1조2000억원에 달하는 손해배상을 결정했지요. 애플의 일방적인 승리였습니다.</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"28 Aug 2012 09:26:07 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경제일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160857";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:126:"삼성과 애플, 그리고 카피캣(모방꾼)과 혁신의 의미 & 비즈델리 기업교육 강사파견 서비스 안내";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160840";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4299:"<div>삼성전자와 애플의 특허소송이 커다란 화제입니다. 미국 캘리포니아 북부지방법원의 배심원단이 현지시각으로 24일 삼성전자가 애플의 특허 5건을 고의적으로 침해했다며 약 1조2000억원에 달하는 손해배상을 결정했지요. 애플의 일방적인 승리였습니다.</div>
 <div>&#160;</div>
 <div>이와 관련해 새너제이 머큐리뉴스의 칼럼리스트 크리스 오브라이언은 “이번 평결로 애플은 업계의 혁신기업이자 업계 리더라는 점을 인정받았고, 삼성전자는 카피캣(Copycat,모방꾼)이라는 오명을 쓰게 됐다”고 말했습니다. 이번 판결로 '애플=혁신기업', '삼성=카피캣'이라는 등식이 퍼지면서 삼성의 이미지가 크게 떨어졌다는 얘깁니다. 국내에서도 그 부작용을 우려하는 목소리가 높습니다.</div>
 <div>&#160;</div>
@@ -317,205 +460,11 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:
 사내 임직원 교육... 컨퍼런스 주최와 기업교육에 풍부한 경험이 있는 비즈델리와 상의하시기 바랍니다.</div>
 <div>&#160;</div>
 <div><a href="http://www.bizdeli.com/customer/company_guide.asp">비즈델리 기업교육 안내 페이지 가보기</a></div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"27 Aug 2012 19:22:25 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경영일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160840";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:57:"쇼펜하우어,타인의 평가에서 자유로워지기";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160810";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:975:"<div>우리가 하는 고민들을 잘 살펴보면 '타인의 평가' 때문인 경우가 많습니다. 쇼펜하우어는 스스로 서지 못하는 우리의 이런 모습을 '어리석다'고 표현합니다.</div>
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"27 Aug 2012 19:22:25 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경영일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160840";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:57:"쇼펜하우어,타인의 평가에서 자유로워지기";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160810";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:975:"<div>우리가 하는 고민들을 잘 살펴보면 '타인의 평가' 때문인 경우가 많습니다. 쇼펜하우어는 스스로 서지 못하는 우리의 이런 모습을 '어리석다'고 표현합니다.</div>
 <div>&#160;</div>
 <div>쇼펜하우어는 또 이렇게 말합니다.<br />
 "무슨 일을 하건 간에 사람들은 제일 먼저 남들의 눈치를 본다. 인생사 대부분의 고민은 남들이 하는 말과 행동 때문에 생긴다. 왜 우리는 그토록 타인의 반응에 신경을 쓰는 것일까&#63; 그 이유는 너무나 민감하고 쉽게 다치는 자존심이라는 연약한 감정 때문에, 또 내면 깊이 숨어 있는 불안 때문이다."(56p)</div>
 <div>&#160;</div>
 <div>자신의 가치를 믿고, 막연한 내면의 불안에서 벗어나는 것. '타인의 평가'로부터 자유로워져 스스로의 힘으로 세상에 당당하게 설 수 있는 길입니다.</div>
 <div>&#160;</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"24 Aug 2012 19:03:38 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"철학인문";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160810";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:74:"고객의 뇌와 '통제권'을 확보하고 있다는 느낌의 중요성";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160790";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3261:"<div>인간의 감정은 자신이 처한 상황을 '통제'할 수 없게 되면 불안해집니다. 불확실성에 대한 스트레스가 생기고 시간이 흐를 수록 불안은 분노로 넘어가기도 하지요. <br />
-&#160;</div>
-<div>고객 마케팅에서도 이런 인간의 감정을 고려하는 것은 중요합니다. 중간 중간마다 고객에게 필요한 내용을 알려줌으로써 고객이 상황을 통제하고 있다는 안도감을 주는 것이 고객 만족을 위해 필요합니다.</div>
-<div>&#160;</div>
-<div>비행기 여행을 할 때 기장의 역할을 그래서 중요합니다. 이륙이나 착륙시 상황 설명을 잘해줄 경우 승객들은 자신이 상황을 통제하고 있다는 느낌을 받으며 만족감을 느낍니다. 하지만 이륙을 위해 활주로에 진입했다고 대충 한 번 알린 뒤에 한참이 지나도록 침묵을 할 경우 사람들은 화가 치밀어 오르기 시작합니다. 저자는 이때 기장이 "저희 비행기 앞에 아직 5대의 비행기가 기다리고 있기 때문에 이륙을 할 때까지 앞으로 약 10분 정도가 소요될 예정입니다"라고 짤막하게 한마디만 해주면 고객들을 만족시킬 수 있다고 말합니다.</div>
-<div>&#160;</div>
-<div>아마존닷컴은 주문을 하면 가능한 배송일자가 적힌 주문 확인서가 발부됩니다. 그리고 배송이 되면 "지금 막 배송이 됐다"는 통지도 해줍니다. 이런 것이 고객으로 하여금 자신이 상황의 전 과정을 통제하고 있다는 느낌을 주는 겁니다. 하지만 지금도 여전히 고객에게 '묵묵부답', '침묵'을 지키는 회사들이 많이 있습니다.</div>
-<div>&#160;</div>
-<div>고객에게 상황에 대한 '통제권'을 확보하고 있다는 느낌을 주는 것, 고객 서비스의 기본입니다.<br />
-&#160;</div>
-<div>&#160;</div>
-<div>
-<div>
-<div>*             *              *</div>
-<div> </div>
-<div> </div>
-<div><a hidefocus="hidefocus" style="selector-dummy: true" href="http://www.booksmba.com/"><u><b><font color="#4668ab">&lt;'직장인 독서교육 프로그램', 북스MBA&gt; </font></b></u></a></div>
-<div> </div>
-<div> </div>
-<div>1.자기경영14: '내가 알고 있는 걸 당신도 알게 된다면'과 '콰이어트'  <br />
-2.OA 기초활용1: '회사에서 바로 통하는 엑셀 2010'  <br />
-3.중간 관리자(팀장) 업무능력 향상1: '제대로 시켜라'와 '함께 일하고 싶은 팀장2'  <br />
-4.기획과 프레젠테이션: '기획이란 무엇인가'와 '스토리텔링 프레젠테이션 프레지'  <br />
-5.스피치의 기술 : '나승연의 프레젠테이션'과 '카네기식 휴먼 스피치'<br />
-6.빅 데이터와 데이터 활용 전략 : '분석의 힘'과 '빅 데이터 비즈니스'<br />
-7.직장인 건강경영3: 스트레스 내려놓기 연습과 두뇌영양실조  <br />
-8.스마트폰&amp;태블릿PC 혁명의 이해: 올웨이즈 온과 아이패드혁명  <br />
-9.트렌드 이해하기: '트렌드 코리아 2012'과 '10년 후 세상'<br />
-10.스티브 잡스에게 배운다 : '스티브 잡스'<br />
- </div>
-</div>
-</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"23 Aug 2012 18:19:14 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:9:"마케팅";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160790";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:48:"'치매의 싹'과 100세 시대의 자기경영";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160765";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4230:"<div>'100세 시대'가 눈앞에 다가오고 있습니다. '건강'과 '재무적 독립'을 갖추고 '자신의 일'이 있는 이에게는 '축복'이지만, 그렇지 못하다면 '재앙'일 수 있는 그런 시대입니다. <br />
-&#160;</div>
-<div>행복한 제2의 인생을 준비하는데 있어서 요즘 사람들이 가장 두려워하는 것이 '치매'입니다. 몇해전 외국책을 보다가 치매에 걸려 점차 기억을 잃어가는 사람이 괴로워하며 쓴 메모 내용을 보고 놀랐던 기억이 납니다. 얼마전에는 EBS 방송이 치매 관련 특집을 하면서 치매에 걸린 분들의 일상을 보여준 적도 있지요. 저자의 표현대로 치매야말로 지독하고 잔인하며 비참한 질병이라는 것을 실감할 수 있었습니다.</div>
-<div>&#160;</div>
-<div>대뇌생리학을 전공한 치매 전문의사인 마쓰바라 에이타 박사. 그는 '치매의 싹'이라는 개념을 이야기합니다.</div>
-<div>&#160;</div>
-<div>"치매가 발병하기 약 20여 년 전, 치매의 싹은 뇌 속 대뇌피질 연합영역에 '노인성 반점'의 형태로 돋아난다. 노인성 반점이란 '베타 아밀로이드'라는 특수한 단백질이다. 좀더 알기 쉽게 설명하면, 나이가 들어 피부에 찾아오는 달갑지 않은 손님인 검버섯 같은 것인데, 심지어 그 모양마저 매우 비슷하다. 즉 치매의 싹은 '뇌에 생긴 검버섯'이라고 생각해도 좋을 것이다. 예를 들어, 누군가 60세에 치매 증상이 나타났다면 그 사람은 20년 전인 40세 전후로 이미 치매의 싹이 트기 시작했다고 할 수 있다."(43P)</div>
-<div>&#160;</div>
-<div>그리고 마쓰바라 박사는 표본조사에서 건강하고 정상적인 40~50대 가운데 무려 80%에서 이미 치매의 싹이 발견되었다는 말을 합니다. 그는 치매의 싹이 성장하는 과정도 설명합니다. 치매의 싹은 20년이라는 긴 시간에 걸쳐 아주 천천히 자라난다고 합니다.</div>
-<div>&#160;</div>
-<div>"이 20년의 시간은 크게 전반 15년과 후반 5년으로 구분할 수 있다. 싹이 돋고 처음 15년 동안은 자각할 수 있는 치매 증상이 전혀 없다... 결국 대부분의 사람들은 자신의 머리에 치매의 싹이 돋아난 줄도 모른 채 15년을 그냥 흘려보내기 쉬운 것이다. 하지만 피부로 체감하는 증상은 거의 없을지 몰라도 그동안 뇌 안에서 일어나는 변화는 꽤나 격렬하다... 반점이라고 우습게 봐서는 곤란하다. 이 노인성 반점은 자라면서 뇌의 신경세포를 무참히 파괴하며 뇌의 기능을 점차 위축시킨다."(45p)</div>
-<div>&#160;</div>
-<div>저자는 그래서 치매의 싹이 돋기 시작하는 연령대인 40~50대가 매우 중요한 시기라고 강조합니다. 그 시기에 어떻게 주의하고 생활하는가에 따라 '치매의 싹'을 크게 키울 것인지 아니면 더 이상 자라지 못하도록 싹을 말려버릴 것인지가 결정된다는 얘깁니다. 그리고 건강하고 비옥한 뇌를 만드는 방법, 뇌에 산소를 공급해주는 방법, 뇌를 자극하고 계속 사용하는 방법, 치매를 부르는 생활습관병을 잡는 방법 등을 조언합니다.</div>
-<div>&#160;</div>
-<div>"잘 걷기만 해도 치매는 막을 수 있다. 평소 적당하게 근육을 쓰면 치매의 싹을 뿌리 뽑을 수 있다. 자세가 무너지면 뇌도 함께 무너진다. 근면함과 성실함이 치매를 이긴다. 당연한 일상을 감사하고 자극적인 일상으로 만들어라. 치매에 걸리고 싶다면 게을러져라. 뇌의 기억력도 먹어야 유지된다. 한 끼에 최소 한 가지는 질긴 음식을 먹어라..."</div>
-<div>&#160;</div>
-<div>마쓰바라 박사의 조언 중에 눈에 띄는, 평소에 생각만 조금 바꾸면 쉽게 실천할 수 있는 방법들입니다. 행복한 제2의 인생을 위해서는 지금부터 노후에 할 '나의 일'을 만들고 재무적인 독립을 준비하면서 동시에 뇌 건강에도 신경을 써야겠습니다.</div>
-<div>&#160;</div>
-<div>&#160;</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"22 Aug 2012 18:08:09 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160765";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"코스트코, 경쟁자의 존재가 나를 강하게 만들어준다";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160735";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3875:"<div>"경쟁이 없었더라면 우리가 지금처럼 성장하지 못했을 것입니다. 경쟁은 고객을 위한 최고의 가치를 만들어내는 지름길입니다. 예컨대 한국에선 신세계와 롯데가 쉽지 않은 경쟁자이죠. 그러나 그들이 있어 우리가 존재하기도 합니다."</div>
-<div>&#160;</div>
-<div>'유통버계의 '스티브 잡스' 코스트코 창업자 짐 시네갈' 중에서 (조선일보, 2012.8.19)</div>
-<div><br />
-올해 76세인 코스트코의 창업자 짐 시네갈. 프라이스클럽 수석부사장으로 있다 47세였던 1983년 코스트코를 창업해 지금의 '유통제국'을 만든 사람입니다. <br />
-&#160;</div>
-<div>시네갈이 말한 '마진율 15%룰'이 인상적입니다. "15%는 우리도 돈을 벌고 고객도 만족하는 적당한 기준이다. 그 이상 이익을 남기면 기업의 규율이 사라지고 탐욕을 추구하게 된다. 나아가 고객들이 떠나고 기업은 낙오한다." '사회 속'에 존재하는 기업의 의미를 이해하고 있는 말이라는 생각이 들었습니다.</div>
-<div>&#160;</div>
-<div>코스트코는 2011년 현재 9개국에 592개 매장, 임직원 12만8000명, 약 101조원의 매출을 기록한 포천지 순위 24위의 기업입니다. 마이크로소프트가 37위라니 그 규모를 알 수 있지요. 눈에 띄는 것이 저도 가끔 가는 코스트코 서울양재점이 연매출 약 5000억원으로 세계 코스트코 매장 중 1위라고 합니다.</div>
-<div>&#160;</div>
-<div>이런 코스트코의 성공비결은 무엇일까. 올해 1월 시네갈의 뒤를 이어 CEO에 취임한 크레이그 젤리넥은 '경쟁자'를 꼽았습니다. 경쟁자와 함께 경쟁을 즐긴 것이 지금의 코스트코를 만들었다는 얘깁니다. 실제로 지난해 미국 캘리포니아주는 코스트코에 사업 허가를 내주었지만, 1위 유통기업인 월마트는 허가를 내주지 않았다고 합니다. 대개 이런 상황에서는 좋아하는 것이 보통인데, 코스트코는 오히려 주정부에 "월마트도 똑같이 허가해달라"고 강력히 호소했습니다. 코스트코에서 좋은 매출을 올리는 매장들은 대개 월마트 근처에 있다고 하지요.</div>
-<div>&#160;</div>
-<div>경쟁자의 존재가 나를 강하게 만들어준다... 경쟁을 피곤하다며 피하고 싶을 때 떠올려보면 좋을 생각입니다.</div>
-<div>&#160;</div>
-<div>&#160;</div>
-<div>
-<div>
-<div>
-<div>*             *              *</div>
-<div> </div>
-<div> </div>
-<div><a hidefocus="hidefocus" style="selector-dummy: true" href="http://www.booksmba.com/"><u><b><font color="#4668ab">&lt;'직장인 독서교육 프로그램', 북스MBA&gt; </font></b></u></a></div>
-<div> </div>
-<div> </div>
-<div>1.자기경영14: '내가 알고 있는 걸 당신도 알게 된다면'과 '콰이어트'  <br />
-2.OA 기초활용1: '회사에서 바로 통하는 엑셀 2010'  <br />
-3.중간 관리자(팀장) 업무능력 향상1: '제대로 시켜라'와 '함께 일하고 싶은 팀장2'  <br />
-4.기획과 프레젠테이션: '기획이란 무엇인가'와 '스토리텔링 프레젠테이션 프레지'  <br />
-5.스피치의 기술 : '나승연의 프레젠테이션'과 '카네기식 휴먼 스피치'<br />
-6.빅 데이터와 데이터 활용 전략 : '분석의 힘'과 '빅 데이터 비즈니스'<br />
-7.직장인 건강경영3: 스트레스 내려놓기 연습과 두뇌영양실조  <br />
-8.스마트폰&amp;태블릿PC 혁명의 이해: 올웨이즈 온과 아이패드혁명  <br />
-9.트렌드 이해하기: '트렌드 코리아 2012'과 '10년 후 세상'<br />
-10.스티브 잡스에게 배운다 : '스티브 잡스'<br />
-&#160;</div>
-</div>
-</div>
-</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"20 Aug 2012 17:27:21 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경영일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160735";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:45:"한일 갈등격화와 양국경제의 명암";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160713";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4572:"<div>한일 갈등이 격화되고 있습니다. 이명박 대통령의 독도행과 일왕사과요구 발언에 대해 일본은 대사 소환, 독도의 국제재판소행 제안, 통화스와프 규모 축소검토 등으로 강하게 공세를 취하고 있습니다.<br />
-일본의 중국에 대한 '부드러운 자세'와 대비됩니다. 일본은 센카쿠열도(다오위다오)에 상륙했던 중국인들을 추방형식으로 조기석방키로 했지요.</div>
-<div> </div>
-<div>이런 일본의 강경한 모습에 대해서는 노다 총리내각의 불안정한 정치상황 등 여러가지 요인이 지적되고 있습니다만, 요즘 계속 한국에 이것저것 밀리고 있다는 '위기감' 등 일본의 심리적 요인도 작용한 것으로 보입니다. 그래도 자기들이 한국보다는 강대국이니 이번 기회에 '혼'을 좀 내주어서 체면을 세우자는 그런 '위기감'에서 나오는 심리일 수 있겠지요. 일본의 강경대응이 예상보다 더 가고 있는 이유입니다.</div>
-<div> </div>
-<div>그 정도로 최근 10~20년 경제에서 한국과 일본의 성과는 뚜렷하게 대비됩니다. 그래서 모건스탠리의 루치르 샤르마 사장이 "한국은 일본에 대해 절대적인 승자라고 말할 수 있다"라는 표현을 쓴 것이지요. 샤르마는 한국이 자동차, 철강은 물론 로봇공학, 항공, 생명공학 등 새로운 성장산업 부문에서도 세계적인 주자로 부상하면서 사람들이 한국을 '아시아의 독일'이라고 평가하기 시작했다고 말합니다. 그리고 지금까지 일본이 장악했던 첨단제품 제조업 분야에서 한국이 아시아를 대표하는 표준으로 자리 잡았다고 평가합니다.</div>
-<div> </div>
-<div>샤르마는 또 한국은 '변화의 모델', 일본은 '현상 유지의 상징'이 되었다는 평가도 내립니다. 그리고 코스피 지수가 최근 수십 년째 세계 자본시장을 반영하는 척도가 되고 있는 반면, 일본의 니케이지수는 세계 경제의 동향에 상당히 둔감해 유명무실한 지수로 전락한 지 오래라고 말합니다. 일본으로서는 뼈아픈 지적이자, 기분 나쁜 평가일 수 밖에 없습니다.</div>
-<div> </div>
-<div>물론 우리는 일본이 아무리 지난 20년 동안 '정체'에 빠져있었다고 해도 여전히 우리보다는 경제규모가 훨씬 크다는 사실을 잊어서는 안됩니다. 일본은 지금도 우리가 치열한 노력을 통해 추월해야할 선진국이지요.<br />
-그리고 동시에 영토가 접해있지 않은 미국이나 접해있어도 유럽에 치중하는 러시아와는 달리, 영토가 직접 접해 있는 일본과 중국과는 언제라도 경제전쟁이나 외교전쟁 뿐만 아니라 군사적인 충돌이 발생할 가능성을 배제할 수 없다는 현실도 잊어서는 안됩니다.</div>
-<div> </div>
-<div>그동안 우리가 잘해왔지만, 아직 '갈 길'은 멀다는 의미입니다. 최근 격화되고 있는 한일갈등을 보고, 지난 20년 한국과 일본의 경제적 성과를 돌아보며 든 단상입니다.<br />
- </div>
-<div>
-<div>
-<div>*             *              *</div>
-<div> </div>
-<div> </div>
-<div><a hidefocus="hidefocus" style="selector-dummy: true" href="http://www.booksmba.com/"><u><b><font color="#4668ab">&lt;'직장인 독서교육 프로그램', 북스MBA&gt; </font></b></u></a></div>
-<div> </div>
-<div> </div>
-<div>1.자기경영14: '내가 알고 있는 걸 당신도 알게 된다면'과 '콰이어트'  <br />
-2.OA 기초활용1: '회사에서 바로 통하는 엑셀 2010'  <br />
-3.중간 관리자(팀장) 업무능력 향상1: '제대로 시켜라'와 '함께 일하고 싶은 팀장2'  <br />
-4.기획과 프레젠테이션: '기획이란 무엇인가'와 '스토리텔링 프레젠테이션 프레지'  <br />
-5.스피치의 기술 : '나승연의 프레젠테이션'과 '카네기식 휴먼 스피치'<br />
-6.빅 데이터와 데이터 활용 전략 : '분석의 힘'과 '빅 데이터 비즈니스'<br />
-7.직장인 건강경영3: 스트레스 내려놓기 연습과 두뇌영양실조  <br />
-8.스마트폰&amp;태블릿PC 혁명의 이해: 올웨이즈 온과 아이패드혁명  <br />
-9.트렌드 이해하기: '트렌드 코리아 2012'과 '10년 후 세상'<br />
-10.스티브 잡스에게 배운다 : '스티브 잡스'<br />
- </div>
-</div>
-<div> </div>
-</div>
-<div> </div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"17 Aug 2012 18:15:01 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"경제일반";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160713";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"집중하기 힘든 시대... 업무에 전념하는 평균시간은 '11분'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160684";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2919:"<div>집중하기 힘든 시대입니다. 기술의 발달은 우리에게 힘이 되어주는 동시에 우리를 방해하고 있지요. 인터넷 서핑, 이메일 확인, 메신저에 이어 요즘은 소셜 미디어들이 우리의 집중을 방해하곤 합니다.</div>
-<div>&#160;</div>
-<div>미국 캘리포니아대의 인체공학및 컴퓨터공학자인 글로리아 마크가 '매번 일이 중단된다면, 노동시간은 얼마나 남을까'에 대해 조사했다고 합니다. 그 내용이 인상적입니다.<br />
-&#160;</div>
-<div>일반적인 직장인이 자신의 업무에 전념할 수 있는 시간은 '11분'이었습니다. 평균적으로 집중력은 11분밖에 지속되지 않았고, 그 11분 뒤에는 일이 중단되었습니다.<br />
-그리고 다시 원래의 업무로 돌아가는데 드는 시간은 '25분'이었습니다. 예상보다 훨씬 긴 시간입니다. 마크는 사람들이 원래의 업무로 돌아가기 전에 일단 평균적으로 두 개의 다른 업무를 뒤적인다고 밝혔습니다. 우리가 흔히 보는 모습입니다.</div>
-<div>&#160;</div>
-<div>사실 '11분'이나 '25분'이라는 수치는 사람마다, 집단마다 다를 수 있습니다. 하지만 분명한 것은 우리가 5년전, 10년전보다 집중하기 힘든 환경에서 지내고 있다는 사실입니다.</div>
-<div>'11분'이라는 다소 충격적인 숫자를 기억하고, 나의 집중력을 높일 수 있는 방법을 강구해보아야겠습니다.<br />
-&#160;</div>
-<div>&#160;</div>
-<div>
-<div> </div>
-<div>
-<div>*             *              *</div>
-<div> </div>
-<div> </div>
-<div><a hidefocus="hidefocus" style="selector-dummy: true" href="http://www.booksmba.com/"><u><b><font color="#4668ab">&lt;'직장인 독서교육 프로그램', 북스MBA&gt; </font></b></u></a></div>
-<div> </div>
-<div> </div>
-<div>1.자기경영14: '내가 알고 있는 걸 당신도 알게 된다면'과 '콰이어트'  <br />
-2.OA 기초활용1: '회사에서 바로 통하는 엑셀 2010'  <br />
-3.중간 관리자(팀장) 업무능력 향상1: '제대로 시켜라'와 '함께 일하고 싶은 팀장2'  <br />
-4.기획과 프레젠테이션: '기획이란 무엇인가'와 '스토리텔링 프레젠테이션 프레지'  <br />
-5.스피치의 기술 : '나승연의 프레젠테이션'과 '카네기식 휴먼 스피치'<br />
-6.빅 데이터와 데이터 활용 전략 : '분석의 힘'과 '빅 데이터 비즈니스'<br />
-7.직장인 건강경영3: 스트레스 내려놓기 연습과 두뇌영양실조  <br />
-8.스마트폰&amp;태블릿PC 혁명의 이해: 올웨이즈 온과 아이패드혁명  <br />
-9.트렌드 이해하기: '트렌드 코리아 2012'과 '10년 후 세상'<br />
-10.스티브 잡스에게 배운다 : '스티브 잡스'<br />
- </div>
-</div>
-</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"16 Aug 2012 18:15:19 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:22:"자기계발&리더십";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160684";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:41:"'있기 어려운' 일이니 감사한다";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:39:"http://www.linxus.co.kr/document/160662";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3155:"<div>일본 경영자들의 멘토로 불리는 고미야 가즈요시. 그는 경영에서 '세심한 마음씀씀이'를 강조합니다.<br />
-"기업을 경영하려면 대담함도 필요하지만, 세심한 마음씀씀이도 필요하다. 결정했다면 추진해야 하지만 위험하다는 판단이 들면 신중해져야 한다. 돌격을 외치는 것이 멋지게 보일지는 모르지만 때로는 신중함이 득이 될 수 있다.<br />
-앞에서 소개했듯이 도산한 기업의 사장일수록 '밝고 힘이 넘치고(성공한 경영인의 공통점이기도 하다)', '대충대충 넘어가며, 허세 부리기를 좋아한다(기업을 도산시키는 경영인의 공통점이다)'." (210p)</div>
-<div>&#160;</div>
-<div>저자는 자신이 만난 성공한 사람들의 특징을 5가지로 정리합니다. 나는 몇가지를 갖고 있는지 보시지요.<br />
-1)신속하다.<br />
-2)칭찬을 잘한다.<br />
-3)남의 일을 자신의 일처럼 생각한다.<br />
-4)엄격하지만 자상하다.<br />
-5)순수하다.</div>
-<div>&#160;</div>
-<div>그리고 저자는 일본어로 '감사하다'는 '아리(있기) 가타이(어렵다)'라고 그 의미를 말합니다. '있기 어려운' 것이 감사의 본질이라는 것이지요. 즉, 좋은 경영자가 되기 위해서는 고객이 찾아오는 것도, 직원들이 열심히 일하는 것도, 기업이 존재하는 것도, 가족과 자기 자신이 건강한 것도 모두 '있기 어려운' 것이라고 생각하고, 감사의 마음을 가져야한다고 조언합니다.</div>
-<div>&#160;</div>
-<div>고미야 가즈요시의 말대로, 이런 생각으로 감사하며 산다면 일과 인생 모두에서 행복할 수 있을 겁니다.</div>
-<div>&#160;</div>
-<div>&#160;</div>
-<div>
-<div>*             *              *</div>
-<div> </div>
-<div> </div>
-<div><a hidefocus="hidefocus" style="selector-dummy: true" href="http://www.booksmba.com/"><u><b><font color="#4668ab">&lt;'직장인 독서교육 프로그램', 북스MBA&gt; </font></b></u></a></div>
-<div> </div>
-<div> </div>
-<div>1.자기경영14: '내가 알고 있는 걸 당신도 알게 된다면'과 '콰이어트'  <br />
-2.OA 기초활용1: '회사에서 바로 통하는 엑셀 2010'  <br />
-3.중간 관리자(팀장) 업무능력 향상1: '제대로 시켜라'와 '함께 일하고 싶은 팀장2'  <br />
-4.기획과 프레젠테이션: '기획이란 무엇인가'와 '스토리텔링 프레젠테이션 프레지'  <br />
-5.스피치의 기술 : '나승연의 프레젠테이션'과 '카네기식 휴먼 스피치'<br />
-6.빅 데이터와 데이터 활용 전략 : '분석의 힘'과 '빅 데이터 비즈니스'<br />
-7.직장인 건강경영3: 스트레스 내려놓기 연습과 두뇌영양실조  <br />
-8.스마트폰&amp;태블릿PC 혁명의 이해: 올웨이즈 온과 아이패드혁명  <br />
-9.트렌드 이해하기: '트렌드 코리아 2012'과 '10년 후 세상'<br />
-10.스티브 잡스에게 배운다 : '스티브 잡스'<br />
-&#160;</div>
-</div>
-<div>&#160;</div>
-<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"14 Aug 2012 17:03:22 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:22:"자기계발&리더십";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160662";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:8:{s:4:"date";s:29:"Mon, 17 Sep 2012 08:46:23 GMT";s:12:"x-powered-by";s:7:"ASP.NET";s:6:"pragma";s:8:"no-cache";s:13:"cache-control";s:17:"private, no-cache";s:14:"content-length";s:5:"75495";s:12:"content-type";s:23:"text/xml; Charset=utf-8";s:7:"expires";s:29:"Sun, 16 Sep 2012 08:46:22 GMT";s:10:"set-cookie";s:53:"ASPSESSIONIDSACTQAQD=CNPCHIBDEECNGMHAADNDHFKC; path=/";}s:5:"build";s:14:"20111015034325";}
+<div>&#160;</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:26:"24 Aug 2012 19:03:38 +0900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"철학인문";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:6:"160810";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"yehbyungil";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:8:{s:4:"date";s:29:"Tue, 25 Sep 2012 04:18:34 GMT";s:12:"x-powered-by";s:7:"ASP.NET";s:6:"pragma";s:8:"no-cache";s:13:"cache-control";s:17:"private, no-cache";s:14:"content-length";s:5:"73789";s:12:"content-type";s:23:"text/xml; Charset=utf-8";s:7:"expires";s:29:"Mon, 24 Sep 2012 04:18:34 GMT";s:10:"set-cookie";s:53:"ASPSESSIONIDSACRSAQC=KKKBIOFAONILGBPDAEDIODGP; path=/";}s:5:"build";s:14:"20111015034325";}

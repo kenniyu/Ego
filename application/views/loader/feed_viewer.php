@@ -38,9 +38,27 @@ foreach ($entries as $item)
 		<img src="/icons/entry_toolbox/comment.png" />
 		<h6>Comment</h6>
 	</div>
-	<div id="etbox_like"  class="entry_toolbox" rel="tooltip" title="Like">
-		<img src="/icons/entry_toolbox/like.png" />
-		<h6>Like</h6>
+	<div class="entry_toolbox etbox_bump" rel="tooltip" title="Bump">
+		<div class="etbox_bump_up">
+		<img class="toolbox_icon" src="/icons/entry_toolbox/bump_up.svg" />
+		<div class="etbox_bump_up_count">';
+		if ($hasAid == true){
+			echo $article->bump_up_count;
+		} else{
+			echo '0';
+		}
+	echo '</div>
+		</div>
+		<div class="etbox_bump_down">
+		<div class="etbox_bump_down_count">';
+		if ($hasAid == true){
+			echo $article->bump_down_count;
+		} else{
+			echo '0';
+		}
+	echo '</div>
+	<img class="toolbox_icon" src="/icons/entry_toolbox/bump_down.svg" />
+		</div>
 	</div>
 	<div class="entry_toolbox etbox_share" rel="tooltip" title="Share this article">
 		<img src="/icons/entry_toolbox/share.png" />

@@ -15,7 +15,7 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
   
   
   
-";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:31:37Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
+";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T02:19:25Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
     
     
     
@@ -23,26 +23,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:31:37Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:31:37Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:14:"Photokina 2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:635:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T02:19:25Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T02:19:25Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:92:"Craigslist ad indexer 3Taps files counterclaim in copyright dispute, alleges 'dirty tricks' ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1362:"
   
   
-    <img alt="photokina" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5559745/Xv09-17_10-01-3020_large.jpg" width="630" />
+    <img alt="3taps craigslist stock 1020" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5784935/theverge_1020_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Photokina is the biennial photography convention where NIkon, Canon, and all the other camera big shots compete for attention with their latest products and best new innovations. Follow this stream to learn about all the new announcements, from more affordable full-frame shooters like the D600 and EOS 6D to slim new mirrorless cams like the Sony NEX-6.</p>
+  <p>A new chapter is unfolding in the legal drama between classified ad service Craigslist, and third parties that repurpose its ads. Two months ago Craigslist <a href="http://www.theverge.com/2012/7/24/3183721/craigslist-sues-padmapper-3taps-copyright-infringement">asserted copyright claims</a> against apartment hunting site PadMapper and its data provider 3Taps for using its user-submitted ads without permission, and now 3Taps is swinging back with a counterclaim accusing Craigslist of using anticompetitive tactics to maintain a monopoly on online classified ad markets.</p>
+<p><a href="http://3taps.com/papers/3taps-answer-counterclaim.pdf">The counterclaim</a>, filed on September 24th, denies that Craigslist exclusively owns its users&rsquo; posts (which the company itself has <a href="http://www.theverge.com/2012/8/9/3232511/craigslist-terms-of-use-change-exclusive-license">recently conceded</a>), and claims that by preventing others from searching its publicly available ads in more efficient ways, Craigslist is behaving like...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/17/3345678/photokina-2012">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/24/3385860/craigslist-3taps-counterclaim-antitrust">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:56:"http://www.theverge.com/2012/9/17/3345678/photokina-2012";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:56:"http://www.theverge.com/2012/9/17/3345678/photokina-2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:81:"http://www.theverge.com/2012/9/24/3385860/craigslist-3taps-counterclaim-antitrust";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:81:"http://www.theverge.com/2012/9/24/3385860/craigslist-3taps-counterclaim-antitrust";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Vlad Savov";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Jeff Blagdon";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
     
     
     
@@ -50,26 +51,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:20:58Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:20:58Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:38:"The Verge is live from Photokina 2012!";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1363:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T01:24:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T01:24:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Royal Society plans Wikipedia 'edit-a-thon' to honor female scientists";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1275:"
   
   
-    <img alt="photokina" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5559745/Xv09-17_10-01-3020_large.jpg" width="630" />
+    <img alt="Galaxy Nexus Wikipedia" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5785107/gnex-wikipedia-50-1020_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Barely a fortnight has passed since our last <a href="http://www.theverge.com/2012/8/29/3276308/best-of-ifa-2012-live-berlin">escapades in Gemany</a>, but we're back in Angela's realm this week to cover the biggest show in photography: Photokina. This biennial convention brings Nikon, Canon, and all the other big camera makers together so they can compare their latest products and do a bit of bragging about their best new innovations. Nikon went public with the <a href="http://www.theverge.com/2012/9/13/3319830/nikon-d600-full-frame-dslr-release-date-price-specs">full-frame D600</a> last week, and today Canon has responded with its own full-frame shooter in the shape of the <a href="http://www.theverge.com/2012/9/17/3337640/canon-eos-6d-full-frame-dslr-wi-fi-release-date-price-specs">Wi-Fi-equipped EOS 6D</a>. Those will surely be the big highlight items on the DSLR front, but stay tuned for a ton more photography news as Photokina develops &mdash; mirrorless, point-and-shoot, and maybe even medium format cameras are all likely to cross our...</p>
+  <p>Wikipedia hosts a vast trove of information, but the <a href="http://www.theverge.com/2012/7/15/3160926/jimmy-wales-wikipedia-gender-gap-kate-middleton-wedding-dress">admitted gender gap</a> amongst the site's volunteer editors has left many female historical figures out of the digital history books. The Royal Society wants to rectify this: <a target="_blank" href="http://www.bbc.com/news/technology-19675169" style="background-color: #ffffff; text-decoration: underline;"><i>BBC</i> reports</a> that an "edit-a-thon" will be held in London (and online) on October 19th, to celebrate the contributions women have made to science by ensuring that their Wikipedia profiles are comprehensive &mdash; or exist at all. Profiles for a few historical figures have been singled out  for updates, but the project's ultimate goal is to improve visibility across the gender divide, and prevent this sort of event from being necessary in the first place.</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/17/3345654/the-verge-is-live-from-photokina-2012">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/24/3384976/royal-society-wikipedia-edit-a-thon-gender-gap">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:79:"http://www.theverge.com/2012/9/17/3345654/the-verge-is-live-from-photokina-2012";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.theverge.com/2012/9/17/3345654/the-verge-is-live-from-photokina-2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:88:"http://www.theverge.com/2012/9/24/3384976/royal-society-wikipedia-edit-a-thon-gender-gap";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:88:"http://www.theverge.com/2012/9/24/3384976/royal-society-wikipedia-edit-a-thon-gender-gap";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Vlad Savov";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Nate Ralph";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
     
     
     
@@ -77,27 +78,34 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:00:26Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:00:26Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"Canon S110, G15, and SX50 HS boost high-end PowerShot line next month";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1201:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T01:22:46Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T01:22:46Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:53:"90 Seconds on The Verge: Monday, September 24th, 2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1781:"
   
   
-    <img alt="canon s110 (embargo 17/9)" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5557089/HR_S110_WHITE_FRONT_CL_copy_large.jpg" width="630" />
+    <img alt="90 Seconds on The Verge: Monday, September 24th, 2012 (video)" height="420" src="http://cdn2.sbnation.com/entry_photo_images/5784049/120924_-_90sotv_still_large.png" width="630" />
   
 
 
 
 
 
-  <p>If smartphones really are threatening the compact camera market, it stands to reason that the higher-end point-and-shoots will be the last models standing. Canon's had more success than most in this arena, and today is announcing updates to its most capable PowerShot compacts ahead of Photokina. The company promises across-the-board improvements in autofocus performance and shutter lag, and has reshuffled its lineup to give it more focus. There's a lot more difference between the S and G series than in previous years, for example, making the decision on which to buy come down to more than just the figurative or literal size of your pockets.</p>
-<p><q class="left">A bit disappointing next to the RX100</q>The S110 is the follow-up to <a href="http://www.theverge.com/2011/11/23/2578710/canon-powershot-s100-review">last year's S100</a> and the latest...</p>
+  <p>If you <a target="_blank" href="http://www.theverge.com/2012/9/23/3379494/on-the-verge-gif-contest">make a GIF</a> based on <i>90 Seconds on The Verge</i>, we can't promise you a car. We can't even promise you 1/40th a car, despite being 1/40th of<i> </i>an episode of <i>On The Verge</i>, roughly speaking. But our rules are more flexible: submit any GIF, and you might win a recommendation from your peers. Five or more will win you a star by your comment. The most recommends wins... a hug. Offer not valid outside the US. Offer also not valid <i>inside</i> the US.</p>
+<p><b>Stories of the day:</b></p>
+<ul>
+<li><a target="_blank" href="http://www.theverge.com/2012/9/24/3381840/iphone-5-sales-five-million/in/3081013">iPhone 5 sales exceed five million after first weekend, more than 100 million devices updated to iOS 6</a></li>
+<li><a target="_blank" href="http://www.theverge.com/2012/9/24/3381462/iphone-5-scuff-damage-aluminum">iPhone 5 owners report scuffs and scratches out of the box</a></li>
+<li><a target="_blank" href="http://www.theverge.com/2012/9/24/3381542/samsung-galaxy-s-iii-android-jelly-bean-update-device-list/in/2885087">Samsung begins Galaxy S III Jelly Bean updates, 15 additional models scheduled</a></li>
+<li> <a target="_blank" href="http://www.theverge.com/2012/9/24/3384058/facebook-public-messages-privacy-scare">Facebook privacy scare illuminates...</a>
+</li>
+</ul>
   <p>
-    <a href="http://www.theverge.com/2012/9/17/3345022/canon-s110-g15-sx50-powershot-price-release-date">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/24/3385160/iphone-5-launch-sales-facebook-privacy-jelly-bean-galaxy-s-iii">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:90:"http://www.theverge.com/2012/9/17/3345022/canon-s110-g15-sx50-powershot-price-release-date";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:90:"http://www.theverge.com/2012/9/17/3345022/canon-s110-g15-sx50-powershot-price-release-date";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:104:"http://www.theverge.com/2012/9/24/3385160/iphone-5-launch-sales-facebook-privacy-jelly-bean-galaxy-s-iii";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:104:"http://www.theverge.com/2012/9/24/3385160/iphone-5-launch-sales-facebook-privacy-jelly-bean-galaxy-s-iii";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Sam Byford";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Ross Miller";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
     
     
     
@@ -105,27 +113,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:00:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:00:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"Canon announces the EOS 6D,  a full-frame DSLR with built-in Wi-Fi for $2,099";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1324:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T01:00:29Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T01:00:29Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"Tesla Model S getting first ever over-the-air car firmware upgrade next week";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1255:"
   
   
-    <img alt="Canon EOS 6D (embargo)" height="420" src="http://cdn2.sbnation.com/entry_photo_images/5523665/HR_6D_EF24_105_3Q_CL_large.jpg" width="630" />
+    <img alt="tesla stock 1020" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5782977/tesla__2_of_5__large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Nikon threw the photography world for a loop last week by <a href="http://www.theverge.com/2012/9/13/3319830/nikon-d600-full-frame-dslr-release-date-price-specs">announcing the D600</a> &mdash; a full-frame DSLR that hits a reasonably affordable price point. Apparently, Canon has its sights on the exact same market, as the company has just introduced the EOS 6D: the lightest, smallest, and least expensive full-frame DSLR the company has ever produced. Canon's latest entry not only compares favorably with the D600, it also provides a compelling alternative to photographers who don't have $3,500 to spare &mdash; but are nonetheless enamored with <a href="http://www.theverge.com/2012/3/2/2836313/canon-eos-5d-mark-iii-official-22-3-megapixel-full-frame-dslr">the 5D Mark III's stacked spec sheet</a>.</p>
-<p>However, the 6D is far more than a repackaged 5D Mark III with some corners cut to achieve its $2,099 retail price &mdash; the camera is Canon's first DSLR to contain...</p>
+  <p>Tesla's <a href="http://www.theverge.com/2011/12/21/2651190/tesla-model-s-electric-sedan-pricing">Model S electric sedan</a> will be the first car to receive an over-the-air firmware update when version 1.9.11 rolls out to over 100 owners next week. <a href="http://www.wired.com/autopia/2012/09/tesla-over-the-air/" target="_blank"><i>Wired</i> reports</a> that the mandatory upgrade will alert owners via an alarm clock icon on the car's 17-inch touchscreen, and it can be scheduled for any time. That's a necessary convenience, since it'll take around two hours to complete and the car must be parked throughout. The update can be performed over Wi-Fi or the Model S' integrated 3G connection. Other manufacturers such as Mercedes-Benz have produced models with similar capabilities, but this appears to be the first time an OTA update will be deployed to consumers.</p>
+<p>So, what does it do? Besides some tweaks to the monitor and...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/17/3337640/canon-eos-6d-full-frame-dslr-wi-fi-release-date-price-specs">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/24/3385506/tesla-model-s-over-the-air-car-firmware-update">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:101:"http://www.theverge.com/2012/9/17/3337640/canon-eos-6d-full-frame-dslr-wi-fi-release-date-price-specs";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:101:"http://www.theverge.com/2012/9/17/3337640/canon-eos-6d-full-frame-dslr-wi-fi-release-date-price-specs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:88:"http://www.theverge.com/2012/9/24/3385506/tesla-model-s-over-the-air-car-firmware-update";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:88:"http://www.theverge.com/2012/9/24/3385506/tesla-model-s-over-the-air-car-firmware-update";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Nathan Ingraham";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Sam Byford";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
     
     
     
@@ -133,26 +141,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T05:58:40Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T05:58:40Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"Fitbit One and affordable Zip sync fitness data directly to iPhone 5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1605:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T23:37:41Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T23:37:41Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:49:"Google updates Chrome for iOS 6, iPhone 5 display";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1330:"
   
   
-    <img alt="Fitbit zip and fitbit one" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5537869/fitbit-zip-and-one_large.jpg" width="630" />
+    <img alt="chrome iphone 5 maps stock 1020" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5781859/theverge_1020_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Today Fitbit is announcing the Fitbit One and Fitbit Zip activity trackers with Bluetooth 4.0 support. The company is also releasing an <a href="http://itunes.apple.com/us/app/fitbit-activity-calorie-tracker/id462638897?mt=8" target="_blank">updated version of its iOS app</a> that will allow both new Bluetooth Smart devices to synchronize directly with the iPhone 4S, third-generation iPad, and new iPhone 5 when it begins shipping later this month. The <a href="https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5maXRiaXQuRml0Yml0TW9iaWxlIl0." target="_blank">Android app</a>, like the iOS app, is being updated with a more complete view of your data but it does not allow for direct device synchronization (a limited number of Android devices will be supported "soon"). Like the $149 <a href="http://www.theverge.com/products/nike-fuelband/5127">Nike+ FuelBand</a> and <a href="http://www.theverge.com/2011/12/8/2621420/jawbone-up-refund-defective-fitness-band">now defunct</a> $99.99 <a href="http://www.theverge.com/products/up/3716" target="_blank">Jawbone Up</a>, the new Fitbit trackers are meant to motivate people towards their health and fitness goals by making them aware of their daily...</p>
+  <p>Google today released an updated version of <a href="http://www.theverge.com/2012/6/28/3123728/google-chrome-for-ios-hands-on">Chrome for iOS</a>, with the latest release including optimizations for iOS 6 and the 4-inch display found on Apple's iPhone 5 and upcoming iPod touch. Chrome's user interface and design haven't changed on the larger screen, but it's nice to see another high-profile app ditch the black letterboxing all the same. Other than miscellaneous bug fixes and performance improvements, there's not much else to this update. Still, it's nice to see Google working to better its presence on iOS: after getting off to a rocky start with the <a href="http://www.theverge.com/2011/11/2/2533321/gmail-ios-hands-on">official Gmail app</a>, the company has delivered solid offerings in Chrome and <a href="http://www.theverge.com/2012/9/11/3314384/youtube-app-iphone-ipod-touch-photos-video">YouTube</a>. We're hoping that if and when a standalone Maps app arrives on Apple's platform, it will be...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/17/3340692/fitbit-zip-one-bluetooth-40-smart-fitness-tracker">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/24/3384982/google-chrome-update-ios-6-iphone-5">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:91:"http://www.theverge.com/2012/9/17/3340692/fitbit-zip-one-bluetooth-40-smart-fitness-tracker";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.theverge.com/2012/9/17/3340692/fitbit-zip-one-bluetooth-40-smart-fitness-tracker";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:77:"http://www.theverge.com/2012/9/24/3384982/google-chrome-update-ios-6-iphone-5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:77:"http://www.theverge.com/2012/9/24/3384982/google-chrome-update-ios-6-iphone-5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Thomas Ricker";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Chris Welch";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
     
     
     
@@ -160,27 +168,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T05:00:12Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T05:00:12Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:55:"Fujifilm XF1 has retro good looks, more palatable price";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1090:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T21:13:47Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T21:13:47Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"eBay debuts Setify, a new organization and wishlist tool for collectors";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1178:"
   
   
-    <img alt="Gallery Photo: Fujifilm XF1 pictures" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5553147/FF-XF1_GroupShot-hero_large.jpg" width="630" />
+    <img alt="ebay setify" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5777413/EbaySetify_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Fujifilm is using Photokina 2012 to expand its X series of digital cameras, and to make the lineup available to a lot more people. The company's latest announcement is the XF1, a high-end point-and-shoot that adopts a retro style similar to the X100 or X10 but at a much friendlier $499.99 price.</p>
-<p>Like Sony's RX100, the XF1 fights above its weight class: it has a fairly large 12-megapixel, two-thirds-inch sensor, an f/1.8-4.9 lens with 4x manual zoom beginning at 25mm equivalent, ISO range up to ISO 12,800, and DSLR-like shooting speeds. It can shoot 1080p video, and has a new scene recognition feature that adapts to what you're shooting. The XF1 is also designed to operate like a DSLR, though the screen-focused controls make it more akin...</p>
+  <p>eBay has announced <a href="http://ebayinkblog.com/2012/09/24/ebays-setify-tool-helps-collectors-track-and-share-their-collections/" target="_blank">a new tool called Setify</a>, which makes it easier for users to organize, share, and add to their collections of treasured objects. The service &mdash; currently in private beta &mdash; allows users to create a collection using items from the site or from their own collections, set up a wishlist of other objects, and share their progress with other eBay members. The service currently only works for coins and comic books, but eBay says that more categories are on the way, along with Setify apps for iOS and Android. eBay is touting the service as somewhat of a return to its roots, as the site was originally populated by collectors, but it will be interesting to see how much the e-commerce company intends to regulate the collector...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/17/3343944/fujifilm-xf1-price-specs-release-date">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/24/3384292/ebay-setify-tool-collectors">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:79:"http://www.theverge.com/2012/9/17/3343944/fujifilm-xf1-price-specs-release-date";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.theverge.com/2012/9/17/3343944/fujifilm-xf1-price-specs-release-date";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:69:"http://www.theverge.com/2012/9/24/3384292/ebay-setify-tool-collectors";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:69:"http://www.theverge.com/2012/9/24/3384292/ebay-setify-tool-collectors";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"David Pierce";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Kimber Streams";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
     
     
     
@@ -188,27 +195,84 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T04:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T04:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Shazam now lets you tag live TV on any channel, hits 250 million users";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1042:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T20:47:23Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T20:47:23Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:93:"Myspace previews its ground-up redesign, will send out invites to the new service 'very soon'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1166:"
   
   
-    <img alt="shazam for iphone" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5557095/shazam_large.png" width="630" />
+    <img alt="New Myspace preview" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5777475/c_0x_large.png" width="630" />
   
 
 
 
 
 
-  <p>Music-tagging app <a href="http://www.shazam.com" target="_blank">Shazam</a> today <a href="http://www.shazam.com/music/web/pressrelease.html?nid=NEWS20120917035849" target="_blank">announced</a> that it's expanding its functionality to let you tag any TV show on any channel in order to find out what music is playing, who's acting on screen, and more. The company also announced that it now has a mind-boggling 250 million users, which makes it one of the top ten most downloaded apps of all time since it debuted back in 2008. "Each week we get more than two million users. People think it's magical," Chief Revenue Officer Doug Garland says. "But the reason people come back is because there's an amazing degree of utility."</p>
+  <p>Myspace has been languishing behind Facebook for years now, but the once-dominant social network isn't going down without a fight. The company just unveiled a preview video of a forthcoming ground-up redesign that looks quite impressive from the few minutes of footage the company has released. We first heard about this potential reboot <a href="http://www.theverge.com/2012/7/22/3173156/myspace-makeover-beta-testing-public-rollout-later-this-year">back in July</a>, but it seems the company is now ready to show off the new interface as well as accept signups for invites when the site is ready for public consumption.</p>
+<p>From what the video shows off, Myspace looks like it will integrate well with the dominant Facebook and Twitter platforms &mdash; there's a short clip that shows off finding friends through Facebook as well as posting tweets directly through...</p>
+  <p>
+    <a href="http://www.theverge.com/2012/9/24/3384398/myspace-major-redesign-preview">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:72:"http://www.theverge.com/2012/9/24/3384398/myspace-major-redesign-preview";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:72:"http://www.theverge.com/2012/9/24/3384398/myspace-major-redesign-preview";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Nathan Ingraham";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T20:15:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T20:15:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:27:"Sony Xperia Tablet S review";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1275:"
+  
+  
+    <img alt="Sony Xperia Tablet S (1024px)" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5776155/IMG_9338-hero_large.jpg" width="630" />
+  
+
+
+
+
+
+  <p>Sony's long marched to the beat of its own drummer &mdash; to varying levels of success. Sony's unique designs have created plenty of success stories (like the <a href="http://www.theverge.com/2012/6/8/3069074/sony-nex-f3-review">NEX line</a> of cameras), but tablets haven't been one of them. The <a href="http://www.theverge.com/products/tablet-p-wi-fi-3g/1647">Tablet P</a> had strange, clamshell hardware that was good for basically nothing other than keeping the screens protected. The original <a href="http://www.theverge.com/products/tablet-s/1643">Tablet S</a>, which looks like a rolled-up magazine, was nice hardware but had really underwhelming and outdated software. Neither was what you'd call a smashing success.</p>
+
+<p>When I met with Sony to talk about its latest tablet, the Xperia Tablet S, reps told me the device was a direct result of everything the company learned from the past two devices. The folded-over magazine aesthetic remains, but...</p>
+  <p>
+    <a href="http://www.theverge.com/2012/9/24/3333106/sony-xperia-tablet-s-review">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:69:"http://www.theverge.com/2012/9/24/3333106/sony-xperia-tablet-s-review";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:69:"http://www.theverge.com/2012/9/24/3333106/sony-xperia-tablet-s-review";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"David Pierce";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T19:53:09Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T19:53:09Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"Facebook privacy scare illuminates the evolution of online conversation";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1096:"
+  
+  
+    <img alt="facebook public timeline posts" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5775161/facebook_wallpost_large.png" width="630" />
+  
+
+
+
+
+
+  <p>Facebook users worldwide today are claiming that private messages sent in 2008 and 2009 are now publicly viewable on their Timeline profile pages. A news story about the issue was first posted by <span style="background-color: #ffffff;"><a style="background-color: #ffffff; " href="http://www.metrofrance.com/high-tech/facebook-d-anciens-messages-prives-publies-sur-la-timeline/mlix!MDk3LU0hjxIQ/" target="_blank">Metro France</a>, and was </span>afterward picked up by sites like <a style="background-color: #ffffff; " href="http://thenextweb.com/facebook/2012/09/24/facebook-users-seeing-private-messages-showing-timelines/" target="_blank"><i>The Next Web</i></a> and <a style="background-color: #ffffff; " href="http://" target="_blank"><i>TechCrunch</i></a>.</p>
 <p></p>
   <p>
-    <a href="http://www.theverge.com/2012/9/17/3344706/shazam-for-tv-any-channel-250-million-users">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/24/3384058/facebook-public-messages-privacy-scare">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:85:"http://www.theverge.com/2012/9/17/3344706/shazam-for-tv-any-channel-250-million-users";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.theverge.com/2012/9/17/3344706/shazam-for-tv-any-channel-250-million-users";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:80:"http://www.theverge.com/2012/9/24/3384058/facebook-public-messages-privacy-scare";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:80:"http://www.theverge.com/2012/9/24/3384058/facebook-public-messages-privacy-scare";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Ellis Hamburger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Ellis Hamburger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
     
     
     
@@ -216,79 +280,24 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T02:59:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T02:59:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:55:"How should mobile phone makers innovate? - Verge Forums";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:326:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T19:02:35Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T19:02:35Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:89:"On The Verge, Episode 009: Microsoft's Andy Wilson and a trip to Industrial Light & Magic";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1202:"
   
   
-    <img alt="android home screen from the forums" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5541153/104ftf_large.jpg" width="630" />
+    <img alt="OTV Show Thumbs" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5774033/show-thumb_large.jpg" width="630" />
   
 
 
 
 
 
-  
+  <p>From prose to prototype, this week's episode of <i>On The Verge</i> kept to a (fairly loose) theme about science fiction. First Josh, Nilay, and Paul took a look at one possible dystopic future as predicted by both Apple Store lines and iOS 6 Maps (it's all in good fun, we promise). HTC also graciously let the trio play around with a quartet of its new <a href="http://www.theverge.com/2012/9/19/3358840/htc-8x-8s-windows-phone-8" target="_blank">Windows Phone 8X</a> flagship devices. Next up, Bryan Bishop took a trip out to legendary special effects house Industrial Light &amp; Magic to<i> </i>learn, among other things, how The Hulk came to life on screen for <i>The Avengers</i>.</p>
+<p>Then science fiction became science fact when Microsoft principal researcher Andy Wilson joined Josh on stage to show off some of the crazy projects he's been working on in the lab,...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/15/3335544/mobile-hardware-there-is-still-innovation-to-be-done">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/24/3382362/on-the-verge-episode-009-microsoft-andy-wilson-ilm-article">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:94:"http://www.theverge.com/2012/9/15/3335544/mobile-hardware-there-is-still-innovation-to-be-done";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:94:"http://www.theverge.com/2012/9/15/3335544/mobile-hardware-there-is-still-innovation-to-be-done";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:100:"http://www.theverge.com/2012/9/24/3382362/on-the-verge-episode-009-microsoft-andy-wilson-ilm-article";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:100:"http://www.theverge.com/2012/9/24/3382362/on-the-verge-episode-009-microsoft-andy-wilson-ilm-article";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Verge Forums";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T23:13:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T23:13:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"Potential US budget cuts could have a significant impact on science";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1219:"
-  
-  
-    <img alt="united states usa america flags waving stock 1024" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5546461/american-flag-waving-stock-1024_large.jpg" width="630" />
-  
-
-
-
-
-
-  <p>While <a href="http://www.theverge.com/2012/8/13/3240071/president-obama-mars-curiosity-promise-protect-science-technology">President Obama has pledged</a> to protect "critical investments in science and technology," looming cuts to the US government's budget could severely reduce the amount of funding these areas receive. The White House Office of Management and Budget has released a lengthy new report covering the potential impact of these budget cuts, which reveals that various science agencies of note could see drastic cuts. The National Institutes of Health, for instance, would be hit with a loss of $2.5 billion in authorized spending, while the Centers for Disease Control and Prevention would lose $464 million and the The National Science Foundation $630 million.</p>
-<p>NASA, meanwhile, would see cuts as well, including having its science budget slashed by...</p>
-  <p>
-    <a href="http://www.theverge.com/2012/9/16/3342436/us-science-budget-cuts">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:64:"http://www.theverge.com/2012/9/16/3342436/us-science-budget-cuts";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:64:"http://www.theverge.com/2012/9/16/3342436/us-science-budget-cuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Andrew Webster";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T20:26:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T20:26:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:46:"Watch this: a guide to CG animations from 1964";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:959:"
-  
-  
-    <img alt="AT&amp;T archives CG animations" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5548079/attcg-1_large.jpg" width="630" />
-  
-
-
-
-
-
-  <p>We often take CG for granted in modern films &mdash; everything from sci-fi flicks to action-heavy blockbusters include plenty of computer generated visuals. But in 1964 the process wasn't quite so widespread. In this film from AT&amp;T's archives &mdash; charmingly titled <em>A Computer Technique For the Production of Animated Movies</em> &mdash; you can see just how CG animations were created decades ago. And the 16-minute film doesn't just explain how the process works, it's also an example: as the introduction explains "this very film was produced entirely by the process which is about to be described."</p>
-<p> <br id="1347826484040"></p>
-  <p>
-    <a href="http://www.theverge.com/2012/9/16/3342862/watch-this-1964-computer-animations">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:77:"http://www.theverge.com/2012/9/16/3342862/watch-this-1964-computer-animations";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:77:"http://www.theverge.com/2012/9/16/3342862/watch-this-1964-computer-animations";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Andrew Webster";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Mon, 17 Sep 2012 08:45:27 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"4b79adebe92533883e9ad8a5447b593d";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"698";s:14:"content-length";s:4:"5314";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Ross Miller";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Tue, 25 Sep 2012 04:18:30 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"ee76678af0c9d693d307d81511e6d2a2";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"115";s:14:"content-length";s:5:"20658";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}

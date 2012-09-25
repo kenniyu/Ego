@@ -3,24 +3,24 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Welcome to Ego</title>
-<link rel="stylesheet" type="text/css" href="http://egodecal.webfactional.com/landing/style.css" />
+<link rel="stylesheet" type="text/css" href="/landing/style.css" />
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" charset="utf-8"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
-<script src="http://egodecal.webfactional.com/js/inc/waypoints.js"></script>
-<script src="http://egodecal.webfactional.com/js/inc/bootstrap-modal.js"></script>
-<script src="http://egodecal.webfactional.com/js/script_landing.js"></script>    
+<script src="/js/inc/waypoints.js"></script>
+<script src="/js/inc/bootstrap-modal.js"></script>
+<script src="/js/script_landing.js"></script>    
 </head>
 <body>
 <div id="container">
 
 <div id="header">
 	<div id="header_nav">
-		<div id="header_nav_logo"><img src="http://egodecal.webfactional.com/landing/ego.png" /></div>
+		<div id="header_nav_logo"><img src="/landing/ego.png" /></div>
 		<div id="header_nav_ego">Ego</div>
-		<a href="http://www.egodecal.com/index.php"><div id="header_nav_about" class="header_nav_item header_nav_aboutActive">ABOUT</div></a>
-		<a href="http://www.egodecal.com"><div id="header_nav_decal" class="header_nav_item">DECAL</div></a>
-		<a data-toggle="modal" href="#login_modal"><div id="header_nav_login" class="header_nav_item">LOGIN</div></a>
-		<a href="https://docs.google.com/spreadsheet/viewform?formkey=dDVQN24xdE83TjRKb2MtNkZKaFc4eUE6MQ"><div id="header_nav_apply">Apply</div></a>	</div>
+		<a href="http://www.egodecal.com"><div id="header_nav_about" class="header_nav_item header_nav_aboutActive">ABOUT</div></a>
+		<a href="/decal.html"><div id="header_nav_decal" class="header_nav_item">DECAL</div></a>
+		<a href="/wiki"><div id="header_nav_login" class="header_nav_item">WIKI</div></a>
+		<a data-toggle="modal" href="#login_modal"><div id="header_nav_apply">LOGIN</div></a>	</div>
 </div>
 
 <div id="contents">
@@ -123,7 +123,7 @@ We all love stalking. You can look at your friends' clips - see what they like, 
 	<div id="contents_ending">
 		<div class="contents_container">
 		<h1>Let's Keep in Touch. </h1>
-<form id="mailing_list" action="http://www.egodecal.com/index.php/query/add_mailingList" method="post" accept-charset="utf-8">
+<form id="mailing_list" action="/index.php/query/add_mailingList" method="post" accept-charset="utf-8">
 <input type="text" id="signup_field" autofocus name="email_address" placeholder="Your Email Address" />
 </form>
 <div id="signup_button">Sure!</div>
@@ -160,7 +160,7 @@ We all love stalking. You can look at your friends' clips - see what they like, 
   	</div>
   </div>
   <div class="modal-body">
-  	<form id="login" action="http://egodecal.webfactional.com/index.php/login/validate_credentials" method="post" accept-charset="utf-8">
+  	<form id="login" action="/index.php/login/validate_credentials" method="post" accept-charset="utf-8">
   		<input class="login_textfield" type="text" autofocus name="username" placeholder="Username"  />
   		<input class="login_textfield" type="password" name="password" placeholder="Password"  />
   </div>
