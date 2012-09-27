@@ -22,7 +22,7 @@ class Feed extends CI_controller{
 			}
 		}
 		$feed = new SimplePie($url);
-		$feed->enable_cache(true);
+		$feed->enable_cache(false);	//Set cache to false for development (cache conflicts when using Source Control); true for deployment
 		$feed->set_cache_location('cache');
 		$feed->set_cache_duration(120);	//default: 10 minutes
 		$feed->set_item_limit(11);
