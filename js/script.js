@@ -538,6 +538,7 @@
 				{ 'permalink': permalink }, // data to send JSON-hash encoded        
 				function(data) {
       				target.text(data);
+      				//$(this).children('.etbox_bump_down_count').text('' + (parseint($(this).children('.etbox_bump_down_count').text()) - 1));
       		});
 		});
 		
@@ -549,6 +550,7 @@
 				{ 'permalink': permalink }, // data to send JSON-hash encoded        
 				function(data) {
       				target.text(data);
+      				//$(this).children('.etbox_bump_up_count').text('' + (parseint($(this).children('.etbox_bump_up_count').text()) - 1));
       		});
 		});
 		
