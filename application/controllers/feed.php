@@ -2,10 +2,10 @@
 
 class Feed extends CI_controller{
 
-
 	function feed_loader($feed_type, $id, $init){
 		require_once('inc/simplepie.inc');
 		$this->load->model('loader_model');
+		$this->load->model('feed_model');
 		if ($feed_type == 'label'){
 			if ($id == 'all_feeds'){
 				$url = $this->loader_model->get_feeds_all($this->session->userdata('username'));
@@ -30,19 +30,50 @@ class Feed extends CI_controller{
 		$feed->handle_content_type();
 		if ($init == "quantity"){
 			echo $feed->get_item_quantity();
-		}else if ($init == "discovery"){
-			if ($feed_type == 'label'){
-				$data['entries'] = $feed->get_items(0, 20);
-			} else{
-				$data['entries'] = $feed->get_items();
+		}else{
+			$entries = array();	//Create an array of entries to be passed to View
+			foreach ($feed->get_items($init, $init+10) as $item){	//For each entry fetched by SimplePie...
+				$entry['permalink'] = $item->get_permalink();
+				if ($this->loader_model->check_mark($entry['permalink']) == true){	//If the article was marked as read, skip this article
+					continue;
+				}
+				//Load necessary contents...
+				$entry['source'] = $item->get_feed()->get_title();
+				$entry['title'] = $item->get_title();
+				$entry['date'] = $item->get_date();
+				$entry['content'] = $item->get_content();
+				//Check if this article has been cached. If not, save the article in cache (database) and generate tags. Save the tags into database as well.
+				if (!$this->feed_model->check_aid($entry['permalink'])){
+					$aid = $this->feed_model->add_article($entry['permalink'], $entry['title'], $entry['source'], $entry['date'], $entry['content']);
+					$tags = array();
+					$tags_json = $this->extract_keyword(strip_tags($entry['content']));
+					foreach($tags_json->keywords as $keyword){
+						array_push($tags, $keyword->text);
+					}
+					$this->feed_model->add_tags($tags, $aid);
+				}
+				//Load the informationa about cached article (ex. Popularity Metrics)
+				$entry['article'] = $this->loader_model->load_article($entry['permalink']);
+				//Append the entry to the array of entries we have created.
+				array_push($entries, $entry);
 			}
-			$this->load->view('loader/discovery_viewer', $data);
-		} else{
-			$data['entries'] = $feed->get_items($init, $init+10);
+			$data['entries'] = $entries;	//Prepare for passing the data to View
 			$this->load->view('loader/feed_viewer', $data);
 		}
 	}
 	
+	function extract_keyword($content){
+		$characters = array('"');
+		$replacements = array(' ');
+		$text = str_replace($characters, $replacements, $content);
+		require_once('inc/AlchemyAPI.php');
+		
+		$alchemyObj = new AlchemyAPI();
+		$alchemyObj->setAPIKey("1414657c7c56cc31a067f8daafabf1d6978c28fe");
+		
+		return json_decode($alchemyObj->TextGetRankedKeywords($text, 'json'));
+	}
+		
 	function alchemy_extract_keyword(){
 		$text = $_POST['text'];
 		$characters = array('"');

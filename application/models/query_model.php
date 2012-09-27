@@ -126,6 +126,7 @@
 				'aid' => $permalink, 'title' => $title, 'source' => $source, 'date' => $date, 'content' => $content
 			));
 		}
+<<<<<<< Updated upstream
 		function add_clip($permalink, $title, $content, $source, $date, $type){
 			if ($this->db->get_where('articles', array('aid' => $permalink))->num_rows() == 0){
 				$this->db->insert('articles', array(
@@ -158,9 +159,13 @@
 			$this->db->update('articles', array('share_count' => $share_count+1));
 			return $share_count+1;
 		}
+=======
+		
+>>>>>>> Stashed changes
 		function mark($aid){
 			$this->db->insert('mark', array('aid' => $aid, 'username' => $this->session->userdata('username'), 'timestamp' => date("Y-m-d")));
 		}
+		
 		function move_clip($id, $destination){
 			$update = array('type' => $destination);
 			$this->db->where('id', $id);

@@ -24,13 +24,28 @@ class Social extends CI_controller{
 	
 	function add_clip(){
 		$permalink = $this->input->post('permalink');
+<<<<<<< Updated upstream
 		$title = $this->input->post('title');
 		$content = $this->input->post('content');
 		$source = $this->input->post('source');
 		$date = $this->input->post('date');
 		$this->load->model('query_model');
 		$result = $this->query_model->add_clip($permalink, $title, $content, $source, $date, 'public');
+=======
+		$username = $this->session->userdata('username');
+		$this->load->model('social_model');
+		$result = $this->social_model->add_clip($permalink, $username, 'public');
+>>>>>>> Stashed changes
 		echo $result;
+	}
+		
+	function share_entry(){
+		$permalink = $this->input->post('permalink');
+		$sender = $this->session->userdata('username');
+		$recipient = $this->input->post('recipient');
+		$this->load->model('social_model');
+		$result = $this->social_model->share_clip($sender, $recipient, $permalink, 'received');
+		echo $result;	
 	}
 	
 	function move_clip($id, $destination){
@@ -62,19 +77,6 @@ class Social extends CI_controller{
 		$username = $this->session->userdata('username');
 		$this->social_model->add_friend($username, $friend_name);
 		redirect('site/clips');
-	}
-	
-	function share_entry(){
-		$sender = $this->session->userdata('username');
-		$recipient = $this->input->post('recipient');
-		$permalink = $this->input->post('permalink');
-		$title = $this->input->post('title');
-		$content = $this->input->post('content');
-		$source = $this->input->post('source');
-		$date = $this->input->post('date');
-		$this->load->model('query_model');
-		$result = $this->query_model->share_clip($sender, $recipient, $permalink, $title, $content, $source, $date, 'received');
-		echo $result;
 	}
 	
 	function edit_profilepic(){

@@ -529,11 +529,39 @@
 			}
 		});
 	
+<<<<<<< Updated upstream
+=======
+		//Article Toolbox: Bump
+		
+		$('.etbox_bump_up').live('click', function() {
+			var root = $(this).parent().parent().parent();
+			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
+			var target = $(this).children('.etbox_bump_up_count');
+			$.post("/social/give_bump/0", 
+				{ 'permalink': permalink }, // data to send JSON-hash encoded        
+				function(data) {
+      				target.text(data);
+      		});
+		});
+		
+		$('.etbox_bump_down').live('click', function() {
+			var root = $(this).parent().parent().parent();
+			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
+			var target = $(this).children('.etbox_bump_down_count');
+			$.post("/social/give_bump/1", 
+				{ 'permalink': permalink }, // data to send JSON-hash encoded        
+				function(data) {
+      				target.text(data);
+      		});
+		});
+		
+>>>>>>> Stashed changes
 		
 		//Article Toolbox: Clip
 		$('.etbox_clip').live('click', function() {
 			var root = $(this).parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
+<<<<<<< Updated upstream
 			var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
 			var source = root.children('.entry_header').children('.entry_info').children('.entry_source').text();
 			var date = root.children('.entry_header').children('.entry_info').children('.entry_date').text();
@@ -547,6 +575,15 @@
      			target.show();
      			root.addClass('hasAid');
   			});
+=======
+			var target = $(this).children('.clip_count');
+			$.post("/social/add_clip", 
+				{ 'permalink': permalink }, // data to send JSON-hash encoded        
+				function(data) {
+      				target.text(data);
+      				target.show();
+      		});
+>>>>>>> Stashed changes
     	});
 		
 		//Article Toolbox: Mark as read
@@ -571,6 +608,19 @@
 		
 		$('.esp_share').live('submit', function(){
 			var recipient = $(this).children('.esp_recipient').val();
+			var root = $(this).parent().parent();
+			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
+			var target = $(this).children('.clip_count');
+			$.post("/social/share_entry", 
+				{ 'recipient': recipient, 'permalink': permalink }, // data to send JSON-hash encoded        
+				function(data) {
+      				target.text(data);
+      				target.show();
+      				root.children('.entry_footer').children('.etbox_share_popover').toggle('fade', {}, 300);
+      		});
+			
+			/*
+			var recipient = $(this).children('.esp_recipient').val();
 			var root = $(this).parent().parent().parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
 			var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
@@ -588,6 +638,7 @@
      			root.addClass('hasAid');
   			});
   			return false;
+  			*/
 		});
 		
 		$('#NowAt').hover(function(){
