@@ -22,20 +22,19 @@ class Social extends CI_controller{
 		$this->load->view('loader/clip_viewer', $data);
 	}
 	
+	function give_bump($type){
+		$permalink = $this->input->post('permalink');
+		$username = $this->session->userdata('username');
+		$this->load->model('social_model');
+		$result = $this->social_model->give_bump($type, $permalink, $username);
+		echo $result;
+	}
+	
 	function add_clip(){
 		$permalink = $this->input->post('permalink');
-<<<<<<< Updated upstream
-		$title = $this->input->post('title');
-		$content = $this->input->post('content');
-		$source = $this->input->post('source');
-		$date = $this->input->post('date');
-		$this->load->model('query_model');
-		$result = $this->query_model->add_clip($permalink, $title, $content, $source, $date, 'public');
-=======
 		$username = $this->session->userdata('username');
 		$this->load->model('social_model');
 		$result = $this->social_model->add_clip($permalink, $username, 'public');
->>>>>>> Stashed changes
 		echo $result;
 	}
 		

@@ -4,8 +4,6 @@ class Social_model extends CI_Model{
 	public function __construct(){
 			$this->load->database();
 	}
-<<<<<<< Updated upstream
-=======
 	function give_bump($type, $permalink, $username){
 		$article = $this->db->get_where('articles', array('aid' => $permalink))->row();
 		$ref_id = $article->id;
@@ -55,7 +53,6 @@ class Social_model extends CI_Model{
 			return $share_count+1;
 	}
 	
->>>>>>> Stashed changes
 	function get_clips($username){
 			/*
 			$query = $this->db->get_where('clip', array('username' => $username, 'type' => 'public'));

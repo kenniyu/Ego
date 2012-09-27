@@ -32,11 +32,6 @@ foreach ($entries as $item)
 		<img src="/icons/entry_toolbox/comment.png" />
 		<h6>Comment</h6>
 	</div>
-<<<<<<< Updated upstream
-	<div id="etbox_like"  class="entry_toolbox" rel="tooltip" title="Like">
-		<img src="/icons/entry_toolbox/like.png" />
-		<h6>Like</h6>
-=======
 	<div class="entry_toolbox etbox_bump" rel="tooltip" title="Bump">
 		<div class="etbox_bump_up">
 		<img class="toolbox_icon" src="/icons/entry_toolbox/bump_up.svg" />
@@ -50,7 +45,6 @@ foreach ($entries as $item)
 	echo '</div>
 	<img class="toolbox_icon" src="/icons/entry_toolbox/bump_down.svg" />
 		</div>
->>>>>>> Stashed changes
 	</div>
 	<div class="entry_toolbox etbox_share" rel="tooltip" title="Share this article">
 		<img src="/icons/entry_toolbox/share.png" />

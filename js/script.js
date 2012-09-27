@@ -528,9 +528,6 @@
 				$(this).replaceWith('<div class="eps_selector">Successfully moved!</div>');
 			}
 		});
-	
-<<<<<<< Updated upstream
-=======
 		//Article Toolbox: Bump
 		
 		$('.etbox_bump_up').live('click', function() {
@@ -555,13 +552,11 @@
       		});
 		});
 		
->>>>>>> Stashed changes
 		
 		//Article Toolbox: Clip
 		$('.etbox_clip').live('click', function() {
 			var root = $(this).parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
-<<<<<<< Updated upstream
 			var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
 			var source = root.children('.entry_header').children('.entry_info').children('.entry_source').text();
 			var date = root.children('.entry_header').children('.entry_info').children('.entry_date').text();
@@ -575,15 +570,6 @@
      			target.show();
      			root.addClass('hasAid');
   			});
-=======
-			var target = $(this).children('.clip_count');
-			$.post("/social/add_clip", 
-				{ 'permalink': permalink }, // data to send JSON-hash encoded        
-				function(data) {
-      				target.text(data);
-      				target.show();
-      		});
->>>>>>> Stashed changes
     	});
 		
 		//Article Toolbox: Mark as read

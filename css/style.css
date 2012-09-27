@@ -874,6 +874,53 @@
 	.clip_text{
 		float: left;
 	}
+	.etbox_bump {
+padding: 0px;
+height: 50px;
+}
+
+.etbox_bump img {
+position: relative;
+float: left;
+padding-top: 2px;
+width: 20px;
+height: 20px;
+}
+
+.etbox_bump_up {
+height: 20px;
+float: left;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 13px;
+padding-bottom: 17px;
+}
+
+.etbox_bump_up_count {
+float: left;
+margin-left: 10px;
+padding-top: 2px;
+font-size: 15px;
+font-weight: 200;
+}
+
+.etbox_bump_down {
+height: 20px;
+float: left;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 15px;
+padding-bottom: 15px;
+border-left: 1px solid #DDD;
+}
+
+.etbox_bump_down_count {
+float: left;
+margin-right: 10px;
+font-size: 15px;
+font-weight: 200;
+}
+
 	.etbox_count {
 		float: left;
 		margin-top: 3px;
