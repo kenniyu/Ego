@@ -149,7 +149,7 @@
 		$('.usersidebar_toggle').waypoint(function(event, direction){
 			$('.usersidebar_main').toggleClass('usersidebar_sticky', direction=='down');
 			$('.usersidebar_main').removeClass('usersidebar_toggled', direction=='up');
-		}, {offset: 203});
+		}, {offset: 256});
 		
 		
 		

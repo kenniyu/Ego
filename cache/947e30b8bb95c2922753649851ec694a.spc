@@ -1,1 +1,0 @@
-a:3:{s:3:"url";s:19:"http://memebase.com";s:8:"feed_url";s:36:"http://feeds.feedburner.com/Memebase";s:5:"build";s:14:"20111015034325";}

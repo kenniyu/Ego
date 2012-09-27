@@ -93,6 +93,9 @@
 		function load_article($aid){
 			return $this->db->get_where('articles', array('aid' => $aid))->row();
 		}
+		function load_article_by_id($id){
+			return $this->db->get_where('articles', array('id' => $id))->row();
+		}
 		
 		//Functions for loading numbers
 		function get_clipCount($aid){

@@ -206,6 +206,12 @@
 </div>
 </div>
 
+<div class="ultra_modal">
+<div class="ultra_modal_container">
+</div>
+</div>
+
+
 
 <div class="modal" id="profile_modal">
 <div class="model_wrapper">
