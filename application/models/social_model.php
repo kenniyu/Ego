@@ -16,7 +16,7 @@ class Social_model extends CI_Model{
 		if($query_check_bumped->num_rows() > 1)
 		{
 			// Error - return with no changes.
-			return ($type == '0')? intval($article->bump_up_count) : intval($article->bump_down_count);
+			return $article->bump_up_count.';'.$article->bump_down_count;
 		}
 		
 		// If the user hasn't ever bumped
@@ -29,29 +29,29 @@ class Social_model extends CI_Model{
 				'ref_id' => $ref_id
 			));
 			
+			$up_bump_count = intval($article->bump_up_count);
+			$down_bump_count = intval($article->bump_down_count);
+			
 			// if the bump was a like ('0') increment the up in the 'articles' table
 			if ($type == '0')
 			{
-				$bump_count = intval($article->bump_up_count);
 				$this->db->where('aid', $permalink);
-				$this->db->update('articles', array('bump_up_count' => $bump_count+1));
-				return $bump_count+1;
+				$this->db->update('articles', array('bump_up_count' => ++$up_bump_count));
 			}
 			// if the bump was a dislike ('1') increment the down in the 'articles' table 
 			else
 			{
-				$bump_count = intval($article->bump_down_count);
 				$this->db->where('aid', $permalink);
-				$this->db->update('articles', array('bump_down_count' => $bump_count+1));
-				return $bump_count+1;
+				$this->db->update('articles', array('bump_down_count' => ++$down_bump_count));
 			}
-
+			
+			return $up_bump_count.';'.$down_bump_count;
 		}
 		
 		// if the user has bumped and the bump type is the same as before
 		elseif($query_check_bumped->row()->type == $type)
 		{
-			return ($type == '0')? intval($article->bump_up_count) : intval($article->bump_down_count);
+			return $article->bump_up_count.';'.$article->bump_down_count;
 		}
 		
 		// if the user has bumped and the bump type is different

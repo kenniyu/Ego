@@ -534,24 +534,32 @@
 			var root = $(this).parent().parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
 			var target = $(this).children('.etbox_bump_up_count');
+			var target_other = $('.etbox_bump_down').children('.etbox_bump_down_count');
 			$.post("/social/give_bump/0", 
 				{ 'permalink': permalink }, // data to send JSON-hash encoded        
-				function(data) {
-      				target.text(data);
-      				//$(this).children('.etbox_bump_down_count').text('' + (parseint($(this).children('.etbox_bump_down_count').text()) - 1));
-      		});
+				function(data) 
+				{
+					var data_array = data.split(';');
+      				target.text(data_array[0]);
+      				target_other.text(data_array[1]);
+      			}
+      		);
 		});
 		
 		$('.etbox_bump_down').live('click', function() {
 			var root = $(this).parent().parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
 			var target = $(this).children('.etbox_bump_down_count');
+			var target_other = $('.etbox_bump_up').children('.etbox_bump_up_count');
 			$.post("/social/give_bump/1", 
 				{ 'permalink': permalink }, // data to send JSON-hash encoded        
-				function(data) {
-      				target.text(data);
-      				//$(this).children('.etbox_bump_up_count').text('' + (parseint($(this).children('.etbox_bump_up_count').text()) - 1));
-      		});
+				function(data)
+				{
+					var data_array = data.split(';');
+      				target.text(data_array[1]);
+      				target_other.text(data_array[0]);
+      			}
+      		);
 		});
 		
 		
