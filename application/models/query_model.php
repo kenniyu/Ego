@@ -126,43 +126,11 @@
 				'aid' => $permalink, 'title' => $title, 'source' => $source, 'date' => $date, 'content' => $content
 			));
 		}
-		function add_clip($permalink, $username, $type){
-			/*
-			if ($this->db->get_where('articles', array('aid' => $permalink))->num_rows() == 0){
-				$this->db->insert('articles', array(
-					'aid' => $permalink, 'title' => $title, 'source' => $source, 'date' => $date, 'content' => $content
-				));
-			} 
-			*/ 
-			$article = $this->db->get_where('articles', array('aid' => $permalink))->row();
-			$ref_id = $article->id;
-			$this->db->insert('clips', array(
-				'username' => $username, 'type' => $type, 'ref_id' => $ref_id
-			));
-			$clip_count = intval($article->clip_count);
-			$this->db->where('aid', $permalink);
-			$this->db->update('articles', array('clip_count' => $clip_count+1));
-			return $clip_count+1;
-		}
-		function share_clip($sender, $recipient, $permalink, $title, $content, $source, $date, $type){
-			if ($this->db->get_where('articles', array('aid' => $permalink))->num_rows() == 0){
-				$this->db->insert('articles', array(
-					'aid' => $permalink, 'title' => $title, 'source' => $source, 'date' => $date, 'content' => $content
-				));
-			}  
-			$article = $this->db->get_where('articles', array('aid' => $permalink))->row();
-			$ref_id = $article->id;
-			$this->db->insert('clips', array(
-				'username' => $recipient, 'type' => $type, 'sender' => $sender, 'ref_id' => $ref_id
-			));
-			$share_count = intval($article->share_count);
-			$this->db->where('aid', $permalink);
-			$this->db->update('articles', array('share_count' => $share_count+1));
-			return $share_count+1;
-		}
+		
 		function mark($aid){
 			$this->db->insert('mark', array('aid' => $aid, 'username' => $this->session->userdata('username'), 'timestamp' => date("Y-m-d")));
 		}
+		
 		function move_clip($id, $destination){
 			$update = array('type' => $destination);
 			$this->db->where('id', $id);

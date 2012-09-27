@@ -2,36 +2,30 @@
 //The UI layer for feed entries
 foreach ($entries as $item)
 {
+	/*
 	$current_feed = $item->get_feed();
 	$source = $current_feed->get_title();
 	$source = str_replace('topic', 'keyword', $source);
 	$source = str_replace('- Google News', ' ', $source);
 	$aid = $item->get_permalink();
-	if ($this->loader_model->check_mark($aid) == true){
-		continue;
-	}
-	$hasAid = $this->loader_model->check_aid($aid);
+	*/
+	$aid = $item['permalink'];
+	$article = $item['article'];
 	echo '<div class="entryContainer" data-aid="'.$aid.'">';
 	echo '<div class="entryMattress"><div class="entryMark"><img src="http://www.egodecal.com/icons/entry_toolbox/markRead.png" />Drag to<br>Mark as read</div></div>';
 	echo '<div class="entryBox">';
-	if ($hasAid == true){
-		$article = $this->loader_model->load_article($aid);
-		echo '<div class="entry hasAid">';
-	}else {
-		echo '<div class="entry">';
-	}
-	
+	echo '<div class="entry hasAid">';
 	echo '<div class="entry_header">
 			<div class="entry_headline">
 				<a class="entry_permalink" href="'.$aid.'">
-				<h2 class="entry_title">'.$item->get_title().'</h2>
+				<h2 class="entry_title">'.$item['title'].'</h2>
 				</a>
 			</div>
 			<div class="entry_info">
-				<a class="entry_source" href="'.$current_feed->get_permalink().'">'.$source.'</a> | <p class="entry_date">'.$item->get_date().'</p></div>
+				<a class="entry_source" href="'.$aid.'">'.$item['source'].'</a> | <p class="entry_date">'.$item['date'].'</p></div>
 		</div> ';
 		
-	echo '<div class="entry_content">'.$item->get_content().'</div>';
+	echo '<div class="entry_content">'.$item['content'].'</div>';
 	
 	echo '<div class="entry_footer">
 	<div id="etbox_comment" class="entry_toolbox" rel="tooltip" title="Add Comment">
@@ -42,20 +36,12 @@ foreach ($entries as $item)
 		<div class="etbox_bump_up">
 		<img class="toolbox_icon" src="/icons/entry_toolbox/bump_up.svg" />
 		<div class="etbox_bump_up_count">';
-		if ($hasAid == true){
-			echo $article->bump_up_count;
-		} else{
-			echo '0';
-		}
+		echo $article->bump_up_count;
 	echo '</div>
 		</div>
 		<div class="etbox_bump_down">
 		<div class="etbox_bump_down_count">';
-		if ($hasAid == true){
-			echo $article->bump_down_count;
-		} else{
-			echo '0';
-		}
+		echo $article->bump_down_count;
 	echo '</div>
 	<img class="toolbox_icon" src="/icons/entry_toolbox/bump_down.svg" />
 		</div>
@@ -64,28 +50,20 @@ foreach ($entries as $item)
 		<img src="/icons/entry_toolbox/share.png" />
 		<div class="share_text"><h6>Share</h6></div>
 		<div class="etbox_count share_count"';
-		if ($hasAid == true){
-			if ($article->share_count > 0){
+		if ($article->share_count > 0){
 				echo 'style="display: block;"';
 				}
 			echo '>'.$article->share_count;
-		} else{
-			echo '>';
-		}
 		echo '</div>
 	</div>
 	<div class="entry_toolbox etbox_clip" rel="tooltip" title="Add to my Clip" onclick="clip();">
 		<img src="/icons/entry_toolbox/pin.png" />
 		<div class="clip_text"><h6>Clip</h6></div>
 		<div class="etbox_count clip_count"';
-		if ($hasAid == true){
-			if ($article->clip_count > 0){
+		if ($article->clip_count > 0){
 				echo 'style="display: block;"';
 				}
 			echo '>'.$article->clip_count;
-		} else{
-			echo '>';
-		}
 		echo '</div>
 	</div>
 	<div class="entry_toolbox etbox_mark" data-aid="'.$aid.'" rel="tooltip" title="Mark as read">

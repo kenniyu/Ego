@@ -587,54 +587,22 @@
 			var root = $(this).parent().parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
 			var target = $(this).children('.etbox_bump_up_count');
-			if (!($(this).parent().parent().hasClass('hasAid'))){
-				var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
-				var source = root.children('.entry_header').children('.entry_info').children('.entry_source').text();
-				var date = root.children('.entry_header').children('.entry_info').children('.entry_date').text();
-				var content = root.children('.entry_content').html();
-				$.post("/query/add_article", 
-				{ 'permalink': permalink, 'title': title, 'content': content, 'source': source, 'date': date }, function(){
-					$.post("/social/give_bump/0", 
-					{ 'permalink': permalink }, // data to send JSON-hash encoded        
-					function(data) {
-						target.text(data);
-					});
-				}); // data to send JSON-hash encoded  
-				root.addClass('hasAid');      
-			} else{
-				$.post("/social/give_bump/0", 
+			$.post("/social/give_bump/0", 
 				{ 'permalink': permalink }, // data to send JSON-hash encoded        
 				function(data) {
       				target.text(data);
-      			});
-  			}
+      		});
 		});
 		
 		$('.etbox_bump_down').live('click', function() {
 			var root = $(this).parent().parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
 			var target = $(this).children('.etbox_bump_down_count');
-			if (!($(this).parent().parent().hasClass('hasAid'))){
-				var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
-				var source = root.children('.entry_header').children('.entry_info').children('.entry_source').text();
-				var date = root.children('.entry_header').children('.entry_info').children('.entry_date').text();
-				var content = root.children('.entry_content').html();
-				$.post("/query/add_article", 
-				{ 'permalink': permalink, 'title': title, 'content': content, 'source': source, 'date': date }, function(){
-					$.post("/social/give_bump/1", 
-					{ 'permalink': permalink }, // data to send JSON-hash encoded        
-					function(data) {
-						target.text(data);
-					});
-				}); // data to send JSON-hash encoded  
-				root.addClass('hasAid');      
-			} else{
-				$.post("/social/give_bump/1", 
+			$.post("/social/give_bump/1", 
 				{ 'permalink': permalink }, // data to send JSON-hash encoded        
 				function(data) {
       				target.text(data);
-      			});
-  			}
+      		});
 		});
 		
 		
@@ -643,31 +611,12 @@
 			var root = $(this).parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
 			var target = $(this).children('.clip_count');
-			if (!($(this).parent().parent().hasClass('hasAid'))){
-				var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
-				var source = root.children('.entry_header').children('.entry_info').children('.entry_source').text();
-				var date = root.children('.entry_header').children('.entry_info').children('.entry_date').text();
-				var content = root.children('.entry_content').html();
-				$.post("/query/add_article", 
-				{ 'permalink': permalink, 'title': title, 'content': content, 'source': source, 'date': date }, function(){
-					$.post("/social/add_clip", 
-					{ 'permalink': permalink }, // data to send JSON-hash encoded        
-					function(data) {
-						target.text(data);
-						alert("The article \""+title+"\" was successfully added to your Clip.");
-						target.show();
-					});
-				}); // data to send JSON-hash encoded  
-				root.addClass('hasAid');      
-			} else{
-				$.post("/social/add_clip", 
+			$.post("/social/add_clip", 
 				{ 'permalink': permalink }, // data to send JSON-hash encoded        
 				function(data) {
       				target.text(data);
-      				alert("The article \""+title+"\" was successfully added to your Clip.");
       				target.show();
-      			});
-  			}
+      		});
     	});
 		
 		//Article Toolbox: Mark as read
@@ -692,6 +641,19 @@
 		
 		$('.esp_share').live('submit', function(){
 			var recipient = $(this).children('.esp_recipient').val();
+			var root = $(this).parent().parent();
+			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
+			var target = $(this).children('.clip_count');
+			$.post("/social/share_entry", 
+				{ 'recipient': recipient, 'permalink': permalink }, // data to send JSON-hash encoded        
+				function(data) {
+      				target.text(data);
+      				target.show();
+      				root.children('.entry_footer').children('.etbox_share_popover').toggle('fade', {}, 300);
+      		});
+			
+			/*
+			var recipient = $(this).children('.esp_recipient').val();
 			var root = $(this).parent().parent().parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
 			var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
@@ -709,6 +671,7 @@
      			root.addClass('hasAid');
   			});
   			return false;
+  			*/
 		});
 		
 		$('#NowAt').hover(function(){

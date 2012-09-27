@@ -15,7 +15,7 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
   
   
   
-";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T04:33:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
+";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T04:01:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
     
     
     
@@ -23,28 +23,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T04:33:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T04:33:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"Google Play Books update adds definitions, translations, and Maps integration";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1343:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T04:01:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T04:01:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:82:"TV's second screen heats up: Zeebox comes to the U.S. with investment from Comcast";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1291:"
   
   
-    <img alt="Google Play stock 1020" height="420" src="http://cdn2.sbnation.com/entry_photo_images/5786505/google-play-market_1020_large.jpg" width="630" />
+    <img alt="zeebox app with hbo go" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6660945/06_iPad_US_Broadwalk_Empire_ID_large.png" width="630" />
   
 
 
 
 
 
-  <p><a href="http://officialandroid.blogspot.com/" target="_blank">Google has updated</a> its <a href="http://www.theverge.com/tag/google-play-books">Books app</a> for Android with a slew of new features, including in-text definitions, translations, and Google Maps integration. The updated <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.books" target="_blank">Google Play Books app</a> also makes it easier to highlight and add notes to any text, and automatically syncs them across all devices.</p>
-<p>Most notable, however, is the app's new places function. Highlighting any country, city, or geographic feature within a text now brings up a small "info card" displaying the location on Google Maps (see screenshot, below). This display also gives you the option to find more information about the location through Wikipedia or a simple Google search. </p>
-<p>Users can translate a word or passage by highlighting the selection and choosing a language from the...</p>
+  <p>When those replacement NFL refs blew the call in the Packers vs Seahawks game on Monday Night Football, a single play generated more than a million tweets. A recent study from Yahoo and Nielsen showed up to <a href="http://www.fastcocreate.com/1679561/the-race-for-the-second-screen-5-apps-that-are-shaping-social-tv" target="_blank">86 percent of viewers use a mobile device while watching TV</a>. And so money is pouring into so called "second screen" apps that give users access to additional content and conversation around their favorite shows. Startups like GetGlue and Miso have raised big funding rounds, in GetGlue's case from industry titan Time Warner. Today a new player hits the U.S. market with some heavyweight backers, as U.K. based <a target="_blank" href="http://zeebox.com/">Zeebox</a> launches stateside with investment and content partnerships from Comcast-NBCUniversal and HBO.</p>
+<p><q class="left">TV stars say, "what do you...</q></p>
   <p>
-    <a href="http://www.theverge.com/2012/9/25/3386184/google-play-books-app-update-android-maps-translation-dictionary">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/27/3412686/zeebox-launches-us-comcast-nbcuniversal-hbo">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:106:"http://www.theverge.com/2012/9/25/3386184/google-play-books-app-update-android-maps-translation-dictionary";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:106:"http://www.theverge.com/2012/9/25/3386184/google-play-books-app-update-android-maps-translation-dictionary";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:85:"http://www.theverge.com/2012/9/27/3412686/zeebox-launches-us-comcast-nbcuniversal-hbo";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.theverge.com/2012/9/27/3412686/zeebox-launches-us-comcast-nbcuniversal-hbo";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Amar  Toor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Ben Popper";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
     
     
     
@@ -52,27 +51,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T02:19:25Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T02:19:25Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:92:"Craigslist ad indexer 3Taps files counterclaim in copyright dispute, alleges 'dirty tricks' ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1362:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T02:19:23Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T02:19:23Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"Google Takeout lets you download your original YouTube videos";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1322:"
   
   
-    <img alt="3taps craigslist stock 1020" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5784935/theverge_1020_large.jpg" width="630" />
+    <img alt="youtube logo" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6674055/youtube-logo_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>A new chapter is unfolding in the legal drama between classified ad service Craigslist, and third parties that repurpose its ads. Two months ago Craigslist <a href="http://www.theverge.com/2012/7/24/3183721/craigslist-sues-padmapper-3taps-copyright-infringement">asserted copyright claims</a> against apartment hunting site PadMapper and its data provider 3Taps for using its user-submitted ads without permission, and now 3Taps is swinging back with a counterclaim accusing Craigslist of using anticompetitive tactics to maintain a monopoly on online classified ad markets.</p>
-<p><a href="http://3taps.com/papers/3taps-answer-counterclaim.pdf">The counterclaim</a>, filed on September 24th, denies that Craigslist exclusively owns its users&rsquo; posts (which the company itself has <a href="http://www.theverge.com/2012/8/9/3232511/craigslist-terms-of-use-change-exclusive-license">recently conceded</a>), and claims that by preventing others from searching its publicly available ads in more efficient ways, Craigslist is behaving like...</p>
+  <p>Google has been <a href="http://www.theverge.com/2012/1/26/2735248/google-docs-takeout-mass-export">slowly expanding</a> the <a href="http://www.theverge.com/2012/7/12/3155675/google-plus-merge-multiple-accounts-with-takeout">types of content</a> its Takeout data migration tool can handle, and the company is adding one more to the list: YouTube videos. In a <a href="http://dataliberation.blogspot.com/2012/09/your-youtube-original-videos-now.html" target="_blank">post on Google's Data Liberation blog</a>, YouTube engineer Brian Hawkins writes that the new Takeout feature allows users to download the same files they originally uploaded to the service. Previous download solutions through YouTube itself only provided access to the transcoded video files that the site serves to users. If you're a YouTube user and have lost the original files you previously uploaded, you can <a href="http://dataliberation.blogspot.com/2012/09/your-youtube-original-videos-now.html" target="_blank">download them now</a>.</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/24/3385860/craigslist-3taps-counterclaim-antitrust">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/26/3415072/google-takeout-download-original-youtube-videos">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:81:"http://www.theverge.com/2012/9/24/3385860/craigslist-3taps-counterclaim-antitrust";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:81:"http://www.theverge.com/2012/9/24/3385860/craigslist-3taps-counterclaim-antitrust";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:89:"http://www.theverge.com/2012/9/26/3415072/google-takeout-download-original-youtube-videos";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:89:"http://www.theverge.com/2012/9/26/3415072/google-takeout-download-original-youtube-videos";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Jeff Blagdon";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Bryan Bishop";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
     
     
     
@@ -80,26 +78,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T01:24:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T01:24:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Royal Society plans Wikipedia 'edit-a-thon' to honor female scientists";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1275:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T01:15:24Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T01:15:24Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"Amazon launches Vine.com shopping site for all things green and organic";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1366:"
   
   
-    <img alt="Galaxy Nexus Wikipedia" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5785107/gnex-wikipedia-50-1020_large.jpg" width="630" />
+    <img alt="vine stock 1020" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6662837/theverge_1020_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Wikipedia hosts a vast trove of information, but the <a href="http://www.theverge.com/2012/7/15/3160926/jimmy-wales-wikipedia-gender-gap-kate-middleton-wedding-dress">admitted gender gap</a> amongst the site's volunteer editors has left many female historical figures out of the digital history books. The Royal Society wants to rectify this: <a target="_blank" href="http://www.bbc.com/news/technology-19675169" style="background-color: #ffffff; text-decoration: underline;"><i>BBC</i> reports</a> that an "edit-a-thon" will be held in London (and online) on October 19th, to celebrate the contributions women have made to science by ensuring that their Wikipedia profiles are comprehensive &mdash; or exist at all. Profiles for a few historical figures have been singled out  for updates, but the project's ultimate goal is to improve visibility across the gender divide, and prevent this sort of event from being necessary in the first place.</p>
+  <p>Looking to address the growing demand for green, organic, and sustainable products, Amazon is launching a new shopping site called <a href="http://www.vine.com" target="_blank">Vine.com</a>. Since ambiguous terms like "environmentally friendly" are likely to be picked apart by the conversation-minded, the site has created <a href="http://www.vine.com/green-philosophy/overview.qs" target="_blank">a list</a> of criteria for determining what to sell. Items that are made from at least 50 percent sustainable materials are on the list, as are those certified USDA organic and Energy Star power efficient.</p>
+<p>Not to be confused with <a href="http://www.amazon.com/gp/vine/help" target="_blank">Amazon Vine</a>, an early-access program for Amazon reviewers, Vine.com fits into the Quidisi family of sites <a href="http://www.fastcompany.com/1700909/amazon-shells-out-half-billion-parent-company-diaperscom">the company acquired in 2010</a>, alongside diapers.com and soap.com. Don&rsquo;t expect the move to indicate a more aggressive environmental push...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/24/3384976/royal-society-wikipedia-edit-a-thon-gender-gap">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/26/3414732/amazon-vine-green-organic-quidisi-launch">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:88:"http://www.theverge.com/2012/9/24/3384976/royal-society-wikipedia-edit-a-thon-gender-gap";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:88:"http://www.theverge.com/2012/9/24/3384976/royal-society-wikipedia-edit-a-thon-gender-gap";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:82:"http://www.theverge.com/2012/9/26/3414732/amazon-vine-green-organic-quidisi-launch";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:82:"http://www.theverge.com/2012/9/26/3414732/amazon-vine-green-organic-quidisi-launch";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Nate Ralph";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Jeff Blagdon";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
     
     
     
@@ -107,32 +106,25 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T01:22:46Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T01:22:46Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:53:"90 Seconds on The Verge: Monday, September 24th, 2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1781:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T00:16:22Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T00:16:22Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:56:"90 Seconds on The Verge: Wednesday, September 26th, 2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:731:"
   
   
-    <img alt="90 Seconds on The Verge: Monday, September 24th, 2012 (video)" height="420" src="http://cdn2.sbnation.com/entry_photo_images/5784049/120924_-_90sotv_still_large.png" width="630" />
+    <img alt="Adi 90 Seconds" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6660779/120926-90sotv-noYT_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>If you <a target="_blank" href="http://www.theverge.com/2012/9/23/3379494/on-the-verge-gif-contest">make a GIF</a> based on <i>90 Seconds on The Verge</i>, we can't promise you a car. We can't even promise you 1/40th a car, despite being 1/40th of<i> </i>an episode of <i>On The Verge</i>, roughly speaking. But our rules are more flexible: submit any GIF, and you might win a recommendation from your peers. Five or more will win you a star by your comment. The most recommends wins... a hug. Offer not valid outside the US. Offer also not valid <i>inside</i> the US.</p>
-<p><b>Stories of the day:</b></p>
-<ul>
-<li><a target="_blank" href="http://www.theverge.com/2012/9/24/3381840/iphone-5-sales-five-million/in/3081013">iPhone 5 sales exceed five million after first weekend, more than 100 million devices updated to iOS 6</a></li>
-<li><a target="_blank" href="http://www.theverge.com/2012/9/24/3381462/iphone-5-scuff-damage-aluminum">iPhone 5 owners report scuffs and scratches out of the box</a></li>
-<li><a target="_blank" href="http://www.theverge.com/2012/9/24/3381542/samsung-galaxy-s-iii-android-jelly-bean-update-device-list/in/2885087">Samsung begins Galaxy S III Jelly Bean updates, 15 additional models scheduled</a></li>
-<li> <a target="_blank" href="http://www.theverge.com/2012/9/24/3384058/facebook-public-messages-privacy-scare">Facebook privacy scare illuminates...</a>
-</li>
-</ul>
+  <p>Fun fact: in the Wikipedia article for "<a href="http://en.wikipedia.org/wiki/Mobile_phone_form_factor" target="_blank">Mobile phone form factor</a>," the third entry (behind brick and bar) is "taco" &mdash; as in, the Nokia N-Gage looks like a taco. Think about that for a second: the "taco" phone form factor has more prominence than flip, slide, swivel, and watch. This is the N-Gage's legacy.</p>
+<p></p>
   <p>
-    <a href="http://www.theverge.com/2012/9/24/3385160/iphone-5-launch-sales-facebook-privacy-jelly-bean-galaxy-s-iii">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/26/3413906/barnes-noble-nook-hd-google-play-25-billion-bad-piggies">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:104:"http://www.theverge.com/2012/9/24/3385160/iphone-5-launch-sales-facebook-privacy-jelly-bean-galaxy-s-iii";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:104:"http://www.theverge.com/2012/9/24/3385160/iphone-5-launch-sales-facebook-privacy-jelly-bean-galaxy-s-iii";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:97:"http://www.theverge.com/2012/9/26/3413906/barnes-noble-nook-hd-google-play-25-billion-bad-piggies";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:97:"http://www.theverge.com/2012/9/26/3413906/barnes-noble-nook-hd-google-play-25-billion-bad-piggies";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
     ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Ross Miller";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
     
@@ -142,27 +134,30 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T01:00:29Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-25T01:00:29Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"Tesla Model S getting first ever over-the-air car firmware upgrade next week";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1255:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-26T23:18:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-26T23:18:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:78:"Study reveals fonts used by car manufacturers can influence distracted driving";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1100:"
   
   
-    <img alt="tesla stock 1020" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5782977/tesla__2_of_5__large.jpg" width="630" />
+    <img alt="MIT car font study" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6643667/0s_large.png" width="630" />
   
 
 
 
 
 
-  <p>Tesla's <a href="http://www.theverge.com/2011/12/21/2651190/tesla-model-s-electric-sedan-pricing">Model S electric sedan</a> will be the first car to receive an over-the-air firmware update when version 1.9.11 rolls out to over 100 owners next week. <a href="http://www.wired.com/autopia/2012/09/tesla-over-the-air/" target="_blank"><i>Wired</i> reports</a> that the mandatory upgrade will alert owners via an alarm clock icon on the car's 17-inch touchscreen, and it can be scheduled for any time. That's a necessary convenience, since it'll take around two hours to complete and the car must be parked throughout. The update can be performed over Wi-Fi or the Model S' integrated 3G connection. Other manufacturers such as Mercedes-Benz have produced models with similar capabilities, but this appears to be the first time an OTA update will be deployed to consumers.</p>
-<p>So, what does it do? Besides some tweaks to the monitor and...</p>
+  <p>Researchers at MIT's Age Lab have discovered that the fonts car manufacturers choose for use with in-dash entertainment systems can impact the amount of time drivers spend distracted behind the wheel. Unlike the physical controls found in older cars (dials, knobs, etc.), a rise in digital user interfaces has had the unfortunate side effect of demanding more attention from drivers. The study involved a simulation in which participants were asked to perform routine tasks on a display not unlike those you'll find in many modern vehicles. Researchers tracked eye movements during each session and tested two typefaces on the screen: the first was Eurostyle, with Frutiger serving as the second and more "humanist" font.</p>
+<center>
+<p><br id="1348695246081"></p>
+</center>
+<p>Results showed...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/24/3385506/tesla-model-s-over-the-air-car-firmware-update">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/26/3413686/study-car-manufacturers-typeface-distraction">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:88:"http://www.theverge.com/2012/9/24/3385506/tesla-model-s-over-the-air-car-firmware-update";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:88:"http://www.theverge.com/2012/9/24/3385506/tesla-model-s-over-the-air-car-firmware-update";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:86:"http://www.theverge.com/2012/9/26/3413686/study-car-manufacturers-typeface-distraction";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:86:"http://www.theverge.com/2012/9/26/3413686/study-car-manufacturers-typeface-distraction";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Sam Byford";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Chris Welch";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
     
     
     
@@ -170,26 +165,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T23:37:41Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T23:37:41Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:49:"Google updates Chrome for iOS 6, iPhone 5 display";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1330:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-26T22:56:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-26T22:56:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"French vineyards look to robots as new source of manual labor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1186:"
   
   
-    <img alt="chrome iphone 5 maps stock 1020" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5781859/theverge_1020_large.jpg" width="630" />
+    <img alt="Wall-Ye robot" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6639161/wallye_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Google today released an updated version of <a href="http://www.theverge.com/2012/6/28/3123728/google-chrome-for-ios-hands-on">Chrome for iOS</a>, with the latest release including optimizations for iOS 6 and the 4-inch display found on Apple's iPhone 5 and upcoming iPod touch. Chrome's user interface and design haven't changed on the larger screen, but it's nice to see another high-profile app ditch the black letterboxing all the same. Other than miscellaneous bug fixes and performance improvements, there's not much else to this update. Still, it's nice to see Google working to better its presence on iOS: after getting off to a rocky start with the <a href="http://www.theverge.com/2011/11/2/2533321/gmail-ios-hands-on">official Gmail app</a>, the company has delivered solid offerings in Chrome and <a href="http://www.theverge.com/2012/9/11/3314384/youtube-app-iphone-ipod-touch-photos-video">YouTube</a>. We're hoping that if and when a standalone Maps app arrives on Apple's platform, it will be...</p>
+  <p>Robots are no strangers to <a href="http://www.theverge.com/2012/8/20/3254977/production-line-robots">jobs in manufacturing</a>, but in France they may soon expand into the wine business. As <a href="http://www.mysinchew.com/node/78053" target="_blank">the <em>AFP</em> reports</a>, a new robot (known as Wall-Ye) has been designed specifically to help winemakers with its ability to prune vines &mdash; in fact, its creators say that it can prune up to 600 each day. And for vineyards, the machine has more to offer than just manual labor, as Wall-Ye also has the added ability to record data on plants and soil using six built-in cameras. It also includes a GPS and gyroscope that serve as a security feature, so that the robot knows when it's not where it should be. "If that happens, the hard-drive self-destructs and the robot sends a message to the winegrower: 'Help!'" says creator Christophe...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/24/3384982/google-chrome-update-ios-6-iphone-5">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/26/3413784/wall-ye-france-wine-robot">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:77:"http://www.theverge.com/2012/9/24/3384982/google-chrome-update-ios-6-iphone-5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:77:"http://www.theverge.com/2012/9/24/3384982/google-chrome-update-ios-6-iphone-5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:67:"http://www.theverge.com/2012/9/26/3413784/wall-ye-france-wine-robot";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:67:"http://www.theverge.com/2012/9/26/3413784/wall-ye-france-wine-robot";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Chris Welch";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Andrew Webster";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
     
     
     
@@ -197,26 +192,28 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T21:13:47Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T21:13:47Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"eBay debuts Setify, a new organization and wishlist tool for collectors";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1178:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-26T22:31:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-26T22:31:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"Oculus accepting pre-orders for Rift headset developer kit, will ship in January";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1447:"
   
   
-    <img alt="ebay setify" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5777413/EbaySetify_large.jpg" width="630" />
+    <img alt="oculus pre order render" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6626469/oculus_pre_order_render_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>eBay has announced <a href="http://ebayinkblog.com/2012/09/24/ebays-setify-tool-helps-collectors-track-and-share-their-collections/" target="_blank">a new tool called Setify</a>, which makes it easier for users to organize, share, and add to their collections of treasured objects. The service &mdash; currently in private beta &mdash; allows users to create a collection using items from the site or from their own collections, set up a wishlist of other objects, and share their progress with other eBay members. The service currently only works for coins and comic books, but eBay says that more categories are on the way, along with Setify apps for iOS and Android. eBay is touting the service as somewhat of a return to its roots, as the site was originally populated by collectors, but it will be interesting to see how much the e-commerce company intends to regulate the collector...</p>
+  <p>The Oculus Rift head-mounted display impressed us when we <a href="http://www.theverge.com/2012/5/30/3052191/doom-3-bfg-edition-announced-for-the-fall-we-try-it-with-john">tested it out earlier this year</a>, and now the developer kit for the headset is available for pre-order. Along with a Rift unit, developers will get access to the Oculus software development kit so that they can get started on building software for the new peripheral. It's clear Oculus understands that developer support is key to the product's success, with <a href="http://www.theverge.com/2012/8/16/3246032/under-new-management-oculus-intends-to-commercialize-the-virtual">CEO Brendan Iribe telling us last month</a> that "Oculus is actually more of a software company than it is a hardware company."</p>
+<p></p>
+<p>The company originally planned to <a href="http://www.theverge.com/2012/8/16/3246032/under-new-management-oculus-intends-to-commercialize-the-virtual">ship 10,000 developer kits</a> this year alone, and the new public availability should help push early adoption even further. Developers in the United States looking to get a...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/24/3384292/ebay-setify-tool-collectors">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/26/3413064/oculus-rift-developer-kit-sdk-pre-order">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:69:"http://www.theverge.com/2012/9/24/3384292/ebay-setify-tool-collectors";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:69:"http://www.theverge.com/2012/9/24/3384292/ebay-setify-tool-collectors";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:81:"http://www.theverge.com/2012/9/26/3413064/oculus-rift-developer-kit-sdk-pre-order";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:81:"http://www.theverge.com/2012/9/26/3413064/oculus-rift-developer-kit-sdk-pre-order";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Kimber Streams";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Justin Rubio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
     
     
     
@@ -224,25 +221,25 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T20:47:23Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T20:47:23Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:93:"Myspace previews its ground-up redesign, will send out invites to the new service 'very soon'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1166:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-26T22:13:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-26T22:13:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:74:"Mozilla shares an in-depth look at the design philosophy behind Firefox OS";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1304:"
   
   
-    <img alt="New Myspace preview" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5777475/c_0x_large.png" width="630" />
+    <img alt="Mozilla firefox OS" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6640493/mozilla-mozcamp-firefox-os_large.png" width="630" />
   
 
 
 
 
 
-  <p>Myspace has been languishing behind Facebook for years now, but the once-dominant social network isn't going down without a fight. The company just unveiled a preview video of a forthcoming ground-up redesign that looks quite impressive from the few minutes of footage the company has released. We first heard about this potential reboot <a href="http://www.theverge.com/2012/7/22/3173156/myspace-makeover-beta-testing-public-rollout-later-this-year">back in July</a>, but it seems the company is now ready to show off the new interface as well as accept signups for invites when the site is ready for public consumption.</p>
-<p>From what the video shows off, Myspace looks like it will integrate well with the dominant Facebook and Twitter platforms &mdash; there's a short clip that shows off finding friends through Facebook as well as posting tweets directly through...</p>
+  <p>For those who are waiting for Mozilla to finally take the wraps off Firefox OS, "<a href="http://www.theverge.com/2012/7/2/3131431/mozilla-firefox-os-boot-to-gecko-devices-announced">early 2013</a>" feels a long ways off. However, if you want to whet your appetite for the long-awaited project, the official Mozilla blog has <a href="https://blog.mozilla.org/ux/2012/09/mozcamp-warsaw-design-principles-behind-firefox-os-ux/" target="_blank">shared a wealth</a> of details behind the design of the forthcoming OS. The post itself is essentially a recap of a presentation given at MozCamp Warsaw earlier this month; in it, designer Patryk Adamczyk walks through the design philosophy, iconography, typography, and sound elements involved in making Firefox OS a beautiful and modern tool. </p>
+<p>There's an incredible amount of detail in this post, but it gives a great idea of how the OS will look and function &mdash; for example, content layering through the use of sliding panes...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/24/3384398/myspace-major-redesign-preview">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/26/3413648/mozilla-firefox-os-design-philosophy">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:72:"http://www.theverge.com/2012/9/24/3384398/myspace-major-redesign-preview";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:72:"http://www.theverge.com/2012/9/24/3384398/myspace-major-redesign-preview";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:78:"http://www.theverge.com/2012/9/26/3413648/mozilla-firefox-os-design-philosophy";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:78:"http://www.theverge.com/2012/9/26/3413648/mozilla-firefox-os-design-philosophy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
     ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Nathan Ingraham";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
     
@@ -252,28 +249,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T20:15:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T20:15:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:27:"Sony Xperia Tablet S review";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1275:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-26T21:47:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-26T21:47:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:99:"Wearable tech comes to photography with Autographer, a camera that guesses when the moment is right";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1051:"
   
   
-    <img alt="Sony Xperia Tablet S (1024px)" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5776155/IMG_9338-hero_large.jpg" width="630" />
+    <img alt="Autographer" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6634117/autographer-off-on_large.jpeg" width="630" />
   
 
 
 
 
 
-  <p>Sony's long marched to the beat of its own drummer &mdash; to varying levels of success. Sony's unique designs have created plenty of success stories (like the <a href="http://www.theverge.com/2012/6/8/3069074/sony-nex-f3-review">NEX line</a> of cameras), but tablets haven't been one of them. The <a href="http://www.theverge.com/products/tablet-p-wi-fi-3g/1647">Tablet P</a> had strange, clamshell hardware that was good for basically nothing other than keeping the screens protected. The original <a href="http://www.theverge.com/products/tablet-s/1643">Tablet S</a>, which looks like a rolled-up magazine, was nice hardware but had really underwhelming and outdated software. Neither was what you'd call a smashing success.</p>
-
-<p>When I met with Sony to talk about its latest tablet, the Xperia Tablet S, reps told me the device was a direct result of everything the company learned from the past two devices. The folded-over magazine aesthetic remains, but...</p>
+  <p>Everyone's heard the expression that the best camera is the one you have with you, but what if you didn't even have to worry about taking pictures at all? That's the idea behind Autographer, a wearable wide-angle digital camera that uses an array of sensors to automatically take pictures of your day. The device itself is a slightly taller and a bit narrower than a credit card, though it's rather thick at 23mm thanks to its built-in pancake lens and belt clip. It weighs in at 58 grams. Imaging duties are taken care of by a 5-megapixel backlit CMOS sensor, and there's a small OLED display on the front of the device for status information and other controls. Those aren't attention-grabbing specs, but the Autographer isn't about what's...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/24/3333106/sony-xperia-tablet-s-review">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/26/3413162/autographer-wearable-camera-announced">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:69:"http://www.theverge.com/2012/9/24/3333106/sony-xperia-tablet-s-review";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:69:"http://www.theverge.com/2012/9/24/3333106/sony-xperia-tablet-s-review";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:79:"http://www.theverge.com/2012/9/26/3413162/autographer-wearable-camera-announced";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.theverge.com/2012/9/26/3413162/autographer-wearable-camera-announced";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"David Pierce";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Dante D'Orazio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
     
     
     
@@ -281,24 +276,25 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T19:53:09Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-24T19:53:09Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"Facebook privacy scare illuminates the evolution of online conversation";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1096:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-26T21:27:41Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-26T21:27:41Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:93:"Intel dismisses 'unsubstantiated' comments its CEO allegedly made about Windows 8's readiness";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1240:"
   
   
-    <img alt="facebook public timeline posts" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5775161/facebook_wallpost_large.png" width="630" />
+    <img alt="Intel logo" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6642161/Intel_Logo_3_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Facebook users worldwide today are claiming that private messages sent in 2008 and 2009 are now publicly viewable on their Timeline profile pages. A news story about the issue was first posted by <span style="background-color: #ffffff;"><a style="background-color: #ffffff; " href="http://www.metrofrance.com/high-tech/facebook-d-anciens-messages-prives-publies-sur-la-timeline/mlix!MDk3LU0hjxIQ/" target="_blank">Metro France</a>, and was </span>afterward picked up by sites like <a style="background-color: #ffffff; " href="http://thenextweb.com/facebook/2012/09/24/facebook-users-seeing-private-messages-showing-timelines/" target="_blank"><i>The Next Web</i></a> and <a style="background-color: #ffffff; " href="http://" target="_blank"><i>TechCrunch</i></a>.</p>
-<p></p>
+  <p>Intel has just released a statement in response to <a href="http://www.theverge.com/2012/9/25/3407374/intel-ceo-reportedly-claims-windows-8-is-being-released-before-its">comments about the readiness of Windows 8</a> allegedly made by the company's CEO Paul Otellini. Yesterday, Otellini reportedly told staff that Windows 8 would be released before it's ready &mdash; but Intel says the comments are based on "unsubstantiated news reports." The company seems to have stopped short of denying that Otellini made the comment, but offered plenty of rosy comments for its partner Microsoft.</p>
+<p><q class="center">"Windows 8 is one of the best things that ever happened to Intel."</q></p>
+<p>Intel says it's had "a long and successful heritage working with Microsoft on the release of Windows platforms," and that the companies have been "working closely together on testing and validation to ensure delivery...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/24/3384058/facebook-public-messages-privacy-scare">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/26/3413924/intel-counters-unsubstantiated-comments-from-its-ceo-about-windows-8s">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:80:"http://www.theverge.com/2012/9/24/3384058/facebook-public-messages-privacy-scare";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:80:"http://www.theverge.com/2012/9/24/3384058/facebook-public-messages-privacy-scare";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:111:"http://www.theverge.com/2012/9/26/3413924/intel-counters-unsubstantiated-comments-from-its-ceo-about-windows-8s";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:111:"http://www.theverge.com/2012/9/26/3413924/intel-counters-unsubstantiated-comments-from-its-ceo-about-windows-8s";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Ellis Hamburger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Tue, 25 Sep 2012 04:34:18 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"922b05ceccc5a13d2adce0c3582b37d9";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"161";s:14:"content-length";s:5:"20831";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"T.C. Sottek";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Thu, 27 Sep 2012 04:42:52 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"1170eaf8d1ef02d78266a88441e42d7c";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"152";s:14:"content-length";s:4:"6078";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}
