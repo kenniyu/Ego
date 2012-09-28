@@ -83,4 +83,3 @@ foreach ($entries as $item)
 	echo '</div></div>
 	</div>';
 }
-?>

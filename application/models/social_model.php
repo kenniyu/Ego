@@ -5,21 +5,78 @@ class Social_model extends CI_Model{
 			$this->load->database();
 	}
 	function give_bump($type, $permalink, $username){
+		// Get the article the user bumped and it's primary key
 		$article = $this->db->get_where('articles', array('aid' => $permalink))->row();
 		$ref_id = $article->id;
-		$this->db->insert('bumps', array(
-			'username' => $username, 'type' => $type, 'ref_id' => $ref_id
-		));
-		if ($type == '0'){
-			$bump_count = intval($article->bump_up_count);
-			$this->db->where('aid', $permalink);
-			$this->db->update('articles', array('bump_up_count' => $bump_count+1));
-			return $bump_count+1;
-		} else{
-			$bump_count = intval($article->bump_down_count);
-			$this->db->where('aid', $permalink);
-			$this->db->update('articles', array('bump_down_count' => $bump_count+1));
-			return $bump_count+1;
+		
+		// Get the rows for the user's bumps on this article
+		$query_check_bumped = $this->db->get_where('bumps', array('username' => $username,'ref_id'=>$ref_id));
+		
+		// Check to make sure that there are only 0 or 1 entries returned. If it isn't, then this an error.
+		if($query_check_bumped->num_rows() > 1)
+		{
+			// Error - return with no changes.
+			return $article->bump_up_count.';'.$article->bump_down_count;
+		}
+		
+		// If the user hasn't ever bumped
+		elseif($query_check_bumped->num_rows() == 0)
+		{
+			// Record the bump in the 'bumps' table
+			$this->db->insert('bumps', array(
+				'username' => $username, 
+				'type' => $type, 
+				'ref_id' => $ref_id
+			));
+			
+			$up_bump_count = intval($article->bump_up_count);
+			$down_bump_count = intval($article->bump_down_count);
+			
+			// if the bump was a like ('0') increment the up in the 'articles' table
+			if ($type == '0')
+			{
+				$this->db->where('aid', $permalink);
+				$this->db->update('articles', array('bump_up_count' => ++$up_bump_count));
+			}
+			// if the bump was a dislike ('1') increment the down in the 'articles' table 
+			else
+			{
+				$this->db->where('aid', $permalink);
+				$this->db->update('articles', array('bump_down_count' => ++$down_bump_count));
+			}
+			
+			return $up_bump_count.';'.$down_bump_count;
+		}
+		
+		// if the user has bumped and the bump type is the same as before
+		elseif($query_check_bumped->row()->type == $type)
+		{
+			return $article->bump_up_count.';'.$article->bump_down_count;
+		}
+		
+		// if the user has bumped and the bump type is different
+		else
+		{
+			$to_return = 0;
+			// Delete the existing entry
+			$this->db->delete('bumps',array('id' => $query_check_bumped->row()->id));
+			
+			// if the new bump was a like, decrement the bump down count in 'articles' table
+			if ($type == '0')
+			{
+				$bump_count = intval($article->bump_down_count);
+				$this->db->where('aid', $permalink);
+				$this->db->update('articles', array('bump_down_count' => $bump_count-1));
+			}
+			// if the new bump was a dislike, decrement the bump up count in the 'articles' table
+			else 
+			{
+				$bump_count = intval($article->bump_up_count);
+				$this->db->where('aid', $permalink);
+				$this->db->update('articles', array('bump_up_count' => $bump_count-1));
+			}
+			
+			return $this->give_bump($type, $permalink, $username);	
 		}
 		
 	}
