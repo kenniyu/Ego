@@ -103,6 +103,7 @@ class Feed extends CI_controller{
 			}
 			$this->feed_model->add_tags($tags, $aid);
 	}
+	}
 	
 	function load_feed($feed_type, $id, $init){
 		
@@ -159,7 +160,6 @@ class Feed extends CI_controller{
 		$this->load->view('feed/extract_keyword');
 	}
 	
-}
 }
 
 
