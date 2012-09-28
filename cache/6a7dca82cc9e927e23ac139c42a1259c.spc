@@ -15,7 +15,7 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
   
   
   
-";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T10:32:21Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
+";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T21:30:20Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
     
     
     
@@ -23,26 +23,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T10:32:21Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T10:32:21Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:55:"German art student turns building into huge spider tank";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1221:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T21:30:20Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T21:30:20Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"NASA's Curiosity rover finds evidence of ancient stream on Mars";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1163:"
   
   
-    <img alt="German spider projection" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6707719/screenshot-20120927-110308_large.png" width="630" />
+    <img alt="Mars stream" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6743427/pia16156_large.jpeg" width="630" />
   
 
 
 
 
 
-  <p>Spiders may not be the most popular creatures, but German art student Friedrich von Schoor appears to have no problem with them &mdash; earlier this year, as part of a project at the <a href="http://hbksaar.de/" target="_blank">HBK Saar art college</a>, he used video of an ordinary spider in a small tank to create a terrifying projection on to a full-size building. As shown in the video below, the trick relies on the tank having exactly the same proportions as the building's floor-to-ceiling windows, allowing von Schoor to scale up the resulting video and place it accurately in its real-world location. It's an illusion that can be extended to any glass-fronted structure, providing a scaled-down tank can be built to model it &mdash; could we soon see snakes in the <a href="http://upload.wikimedia.org/wikipedia/commons/9/91/UN_Headquarters_2.jpg" target="_blank">UN building</a>, or cockroaches...</p>
+  <p>Since landing on Mars, NASA's Curiosity rover has brought us plenty of <a href="http://www.theverge.com/2012/8/28/3274548/nasa-jpl-mars-curiosity-landing-site-panorama/in/2986732">stunning views of the marian surface</a>, but now the machine has stumbled across something possibly even more exciting &mdash; an ancient stream bed. Researchers were able to determine that the rocks in the bed were carried by water based on their size and shape, and NASA estimates that the stream was anywhere from hip- to ankle-deep, moving at a pace of around three feet per second. While evidence of water on the red planet already exists, this finding is the first of its kind. "This is the first time we're actually seeing water-transported gravel on Mars," says William Dietrich, from the University of California, Berkeley. "This is a transition from speculation about the...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/27/3416442/german-spider-projection">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/27/3419724/nasa-curiosity-rover-mars-water-stream">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:66:"http://www.theverge.com/2012/9/27/3416442/german-spider-projection";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:66:"http://www.theverge.com/2012/9/27/3416442/german-spider-projection";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:80:"http://www.theverge.com/2012/9/27/3419724/nasa-curiosity-rover-mars-water-stream";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:80:"http://www.theverge.com/2012/9/27/3419724/nasa-curiosity-rover-mars-water-stream";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Louis Goddard";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Andrew Webster";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
     
     
     
@@ -50,27 +50,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T09:58:30Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T09:58:30Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"Nokia Lumia 920 and 820 officially priced with pre-orders, available in November";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1474:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T20:45:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T20:45:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"RIM circles the wagons, but the BlackBerry 10 caravan needs to get moving";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1082:"
   
   
-    <img alt="Nokia Lumia 920 official" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6707065/nokialumia920_large.jpg" width="630" />
+    <img alt="Alec Saunders BlackBerry Jam" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6740487/alec_saunders_1020_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Nokia unveiled its Lumia 920 and 820 Windows Phone 8 devices earlier this month, but the company refused to mention pricing, pre-orders, and availability dates. Despite this, Nokia's Russian subsidiary has started to <a href="http://www.nokia.com/ru-ru/about-nokia/press/windows8-preorder" target="_blank">officially take pre-orders</a> for both devices today, with availability slated for Q4 2012. The Lumia 920 is priced at 24,990 rubles ($801) and the Lumia 820 at 19,990 rubles ($640), with both prices reflecting Russia's traditional higher pricing for smartphones.</p>
-<p>Nokia Germany and Nokia Italy have also announced pricing, with availability dates in November. <a style="background-color: #ffffff;" href="http://presse.nokia.de/2012/09/27/nokia-bringt-lumia-920-und-lumia-820-im-november-nach-deutschland/" target="_blank">Nokia Germany</a> is pricing the Lumia 920 at 649 euros ($836) and the Lumia 820 at 499 euros ($643). Both devices will be available in November. <a style="background-color: #ffffff;" href="http://www.nokia.com/it-it/nokia/stampa/comunicati-stampa/comunicati-stampa/" target="_blank">Nokia Italy</a> has priced the...</p>
+  <p>It's cold and quiet at the San Jose Convention Center on the second day of the BlackBerry Jam Americas conference. It's as if the AC is keyed in to accommodate a larger crowd &mdash; RIM says that 1,500 developers registered for the event, but on day two it certainly doesn't look like the majority of them are here. RIM didn't officially launch BlackBerry 10 this week, but it did give developers and consumers the tools they need to prepare for the platform's real launch &mdash; which is still some unspecified number of months away.</p>
+<p>RIM knows full-well that success doesn't ride on just whether or not it is able to keep its enterprise customers, ship a good OS, and create a beautiful piece of hardware. BlackBerry 10 needs apps, so RIM is pushing...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/27/3416432/nokia-lumia-920-820-pricing-pre-order-russia">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/27/3419212/rim-blackberry-jam-developers-bb10">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:86:"http://www.theverge.com/2012/9/27/3416432/nokia-lumia-920-820-pricing-pre-order-russia";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:86:"http://www.theverge.com/2012/9/27/3416432/nokia-lumia-920-820-pricing-pre-order-russia";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:76:"http://www.theverge.com/2012/9/27/3419212/rim-blackberry-jam-developers-bb10";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:76:"http://www.theverge.com/2012/9/27/3419212/rim-blackberry-jam-developers-bb10";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Warren";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Dieter Bohn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
     
     
     
@@ -78,26 +78,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T09:51:19Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T09:51:19Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:55:"Chrome for Android browser ready for Intel-based RAZR i";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1233:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T20:30:41Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T20:30:41Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:51:"Testing the myth behind blowing into NES cartridges";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1197:"
   
   
-    <img alt="via assets.sbnation.com" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6706355/chromeintel_640_large.jpg" width="630" />
+    <img alt="nes cartridge flickr" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6738379/nes_cartridge_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Chrome for Android has been updated to support Intel&rsquo;s x86 processors - specifically, the <a href="http://www.theverge.com/products/brands/motorola/53" class="sbn-auto-link">Motorola</a> <a href="http://www.theverge.com/products/razr-i/6142" class="sbn-auto-link">RAZR i</a>. Motorola handed out pre-release units of the handset at its recent event, promising that updates for the phone would be pushed out before the official launch at the start of October. The Chrome update ensures that RAZR i customers will be able to use Google&rsquo;s official browser when the handset does launch in the coming weeks. Devices running Gingerbread, such as the Orange San Diego, will still be unable to run Chrome, as the browser requires Ice Cream Sandwich. The update also brings security and stability improvements in addition to YouTube video controls that are now accessible in fullscreen mode. The updated Chrome for...</p>
+  <p>Any gamer born in the 80s or earlier knows the routine all too well: if your Nintendo Entertainment System wasn't working, you pull out the game cartridge, blow into it, then try again until you achieve success. While many will defend the habit &mdash; citing the countless amount of times it worked &mdash; <a target="_blank" href="http://www.mentalfloss.com/blogs/archives/142550"><em>Mental_Floss</em> set out</a> to find the truth behind the myth by speaking with a number of individuals from the gaming industry and examining a real-world test of Nintendo's infamous 72-pin connector. Head to the source to get a brief history of the console and <a target="_blank" href="http://www.nintendo.com/consumer/systems/nes/trouble_game.jsp">Nintendo's official cartridge care instructions</a>, and prepare to have your childhood memories tarnished by the investigation's results.</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/27/3416406/chrome-for-android-update-intel-x86">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/27/3419038/nintendo-entertainment-system-cartridge-blowing">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:77:"http://www.theverge.com/2012/9/27/3416406/chrome-for-android-update-intel-x86";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:77:"http://www.theverge.com/2012/9/27/3416406/chrome-for-android-update-intel-x86";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:89:"http://www.theverge.com/2012/9/27/3419038/nintendo-entertainment-system-cartridge-blowing";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:89:"http://www.theverge.com/2012/9/27/3419038/nintendo-entertainment-system-cartridge-blowing";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Ben Kersey";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Justin Rubio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
     
     
     
@@ -105,26 +105,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T09:18:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T09:18:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:53:"Inside QuakeCon: gaming, sleep deprivation, and BAWLS";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1058:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T20:20:29Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T20:20:29Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"RIM reports loss of $235 million, 7.4 million smartphones shipped in Q2 2013";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1414:"
   
   
-    <img alt="quakecon 2012" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6699695/quakecon_large.png" width="630" />
+    <img alt="BlackBerry logo stock (1020)" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6740951/blackberry-logo_1020_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>QuakeCon, America&rsquo;s largest LAN party held every year in Texas, plays host to gamers from all across the world as they battle it out in the digital realm. <i>Bawl So Hard</i> follows three friends from Alabama as they make the trip to the event, determined to marathon through the three days. QuakeCon encourages attendees to compete for more than $100,000 in prizes, but the main attraction is the culture that goes hand-in-hand with attending. Gamers fuel their <i>League of Legends</i> and <i>Diablo III</i> sessions with BAWLS, a high caffeine energy drink so popular that it inspired its own chugging competition. The drinking contest also spans several days, bringing its own rewards in addition to bragging rights. Head on over to <i>SB Nation</i> for the full...</p>
+  <p>RIM just released its Q2 2013 financial report, claiming a loss of $235 million on revenues of $2.9 billion. The troubled smartphone maker shipped 7.4 million smartphones in the quarter and approximately 130,000 PlayBook tablets. On the bright side, losses were less than last quarter &mdash; when the company <a href="http://www.theverge.com/2012/6/28/3124185/rim-reports-fiscal-q1-2013-earnings-cutting-5000-jobs-0-30-loss-per">lost over half a billion dollars</a> &mdash; and revenues were slightly up as well. Year over year, revenues were down 31 percent. Unlike last quarter, RIM did not announce plans to cut more jobs, which may provide some consolation to the remaining staffers there.</p>
+<p>RIM reiterated in its earnings announcement that it now has <a href="http://www.theverge.com/2012/7/11/3151601/rim-ceo-thorsten-heins-interview">80 million BlackBerry subscribers </a>and that it is still on track to launch its <a href="http://www.theverge.com/2012/9/25/3386444/blackberry-10-beta-3-hands-on-photos-video">BlackBerry 10 platform</a> in the first quarter...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/27/3416320/quakecon-gaming-bawls">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/27/3419378/rim-q2-2013-235-million-loss-7-4-million-smartphones">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:63:"http://www.theverge.com/2012/9/27/3416320/quakecon-gaming-bawls";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:63:"http://www.theverge.com/2012/9/27/3416320/quakecon-gaming-bawls";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:94:"http://www.theverge.com/2012/9/27/3419378/rim-q2-2013-235-million-loss-7-4-million-smartphones";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:94:"http://www.theverge.com/2012/9/27/3419378/rim-q2-2013-235-million-loss-7-4-million-smartphones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Ben Kersey";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Dan Seifert";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
     
     
     
@@ -132,27 +133,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T09:16:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T09:16:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"EU prepares to charge Microsoft over 'technical error' with Windows 7 browser choice";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1441:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T20:00:35Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T20:00:35Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"Facebook gives Gifts another shot, guarantees no ugly sweaters in the wrong size";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1111:"
   
   
-    <img alt="Microsoft Logo (Verge Stock)" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6703777/Microsoft_logo_large.jpg" width="630" />
+    <img alt="facebook gifts timeline" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6738663/facebook_gifts_timeline_large.png" width="630" />
   
 
 
 
 
 
-  <p>European Union (EU) regulators are set to charge Microsoft for breaching the terms of a landmark 2009 antitrust settlement by failing to provide a clear choice of web browsers in Windows 7 Service Pack 1, <a target="_blank" href="http://www.reuters.com/article/2012/09/27/us-microsoft-eu-idUSBRE88Q0DW20120927">according to a report from <i>Reuters</i></a>. The issue first emerged back in July, when the European Commission (EC) &mdash; the EU's executive body &mdash; <a href="http://www.theverge.com/2012/7/17/3164313/european-commission-investigation-microsoft-browser-choice/in/2928390">formally announced its intentions</a> to open proceedings against the company. Microsoft <a href="http://www.theverge.com/2012/7/17/3164341/microsoft-technical-error-browser-choice-screen/in/2928390">admitted the "technical error"</a> the same day, emphasizing that it had taken "immediate steps" to correct the problem.</p>
-<p>"The next step is to open a formal proceeding into the company's breach of an agreement," EU Competition Commissioner Joaquin Almunia reportedly told journalists today. "It should not be a long...</p>
+  <p>Facebook today announced <a target="_blank" href="http://www.facebook.com/gifts">Gifts</a>, a new way to send chocolates, Starbucks cards, clothing, flowers, and other items to friends. "One of the challenges with sending physical gifts is that you have to know someone's address, shirt size, or the flavor they like, or you guess and then you're wrong," Facebook's Lee Linden says. "We've turned that on it's head, removing the friction of sending somebody a physical product." Facebook's new Gifts platform lets the recipient know before they receive your gift so they can plug in their address, and even their shirt size dark / milk chocolate preference if you don't know it. If the recipient isn't happy with your gift, they can instantly exchange it for something else inside Facebook's catalog of...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/27/3416400/eu-prepares-charge-microsoft-browser-choice">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/27/3418496/facebook-gifts-karma">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:85:"http://www.theverge.com/2012/9/27/3416400/eu-prepares-charge-microsoft-browser-choice";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.theverge.com/2012/9/27/3416400/eu-prepares-charge-microsoft-browser-choice";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:62:"http://www.theverge.com/2012/9/27/3418496/facebook-gifts-karma";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:62:"http://www.theverge.com/2012/9/27/3418496/facebook-gifts-karma";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Louis Goddard";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Ellis Hamburger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
     
     
     
@@ -160,27 +160,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T08:58:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T08:58:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:88:"Watch This: Discovery Channel covers Enrico Dini, 'the man who wants to print buildings'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1256:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T19:53:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T19:53:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:64:"Netflix for iOS updated with iPhone 5 support, native 16:9 video";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1321:"
   
   
-    <img alt="D-Shape 3D printer" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6698061/sand_evaquation_large_JPG.jpg" width="630" />
+    <img alt="Netflix iPhone 5" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6739307/netflix_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>The <i>Discovery Channel</i> has <a target="_blank" href="http://www.youtube.com/watch?v=RYaRUVTwIVc">aired a segment</a> which gets behind the massive 3D printer D-Shape, <a href="http://www.theverge.com/2012/2/21/2811146/3d-printing-d-shape-monolite-enrico-dini">designed by Italian inventor Enrico Dini</a> and his company Monolite UK with the eventual aim of "printing buildings." The short film describes Dini's childhood obsession with building sandcastles, taking the viewer through the process of conceiving and designing D-Shape, which uses thin layers of bonded sand to build up its constructions.</p>
-<p>The moment when Dini and his colleagues scrape away the excess sand to reveal the structure underneath &mdash; in this case, a sculpture destined for Vancouver &mdash; is extremely impressive, really showing the potential of what one interviewee describes as "the killer app for construction." Whether the machine will be...</p>
+  <p>It might not have been ready for launch day, but Netflix has just released an update to its iOS app with optimizations for <a class="sbn-auto-link" href="http://www.theverge.com/products/ios-6/6156">iOS 6</a> and the iPhone 5. When Apple announced that its latest handset (and iPod touch) <a href="http://www.theverge.com/2012/9/12/3321044/apple-iphone-5-retina-display-update">would contain a 4-inch Retina display</a>, the company highlighted video as one of the taller screen's key advantages. Users would be able to watch movies using the industry standard 16:9 aspect ratio without any letterboxing or black bars, and now that luxury has arrived for Netflix subscribers. Other than the improved video experience, not much about the app itself has changed; it still utilizes the <a href="http://www.theverge.com/2012/5/31/3054386/netflix-ios-update-audio-language-new-interface">simplified player interface introduced back in May</a>, though we have no complaints about usability. The latest version of Netflix for iOS...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/27/3416298/watch-this-discovery-channel-enrico-dini">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/27/3419112/netflix-app-update-ios-6-iphone-5">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:82:"http://www.theverge.com/2012/9/27/3416298/watch-this-discovery-channel-enrico-dini";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:82:"http://www.theverge.com/2012/9/27/3416298/watch-this-discovery-channel-enrico-dini";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:75:"http://www.theverge.com/2012/9/27/3419112/netflix-app-update-ios-6-iphone-5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:75:"http://www.theverge.com/2012/9/27/3419112/netflix-app-update-ios-6-iphone-5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Louis Goddard";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Chris Welch";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
     
     
     
@@ -188,27 +187,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T08:47:26Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T08:47:26Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"How America's high-speed trading shows other countries what not to do";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1227:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T19:31:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T19:31:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:62:"Before 'Angry Birds': the short life of click wheel iPod games";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1206:"
   
   
-    <img alt="NASDAQ times square (STOCK)" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6700659/nasdaq-times-square-stock-2_1020_large.jpg" width="630" />
+    <img alt="Peggle click wheel iPod" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6727413/peggle_large.jpeg" width="630" />
   
 
 
 
 
 
-  <p>According to a new <a target="_blank" href="http://www.nytimes.com/2012/09/27/business/beyond-wall-st-curbs-on-high-speed-trading-advance.html">report from <i>The New York Times</i></a>, the US is increasingly serving as an example to the rest of the world of how not to handle the growing phenomenon of high-frequency trading (HFT), where equities and other assets are bought and sold in miniscule fractions of a second. In the wake of the 2010 Flash Crash and the more recent Knight Capital fiasco, in which a technical error lost the New Jersey-based trading firm $440 million, countries including Canada, Germany, and Australia have sought to implement regulation making the practice less attractive.</p>
-<p>One proposal currently under discussion by the European Parliament would require traders to hold their prices for at least half a second, which, as <i>The New York Times</i> points...</p>
+  <p>If a device has a screen, sooner or later someone will try to put a game on it. So even though the iPhone may not have been designed with gaming in mind, its sheer ubiquity has turned it into a disruptive force in mobile gaming and <a href="http://www.theverge.com/2012/4/26/2976735/nintendo-sales-stats-handheld-gaming-report">a legitimate contender to more traditional game companies</a> like Nintendo. But before <em>Angry Birds</em> and <em>Temple Run</em> became household names, developers attempted to exploit the gaming potential of another ubiquitous Apple device &mdash; the iPod. You know, the one with the click wheel and no touchscreen.</p>
+<p>Classic iPods had games prior to 2006, but they were the kind that came built into the device &mdash; a <em>Breakout</em> clone imaginatively called <em>Brick</em>, for instance &mdash; and of course there was solitaire. They were games you...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/27/3416366/high-frequency-trading-regulation">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/27/3417870/apple-ipod-click-wheel-games-history">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:75:"http://www.theverge.com/2012/9/27/3416366/high-frequency-trading-regulation";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:75:"http://www.theverge.com/2012/9/27/3416366/high-frequency-trading-regulation";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:78:"http://www.theverge.com/2012/9/27/3417870/apple-ipod-click-wheel-games-history";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:78:"http://www.theverge.com/2012/9/27/3417870/apple-ipod-click-wheel-games-history";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Louis Goddard";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Andrew Webster";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
     
     
     
@@ -216,27 +215,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T08:13:15Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T08:13:15Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:40:"Cinerama, the forgotten future of cinema";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:991:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T19:09:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T19:09:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:87:"ACLU documents show increasing phone and internet surveillance by Department of Justice";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1390:"
   
   
-    <img alt="Photo" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6700835/This_Is_Cinerama_large.jpg" width="630" />
+    <img alt="SF security camera privacy stock 1024" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6735545/2012-03-23_10-53-42-1024_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>Back in the early fifties, with the rise of the personal television, Cinerama was created as a new super-widescreen format to keep the people interested in cinema. In <a target="_blank" href="http://www.davidbordwell.net/blog/2012/09/26/the-wayward-charms-of-cinerama/"><i>The wayward charms of Cinerama</i></a><em>,</em> David Bordwell chronicles the rise and fall of Cinerama in painstaking detail. The new format required three projectors working in tandem to throw out a huge image over a 146-degree arc. Cinerama was supposed to be the future of cinema, but the complex and unique challenges involved in producing movies for the format eventually led to its demise.</p>
-<p><br id="1348733128795"></p>
+  <p>Justice Department reports recently <a target="_blank" href="http://www.aclu.org/blog/national-security-technology-and-liberty/new-justice-department-documents-show-huge-increase">revealed by the ACLU</a> show a dramatic increase in electronic surveillance, <a href="http://www.theverge.com/2012/7/19/3167287/secret-surveillance-gag-orders-highlight-weak-us-data-privacy-laws">suggesting yet again</a> that it's become common practice among law enforcement agencies. The ACLU surveyed three years of reports from the Attorney General,  recording when the Department of Justice asked for pen register or trap  and trace surveillance. Unlike a wiretap, these methods don't record the  content of an email or phone call &mdash; instead, they collect metadata like  the phone numbers being dialed or recipients of emails. That makes them more innocuous in some ways, but it also means that the bar for  justifying them is lower. And "non-content information," the ACLU says, "can still be extremely invasive."</p>
+<p><q class="left">Phone...</q></p>
   <p>
-    <a href="http://www.theverge.com/2012/9/27/3416340/cinerama-the-future-of-cinema">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/27/3418420/department-of-justice-surveillance-increase-aclu">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:71:"http://www.theverge.com/2012/9/27/3416340/cinerama-the-future-of-cinema";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:71:"http://www.theverge.com/2012/9/27/3416340/cinerama-the-future-of-cinema";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:90:"http://www.theverge.com/2012/9/27/3418420/department-of-justice-surveillance-increase-aclu";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:90:"http://www.theverge.com/2012/9/27/3418420/department-of-justice-surveillance-increase-aclu";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:16:"Aaron Souppouris";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Adi Robertson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
     
     
     
@@ -244,27 +243,27 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T07:51:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T07:51:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"Google's Eric Schmidt dances 'Gangnam Style' in Korea (video)";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1349:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T19:08:15Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T19:08:15Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:48:"The Verge Mobile Show 018 - September 26th, 2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:836:"
   
   
-    <img alt="eric schmidt gangnam style 640" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6699501/A3x6ld8CAAAAwh-_large.jpeg" width="630" />
+    <img alt="Photo" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6722619/Screen_Shot_2012-05-30_at_3.25.02_PM_large.png" width="630" />
   
 
 
 
 
 
-  <p>Google chairman Eric Schmidt is currently on a tour of East Asia; he <a href="http://www.theverge.com/2012/9/25/3386312/google-nexus-7-japan-launch">launched the Nexus 7 in Tokyo</a> two days ago, and today made a similar announcement in Seoul. It looks like he's found the time to slip in a little pleasure among all the business, though, meeting with South Korean artist PSY &mdash; he of the <a href="http://www.theverge.com/2012/9/21/3370336/gangnam-style-youtube-likes-record">YouTube record-breaking smash hit "Gangnam Style."</a> And yes, he got down with the galloping horse dance. <i>Hankyung</i> journalist Kim Kwang-hyun immortalized the moment in a <a target="_blank" href="https://twitter.com/kwang82/status/251210463327682562/photo/1">tweet</a>, and there's further video evidence below. We're a little surprised to see Schmidt let his hair down in such a fashion, but if this leads to more K-Pop on Google Play Music we're all for it.</p>
-<p><b>Update: </b>the video has been removed from YouTube, but we've replaced it...</p>
+  <p>The Verge Mobile Show turns 18 today, and with the recent release of the iPhone 5 and major announcements from HTC and RIM there are plenty of reasons to rock out. Speaking of rocking out, RIM released an "interesting" new <a href="http://www.theverge.com/2012/9/25/3407196/watch-this-rim-blackberry-jam-music-video">music video</a>. Is it so bad it's good? Or just so bad it's actually just really bad? Dieter calls in from the Blackberry Jam conference in San Diego with his latest first-hand report.</p>
+<p></p>
   <p>
-    <a href="http://www.theverge.com/2012/9/27/3416336/eric-schmidt-gangnam-style">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/27/3416946/the-verge-mobile-show-018-september-26th-2012">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:68:"http://www.theverge.com/2012/9/27/3416336/eric-schmidt-gangnam-style";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:68:"http://www.theverge.com/2012/9/27/3416336/eric-schmidt-gangnam-style";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:87:"http://www.theverge.com/2012/9/27/3416946/the-verge-mobile-show-018-september-26th-2012";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:87:"http://www.theverge.com/2012/9/27/3416946/the-verge-mobile-show-018-september-26th-2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Sam Byford";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Brendan Murphy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
     
     
     
@@ -272,24 +271,24 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T06:57:16Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T06:57:16Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"LG hits back at Samsung with OLED lawsuit, says five Galaxy devices infringe patents";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1553:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T19:07:11Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-27T19:07:11Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:103:"Intel says Clover Trail tablets will get 10 hours of battery life, deliver full Windows 8 compatibility";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1097:"
   
   
-    <img alt="LG Optimus G Korea" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6695683/LG-Optimus-G-2012-09-18-verge-1020_large.jpg" width="630" />
+    <img alt="Intel Clover Trail Atom Z2760 tablet" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6732563/1_large.jpg" width="630" />
   
 
 
 
 
 
-  <p>LG Display has accused Samsung of infringing patents that it holds on OLED panel design. The suit was filed today at the Seoul Central District Court, <a href="http://www.yonhapnews.co.kr/economy/2012/09/27/0302000000AKR20120927123100003.HTML" target="_blank">reports <i>Yonhap</i></a>, and involves Samsung's <a class="sbn-auto-link" href="http://www.theverge.com/products/galaxy-s-iii/5588">Galaxy S III</a>, <a class="sbn-auto-link" href="http://www.theverge.com/products/galaxy-s-ii/3272">Galaxy S II</a>, Galaxy S II HD, <a class="sbn-auto-link" href="http://www.theverge.com/products/galaxy-note/1598">Galaxy Note</a>, and <a class="sbn-auto-link" href="http://www.theverge.com/products/galaxy-tab-7-7/1606">Galaxy Tab 7.7</a>. LG alleges that Samsung has infringed seven patents in total with these devices, including one related to the former company's "Narrow Bezel" technology. The company is seeking 7 billion won (about $6.26 million) in damages &mdash; one billion won for each infringed patent.</p>
-<p>In a statement, LG Display said "This lawsuit has been filed both to enforce LG Display's intellectual property rights and promote fair competition. Samsung Electronics and Samsung Display must stop using the...</p>
+  <p>Microsoft's been calling Windows 8 a no-compromise operating system since day one, but tablet buyers are going to have to make a difficult choice. They can pick up a sleek new ARM-based tablet that runs Windows RT and sacrifice their legacy x86 applications, or they can go with (comparatively) power-hungry x86 hardware for full compatibility , but sacrifice thinness and / or battery life. Intel just might have a third option, though: today, the company is formally introducing its Atom Z2760 "Clover Trail" chip, which it claims is compatible and power-efficient at the same time.</p>
+<p>Intel says these tablets can be just 8.5mm thick, weigh 1.5 pounds, and get up to 10 hours of battery life. Intel isn't fudging that last statistic, either: the...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/27/3416260/lg-samsung-oled-lawsuit-sales-bans">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/27/3418260/intel-says-clover-trail-tablets-will-get-10-hours-of-battery-life">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:76:"http://www.theverge.com/2012/9/27/3416260/lg-samsung-oled-lawsuit-sales-bans";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:76:"http://www.theverge.com/2012/9/27/3416260/lg-samsung-oled-lawsuit-sales-bans";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:107:"http://www.theverge.com/2012/9/27/3418260/intel-says-clover-trail-tablets-will-get-10-hours-of-battery-life";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:107:"http://www.theverge.com/2012/9/27/3418260/intel-says-clover-trail-tablets-will-get-10-hours-of-battery-life";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Sam Byford";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Thu, 27 Sep 2012 10:42:03 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"5cf81ad942dd0b00ba9e27e0f42e6b75";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"157";s:14:"content-length";s:4:"6275";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Sean Hollister";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Thu, 27 Sep 2012 22:15:45 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"14254617814a437c55cced0b241a7eb2";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"147";s:14:"content-length";s:4:"5910";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}

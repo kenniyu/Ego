@@ -106,6 +106,14 @@
 			}
 		);
 		
+		$('#usersidebar_profile').click(function(){
+			$('#ultra_modal').show("fade", 200);
+		});
+		
+		$('#ultra_modal_x').click(function(){
+			$('#ultra_modal').hide("fade", 200);
+		})
+		
 		$('#epp_submit').click(function(){
 			$('#editProfilePicture').submit();
 		});

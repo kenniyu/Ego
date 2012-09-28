@@ -25,6 +25,15 @@
 				return true;
 			}
 		}
+		
+		function load_feed_keyword($tag){
+			$entries = array();
+			$targets = $this->db->get_where('tags', array('tag' => $tag))->result();
+			foreach($targets as $target){
+				array_push($entries, $this->db->get_where('articles', array('id' => $target->foreign_key))->row());
+			}
+			return $entries;
+		}
 	
 	
 	}

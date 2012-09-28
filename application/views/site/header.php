@@ -58,7 +58,7 @@
 <div id="usersidebar">
 <div id="usersidebar_wrapper">
 <div id="usersidebar_profile">
-	<a data-toggle="modal" href="#profile_modal"><div id="usersidebar_profile_picture">
+	<div id="usersidebar_profile_picture">
 		<?php 
 			if ($profile_ext=='') {
 				echo '<img src="/images/profile.png" />';
@@ -66,7 +66,7 @@
 				echo '<img src="/user/profilePic/'.$username.$profile_ext.'" />';
 			}
 			?>
-	</div></a>
+	</div>
 	<div id="usersidebar_profile_name">
 		<?=$whole_name?>
 	</div>
@@ -206,13 +206,25 @@
 </div>
 </div>
 
-<div class="ultra_modal">
-<div class="ultra_modal_container">
+<div id="ultra_modal">
+<div id="ultra_modal_container">
+<div class="ultra_modal_header">
+Shawn Park
+</div>
+<div class="ultra_modal_content">
+</div>
+<div class="ultra_modal_footer">
+<div class="ultra_modal_footer_button">Close</div>
+<div class="ultra_modal_footer_button">Apply</div>
+</div>
+</div>
+<div id="ultra_modal_x">
+x
 </div>
 </div>
 
 
-
+<!--
 <div class="modal" id="profile_modal">
 <div class="model_wrapper">
   <div class="modal-header">
@@ -235,3 +247,4 @@
   </div>
 </div>
 </div>
+-->
