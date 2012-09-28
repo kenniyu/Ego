@@ -528,19 +528,29 @@
 				$(this).replaceWith('<div class="eps_selector">Successfully moved!</div>');
 			}
 		});
-		//Article Toolbox: Bump
+		//Article Toolbox: Bump 
 		
 		$('.etbox_bump_up').live('click', function() {
 			var root = $(this).parent().parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
+			
+			// Get the current bump up count
 			var target = $(this).children('.etbox_bump_up_count');
+			
+			// Get the current bump down count
 			var target_other = $('.etbox_bump_down').children('.etbox_bump_down_count');
+			
 			$.post("/social/give_bump/0", 
 				{ 'permalink': permalink }, // data to send JSON-hash encoded        
 				function(data) 
 				{
+					// Data array from the social.php
 					var data_array = data.split(';');
+					
+					// Set the bump up count to the first value
       				target.text(data_array[0]);
+      				
+      				// Set teh bump down count to the second value
       				target_other.text(data_array[1]);
       			}
       		);
@@ -549,14 +559,24 @@
 		$('.etbox_bump_down').live('click', function() {
 			var root = $(this).parent().parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
+			
+			// Get the bump down count
 			var target = $(this).children('.etbox_bump_down_count');
+			
+			// Get the bump up count
 			var target_other = $('.etbox_bump_up').children('.etbox_bump_up_count');
+			
 			$.post("/social/give_bump/1", 
 				{ 'permalink': permalink }, // data to send JSON-hash encoded        
 				function(data)
 				{
+					// Data array from social.php
 					var data_array = data.split(';');
+					
+					// Set the bump down count to the second value
       				target.text(data_array[1]);
+      				
+      				// Set the bump up count to the first value
       				target_other.text(data_array[0]);
       			}
       		);
