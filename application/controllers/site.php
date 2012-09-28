@@ -30,6 +30,21 @@ class Site extends CI_Controller {
 		$this->load->view('site/apply');
 	}
 	
+	function article($id){
+		$this->load->model('loader_model');
+		$data['main_content'] = 'article';
+		$data['username'] = $this->session->userdata('username');
+		$data['first_name'] = $this->loader_model->get_firstname($data['username']);
+		$data['whole_name'] = $this->loader_model->get_wholename($data['username']);
+		$data['feed_list'] = $this->loader_model->get_feeds($data['username']);
+		$data['feed_type'] = 'null';
+		$data['label_list'] = $this->loader_model->get_labels($data['username']);
+		$data['profile_ext'] = $this->loader_model->get_profileExt($data['username']);
+		$data['article'] = $this->loader_model->load_article_by_id($id);
+		$this->load->view('site/template', $data);
+	}
+	
+	
 	function feed($id=7){	//Ego Feed (Single Feed)
 		$this->load->model('loader_model');
 		$data['main_content'] = 'feed'; 
