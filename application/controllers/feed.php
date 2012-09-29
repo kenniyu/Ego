@@ -2,6 +2,7 @@
 
 class Feed extends CI_controller{
 
+	//Feed_Loader is set to be deprecated.
 	function feed_loader($feed_type, $id, $init){
 		require_once('inc/simplepie.inc');
 		$this->load->model('loader_model');
@@ -20,17 +21,23 @@ class Feed extends CI_controller{
 			}else if ($feed->type == 'keyword'){
 				$result = $this->feed_model->load_feed_keyword($feed->url);
 				$entries = array();
-				foreach ($result as $item){
-					$entry['permalink'] = $item->aid;
-					if ($this->loader_model->check_mark($entry['permalink']) == true){
-						continue;
+				if ($init < sizeof($result)){
+					for ($i = $init; $i<$init+10; $i++){
+						if ($i >= sizeof($result)){
+							break;
+						}
+						$item = $result[$i];
+						$entry['permalink'] = $item->aid;
+						if ($this->loader_model->check_mark($entry['permalink']) == true){
+							continue;
+						}
+						$entry['source'] = $item->source;
+						$entry['title'] = $item->title;
+						$entry['date'] = $item->date;
+						$entry['content'] = $item->content;
+						$entry['article'] = $item;
+						array_push($entries, $entry);
 					}
-					$entry['source'] = $item->source;
-					$entry['title'] = $item->title;
-					$entry['date'] = $item->date;
-					$entry['content'] = $item->content;
-					$entry['article'] = $item;
-					array_push($entries, $entry);
 				}
 				$data['entries'] = $entries;
 				return $this->load->view('loader/feed_viewer', $data);
@@ -73,9 +80,13 @@ class Feed extends CI_controller{
 		$this->load->view('loader/feed_viewer', $data);
 	}
 	
-	function sync_feed($url){
+	//Sync_Feed will be used to sync rss feeds.
+	function sync_feed($id){
 		require_once('inc/simplepie.inc');
 		require_once('inc/AlchemyAPI.php');
+		$this->load->model('feed_model');
+		
+		$url = $this->feed_model->get_source($id)->url;
 		
 		//Fetch the RSS feeds using SimplePie
 		$feed = new SimplePie($url);
@@ -86,30 +97,73 @@ class Feed extends CI_controller{
 		$feed->init();
 		$feed->handle_content_type();
 		
-		foreach ($feed->get_items($init, $init+10) as $item){
+		foreach ($feed->get_items() as $item){
 			//Load data for each article and save in cache.
 			$permalink = $item->get_permalink();
-			$source = $item->get_feed()->get_title();
-			$title = $item->get_title();
-			$date = $item->get_date();
-			$content = $item->get_content();
-			$aid = $this->feed_model->add_article($permalink, $title, $source, $date, $content);
-		
-			//Generate tags for each article and save in cache.
-			$tags = array();
-			$tags_json = $this->extract_keyword(strip_tags($content));
-			foreach($tags_json->keywords as $keyword){
-				array_push($tags, $keyword->text);
+			if (!$this->feed_model->check_aid($permalink)){
+				$source = $item->get_feed()->get_title();
+				$title = $item->get_title();
+				$date = $item->get_date();
+				$content = $item->get_content();
+				$aid = $this->feed_model->add_article($permalink, $title, $source, $date, $content);
+				//Generate tags for each article and save in cache.
+				$tags = array();
+				$tags_json = $this->extract_keyword(strip_tags($content));
+				foreach($tags_json->keywords as $keyword){
+					array_push($tags, $keyword->text);
+				}
+				$this->feed_model->add_tags($tags, $aid);
 			}
-			$this->feed_model->add_tags($tags, $aid);
+		}
+		echo "Sync Complete";
 	}
 	
+	//Load_Feed will be used to load articles.
 	function load_feed($feed_type, $id, $init){
+		$this->load->model('loader_model');
+		$this->load->model('feed_model');
+		//Load Articles from database
+		if ($feed_type == 'site'){
+			$feed = $this->loader_model->select_feed($id);
+			$result = $this->feed_model->load_feed_site($feed->url);	//Pass the Source as parameter
+		}else if ($feed_type == 'keyword'){
+			$feed = $this->loader_model->select_feed($id);
+			$result = $this->feed_model->load_feed_keyword($feed->url);	//Pass the Keyword as parameter
+		}else{
+			if ($id == 'all_feeds'){
+				$feed = $this->loader_model->get_feeds_all($this->session->userdata('username'));	
+			} else{
+				$label = $this->loader_model->select_label($this->session->userdata('username'), $id);
+				$feed = $this->loader_model->get_labelcontents($this->session->userdata('username'), $label->label);
+			}
+			$result = $this->feed_model->load_feed_label($feed); 		//Pass an array of source and/or keyword as parameter
+		}
 		
+		//Parse the returned data
+		$entries = array();
+		if ($init < sizeof($result)){
+			for ($i = $init; $i<$init+10; $i++){
+				if ($i >= sizeof($result)){
+					break;
+				}
+				$item = $result[$i];
+				$entry['permalink'] = $item->aid;
+				if ($this->loader_model->check_mark($entry['permalink']) == true){
+					continue;
+				}
+				$entry['source'] = $item->source;
+				$entry['title'] = $item->title;
+				$entry['date'] = $item->date;
+				$entry['content'] = $item->content;
+				$entry['article'] = $item;
+				array_push($entries, $entry);
+			}
+		}
+		
+		//Send to View
+		$data['entries'] = $entries;
+		return $this->load->view('loader/feed_viewer', $data);
 	}
-	
-	
-	
 	
 	function extract_keyword($content){
 		$characters = array('"');
@@ -158,7 +212,14 @@ class Feed extends CI_controller{
 	function extract_keyword_test(){
 		$this->load->view('feed/extract_keyword');
 	}
+
+	function add_source_temp(){
+		$this->load->view('feed/add_source');
+	}
 	
+	function add_keyword_temp(){
+		$this->load->view('feed/add_keyword');
+	}
 }
 
 

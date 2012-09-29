@@ -53,7 +53,305 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 		
 		
 		
-	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:44:"MacRumors: Mac News and Rumors - All Stories";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:24:"http://www.macrumors.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:27:"the mac news you care about";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 27 Sep 2012 15:15:06 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:2:"en";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:24:"http://www.macrumors.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:20:{i:0;a:6:{s:4:"data";s:28:"
+	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:44:"MacRumors: Mac News and Rumors - All Stories";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:24:"http://www.macrumors.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:27:"the mac news you care about";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 29 Sep 2012 02:59:55 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:2:"en";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:24:"http://www.macrumors.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:20:{i:0;a:6:{s:4:"data";s:28:"
+		
+		
+		
+		
+		
+		
+		
+
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"Another iPad Mini Physical Mockup on Video";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.macrumors.com/2012/09/29/another-ipad-mini-physical-mockup-on-video/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1457669";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 28 Sep 2012 21:39:21 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.macrumors.com/2012/09/29/another-ipad-mini-physical-mockup-on-video/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2894:"<a href="http://www.macotakara.jp/blog/rumor/entry-17853.html">Mactakara posts</a> some photos and a video with hands on a mockup of the rumored iPad Mini.   The video isn't particularly revealing, and we've <a href="http://www.macrumors.com/2012/09/19/hands-on-video-with-ipad-mini-physical-mockup/">seen video</a> of these mockups before, but provides another frame of reference for the size of such a device.  The photo below shows the relative size next to a 15" MacBook Pro. 
+<br/>
+
+<br/>
+<img src="http://images.macrumors.com/article-new/2012/09/ipadmini.jpg" alt="" title="ipadmini" width="567" height="425" class="aligncenter size-full wp-image-353790" />
+<br/>
+Apparently, the models are relatively easy to obtain for approximately 13 USD, according to a previous video report.  
+<br/>
+
+<br/>
+<center><object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/ni3-dXotwZ4?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ni3-dXotwZ4?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></center>
+<br/>
+The iPad Mini mockup shown on the video reveals a new Lightning port on the bottom of the device, while the headphone jack remains on the top of the device. 
+<br/>
+
+<br/>
+The 7.85" iPad Mini has been widely rumored to be approaching launch with <a href="http://www.macrumors.com/2012/08/25/apples-ipad-mini-media-event-planned-for-october/">reports</a> having suggested that Apple may introduce such a device in October.   That <a href="http://www.macrumors.com/2012/08/25/apples-ipad-mini-media-event-planned-for-october/">rumor</a> came from <em>AllThingsD</em>, which is a traditionally reliable source of Apple event rumors.   However, there's been a surprising absence of new rumors about the device as we are heading into October.
+<p><a href="http://feedads.g.doubleclick.net/~a/zGSrEKfl9nuicr2T3A-RLMIS_50/0/da"><img src="http://feedads.g.doubleclick.net/~a/zGSrEKfl9nuicr2T3A-RLMIS_50/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/zGSrEKfl9nuicr2T3A-RLMIS_50/1/da"><img src="http://feedads.g.doubleclick.net/~a/zGSrEKfl9nuicr2T3A-RLMIS_50/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=1-d7fmrxbCI:1IqeTcg2s_g:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=1-d7fmrxbCI:1IqeTcg2s_g:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/1-d7fmrxbCI" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:28:"
+		
+		
+		
+		
+		
+		
+		
+
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:82:"Skitch Updated With Features Restored; Version 1.0 Made Available Again [Mac Blog]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:107:"http://www.macrumors.com/2012/09/28/skitch-updated-with-features-restored-version-1-0-made-available-again/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1457434";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 28 Sep 2012 14:07:41 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:107:"http://www.macrumors.com/2012/09/28/skitch-updated-with-features-restored-version-1-0-made-available-again/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:8:"Mac Blog";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2951:"<img src="http://images.macrumors.com/article-new/2012/09/NewImage48.png" alt="NewImage" title="NewImage.png" width="150" height="148" class="alignright" />Screen shot sharing app <a href="http://skitch.com"><em>Skitch</em></a> was recently updated to version 2.0, but without a number of features that were frequently used by a number of its users.<br/>
+<br/>
+It received <a href="http://techcrunch.com/2012/09/19/when-updates-make-things-worse-evernotes-skitch-2-0/">a lot of criticism</a> from for removing features like the ability to minimize the app to the menu bar or to resize images by grabbing the corner of a window. Also, users were no longer able to choose the file format of their screenshots; it could only export .PNG files.<br/>
+<br/>
+However, Evernote, the company that owns Skitch, has <a href="http://blog.evernote.com/2012/09/28/skitch-for-mac-update-you-asked-we-listened/">heard the uproar and responded</a>. The company is releasing an updated version of Skitch with a number of changes -- and made Skitch 1.0 <a href="http://evernote.com/skitch/">available for download again</a>.<br/>
+<blockquote>Here's a quick overview of the changes:<br/>
+<br/>
+- Choose your file type: there's now a filetype selector in the Drag Me tab, where you can choose between PNG, JPG, GIF, TIFF, BMP<br/>
+- Smarter screen snap: you can modify selected area or change it to specific dimensions<br/>
+- Improved sync options: it gives you control over how/when you save notes to Evernote (Always, Ask, Never ask)<br/>
+- Flip and rotate: new Image menu options that also get keyboard shortcuts<br/>
+- Multi-select in the Library: to easily delete unwanted images<br/>
+- New keyboard shortcuts<br/>
+- Change arrow directions<br/>
+- And the old version of Skitch is available for those who still want it</blockquote>The update has been sent to Apple and should be pushed to the Mac App Store soon. It is a <a href="http://appshopper.com/mac/productivity/skitch">free download</a>. [<a href="http://itunes.apple.com/us/app/id425955336?mt=12">Direct Link</a>]
+<p><a href="http://feedads.g.doubleclick.net/~a/9HN4FjbxRQC4CtQbXm7oAB-Qv_0/0/da"><img src="http://feedads.g.doubleclick.net/~a/9HN4FjbxRQC4CtQbXm7oAB-Qv_0/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/9HN4FjbxRQC4CtQbXm7oAB-Qv_0/1/da"><img src="http://feedads.g.doubleclick.net/~a/9HN4FjbxRQC4CtQbXm7oAB-Qv_0/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=oUQOq6YOOGQ:Y09A0UqSDsc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=oUQOq6YOOGQ:Y09A0UqSDsc:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/oUQOq6YOOGQ" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:28:"
+		
+		
+		
+		
+		
+		
+		
+
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:58:"TouchArcade's Best iOS Games for September 2012 [iOS Blog]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:83:"http://www.macrumors.com/2012/09/28/toucharcades-best-ios-games-for-september-2012/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1457365";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 28 Sep 2012 12:36:09 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:83:"http://www.macrumors.com/2012/09/28/toucharcades-best-ios-games-for-september-2012/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:8:"iOS Blog";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:9929:"<img src="http://images.macrumors.com/article-new/2012/09/apple-touch-icon-2.png" alt="" title="apple-touch-icon-2" width="120" height="120" class="alignright size-full wp-image-353778" />iOS gaming site (and sister site) <a href="http://toucharcade.com">TouchArcade</a> has posted a roundup of their <a href="http://toucharcade.com/2012/09/28/best-ios-games-september-2012/">Best iOS Games</a> for September 2012.  
+<br/>
+
+<br/>
+The list of games consists of the highest rated iOS games from just the month of September, and offers a variety of genres.  Topping the list are a physics puzzler, matching puzzler, and a side-scrolling hack-and-slash game.  The remainder of the list offers a similarly diverse list that may appeal to different types of gamers.
+<br/>
+
+<br/>
+<h4 style="font-size: larger; text-decoration: underline;">5 Stars</h4>
+<br/>
+<div style="float:left; padding-right:1em;"><center><img src="http://images.appshopper.com/icons/533/451786.png" alt="Bad Piggies" title="Bad Piggies" width="65" height="65" class="alignnone size-full wp-image-28686" /></center>
+<br/>
+</div><a href="http://toucharcade.com/link/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=533451786&mt=8"><b><i>Bad Piggies</i></b>, &#36;0.99</a>  / <a href="http://toucharcade.com/link/http://itunes.apple.com/us/app/bad-piggies-hd/id545229893?mt=8">HD</a>
+<br/>
+[<a href="http://toucharcade.com/2012/09/27/bad-piggies-review-hide-your-eggs-the-pigs-are-coming-in-this-fantastic-physics-puzzler/">Review</a>] - [<a href="http://forums.toucharcade.com/showthread.php?t=157303">Forum Thread</a>] - A fantastically fresh spin on the <em>Angry Birds</em> formula, this time you play as the pigs and build various contraptions to reassemble your grand plan for stealing the eggs from the birds. This game is shockingly good, and shouldn't be missed. Sandbox mode, in particular, is incredible.
+<br/>
+
+<br/>
+<div style="float:left; padding-right:1em;"><center><img src="http://images.appshopper.com/icons/553/509171.png" alt="Super Monsters Ate My Condo!" title="Super Monsters Ate My Condo!" width="65" height="65" class="alignnone size-full wp-image-28686" /></center>
+<br/>
+</div><a href="http://toucharcade.com/link/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=553509171&mt=8"><b><i>Super Monsters Ate My Condo!</i></b>, &#36;0.99</a>
+<br/>
+[<a href="http://toucharcade.com/2012/09/28/super-monsters-ate-my-condo-review-and-ta-plays/">Review</a>] [<a href="http://forums.toucharcade.com/showthread.php?t=156986">Forum Thread</a>] - The original game was awesome, but this new <em>Bejeweled Blitz</em>-like spin on the formula cranks things up to 11. Two minute long games are hectic from start to finish, and if you're good, you can still pull off those insane scores that people loved bragging about in the original <em>Monsters Ate My Condo</em>.
+<br/>
+
+<br/>
+<div style="float:left; padding-right:1em;"><center><img src="http://images.appshopper.com/icons/541/971611.png" alt="God of Blades" title="God of Blades" width="65" height="65" class="alignnone size-full wp-image-28686" /></center>
+<br/>
+</div><a href="http://toucharcade.com/link/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=541971611&mt=8"><b><i>God of Blades</i></b>, &#36;2.99</a>
+<br/>
+[<a href="http://toucharcade.com/2012/09/27/god-of-blades/">Review</a>] - [<a href="http://forums.toucharcade.com/showthread.php?t=156964">Forum Thread</a>] - An incredibly unique game with art and sound design that's out of this world. It almost reminds us of <em>Sword &#038; Sworcery</em> in a way in that the game is so artistic that the entire experience is something you don't see very often on the App Store. Definitely dig into our review.
+<br/>
+
+<br/>
+<h4 style="font-size: larger; text-decoration: underline;">4.5 Stars</h4>
+<br/>
+<div style="float:left; padding-right:1em;"><center><img src="http://images.appshopper.com/icons/560/692867.png" alt="Lili™" title="Lili™" width="65" height="65" class="alignnone size-full wp-image-28686" /></center>
+<br/>
+</div><a href="http://toucharcade.com/link/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=560692867&mt=8"><b><i>Lili™</i></b>, &#36;4.99</a>
+<br/>
+[<a href="http://toucharcade.com/2012/09/25/lili-review/">Review</a>] - [<a href="http://forums.toucharcade.com/showthread.php?t=154953">Forum Thread</a>] - This Unreal engine powered game has a look at feel that is by far the most Nintendo-like I've seen on the App Store. Add a sword fighting mechanic and a Triforce, and it might pass for <em>Zelda</em>. The flower picking mechanic is a little weird, but it's easy to get into.
+<br/>
+
+<br/>
+<div style="float:left; padding-right:1em;"><center><img src="http://images.appshopper.com/icons/537/931449.png" alt="Rayman Jungle Run" title="Rayman Jungle Run" width="65" height="65" class="alignnone size-full wp-image-28686" /></center>
+<br/>
+</div><a href="http://toucharcade.com/link/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=537931449&mt=8"><b><i>Rayman Jungle Run</i></b>, &#36;2.99</a>
+<br/>
+[<a href="http://toucharcade.com/2012/09/19/rayman-jungle-run-review-a-run-away-hit/">Review</a>] - [<a href="http://forums.toucharcade.com/showthread.php?t=154868">Forum Thread</a>] - When I first heard of this game, I rolled my eyes expecting another <em>Temple Run</em> clone. Instead, we got a platformer that is not only totally awesome but feels perfect on the iPhone.
+<br/>
+
+<br/>
+<div style="float:left; padding-right:1em;"><center><img src="http://images.appshopper.com/icons/541/586466.png" alt="Plight of the Zombie" title="Plight of the Zombie" width="65" height="65" class="alignnone size-full wp-image-28686" /></center>
+<br/>
+</div><a href="http://toucharcade.com/link/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=541586466&mt=8"><b><i>Plight of the Zombie</i></b>, &#36;2.99</a>
+<br/>
+[<a href="http://toucharcade.com/2012/09/10/plight-of-the-zombie-review/">Review</a>] - [<a href="http://forums.toucharcade.com/showthread.php?t=146707">Forum Thread</a>] - A really slick line drawing stealth game that puts the player in charge of moving zombies around various levels. If you're tired of zombie games, give this one a try, it feels really fresh compared to most mindless zombie games.
+<br/>
+
+<br/>
+<div style="float:left; padding-right:1em;"><center><img src="http://images.appshopper.com/icons/549/027629.png" alt="Super Hexagon" title="Super Hexagon" width="65" height="65" class="alignnone size-full wp-image-28686" /></center>
+<br/>
+</div><a href="http://toucharcade.com/link/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=549027629&mt=8"><b><i>Super Hexagon</i></b>, &#36;0.99</a>
+<br/>
+[<a href="http://toucharcade.com/2012/09/07/super-hexagon-review/">Review</a>] - [<a href="http://forums.toucharcade.com/showthread.php?t=150512">Forum Thread</a>] - This game has taken the TouchArcade crew by storm, with Jared and Arn fiercely competing on leaderboards with a few of our mutual Twitter followers. I'm not good enough at video games to make a good effort, but if you like very short very fast paced games, you <b>need</b> this one.
+<br/>
+
+<br/>
+<div style="float:left; padding-right:1em;"><center><img src="http://images.appshopper.com/icons/543/610134.png" alt="Splice : Tree of Life" title="Splice : Tree of Life" width="65" height="65" class="alignnone size-full wp-image-28686" /></center>
+<br/>
+</div><a href="http://toucharcade.com/link/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=543610134&mt=8"><b><i>Splice : Tree of Life</i></b>, &#36;3.99</a>
+<br/>
+[<a href="http://toucharcade.com/2012/09/07/splice-tree-of-life-ipad-review/">Review</a>] - [<a href="http://forums.toucharcade.com/showthread.php?t=150221">Forum Thread</a>] - Cipher Prime nails it again with an oddly obscure cellular puzzler. It started its life on the PC, but like all of their games, the iPad almost feels like <em>Splice's</em> natural home.
+<br/>
+
+<br/>
+TouchArcade also <a href="http://toucharcade.com/2012/09/28/toucharcade-app-users-top-ten-most-anticipated-upcoming-games-september-2012/">lists</a> their readers' top most anticipated games.  Topping the list is <a href="http://toucharcade.com/2012/05/17/check-out-the-new-infinity-blade-dungeons-gameplay-video/">Infinity Blade Dungeons</a>, which was first previewed at Apple's <a href="http://www.macrumors.com/2012/03/07/live-coverage-of-apples-ipad-3-media-event/">iPad 3 media event</a> in March, but hasn't yet been released. 
+<br/>
+
+<br/>
+<center><object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/caYUBi2u23A?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/caYUBi2u23A?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></center>
+<p><a href="http://feedads.g.doubleclick.net/~a/bPF4LcAj-lKJqtQUEEjvW-SmF30/0/da"><img src="http://feedads.g.doubleclick.net/~a/bPF4LcAj-lKJqtQUEEjvW-SmF30/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/bPF4LcAj-lKJqtQUEEjvW-SmF30/1/da"><img src="http://feedads.g.doubleclick.net/~a/bPF4LcAj-lKJqtQUEEjvW-SmF30/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=2s46Wn7Ti0g:qReoj1nvqeM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=2s46Wn7Ti0g:qReoj1nvqeM:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/2s46Wn7Ti0g" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:28:"
+		
+		
+		
+		
+		
+		
+		
+
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"Both Lasers and Water are Damaging to the iPhone 5 [iOS Blog]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:87:"http://www.macrumors.com/2012/09/28/both-lasers-and-water-are-damaging-to-the-iphone-5/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1457327";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 28 Sep 2012 11:40:59 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:87:"http://www.macrumors.com/2012/09/28/both-lasers-and-water-are-damaging-to-the-iphone-5/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:8:"iOS Blog";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1930:"A pair of fun videos have shown what not to do to an iPhone 5. The first, from <a href="http://www.androidauthority.com/iphone-5-torture-test-118634/"><em>Android Authority</em></a> (via <a href="http://www.cultofmac.com/193376/it-takes-a-lot-of-water-to-kill-an-iphone-5-video/"><em>Cult of Mac</em></a>), shows the iPhone 5 going through several torture tests, including spilled coffee and being fully submerged in water. It fared well in the first, but less so in the second.<br/>
+<br/>
+<center><iframe width="560" height="315" src="http://www.youtube.com/embed/rsWHkqRnfoc?rel=0" frameborder="0" allowfullscreen></iframe></center><br/>
+The second test, from Wicked Lasers (via <em><a href="http://techcrunch.com/2012/09/27/pew-pew-pew-iphone-5-destroyed-by-lasers-video/">TechCrunch</a></em>), shows 6 watts of lasers aimed at the iPhone 5's screen; with unfortunate results:<br/>
+<br/>
+<center><iframe width="560" height="315" src="http://www.youtube.com/embed/i221tdgO3r8?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<p><a href="http://feedads.g.doubleclick.net/~a/AO1chsiPhXFHdWzGVaz5E_UBY6g/0/da"><img src="http://feedads.g.doubleclick.net/~a/AO1chsiPhXFHdWzGVaz5E_UBY6g/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/AO1chsiPhXFHdWzGVaz5E_UBY6g/1/da"><img src="http://feedads.g.doubleclick.net/~a/AO1chsiPhXFHdWzGVaz5E_UBY6g/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=Zg2b5Pos_2Q:KgsVA0VsDbo:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=Zg2b5Pos_2Q:KgsVA0VsDbo:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/Zg2b5Pos_2Q" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:28:"
+		
+		
+		
+		
+		
+		
+		
+
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:65:"Apple Launches New App Store Feature Section for Alternative Maps";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:102:"http://www.macrumors.com/2012/09/28/apple-launches-new-app-store-feature-section-for-alternative-maps/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1457271";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 28 Sep 2012 10:23:38 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:102:"http://www.macrumors.com/2012/09/28/apple-launches-new-app-store-feature-section-for-alternative-maps/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2010:"Following this morning's release of an <a href="http://www.macrumors.com/2012/09/28/tim-cook-publishes-open-letter-on-maps-for-ios-6/">open letter from Tim Cook</a> apologizing for issues with the new Apple-driven Maps app in iOS 6 and mentioning some alternative map options available to users, Apple has also added a new featured section to the App Store highlighting some of those map alternatives.
+<br/>
+
+<br/>
+<img src="http://images.macrumors.com/article-new/2012/09/iphone_alternative_maps.jpg" alt="" title="iphone_alternative_maps" width="350" height="599" class="aligncenter size-full wp-image-353763" />
+<br/>
+A host of alternative apps ranging from free to Magellan's &#36;49.99 "RoadMate USA" are available from such brands as Waze, Mapquest, Garmin, Bing, and MotionX.
+<br/>
+
+<br/>
+Apple's embrace of alternative map options seems to be a sign that the company is taking criticism of its own offering seriously, although directing users to downloads through the App Store is still of benefit to Apple.  Cook's letter did, however, also promote web-based alternatives such as Google's and Nokia's maps.
+<p><a href="http://feedads.g.doubleclick.net/~a/F7XJKyarBGCwLIUnYlszin9hboE/0/da"><img src="http://feedads.g.doubleclick.net/~a/F7XJKyarBGCwLIUnYlszin9hboE/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/F7XJKyarBGCwLIUnYlszin9hboE/1/da"><img src="http://feedads.g.doubleclick.net/~a/F7XJKyarBGCwLIUnYlszin9hboE/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=D4BcfyO3b-c:mVc4pe89XrU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=D4BcfyO3b-c:mVc4pe89XrU:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/D4BcfyO3b-c" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:28:"
+		
+		
+		
+		
+		
+		
+		
+
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:46:"Gmail Updated With iPhone 5 Support [iOS Blog]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:72:"http://www.macrumors.com/2012/09/28/gmail-updated-with-iphone-5-support/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1457253";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 28 Sep 2012 09:59:05 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:72:"http://www.macrumors.com/2012/09/28/gmail-updated-with-iphone-5-support/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:8:"iOS Blog";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1800:"<img src="http://images.macrumors.com/article-new/2012/09/gmailforios.png" alt="gmailforios" title="gmailforios.png" width="184" height="185" class="alignright" />Google has updated the official Gmail for iOS app with support for the iPhone 5's larger screen. The app allows users to read and organize their Gmail messages, as well as push notifications for new messages.<br/>
+<br/>
+Google also announced a <a href="http://gmailblog.blogspot.com/2012/09/a-new-way-to-sync-google-contacts.html">new way to sync</a> with Google Contacts on iOS. The service <a href="http://support.google.com/mail/bin/answer.py?hl=en&answer=2753077">now supports CardDav</a>, an open protocol for contact syncing. <br/>
+<br/>
+Gmail for iPhone and iPad is a <a href="http://appshopper.com/productivity/gmail">free download</a> from the App Store. [<a href="http://itunes.apple.com/app/gmail/id422689480?mt=8">Direct Link</a>]
+<p><a href="http://feedads.g.doubleclick.net/~a/1GyHzQ2drGf7YR7Dsvq9KsBaTxo/0/da"><img src="http://feedads.g.doubleclick.net/~a/1GyHzQ2drGf7YR7Dsvq9KsBaTxo/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/1GyHzQ2drGf7YR7Dsvq9KsBaTxo/1/da"><img src="http://feedads.g.doubleclick.net/~a/1GyHzQ2drGf7YR7Dsvq9KsBaTxo/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=SPPdFR3fcas:KJxbFX11lbI:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=SPPdFR3fcas:KJxbFX11lbI:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/SPPdFR3fcas" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:28:"
+		
+		
+		
+		
+		
+		
+		
+
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"Apple's Pandora-Killer Delayed Over Song Licensing Negotiations";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:99:"http://www.macrumors.com/2012/09/28/apples-pandora-killer-delayed-over-song-licensing-negotiations/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1457210";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 28 Sep 2012 09:22:01 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:99:"http://www.macrumors.com/2012/09/28/apples-pandora-killer-delayed-over-song-licensing-negotiations/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2477:"<img src="http://images.macrumors.com/article-new/2012/09/ituneslogo.jpg" alt="Ituneslogo" title="ituneslogo.jpg" width="150" height="150" class="alignright" />Earlier this month, the <em>WSJ</em> reported that Apple was <a href="http://www.macrumors.com/2012/09/06/apple-working-on-pandora-like-music-service/">working on a streaming radio service</a> to rival Pandora. Apple was reportedly in licensing negotiations with record labels, but was months away from launching the service.<br/>
+<br/>
+Today, the <em>New York Post</em> <a href="http://www.nypost.com/p/news/business/sony_bites_apple_kKe2i0rFHlCbeFRq5cJeiO">reports that negotiations</a> with music publisher Sony/ATV have hit a snag over the fee Apple would pay for each song streamed by its customers.<br/>
+<blockquote>Apple’s plan to have its own music-streaming service built into the iPhone 5 was dramatically dashed when talks between the tech giant and Sony/ATV hit a last-minute snag, The Post has learned.<br/>
+<br/>
+Sony/ATV, the world’s largest music publisher, and Apple couldn’t agree on a per-song rights fee, sources close to the situation said.<br/>
+<br/>
+Those rights are usually tenths of a penny per stream, sources said. Sony/ATV was looking for a higher rate.</blockquote>The <em>Post</em> <a href="http://www.nypost.com/p/news/business/sony_bites_apple_kKe2i0rFHlCbeFRq5cJeiO">reports</a> that Apple wants better licensing rates than Pandora because it will direct record sales through the App Store, and Apple's restrictions on playing an artist multiple times would be looser than Pandora's.
+<p><a href="http://feedads.g.doubleclick.net/~a/9NwsEJzSk0Toe4m_WglQsbKeBcs/0/da"><img src="http://feedads.g.doubleclick.net/~a/9NwsEJzSk0Toe4m_WglQsbKeBcs/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/9NwsEJzSk0Toe4m_WglQsbKeBcs/1/da"><img src="http://feedads.g.doubleclick.net/~a/9NwsEJzSk0Toe4m_WglQsbKeBcs/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=xizq0QSGvNw:k_t2c0FY14Y:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=xizq0QSGvNw:k_t2c0FY14Y:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/xizq0QSGvNw" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:28:"
+		
+		
+		
+		
+		
+		
+		
+
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:58:"Sharp Now Producing 'Adequate Volumes' of iPhone 5 Display";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:93:"http://www.macrumors.com/2012/09/28/sharp-now-producing-adequate-volumes-of-iphone-5-display/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1457143";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 28 Sep 2012 07:47:41 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:93:"http://www.macrumors.com/2012/09/28/sharp-now-producing-adequate-volumes-of-iphone-5-display/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2615:"<a href="http://www.reuters.com/article/2012/09/28/us-sharp-iphone-idUSBRE88R0I420120928"><i>Reuters</i> reports</a> that Sharp has publicly stated that it is now producing "adequate volumes" of the display for the iPhone 5, bolstering Apple's efforts to catch up with high demand for the device.<blockquote>Sharp Corp is making "adequate volumes" of displays it is known to supply for Apple Inc's new iPhone5, a company executive said, indicating that a possible bottleneck in supplies of screens may have eased.
+<br/>
+
+<br/>
+Analysts had blamed a shortfall in supplies of display for leaving Apple with too few iPhones to meet burgeoning demand at its launch this month.</blockquote><img src="http://images.macrumors.com/article-new/2012/09/sharp_logo-500x70.jpg" alt="" title="sharp_logo" width="500" height="70" class="aligncenter size-large wp-image-353744" />
+<br/>
+Deutsche Securities analyst Yasuo Nakane estimates that Japan Display and LG Display are capable of producing roughly eight million displays per month each, while Sharp's capacity is pegged at six million displays.  With Sharp reportedly having not been ready for the initial batch of iPhone 5 units, over 25% of display production capacity appears to have been offline until <a href="http://www.macrumors.com/2012/09/13/sharp-catches-up-on-iphone-5-display-production/">just two weeks ago</a>.
+<br/>
+
+<br/>
+Sharp's full production of the iPhone 5 display comes as existing shortages in Apple's first round of launch markets are being compounded by today's <a href="http://www.macrumors.com/2012/09/27/iphone-5-launches-in-22-countries-and-six-rural-carriers-friday/">expansion</a> to 22 new countries and several more carriers in existing markets.
+<p><a href="http://feedads.g.doubleclick.net/~a/Q-ivOdX_-wfv9zs-XYRTS0qnYfI/0/da"><img src="http://feedads.g.doubleclick.net/~a/Q-ivOdX_-wfv9zs-XYRTS0qnYfI/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/Q-ivOdX_-wfv9zs-XYRTS0qnYfI/1/da"><img src="http://feedads.g.doubleclick.net/~a/Q-ivOdX_-wfv9zs-XYRTS0qnYfI/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=_6MD8_lzo14:b7ruazJ_3kI:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=_6MD8_lzo14:b7ruazJ_3kI:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/_6MD8_lzo14" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:28:"
+		
+		
+		
+		
+		
+		
+		
+
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:48:"Tim Cook Publishes Open Letter on Maps for iOS 6";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.macrumors.com/2012/09/28/tim-cook-publishes-open-letter-on-maps-for-ios-6/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1457038";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 28 Sep 2012 06:00:48 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.macrumors.com/2012/09/28/tim-cook-publishes-open-letter-on-maps-for-ios-6/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3406:"<img src="http://images.macrumors.com/article-new/2012/09/cook_ios_6_maps_letter.jpg" alt="" title="cook_ios_6_maps_letter" width="250" height="201" class="alignright size-full wp-image-353734" />Apple CEO Tim Cook has published an <a href="http://www.apple.com/letter-from-tim-cook-on-maps/">open letter to customers</a> on the company's website addressing the criticism over the new Apple-powered Maps app in iOS 6.  In the letter, Cook apologizes for not meeting expectations and mentions a number of alternative mapping solutions customers may wish to use while Apple is refining its Maps.<blockquote>To our customers,
+<br/>
+
+<br/>
+At Apple, we strive to make world-class products that deliver the best experience possible to our customers. With the launch of our new Maps last week, we fell short on this commitment. We are extremely sorry for the frustration this has caused our customers and we are doing everything we can to make Maps better.
+<br/>
+
+<br/>
+We launched Maps initially with the first version of iOS. As time progressed, we wanted to provide our customers with even better Maps including features such as turn-by-turn directions, voice integration, Flyover and vector-based maps. In order to do this, we had to create a new version of Maps from the ground up.
+<br/>
+
+<br/>
+There are already more than 100 million iOS devices using the new Apple Maps, with more and more joining us every day. In just over a week, iOS users with the new Maps have already searched for nearly half a billion locations. The more our customers use our Maps the better it will get and we greatly appreciate all of the feedback we have received from you.
+<br/>
+
+<br/>
+While we’re improving Maps, you can try alternatives by downloading map apps from the <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewFeature?id=566480009&mt=8">App Store</a> like Bing, MapQuest and Waze, or use Google or Nokia maps by going to their websites and <a href="http://www.apple.com/ios/add-to-home-screen/">creating an icon</a> on your home screen to their web app.
+<br/>
+
+<br/>
+Everything we do at Apple is aimed at making our products the best in the world. We know that you expect that from us, and we will keep working non-stop until Maps lives up to the same incredibly high standard.
+<br/>
+
+<br/>
+Tim Cook
+<br/>
+Apple’s CEO</blockquote><a href="http://appshopper.com/blog/2012/09/24/alternatives-to-apples-maps-app-in-ios-6/">AppShopper also lists</a> a list of both free and paid alternatives to Apple Maps.
+<p><a href="http://feedads.g.doubleclick.net/~a/QoukYL3aCAVboDbJZBl5Wg-iSlk/0/da"><img src="http://feedads.g.doubleclick.net/~a/QoukYL3aCAVboDbJZBl5Wg-iSlk/0/di" border="0" ismap="true"></img></a><br/>
+<a href="http://feedads.g.doubleclick.net/~a/QoukYL3aCAVboDbJZBl5Wg-iSlk/1/da"><img src="http://feedads.g.doubleclick.net/~a/QoukYL3aCAVboDbJZBl5Wg-iSlk/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
+<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=WTRViPbOeOQ:JfXoJok77Xk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=WTRViPbOeOQ:JfXoJok77Xk:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/WTRViPbOeOQ" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -77,7 +375,7 @@ Many popular apps are being quickly updated to support the iPhone 5's larger scr
 <p><a href="http://feedads.g.doubleclick.net/~a/Q2bIm85n4pXIb4fQmaNrK7fEncc/0/da"><img src="http://feedads.g.doubleclick.net/~a/Q2bIm85n4pXIb4fQmaNrK7fEncc/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/Q2bIm85n4pXIb4fQmaNrK7fEncc/1/da"><img src="http://feedads.g.doubleclick.net/~a/Q2bIm85n4pXIb4fQmaNrK7fEncc/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=uT6qcM6QtRY:urHYsDSFTb4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=uT6qcM6QtRY:urHYsDSFTb4:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/uT6qcM6QtRY" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/uT6qcM6QtRY" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Arnold Kim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -98,7 +396,7 @@ The app is <a href="http://www.macgamestore.com/app/">available free</a> from Ma
 <p><a href="http://feedads.g.doubleclick.net/~a/DzjZFj3f3ScbQrCoMnj2fKjkkmM/0/da"><img src="http://feedads.g.doubleclick.net/~a/DzjZFj3f3ScbQrCoMnj2fKjkkmM/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/DzjZFj3f3ScbQrCoMnj2fKjkkmM/1/da"><img src="http://feedads.g.doubleclick.net/~a/DzjZFj3f3ScbQrCoMnj2fKjkkmM/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=gPJ2p3JrIk4:-pDVSG3ljyU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=gPJ2p3JrIk4:-pDVSG3ljyU:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/gPJ2p3JrIk4" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/gPJ2p3JrIk4" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -122,7 +420,7 @@ Regardless of the difficulties in developing it, Camera+ is now available on the
 <p><a href="http://feedads.g.doubleclick.net/~a/F0LScIYy5DLWzmDuql6Ixi--26A/0/da"><img src="http://feedads.g.doubleclick.net/~a/F0LScIYy5DLWzmDuql6Ixi--26A/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/F0LScIYy5DLWzmDuql6Ixi--26A/1/da"><img src="http://feedads.g.doubleclick.net/~a/F0LScIYy5DLWzmDuql6Ixi--26A/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=L9Fb314Lv1U:eae0tf4oqdI:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=L9Fb314Lv1U:eae0tf4oqdI:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/L9Fb314Lv1U" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/L9Fb314Lv1U" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -144,7 +442,7 @@ The iPhone 5 is also going on sale at a number of U.S. regional carriers, includ
 <p><a href="http://feedads.g.doubleclick.net/~a/kcykaXkmtPKdP3uqapI6bmN8B1Y/0/da"><img src="http://feedads.g.doubleclick.net/~a/kcykaXkmtPKdP3uqapI6bmN8B1Y/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/kcykaXkmtPKdP3uqapI6bmN8B1Y/1/da"><img src="http://feedads.g.doubleclick.net/~a/kcykaXkmtPKdP3uqapI6bmN8B1Y/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=XINOxCdG_G4:mwRbXYYt9-k:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=XINOxCdG_G4:mwRbXYYt9-k:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/XINOxCdG_G4" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/XINOxCdG_G4" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -168,7 +466,7 @@ The explosion in smartphone usage is of course just one part of a surge in consu
 <p><a href="http://feedads.g.doubleclick.net/~a/WcOxHXGBFUKDDmmQ0dbtGRX1oAI/0/da"><img src="http://feedads.g.doubleclick.net/~a/WcOxHXGBFUKDDmmQ0dbtGRX1oAI/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/WcOxHXGBFUKDDmmQ0dbtGRX1oAI/1/da"><img src="http://feedads.g.doubleclick.net/~a/WcOxHXGBFUKDDmmQ0dbtGRX1oAI/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=mbOQohzPm8g:_kdhSeKHHQ8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=mbOQohzPm8g:_kdhSeKHHQ8:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/mbOQohzPm8g" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/mbOQohzPm8g" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -200,7 +498,7 @@ Many of the inventions addressed in Apple's patent applications never see the li
 <p><a href="http://feedads.g.doubleclick.net/~a/1tekqXwq-USIV4WDKCCtXwssCi0/0/da"><img src="http://feedads.g.doubleclick.net/~a/1tekqXwq-USIV4WDKCCtXwssCi0/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/1tekqXwq-USIV4WDKCCtXwssCi0/1/da"><img src="http://feedads.g.doubleclick.net/~a/1tekqXwq-USIV4WDKCCtXwssCi0/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=i0IPA7fzm5M:go89HuKlFDM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=i0IPA7fzm5M:go89HuKlFDM:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/i0IPA7fzm5M" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/i0IPA7fzm5M" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -217,7 +515,7 @@ The game will arrive sometime tomorrow for the iPhone, iPad and Mac. Historicall
 <p><a href="http://feedads.g.doubleclick.net/~a/85iSQby2Y_UJTwOO_IKkVoHia_w/0/da"><img src="http://feedads.g.doubleclick.net/~a/85iSQby2Y_UJTwOO_IKkVoHia_w/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/85iSQby2Y_UJTwOO_IKkVoHia_w/1/da"><img src="http://feedads.g.doubleclick.net/~a/85iSQby2Y_UJTwOO_IKkVoHia_w/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=IFebrp3Yeok:IcoYQQ67M2A:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=IFebrp3Yeok:IcoYQQ67M2A:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/IFebrp3Yeok" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/IFebrp3Yeok" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -241,7 +539,7 @@ iLounge has the <a href="http://www.ilounge.com/index.php/reviews/entry/apple-ip
 <p><a href="http://feedads.g.doubleclick.net/~a/bcR0ldyv_zYwKGIi1qGWCre7GhI/0/da"><img src="http://feedads.g.doubleclick.net/~a/bcR0ldyv_zYwKGIi1qGWCre7GhI/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/bcR0ldyv_zYwKGIi1qGWCre7GhI/1/da"><img src="http://feedads.g.doubleclick.net/~a/bcR0ldyv_zYwKGIi1qGWCre7GhI/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=af6KraghAhI:NXKRdgbI8eM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=af6KraghAhI:NXKRdgbI8eM:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/af6KraghAhI" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/af6KraghAhI" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -265,7 +563,7 @@ Combined with the deterioration of the overall Apple-Google relationship and App
 <p><a href="http://feedads.g.doubleclick.net/~a/6XQgr_o-r6oWVoy3uqyGL7e4voU/0/da"><img src="http://feedads.g.doubleclick.net/~a/6XQgr_o-r6oWVoy3uqyGL7e4voU/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/6XQgr_o-r6oWVoy3uqyGL7e4voU/1/da"><img src="http://feedads.g.doubleclick.net/~a/6XQgr_o-r6oWVoy3uqyGL7e4voU/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=z-fUKqDzlZE:qJ2FpPLNTeg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=z-fUKqDzlZE:qJ2FpPLNTeg:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/z-fUKqDzlZE" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/z-fUKqDzlZE" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -293,7 +591,7 @@ Kyle Wiens from <a href="http://www.ifixit.com">iFixIt</a> speculates that the a
 <p><a href="http://feedads.g.doubleclick.net/~a/mAxcRDIt1GdPhNDd_ZEM4pJk25E/0/da"><img src="http://feedads.g.doubleclick.net/~a/mAxcRDIt1GdPhNDd_ZEM4pJk25E/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/mAxcRDIt1GdPhNDd_ZEM4pJk25E/1/da"><img src="http://feedads.g.doubleclick.net/~a/mAxcRDIt1GdPhNDd_ZEM4pJk25E/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=a-PK2FF0zz0:00OqpoxXXjQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=a-PK2FF0zz0:00OqpoxXXjQ:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/a-PK2FF0zz0" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:28:"
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/a-PK2FF0zz0" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:28:"
 		
 		
 		
@@ -315,239 +613,4 @@ The digital books with the new recording feature are all available as universal 
 <p><a href="http://feedads.g.doubleclick.net/~a/gef_zIaQdcmmWmEdxHJ3wuLe7zA/0/da"><img src="http://feedads.g.doubleclick.net/~a/gef_zIaQdcmmWmEdxHJ3wuLe7zA/0/di" border="0" ismap="true"></img></a><br/>
 <a href="http://feedads.g.doubleclick.net/~a/gef_zIaQdcmmWmEdxHJ3wuLe7zA/1/da"><img src="http://feedads.g.doubleclick.net/~a/gef_zIaQdcmmWmEdxHJ3wuLe7zA/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
 <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=p-KXFj8RYnk:yVXRrXumIqY:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=p-KXFj8RYnk:yVXRrXumIqY:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/p-KXFj8RYnk" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:28:"
-		
-		
-		
-		
-		
-		
-		
-
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"Apple Updates iPhone User Guide for iOS 6 and the iPhone 5 [iOS Blog]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:95:"http://www.macrumors.com/2012/09/26/apple-updates-iphone-user-guide-for-ios-6-and-the-iphone-5/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1455307";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 26 Sep 2012 09:49:27 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:95:"http://www.macrumors.com/2012/09/26/apple-updates-iphone-user-guide-for-ios-6-and-the-iphone-5/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:8:"iOS Blog";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1832:"<img src="http://images.macrumors.com/article-new/2012/09/NewImage43.png" alt="NewImage" title="NewImage.png" width="560" height="420" class="aligncenter"/><br/>
-The iPhone can be very intimidating for first-time users, especially since Apple doesn't include a traditional manual in the box with the device. There is a large market for aftermarket books like the forthcoming <a href="http://www.amazon.com/iPhone-Dummies-Computer-Tech/dp/1118352017/">iPhone 5 for Dummies</a>, but Apple also offers a free iPhone Users Guide updated for iOS 6 both in PDF form and on iBooks.<br/>
-<br/>
-The guides are excellent for customers new to the iPhone, and for the less tech-savvy iOS user. Download the guide through Apple's iBookstore [<a href="http://itunes.apple.com/us/book/iphone-user-guide-for-ios-6/id563272542?mt=11">Direct Link</a>] or as direct download <a href="http://manuals.info.apple.com/en_US/iphone_user_guide.pdf">as a PDF</a>.
-<p><a href="http://feedads.g.doubleclick.net/~a/5A-7ja7i2zUy-XPVnEVWnXBChqQ/0/da"><img src="http://feedads.g.doubleclick.net/~a/5A-7ja7i2zUy-XPVnEVWnXBChqQ/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/5A-7ja7i2zUy-XPVnEVWnXBChqQ/1/da"><img src="http://feedads.g.doubleclick.net/~a/5A-7ja7i2zUy-XPVnEVWnXBChqQ/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
-<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=om0hhCTXd5g:N27Lcz0S8eE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=om0hhCTXd5g:N27Lcz0S8eE:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/om0hhCTXd5g" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:28:"
-		
-		
-		
-		
-		
-		
-		
-
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:89:"Google's Work Toward Standalone iOS Maps App Complicated by Integration with Google Earth";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:125:"http://www.macrumors.com/2012/09/26/googles-work-toward-standalone-ios-maps-app-complicated-by-integration-with-google-earth/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1455244";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 26 Sep 2012 08:23:55 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:125:"http://www.macrumors.com/2012/09/26/googles-work-toward-standalone-ios-maps-app-complicated-by-integration-with-google-earth/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3348:"Amid varied reports claiming that Google has been working on a replacement standalone Maps app for iOS to replace the bundled app included with every version of iOS until last week's release of iOS 6, <a href="http://bits.blogs.nytimes.com/2012/09/25/google-working-on-maps-for-iphone-ipad/"><i>The New York Times</i> weighs in</a> with its own sources claiming that Google is indeed working on a standalone app for iPhone and iPad and is hoping to have it available in "another couple months or so".
-<br/>
-
-<br/>
-As was <a href="http://www.macrumors.com/2012/09/25/apple-reportedly-had-over-a-year-left-on-maps-contract-with-google/">noted yesterday by <i>The Verge</i></a>, Apple and Google still have over a year left on their contract for Google to provide Maps for iOS, and thus Google was caught off guard when Apple announced in June that it would be replacing Google's solution with its own Maps app for iOS 6.  As a result, Google still needs several more months to complete work on a standalone offering to be submitted to Apple for inclusion in the App Store.
-<br/>
-
-<br/>
-<img src="http://images.macrumors.com/article-new/2012/07/google_earth_iphone_3d.jpg" alt="" title="google_earth_iphone_3d" width="560" height="411" class="aligncenter size-full wp-image-347957" />
-<br/>
-<i>The New York Times</i> notes that another challenge faced by Google stems from its desire to build 3D imagery into its upcoming Maps app for iOS 6.  The functionality was <a href="http://www.macrumors.com/2012/07/26/google-brings-3d-maps-to-ios-with-google-earth-update/">added to the Google Earth app</a> several months ago, but moving it to the more traditional mapping app will require additional work.<blockquote>Another complication, according to a person with knowledge of Google Maps: Google would likely prefer to release a maps app that includes 3-D imagery so it is comparable to Apple’s. But Google has 3-D images in Google Earth, which is a separate app with a separate code base from Google Maps, so it would take some time to combine the two.</blockquote>Apple's new Maps app has come under significant criticism for a number of issues, including incomplete or poor imagery, errors in locating points of interest and even cities, and a lack of transit information.  As with Google Maps, users can <a href="http://www.macrumors.com/2012/09/24/how-to-report-a-problem-with-ios-6-maps-data/">report problems to Apple</a> to help improve the product.
-<p><a href="http://feedads.g.doubleclick.net/~a/66xd8i17PUzzKShpACL_dCHEBCw/0/da"><img src="http://feedads.g.doubleclick.net/~a/66xd8i17PUzzKShpACL_dCHEBCw/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/66xd8i17PUzzKShpACL_dCHEBCw/1/da"><img src="http://feedads.g.doubleclick.net/~a/66xd8i17PUzzKShpACL_dCHEBCw/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
-<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=1-guoi6a7a8:AroTZfw6ILQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=1-guoi6a7a8:AroTZfw6ILQ:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/1-guoi6a7a8" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:28:"
-		
-		
-		
-		
-		
-		
-		
-
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"Apple Sourcing Carbon Fiber Components for Upcoming Product?";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:96:"http://www.macrumors.com/2012/09/26/apple-sourcing-carbon-fiber-components-for-upcoming-product/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1455202";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 26 Sep 2012 07:42:10 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:96:"http://www.macrumors.com/2012/09/26/apple-sourcing-carbon-fiber-components-for-upcoming-product/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3332:"<a href="http://www.macotakara.jp/blog/rumor/entry-17835.html"><i>Macotakara</i> reports</a> that it has received information from a source indicating that representatives of Apple and Foxconn have been working to source unknown parts from a company with expertise in carbon fiber materials.<blockquote>According to my source, some engineer of Apple and Foxconn Technology came on Japanese company, which has carbon production in mid-March, and they requested to develop some sample.
-<br/>
-
-<br/>
-I don't have information which is ordered by Apple, source told the number of parts is too large to be called "sample".</blockquote>Rumors of Apple's interest in carbon fiber, which offers high strength at low weight, have been circulating for a number of years but have yet to come to fruition.  Nearly four years ago there were rumors of a <a href="http://www.macrumors.com/2008/11/11/apple-to-adopt-carbon-fiber-for-lighter-macbook-air/">carbon fiber MacBook Air</a>, and Apple <a href="http://www.macrumors.com/2009/04/30/apple-researching-carbon-fiber-composite-materials-for-exterior-shells/">patent applications</a> have indicated that the company is at least exploring what could be done with such materials.
-<br/>
-
-<br/>
-<center><img src="http://images.macrumors.com/article-new/2012/09/carbon_fiber_macbook_pro_decal.jpg">
-<br/>
-<i>MacBook Pro covered by <a href="http://christianemail.blogspot.com/2006/12/worlds-first-carbon-fiber-macbook-sort.html">"carbon fiber" stickers</a></i></center>
-<br/>
-More recently, a <a href="http://www.macrumors.com/2011/02/04/ipad-2-with-nfc-equipped-accessories-carbon-fiber-body-7-inch-ipad-still-alive/">pair</a> of <a href="http://www.macrumors.com/2011/02/25/second-generation-ipad-to-gain-carbon-fiber-body/">reports</a> had indicated that the iPad 2 might gain a carbon fiber body.  Those claims did not come to pass, although both reports had indicated that the information was rather sketchy in nature as Apple may simply have been testing the technology during the company's product development cycle.
-<br/>
-
-<br/>
-With the <a href="http://www.macrumors.com/2011/04/11/apple-exploring-carbon-fiber-enclosures-for-future-devices/">hiring of Kevin Kenney</a> last year as a senior composites engineer, speculation regarding Apple's plans for carbon fiber has continued to surface.  Kenney had previously served as president and CEO of carbon fiber bicycle frame pioneer Kestrel Bicycles.
-<p><a href="http://feedads.g.doubleclick.net/~a/dFNDL5TR-F9nmnQ0SZR7W-chBXM/0/da"><img src="http://feedads.g.doubleclick.net/~a/dFNDL5TR-F9nmnQ0SZR7W-chBXM/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/dFNDL5TR-F9nmnQ0SZR7W-chBXM/1/da"><img src="http://feedads.g.doubleclick.net/~a/dFNDL5TR-F9nmnQ0SZR7W-chBXM/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
-<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=PkFkwFdQLac:g6sFhFEjtgk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=PkFkwFdQLac:g6sFhFEjtgk:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/PkFkwFdQLac" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:28:"
-		
-		
-		
-		
-		
-		
-		
-
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"Apple Reportedly Had Over a Year Left on Maps Contract with Google";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:103:"http://www.macrumors.com/2012/09/25/apple-reportedly-had-over-a-year-left-on-maps-contract-with-google/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1454642";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 25 Sep 2012 17:10:47 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:103:"http://www.macrumors.com/2012/09/25/apple-reportedly-had-over-a-year-left-on-maps-contract-with-google/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3046:"Amid widespread complaints over Apple's new iOS 6 Maps app, which replaced the Google-powered application that had shipped on iOS devices since the iPhone debuted in 2007, some observers have wondered how much of the shift was due to Apple's desire to reduce its reliance upon on Google and how much might be due to other factors.
-<br/>
-
-<br/>
-<img src="http://images.macrumors.com/article-new/2012/09/ios_6_maps.jpg" alt="" title="ios_6_maps" width="580" height="336" class="aligncenter size-full wp-image-353588" />
-<br/>
-In particular, there has been some speculation that demands by Google could also have played a role in Apple's decision, with the suggestion being that Apple may have been forced to roll out its own mapping solution a bit sooner than it had planned for if its contract with Google had been running out.
-<br/>
-
-<br/>
-<a href="http://www.theverge.com/2012/9/25/3407614/apple-over-a-year-left-on-google-maps-contract-google-maps-ios-app"><i>The Verge</i> now reports</a> that such speculation is unfounded, with Apple and Google having had over a year left on their contract for Google's Maps app.  Consequently, Apple could presumably have continued using Google's app in iOS 6 as it worked to improve its own mapping product for a launch with iOS 7 next year.<blockquote>For its part, Apple apparently felt that the older Google Maps-powered Maps in iOS were falling behind Android — particularly since they didn't have access to turn-by-turn navigation, which Google has shipped on Android phones for several years. The Wall Street Journal reported in June that Google also wanted more prominent branding and the ability to add features like Latitude, and executives at the search giant were unhappy with Apple's renewal terms. But the existing deal between the two companies was still valid and didn't have any additional requirements, according to our sources — Apple decided to simply end it and ship the new maps with turn-by-turn.</blockquote>Apple's decision apparently caught Google off-guard, as Google is reportedly still several months away from having a standalone maps app ready for submission to the App Store.
-<p><a href="http://feedads.g.doubleclick.net/~a/rerSQjUT66BYSFNhIUvm49_ERrQ/0/da"><img src="http://feedads.g.doubleclick.net/~a/rerSQjUT66BYSFNhIUvm49_ERrQ/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/rerSQjUT66BYSFNhIUvm49_ERrQ/1/da"><img src="http://feedads.g.doubleclick.net/~a/rerSQjUT66BYSFNhIUvm49_ERrQ/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
-<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=3faXogJB26w:36eN8Kt7zH8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=3faXogJB26w:36eN8Kt7zH8:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/3faXogJB26w" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:28:"
-		
-		
-		
-		
-		
-		
-		
-
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"Instagram Adds iPhone 5 Support [iOS Blog]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:68:"http://www.macrumors.com/2012/09/25/instagram-adds-iphone-5-support/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1454510";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 25 Sep 2012 14:27:46 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:68:"http://www.macrumors.com/2012/09/25/instagram-adds-iphone-5-support/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:8:"iOS Blog";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2366:"With the iPhone 5 in the wild for five days now, major apps continue to be updated for the device's larger screen. Today, popular photography app Instagram was updated with iPhone 5 and iOS 6 support. However, as <em>The Next Web</em> <a href="http://thenextweb.com/apps/2012/09/25/sweet-instagram-finally-updated-support-ios-6-iphone-5-also-gets-new-registration-flow/?awesm=tnw.to_k4nJ&utm_campaign=social%20media&utm_source=Twitter&utm_medium=Spreadus">points out</a>, Instagram's square photography method doesn't gain much from the iPhone 5's larger screen.<br/>
-<br/>
-<img src="http://images.macrumors.com/article-new/2012/09/instagramupdate.jpg" alt="Instagramupdate" title="instagramupdate.jpg" width="400" height="190" class="aligncenter"/><blockquote>But the capture mode is a tad awkward, as Instagram’s square capture window isn’t really able to take advantage of the larger screen real-estate. Also, curiously, the live filtration options seem to be gone on iOS 6. We’re not sure if that’s a bug or what.</blockquote>Instagram was <a href="http://www.macrumors.com/2012/04/09/facebook-buys-instagram-for-1-billion/">purchased by Facebook</a> earlier this year, and the Facebook iOS app was one of the first major apps to add support for the 4" screen.<br/>
-<br/>
-Instagram is a <a href="http://appshopper.com/photography/instagram">free download</a> on the App Store. [<a href="http://itunes.apple.com/app/instagram/id389801252?mt=8">Direct Link</a>]
-<p><a href="http://feedads.g.doubleclick.net/~a/WoStSD92Tc8MMX0zEH3habaGXy4/0/da"><img src="http://feedads.g.doubleclick.net/~a/WoStSD92Tc8MMX0zEH3habaGXy4/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/WoStSD92Tc8MMX0zEH3habaGXy4/1/da"><img src="http://feedads.g.doubleclick.net/~a/WoStSD92Tc8MMX0zEH3habaGXy4/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
-<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=0Gu2Mj-J1Cg:xBlsi2zGc2A:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=0Gu2Mj-J1Cg:xBlsi2zGc2A:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/0Gu2Mj-J1Cg" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:28:"
-		
-		
-		
-		
-		
-		
-		
-
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:114:"Garmin Releases Update to StreetPilot Navigation App With Google Street View and Public Transit Support [iOS Blog]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:140:"http://www.macrumors.com/2012/09/25/garmin-releases-update-to-streetpilot-navigation-app-with-google-street-view-and-public-transit-support/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1454488";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 25 Sep 2012 14:01:15 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:140:"http://www.macrumors.com/2012/09/25/garmin-releases-update-to-streetpilot-navigation-app-with-google-street-view-and-public-transit-support/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:8:"iOS Blog";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4167:"Garmin has <a href="http://garmin.blogs.com/my_weblog/2012/09/garmin-updates-iphone-navigation-apps-with-public-transportation-features-and-apple-maps-integration.html#_ftnref1">released an update</a> to its StreetPilot Onboard for iPhone app, adding "urban guidance" and support for Google Street View. The urban guidance feature allows users to map out public transit options when looking at pedestrian routes, including support for Apple Maps integration. Users can bring up a location in Apple Maps, and they will have the option to map their destination using the Garmin app.<br/>
-<br/>
-Unlike Apple's turn-by-turn directions, Garmin's solution downloads all the map data to the iPhone, allowing use even when there is no cellular signal. The company does offer a <a href="http://appshopper.com/navigation/garmin-streetpilot-ondemand">Garmin StreetPilot onDemand</a> app [<a href="http://itunes.apple.com/us/app/garmin-streetpilot-ondemand/id440326367?mt=8">App Store</a>] that pulls navigation data from the cloud, but it requires a subscription service to work.<br/>
-<br/>
-<img src="http://images.macrumors.com/article-new/2012/09/garminscreen.jpg" alt="Garminscreen" title="garminscreen.jpg" width="560" height="417" class="aligncenter"/><blockquote>- URBAN GUIDANCE considers public transportation options, such as subways, trams, busses and water taxis, when calculating pedestrian routes. You will be guided to a transit stop by foot and you're able to look up detailed information on what line to take and where to get off. The feature is available through In App Purchase.<br/>
-<br/>
-- GOOGLE STREET VIEW provides users a street-level view of their destination before starting a route and shortly before arriving. Users can also look at a full-screen 360° view to get a better understanding of their destination's surroundings. The feature is available in cities with Google Street View coverage.</blockquote>Urban Guidance is an in app purchase for &#36;4.99, on sale for &#36;2.99 until October 7, 2012. It supports a number of major cities, listed at the end of this post.<br/>
-<br/>
-All the Garmin StreetPilot apps are on sale until October 7th.<br/>
-<br/>
-Garmin U.S.A is <a href="http://appshopper.com/navigation/garmin-usa">&#36;39.99</a>, regularly &#36;49.99. [<a href="http://itunes.apple.com/app/garmin-u.s.a./id435490305?mt=8">App Store</a>]<br/>
-Garmin North America is <a href="http://appshopper.com/navigation/garmin-n-america">&#36;44.99</a>, regularly &#36;59.99. [<a href="http://itunes.apple.com/app/garmin-n.-america/id435740864?mt=8">App Store</a>]<br/>
-Garmin U.K. & Ireland is <a href="http://appshopper.com/navigation/garmin-uk-ireland">&#36;59.99</a>, regularly &#36;74.99. [<a href="http://itunes.apple.com/app/garmin-uk-ireland/id439044354?mt=8">App Store</a>]<br/>
-Garmin Western Europe is <a href="http://appshopper.com/navigation/garmin-western-europe">&#36;84.99</a>, down from &#36;99.99. [<a href="http://itunes.apple.com/app/garmin-western-europe/id434932570?mt=8">App Store</a>]<br/>
-<br/>
-Urban Guidance is supported in the following cities:<br/>
-<br/>
-<img src="http://images.macrumors.com/article-new/2012/09/garmintransit.jpg" alt="Garmintransit" title="garmintransit.jpg" width="560" height="495" class="aligncenter"/>
-<p><a href="http://feedads.g.doubleclick.net/~a/qfZhxt9ZJvcQ3PwfOJg_UwLrH68/0/da"><img src="http://feedads.g.doubleclick.net/~a/qfZhxt9ZJvcQ3PwfOJg_UwLrH68/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/qfZhxt9ZJvcQ3PwfOJg_UwLrH68/1/da"><img src="http://feedads.g.doubleclick.net/~a/qfZhxt9ZJvcQ3PwfOJg_UwLrH68/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
-<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=wHhN_CGnXZQ:52YTFcCOB5M:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=wHhN_CGnXZQ:52YTFcCOB5M:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/wHhN_CGnXZQ" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:28:"
-		
-		
-		
-		
-		
-		
-		
-
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"LaCie Launches 'Rugged' Thunderbolt/USB 3.0 Portable Drives [Mac Blog]";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:93:"http://www.macrumors.com/2012/09/25/lacie-launches-rugged-thunderboltusb-3-0-portable-drives/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1454288";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 25 Sep 2012 11:17:34 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:93:"http://www.macrumors.com/2012/09/25/lacie-launches-rugged-thunderboltusb-3-0-portable-drives/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:8:"Mac Blog";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2309:"LaCie has <a href="http://www.lacie.com/us/products/product.htm?id=10599">released a new entry</a> in its Rugged series of portable storage drives. This time, it's a Thunderbolt/USB3 offering that comes equipped with a 1TB 5400rpm hard drive or either a 120GB or 256GB 6Gb/s solid state drive. LaCie says the SSD runs at speeds of up to 380MB/s.<br/>
-<br/>
-<img src="http://images.macrumors.com/article-new/2012/09/ruggedlacie.jpg" alt="Ruggedlacie" title="ruggedlacie.jpg" width="439" height="303" class="aligncenter"/><br/>
-<blockquote>The LaCie Rugged brings two industry leading technologies, USB 3.0 and Thunderbolt together so users can experience the fastest transfer speeds available on PC or Mac. The LaCie Rugged SSD delivers record-breaking speeds up to 380MB/s – making it the fastest bus-powered product ever. Respectively, the hard disk version performs up to 110MB/s, a 35 percent improvement over FireWire 800. Whether you are a photographer, videographer, or power user, the LaCie Rugged can move 10GB in a few seconds and ensure zero lag-time when accessing files, viewing photos, or editing videos.</blockquote>The 1TB version is &#36;249, while the 120GB and 256GB SSD's are &#36;199 and &#36;349 respectively. They're available at <a href="http://store.apple.com/us/search?find=lacie+rugged">Apple Stores</a> and at <a href="http://www.lacie.com/products/product.htm?id=10599">LaCie.com</a>.
-<p><a href="http://feedads.g.doubleclick.net/~a/X8jbeODteA4uerP3Xl9APABnJcE/0/da"><img src="http://feedads.g.doubleclick.net/~a/X8jbeODteA4uerP3Xl9APABnJcE/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/X8jbeODteA4uerP3Xl9APABnJcE/1/da"><img src="http://feedads.g.doubleclick.net/~a/X8jbeODteA4uerP3Xl9APABnJcE/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
-<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=7AKu3GeFEU4:eetBTJmSXYo:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=7AKu3GeFEU4:eetBTJmSXYo:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/7AKu3GeFEU4" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:28:"
-		
-		
-		
-		
-		
-		
-		
-
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:88:"Apple's Lightning Connector Uses Adaptive Technology to Dynamically Assign Pin Functions";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:124:"http://www.macrumors.com/2012/09/25/apples-lightning-connector-uses-adaptive-technology-to-dynamically-assign-pin-functions/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1454191";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 25 Sep 2012 09:28:13 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:124:"http://www.macrumors.com/2012/09/25/apples-lightning-connector-uses-adaptive-technology-to-dynamically-assign-pin-functions/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5007:"<img src="http://images.macrumors.com/article-new/2012/09/lightning_cable_vertical-150x282.jpg" alt="" title="lightning_cable_vertical" width="150" height="282" class="alignright size-medium wp-image-353560" />With Apple's new Lightning connector on the iPhone 5 dropping to just eight contact pins from the 30 pins seen in the original dock connector and gaining the ability to be inserted in either orientation, many have wondered just how Apple has been able to maintain most of the functions of the original dock connector.  Others have wondered why Apple simply didn't shift to micro-USB, an existing standard in a comparable form factor.
-<br/>
-
-<br/>
-Developer Rainer Brockerhoff has been <a href="http://brockerhoff.net/blog/2012/09/23/boom-pins/">examining Lightning's technical features</a> and over the weekend outlined his thinking on how the "adaptive" nature of the Lightning connector highlighted by Apple during the technology's introduction at the iPhone 5 media event has enabled flexible functionality with a minimum of pins.  Brockerhoff notes that the Lightning connector appears able to sense what kinds of devices are being connected and to use chips embedded in the cable to assign pin functionalities appropriate for each situation.<blockquote>- The device watches for a momentary short on all pins (by the leading edge of the plug) to detect plug insertion/removal.
-<br/>
-
-<br/>
-- The pins on the plug are deactivated until after the plug is fully inserted, when a wake-up signal on one of the pins cues the chip inside the plug. This avoids any shorting hazard while the plug isn’t inside the connector.
-<br/>
-
-<br/>
-- The controller/driver chip tells the device what type it is, and for cases like the Lightning-to-USB cable whether a charger (that sends power) or a device (that needs power) is on the other end.
-<br/>
-
-<br/>
-- The device can then switch the other pins between the SoC’s data lines or the power circuitry, as needed in each case.
-<br/>
-
-<br/>
-- Once everything is properly set up, the controller/driver chip gets digital signals from the SoC and converts them – via serial/parallel, ADC/DAC, differential drivers or whatever – to whatever is needed by the interface on the other end of the adapter or cable. It could even re-encode these signals to some other format to use fewer wires, gain noise-immunity or whatever, and re-decode them on the other end; it’s all flexible. It could even convert to optical.</blockquote><a href="http://www.doublehelixcables.com">Double Helix Cables</a> has now <a href="http://appleinsider.com/articles/12/09/25/apples_lightning_port_dynamically_assigns_pins_to_allow_for_reversible_use">shared with <i>AppleInsider</i></a> a mapping of the pins on the two sides of the Lightning connector, demonstrating that this adaptive assignment of pin functions is required for the reversible nature of the plug.<blockquote>"Take top pin 2 for example," he wrote in an e-mail to AppleInsider. "It is contiguous, electrically, with bottom pin 2. So, as the plug is inserted into the iPhone, if you have the cable in one way, pin 2 would go into the left side of the jack, flip it the other way and the same pair of pins is going to match up with the other side of the jack (as the electrical contacts in the iPhone's jacks are along the bottom)."</blockquote><center><img src="http://images.macrumors.com/article-new/2012/09/lightning_pins-500x602.jpg">
-<br/>
-<i>Mapping of pins in Apple's new Lightning connector</i></center>
-<br/>
-The adaptive nature of the Lightning connector may explain to some degree the rather high cost of cables and adapters for the new standard, as the <a href="http://www.macrumors.com/2012/09/12/apple-announces-new-dock-connector-called-lightning/">&#36;29 and &#36;39 adapters</a> for connecting 30-pin dock accessories to Lightning-equipped devices are required to contain hardware capable of working with the dynamically assigned pin functions.  In addition, the adaptive nature indicates that the same Lightning interface could evolve over time to support new technologies within existing hardware.
-<p><a href="http://feedads.g.doubleclick.net/~a/H15e7FvtCRWSesl3wPiRj_a6WIM/0/da"><img src="http://feedads.g.doubleclick.net/~a/H15e7FvtCRWSesl3wPiRj_a6WIM/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/H15e7FvtCRWSesl3wPiRj_a6WIM/1/da"><img src="http://feedads.g.doubleclick.net/~a/H15e7FvtCRWSesl3wPiRj_a6WIM/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
-<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=NDB0QuPjjRY:cYy9vSagLHk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=NDB0QuPjjRY:cYy9vSagLHk:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/NDB0QuPjjRY" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:28:"
-		
-		
-		
-		
-		
-		
-		
-
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"Teardown of Apple's A6 Chip Reveals Manual Layout of Custom Dual-Core CPU";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://www.macrumors.com/2012/09/25/teardown-of-apples-a6-chip-reveals-manual-layout-of-custom-dual-core-cpu/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:52:"http://forums.macrumors.com/showthread.php?t=1454132";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 25 Sep 2012 08:30:12 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:109:"http://www.macrumors.com/2012/09/25/teardown-of-apples-a6-chip-reveals-manual-layout-of-custom-dual-core-cpu/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:10:"Front Page";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3426:"iFixit and Chipworks have partnered on a <a href="http://www.ifixit.com/Teardown/Apple-A6-Teardown/10528/1">teardown of the A6 system-on-a-chip</a>, Apple's custom design that powers the iPhone 5.  While several of the high-level details such as <a href="http://www.macrumors.com/2012/09/15/apples-new-iphone-5-has-1gb-of-ram/">1 GB of RAM</a> and a dual-core CPU <a href="http://www.macrumors.com/2012/09/21/apples-a6-chip-confirmed-to-carry-triple-core-graphics/">paired with triple-core graphics</a> have already been shared, the teardown confirms all of these details with high-resolution images showing the various components of the chip.
-<br/>
-
-<br/>
-Perhaps most notably, the custom ARM-based CPU developed by Apple for the A6 appears to have been manually laid out on the die, an expensive and time-consuming process but one that can offer greater efficiency than automatic layout.<blockquote>- When compared to the rigid, efficient layout of the GPU cores directly below it, the layout of the ARM cores looks a little homespun—at first.
-<br/>
-
-<br/>
-- Generally, logic blocks are automagically laid out with the use of advanced computer software. However, it looks like the ARM core blocks were laid out manually—as in, by hand.
-<br/>
-
-<br/>
-- A manual layout will usually result in faster processing speeds, but it is much more expensive and time consuming.
-<br/>
-
-<br/>
-- The manual layout of the ARM processors lends much credence to the rumor that Apple designed a custom processor of the same caliber as the all-new Cortex-A15, and it just might be the only manual layout in a chip to hit the market in several years.</blockquote><img src="http://images.macrumors.com/article-new/2012/09/a6_layout_ifixit_chipworks.jpg" alt="" title="a6_layout_ifixit_chipworks" width="560" height="567" class="aligncenter size-full wp-image-353544" />
-<br/>
-The report also takes a look into the die, where it confirms that the A6 is manufactured using Samsung's 32-nanometer HKMG process that was <a href="http://www.macrumors.com/2012/04/11/apple-tvs-a5-chip-includes-surprise-die-shrink-to-32nm/">trialled earlier this year</a> with the A5 that made its way into the third-generation Apple TV and the revised iPad 2.
-<br/>
-
-<br/>
-Finally, iFixit and Chipworks took a look at a number of other chips from the iPhone 5, sharing die photos from Qualcomm's MDM9615M modem and RTR8600 RF transceiver, a Cirrus Logic audio amplifier chip, and Murata's Wi-Fi/Bluetooth module incorporating a chip from Broadcom with other components.
-<p><a href="http://feedads.g.doubleclick.net/~a/Vl4RT3Pifl2008FM82NrX1aBHVc/0/da"><img src="http://feedads.g.doubleclick.net/~a/Vl4RT3Pifl2008FM82NrX1aBHVc/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/Vl4RT3Pifl2008FM82NrX1aBHVc/1/da"><img src="http://feedads.g.doubleclick.net/~a/Vl4RT3Pifl2008FM82NrX1aBHVc/1/di" border="0" ismap="true"></img></a></p><div class="feedflare">
-<a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=MwbR5SICgqI:vScRkyzNH94:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.macrumors.com/~ff/MacRumors-All?a=MwbR5SICgqI:vScRkyzNH94:6W8y8wAjSf4"><img src="http://feeds.feedburner.com/~ff/MacRumors-All?d=6W8y8wAjSf4" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/MwbR5SICgqI" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Eric Slivka";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:6:"hourly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";s:4:"href";s:40:"http://feeds.macrumors.com/MacRumors-All";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:32:"http://pubsubhubbub.appspot.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:4:"info";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"uri";s:13:"macrumors-all";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:11:{s:12:"content-type";s:23:"text/xml; charset=UTF-8";s:4:"etag";s:27:"nVBxgwJU76jmbSo8fqq1QMnb5kg";s:13:"last-modified";s:29:"Thu, 27 Sep 2012 22:15:06 GMT";s:16:"content-encoding";s:4:"gzip";s:17:"transfer-encoding";s:7:"chunked";s:4:"date";s:29:"Thu, 27 Sep 2012 22:15:47 GMT";s:7:"expires";s:29:"Thu, 27 Sep 2012 22:15:47 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:16:"x-xss-protection";s:13:"1; mode=block";s:6:"server";s:3:"GSE";}s:5:"build";s:14:"20111015034325";}
+</div><img src="http://feeds.feedburner.com/~r/MacRumors-All/~4/p-KXFj8RYnk" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:13:"Jordan Golson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:6:"hourly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";s:4:"href";s:40:"http://feeds.macrumors.com/MacRumors-All";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:32:"http://pubsubhubbub.appspot.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:4:"info";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"uri";s:13:"macrumors-all";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:11:{s:12:"content-type";s:23:"text/xml; charset=UTF-8";s:4:"etag";s:27:"mJoPgOo1RL0OKk0lcoW1zP4GJZ8";s:13:"last-modified";s:29:"Sat, 29 Sep 2012 09:59:56 GMT";s:16:"content-encoding";s:4:"gzip";s:17:"transfer-encoding";s:7:"chunked";s:4:"date";s:29:"Sat, 29 Sep 2012 10:06:41 GMT";s:7:"expires";s:29:"Sat, 29 Sep 2012 10:06:41 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:16:"x-xss-protection";s:13:"1; mode=block";s:6:"server";s:3:"GSE";}s:5:"build";s:14:"20111015034325";}

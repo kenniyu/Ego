@@ -23,9 +23,8 @@ class Query extends CI_Controller{
 	}
 	function add_keyword(){
 		$keyword = $this->input->post('keyword');
-		$url = str_replace(' ', '+', $keyword);
 		$this->load->model('query_model');
-		$result = $this->query_model->add_feed($keyword, $url, 'keyword');
+		$result = $this->query_model->add_feed($keyword, $keyword, 'keyword');
 		if (is_int($result)){
 			echo '<li class="rightList"><a href="/site/feed/'.$result.'">'.$keyword.'</a></li>';
 		} else{

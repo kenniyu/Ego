@@ -4,6 +4,7 @@
 		public function __construct(){
 			$this->load->database();
 		}
+		
 		function add_feed($title, $url, $type){
 			if ($title == '' || $url == ''){
 				return 'Oops - you are missing something!';
@@ -12,30 +13,32 @@
 				return 'You already have another feed with the same name. Try another.';
 			} else {
 				$this->load->model('loader_model');
-				$feed_count = $this->loader_model->get_feedCount($this->session->userdata('username'));	// get the current feed count of the user
-				$new_feed = array(
-				'username' => $this->session->userdata('username'),
-				'title' => $title,
-				'url' => $url,
-				'type' => $type, 
-				'pos_id' => $feed_count+1
-				);
-				$this->db->insert('feed', $new_feed);
-				$this->db->where('username', $this->session->userdata('username'));
-				$this->db->update('membership', array('feed_count' => $feed_count+1));	//update the feed count
-				$query = $this->db->get_where('feed', array('username' => $this->session->userdata('username'), 'title' => $title));
-				return intval($query->row()->id);
+				$this->load->model('feed_model');
+				
+				if ($type == 'keyword' || $this->feed_model->validate_source($url)){
+					$feed_count = $this->loader_model->get_feedCount($this->session->userdata('username'));	// get the current feed count of the user
+					$new_feed = array(
+						'username' => $this->session->userdata('username'),
+						'title' => $title,
+						'url' => $url,
+						'type' => $type, 
+						'pos_id' => $feed_count+1
+					);
+					$this->db->insert('feed', $new_feed);
+					$this->db->where('username', $this->session->userdata('username'));
+					$this->db->update('membership', array('feed_count' => $feed_count+1));	//update the feed count
+					$query = $this->db->get_where('feed', array('username' => $this->session->userdata('username'), 'title' => $title));
+					return intval($query->row()->id);
+				} else {
+					return 'The source you have provided is not valid.';
+				}
 			}
 		}
+		
 		function add_label($label_name, $new_label){
 			foreach($new_label as $id){
 				$target = $this->db->get_where('feed', array('id' => $id))->row();
-				if ($target->type == 'keyword'){
-					$url = 'feed://news.google.com/news/feeds?gl=us&pz=1&cf=all&ned=us&hl=en&q='.$target->url.'&output=rss';
-				} else{
-					$url = $target->url;
-				}
-				$this->db->insert('label', array('username' => $this->session->userdata('username'), 'label_name' => $label_name, 'feed_url' => $url, 'feed_title' => $target->title, 'ref_id' => $id));
+				$this->db->insert('label', array('username' => $this->session->userdata('username'), 'label_name' => $label_name, 'feed_url' => $target->url, 'feed_title' => $target->title, 'ref_id' => $id));
 			}
 			
 			$this->load->model('loader_model');

@@ -53,6 +53,19 @@
 			$query = $this->db->get_where('label_list', array('username' => $username, 'id' => $id));
 			return $query->row();
 		}
+		function get_labelcontents($username, $label){
+			$results = $this->db->get_where('label', array('username' => $username, 'label_name' => $label))->result();
+			$feeds = array('sources' => array(), 'tags' => array());
+			foreach($results as $item){
+				if ($item->feed_type == 'site'){
+					$source = $this->db->get_where('sources', array('url' => $item->feed_url))->row();
+					array_push($feeds['sources'], $source->source);
+				} else{
+					array_push($feeds['tags'], $item->feed_url);
+				}
+			}
+			return $feeds;
+		}
 		function get_feeds_forLabel($username, $label){
 			$query = $this->db->get_where('label', array('username' => $username, 'label_name' => $label));
 			$feeds = array();
