@@ -31,13 +31,20 @@ $(document).ready(function() {
 	});
 	
 	$('.menu_item_list_item').click(function(){
+		var id = $(this).attr('data-id');
+		
+		if (id == "home"){
+			$('#content_wrapper').hide("fade", 500);
+			$('#content_wrapper').empty();
+			$('#strip_filler').animate({height:'35%'}, 500);
+		} else{
 		$('#strip_filler').animate({height: '3%'}, 500);
 		$('#content_wrapper').show("fade", 500);
 		$('#content_wrapper').empty();
-		var id = $(this).attr('id');
 		$.get("/kpopcon/contents/"+id+".html", function (data) {
                     $('#content_wrapper').append(data);
         });
+		}
 	});
 	
 });
