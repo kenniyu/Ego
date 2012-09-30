@@ -124,6 +124,72 @@
 			}
 		}
 		
+		function decode_date($datetime){
+			$result = explode(' ', $datetime);
+			$date = $result[0];
+			$time = $result[1];
+			
+			$result_date = explode('-', $date);
+			$year = $result_date[0];
+			$month = $result_date[1];
+			$day = $result_date[2];
+			
+			switch($month){
+				case '01':
+					$month = 'January';
+					break;
+				case '02':
+					$month = 'February';
+					break;
+				case '03':
+					$month = 'March';
+					break;
+				case '04':
+					$month = 'April';
+					break;
+				case '05':
+					$month = 'May';
+					break;
+				case '06':
+					$month = 'June';
+					break;
+				case '07':
+					$month = 'July';
+					break;
+				case '08':
+					$month = 'August';
+					break;
+				case '09':
+					$month = 'September';
+					break;
+				case '10':
+					$month = 'October';
+					break;
+				case '11':
+					$month = 'November';
+					break;
+				case '12':
+					$month = 'December';
+					break;										
+			}
+			
+			$result_time = explode(':', $time);
+			$hour = $result_time[0];
+			$minute = $result_time[1];
+			if (intval($hour) >= 12){
+				$type = 'PM';
+			} else{
+				$type = 'AM';
+			}
+			
+			if ($hour == '00'){
+				$hour = strval((intval($hour)+12));
+			} 
+			
+			$date = $month.' '.$day.', '.$year.' '.$hour.':'.$minute.' '.$type;
+			return $date;
+		}
+		
 		function load_feed_site($permalink){
 			//Find the requested the source
 			$source = $this->db->get_where('sources', array('url' => $permalink))->row();
@@ -191,8 +257,5 @@
 				return $result = $this->db->query($query)->result();
 			}
 		}
-		
-	
-	
 	}
 //End of Feed_model

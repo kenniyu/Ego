@@ -160,7 +160,7 @@ class Feed extends CI_controller{
 				}
 				$entry['source'] = $item->source;
 				$entry['title'] = $item->title;
-				$entry['date'] = $item->datetime;
+				$entry['date'] = $this->feed_model->decode_date($item->datetime);
 				$entry['content'] = $item->content;
 				$entry['article'] = $item;
 				array_push($entries, $entry);
