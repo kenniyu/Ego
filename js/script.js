@@ -515,7 +515,7 @@
 			$('#end_feedContent').waypoint('remove');
 			$('#loading').show();
 			$.get(
-			'http://localhost/index.php/feed/feed_loader/'+feed_type+'/'+feed_id+'/'+init_feed,
+			'http://localhost/index.php/feed/load_feed/'+feed_type+'/'+feed_id+'/'+init_feed,
 			function(data) {
 				$('#feedContent').append(data);
 				$('#end_feedContent').waypoint(opts);

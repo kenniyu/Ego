@@ -7,10 +7,70 @@
 		
 		//Functions for Feed Sync
 		function add_article($permalink, $title, $source, $date, $content){
+			$date = $this->encode_date($date);
 			$this->db->insert('articles', array(
-				'aid' => $permalink, 'title' => $title, 'source' => $source, 'date' => $date, 'content' => $content
+				'aid' => $permalink, 'title' => $title, 'source' => $source, 'datetime' => $date, 'content' => $content
 			));
 			return $this->db->get_where('articles', array('aid' => $permalink))->row()->id;
+		}
+		
+		function encode_date($date){
+			$result = explode(' ', $date);
+			$result_time = explode(':', $result[3]);
+			$day = $result[0];
+			$month = $result[1];
+			$year = substr($result[2], 0, -1);
+			$hour = $result_time[0];
+			$minute = $result_time[1];
+			$type = $result[4];
+			
+			switch($month){
+				case 'January':
+					$month = '01';
+					break;
+				case 'February':
+					$month = '02';
+					break;
+				case 'March':
+					$month = '03';
+					break;
+				case 'April':
+					$month = '04';
+					break;
+				case 'May':
+					$month = '05';
+					break;
+				case 'June':
+					$month = '06';
+					break;
+				case 'July':
+					$month = '07';
+					break;
+				case 'August':
+					$month = '08';
+					break;
+				case 'September':
+					$month = '09';
+					break;
+				case 'October':
+					$month = '10';
+					break;
+				case 'November':
+					$month = '11';
+					break;
+				case 'December':
+					$month = '12';
+					break;										
+			}
+			
+			if ($type == 'pm' AND $hour != '12'){
+				$hour = strval((intval($hour)+12));
+			} else if ($type =='am' AND $hour == '12'){
+				$hour = strval((intval($hour)-12));
+			}
+			
+			$date = $year.'-'.$month.'-'.$day.' '.$hour.':'.$minute.':00';
+			return $date;
 		}
 		
 		function add_tags($tags, $aid){
@@ -51,10 +111,10 @@
 			$this->db->insert('sources', array('url' => $permalink, 'source' => $source));
 		}
 		
-		function get_source($id){
-			return $this->db->get_where('sources', array('id' => $id))->row();
+		function load_sources_all(){
+			return $this->db->get('sources')->result();
 		}
-		
+
 		//Functions for Loading Feeds
 		function check_aid($permalink){
 			if ($this->db->get_where('articles', array('aid' => $permalink))->num_rows() == 0){
@@ -69,7 +129,7 @@
 			$source = $this->db->get_where('sources', array('url' => $permalink))->row();
 			
 			//Fetch articles from the source
-			$this->db->order_by("id", "desc");
+			$this->db->order_by("datetime", "desc");
 			return $this->db->get_where('articles', array('source' => $source->source))->result();
 		}
 		
@@ -84,7 +144,7 @@
 				$query = $query.$tag->foreign_key."' OR id = '";
 			}
 			$query = substr($query, 0, -10);
-			$query = $query." ORDER BY id DESC";
+			$query = $query." ORDER BY datetime DESC";
 			
 			//Execute the query.
 			return $this->db->query($query)->result();
@@ -100,7 +160,7 @@
 					$query = $query.$source."' OR source = '";
 				}
 				$query = substr($query, 0, -14);
-				$query = $query." ORDER BY id DESC";
+				$query = $query." ORDER BY datetime DESC";
 				
 				return $result = $this->db->query($query)->result();
 			} else{	
@@ -125,7 +185,7 @@
 					$query = $query.$source."' OR source = '";
 				}
 				$query = substr($query, 0, -14);
-				$query = $query." ORDER BY id DESC";
+				$query = $query." ORDER BY datetime DESC";
 			
 				//Execute the query statement
 				return $result = $this->db->query($query)->result();

@@ -80,13 +80,20 @@ class Feed extends CI_controller{
 		$this->load->view('loader/feed_viewer', $data);
 	}
 	
+	function sync_feed_all(){
+		$this->load->model('feed_model');
+		$sources = $this->feed_model->load_sources_all();
+		foreach($sources as $source){
+			$this->sync_feed($source->url);
+		}
+		echo "Sync complete";
+	}
+	
 	//Sync_Feed will be used to sync rss feeds.
-	function sync_feed($id){
+	function sync_feed($url){
 		require_once('inc/simplepie.inc');
 		require_once('inc/AlchemyAPI.php');
 		$this->load->model('feed_model');
-		
-		$url = $this->feed_model->get_source($id)->url;
 		
 		//Fetch the RSS feeds using SimplePie
 		$feed = new SimplePie($url);
@@ -115,7 +122,7 @@ class Feed extends CI_controller{
 				$this->feed_model->add_tags($tags, $aid);
 			}
 		}
-		echo "Sync Complete";
+		echo "Sync in progres...";
 	}
 	
 	//Load_Feed will be used to load articles.
@@ -131,7 +138,7 @@ class Feed extends CI_controller{
 			$result = $this->feed_model->load_feed_keyword($feed->url);	//Pass the Keyword as parameter
 		}else{
 			if ($id == 'all_feeds'){
-				$feed = $this->loader_model->get_feeds_all($this->session->userdata('username'));	
+				$feed = $this->loader_model->get_allfeeds($this->session->userdata('username'));	
 			} else{
 				$label = $this->loader_model->select_label($this->session->userdata('username'), $id);
 				$feed = $this->loader_model->get_labelcontents($this->session->userdata('username'), $label->label);
@@ -153,7 +160,7 @@ class Feed extends CI_controller{
 				}
 				$entry['source'] = $item->source;
 				$entry['title'] = $item->title;
-				$entry['date'] = $item->date;
+				$entry['date'] = $item->datetime;
 				$entry['content'] = $item->content;
 				$entry['article'] = $item;
 				array_push($entries, $entry);
@@ -220,6 +227,12 @@ class Feed extends CI_controller{
 	function add_keyword_temp(){
 		$this->load->view('feed/add_keyword');
 	}
+	
+	function parse_date(){
+		$this->load->model('feed_model');
+		$this->feed_model->parse_date('20 June 2012, 12:05 am');
+	}
+	
 }
 
 

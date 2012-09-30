@@ -15,7 +15,7 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
   
   
   
-";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T01:40:56Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
+";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-30T00:08:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
     
     
     
@@ -23,29 +23,29 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T01:40:56Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T01:40:56Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:79:"US court prevents Motorola from blocking sales of Microsoft products in Germany";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1532:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-30T00:08:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-30T00:08:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:86:"Motorola Atrix 4G will not be upgraded to Ice Cream Sandwich, despite earlier promises";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1324:"
   
   
-    <img alt="xbox 360 stock" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6792865/DSC04415_large.jpg" width="630" />
-  
-
-
+    <img alt="Atrix 4G" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6808719/ATRIX_4G_Dyn_L_vert_Home_ATT_copy_large.jpg" width="630" />
   
 
 
+  
 
 
-  <p>Back in May, <a href="http://www.theverge.com/2012/5/2/2993283/germany-motorola-microsoft-injunction-windows-7-xbox-360">Motorola won an injunction against the sale of several Microsoft products</a> in Germany, but it appears it won't be going into effect after all. <a href="http://www.reuters.com/article/2012/09/29/net-us-microsoft-google-ruling-idUSBRE88R1HH20120929" target="_blank"><i>Reuters</i> reports</a> that a US appeals court has upheld a judge's decision to prevent the company from enacting the sales ban. The conflict traces back to standards essential patents covering H.264 video encoding. <a class="sbn-auto-link" href="http://www.theverge.com/products/brands/motorola/53">Motorola</a> claims that Microsoft infringed on several of its standards essential patents with numerous products, including Windows 7 and the Xbox 360.</p>
-<p>The German courts agreed with Google-owned Motorola, granting an injunction against the offending products, but the company was unable to pursue any sales ban at that time. Motorola had already been <a href="http://www.theverge.com/2012/4/11/2942300/US-judge-stops-motorola-ban-microsoft-products-germany">shackled with a restraining order...</a></p>
+
+
+  <p>Motorola has confirmed<a href="https://forums.motorola.com/pages/00add97d6c" target="_blank"> </a>that the Atrix 4G won't be receiving an upgrade to Android 4.0 after all. The manufacturer broke the news with a recent <a href="https://forums.motorola.com/pages/00add97d6c" target="_blank">update to its Android upgrade schedule</a>, noting that the Atrix 4G, Electrify, and Photon 4G will all remain on Android 2.3 Gingerbread, rather than making the jump to Ice Cream Sandwich.</p>
+<p>The Atrix 4G was among the handful of handsets pegged for a Q3 2012 upgrade earlier this year, when Motorola released its <a href="http://www.theverge.com/2012/2/15/2799829/motorola-ics-upgrade-schedule">device roadmap</a>. Of the three devices relegated to Gingerbread, the Atrix 4G is the oldest, having been released in early 2011. The Photon 4G hit the market in July 2011, followed by its US Cellular variant, the Electrify, a few months later. This would suggest, then, that owners of these...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/28/3426066/us-court-prevents-motorola-blocking-sales-microsoft-products-germany">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/29/3429500/motorola-atrix-4g-android-4-ice-cream-sandwich-upgrade">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:110:"http://www.theverge.com/2012/9/28/3426066/us-court-prevents-motorola-blocking-sales-microsoft-products-germany";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:110:"http://www.theverge.com/2012/9/28/3426066/us-court-prevents-motorola-blocking-sales-microsoft-products-germany";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:96:"http://www.theverge.com/2012/9/29/3429500/motorola-atrix-4g-android-4-ice-cream-sandwich-upgrade";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:96:"http://www.theverge.com/2012/9/29/3429500/motorola-atrix-4g-android-4-ice-cream-sandwich-upgrade";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Bryan Bishop";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Amar  Toor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
     
     
     
@@ -53,29 +53,29 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T23:21:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T23:21:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"Open webOS ported to Galaxy Nexus by WebOS Ports team (video)";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1153:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-30T00:08:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-30T00:08:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:81:"Google combines free storage across Drive and Picasa, counts it toward paid plans";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1454:"
   
   
-    <img alt="open webos gnex landscape" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6789725/Open_WebOS_GNex_large.jpeg" width="630" />
-  
-
-
+    <img alt="Google Drive iOS" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6807021/20120905-DSC_6548VERGE_large.jpg" width="630" />
   
 
 
+  
 
 
-  <p><a href="http://www.theverge.com/2012/9/28/3424270/open-webos-reaches-version-1-0">Open webOS officially got its 1.0 release today</a> and while HP has only managed to get it working on a computer, the independent WebOS Ports team has a version of it up and running on a GSM Galaxy Nexus. After two months of development effort, the OS runs and can connect up to Wi-Fi, but complete support for phone functions, including SMS, isn't quite ready yet.</p>
-<p>The biggest challenge is apparently getting full and proper hardware acceleration working, and as you can see in the video below that's something that will be sorely needed to make this anywhere near usable. The project is aimed at making a Galaxy Nexus with Open webOS a viable daily-use phone, but WebOS Ports tells us that it won't be publishing a full porting how-to for users...</p>
+
+
+  <p>Google conducted its latest round of "<a href="http://www.theverge.com/2012/7/3/3135453/google-spring-cleaning-youtube-igoogle-symbian-search">spring cleaning</a>" last week, <a target="_blank" href="http://googleblog.blogspot.com/2012/09/more-spring-cleaning.html">announcing plans</a> to discontinue several minor features and to consolidate storage offerings across <a href="http://www.theverge.com/tag/google-drive">Drive</a> and its Picasa photo-sharing service. Among the services being phased out are AdSense for RSS feeds, Google News Badges, and Classic Plus, which allowed users to upload their own background images on Google's homepage.</p>
+<p>Most notable, however, is the company's decision to combine storage plans for Google Drive and Picasa. Previously, <a target="_blank" href="http://support.google.com/picasa/bin/answer.py?hl=en&amp;answer=2375124">Google offered</a> 5GB of free storage on Drive and 1GB on Picasa. Now, all storage will be pooled into the same account, with Google offering a single, 5GB pool of data across both Drive and Picasa. Gmail, it's worth noting, appears to remain...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/28/3425382/open-webos-galaxy-nexus-port">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/29/3428972/google-spring-cleaning-drive-picasa-storage-consolidation">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:70:"http://www.theverge.com/2012/9/28/3425382/open-webos-galaxy-nexus-port";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:70:"http://www.theverge.com/2012/9/28/3425382/open-webos-galaxy-nexus-port";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:99:"http://www.theverge.com/2012/9/29/3428972/google-spring-cleaning-drive-picasa-storage-consolidation";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:99:"http://www.theverge.com/2012/9/29/3428972/google-spring-cleaning-drive-picasa-storage-consolidation";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Dieter Bohn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Amar  Toor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
     
     
     
@@ -83,38 +83,28 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T23:11:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T23:11:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:53:"90 Seconds on The Verge: Friday, September 28th, 2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1871:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T20:19:14Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T20:19:14Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:58:"Re-thinking car design in the age of self-driving vehicles";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1119:"
   
   
-    <img alt="Ellis 90 Seconds" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6789923/120928-90sotv-noYT_large.jpg" width="630" />
-  
-
-
+    <img alt="Google self driving autonomous car stock 1024" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6806957/google-self-driving-car-4-stock-1024_large.jpg" width="630" />
   
 
 
+  
 
 
-  <p>Two all-beef patties, special sauce, lettuce, cheese, pickles, onions &mdash; all on a sesame seed bun. <a href="https://twitter.com/hamburger" target="_blank">Two all-beef patties, special sauce, lettuce, cheese, pickles, onions &mdash; all on a sesame seed bun.</a> Two all-beef patties, special sauce, lettuce, cheese, pickles, onions &mdash; all on a sesame seed bun.</p>
-<p><b>Stories of the day:</b></p>
-<ul>
-<li><a target="_blank" href="http://www.theverge.com/2012/9/28/3422492/apple-ceo-tim-cook-maps-open-letter">Tim Cook admits Apple 'fell short' on iOS 6 Maps, suggests third-party alternatives</a></li>
-<li><a target="_blank" href="http://www.theverge.com/2012/9/28/3423906/apple-highlights-third-party-maps-app-store">Apple highlights third-party Maps alternatives in App Store</a></li>
-<li><a target="_blank" href="http://www.theverge.com/2012/9/28/3422018/neil-young-pono-audiophile-music-player-prototype-on">Neil Young reveals Pono music player, promises 'the best sound anyone can get'</a></li>
-<li><a target="_blank" href="http://www.theverge.com/2012/9/27/3418496/facebook-gifts-karma">Facebook gives Gifts another shot, guarantees no ugly sweaters in the wrong size</a></li>
-</ul>
-<div class="video-post-ooyala" id="video-post-3189763-743"></div>
-<noscript></noscript>
-<p><b>Missed yesterday's news? Watch more 90 Seconds on The Verge at <a target="new" href="http://90so.tv">90so.tv</a> - and <a target="new" href="http://itunes.apple.com/us/podcast/90-seconds-on-the-verge/id540884715">now on iTunes</a>, too!</b></p>
+
+
+  <p>As self-driving cars <a href="http://www.theverge.com/2012/9/25/3407746/self-driving-cars-bill-california-google">inch closer to real-world use</a>, car makers have the opportunity to incorporate new design factors that aren't constrained by the requirements of manual control. Brad Templeton, software architect and board member of the Electronic Frontier Foundation, <a target="_blank" href="http://www.templetons.com/brad/robocars/design-change.html">has identified</a> a number of attributes that can be unique to the new mode of transportation, from single-passenger cars and redesigned windshields to vehicles that re-fuel themselves between trips. Check out Templeton's website to read his full vision for the purpose-built robotic car fleets of the future.</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/28/3425328/tim-cook-apple-maps-neil-young-pono-music-facebook-gifts">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/29/3428864/self-driving-car-design-future">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:98:"http://www.theverge.com/2012/9/28/3425328/tim-cook-apple-maps-neil-young-pono-music-facebook-gifts";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:98:"http://www.theverge.com/2012/9/28/3425328/tim-cook-apple-maps-neil-young-pono-music-facebook-gifts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:72:"http://www.theverge.com/2012/9/29/3428864/self-driving-car-design-future";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:72:"http://www.theverge.com/2012/9/29/3428864/self-driving-car-design-future";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Ross Miller";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Justin Rubio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
     
     
     
@@ -122,29 +112,29 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T19:15:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T19:15:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"Open webOS reaches version 1.0 on time, completes its open source transformation";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1329:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T19:58:58Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T19:58:58Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:96:"Barnes & Noble Simple Touch with Glowlight drops to $119, matches ad-supported Kindle Paperwhite";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1675:"
   
   
-    <img alt="via assets.sbnation.com" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6785027/tp_810011_large.jpg" width="630" />
-  
-
-
+    <img alt="Gallery Photo: Barnes &amp; Noble Nook Simple Touch with GlowLight review pictures" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6805795/_MFC9816-hero_large.jpg" width="630" />
   
 
 
+  
 
 
-  <p>Today is the last weekday in September, and that means today is the last day for HP's Open webOS team to keep to <a href="http://www.theverge.com/2012/1/25/2732672/open-webos-10-announced">the roadmap it set for itself in January</a> and complete webOS' open source transition. It turns out that the team was able to achieve that goal, as Open webOS 1.0 is available now as a final, non-beta version. The operating system itself hasn't experienced any major changes with the bump up to version 1.0, but the <a href="http://www.theverge.com/2012/7/18/3167640/hp-enyo-2-exits-beta">web-based Enyo 2 application framework</a> is now supported.</p>
-<p>What does that all mean for consumers, though? We've already been told that <a href="http://www.theverge.com/2012/7/31/3207231/open-webos-not-support-existing-hardware-pre-pixi-veer">original webOS hardware won't be supported</a>, but now that open sourcing is complete the OS is ready to be ported to other devices. HP won't be taking the lead on that &mdash; it's in the...</p>
+
+
+  <p>Barnes &amp; Noble's <a href="http://www.theverge.com/2012/4/24/2969246/barnes-noble-nook-simple-touch-with-glowlight-review">Simple Touch with Glowlight</a> has received a $20 drop in price, which now lines up with the ad-supported version of the <a href="http://www.theverge.com/2012/9/6/3296627/amazon-new-kindle-paperwhite-announcement">Amazon's upcoming Kindle Paperwhite</a>. Walmart is <a target="_blank" href="http://www.walmart.com/ip/20894682?adid=22222222227015257564">already advertising</a> the Simple Touch with Glowlight for $119, and <a target="_blank" href="http://reviews.cnet.com/8301-33198_7-57522921-286/nook-glowlight-e-reader-price-drops-to-%24119/"><i>CNET</i> reports</a> that Target will also be selling it for that price. Barnes and Noble is still showing the device at full price.</p>
+<p>While Amazon's new Kindle Paperwhite features an <a href="http://www.theverge.com/2012/8/30/3280770/amazon-kindle-paperwhite-display">improved frontlit display</a> and an all touch interface, the $119 version that will be released on October 1st will be have ads baked in &mdash; those looking for a distraction-free Paperwhite experience will have to drop an extra $20. The Simple Touch with Glowlight, on the other hand, is ad-free and we're convinced that it is...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/28/3424270/open-webos-reaches-version-1-0">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/29/3428636/barnes-noble-simple-touch-glowlight-nook-discount-119">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:72:"http://www.theverge.com/2012/9/28/3424270/open-webos-reaches-version-1-0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:72:"http://www.theverge.com/2012/9/28/3424270/open-webos-reaches-version-1-0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:95:"http://www.theverge.com/2012/9/29/3428636/barnes-noble-simple-touch-glowlight-nook-discount-119";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:95:"http://www.theverge.com/2012/9/29/3428636/barnes-noble-simple-touch-glowlight-nook-discount-119";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Dante D'Orazio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Justin Rubio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
     
     
     
@@ -152,28 +142,28 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T19:05:55Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T19:05:55Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"A look back at 'Star Trek: The Next Generation,' 25 years later";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1252:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T19:07:07Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T19:07:07Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:62:"License plate readers and the rise of a surveillance industry ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1278:"
   
   
-    <img alt="Star Trek The Next Generation season one blu-ray stock press 1024" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6784613/star-trek-tng-season-one-blu-ray_large.jpg" width="630" />
-  
-
-
+    <img alt="Surveillance camera Flickr" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6805901/225311448_2669028c0a_b_large.jpg" width="630" />
   
 
 
+  
 
 
-  <p>It may be hard to believe, but <em>Star Trek: The Next Generation</em> made its debut 25 years ago. Over at <em>Grantland</em>, Brian Phillips recently re-watched the entire series, and <a href="http://www.grantland.com/story/_/id/8435126/star-trek-next-generation-turns-25" target="_blank">wrote up a terrific tribute to Picard and crew</a> &mdash; covering everything from some of the surprisingly odd premises for certain episodes to the alarming frequency at which the Enterprise experiences technical difficulties. And while the show may have been rather prescient with regards to certain technologies, there was at least one that was notably absent. "The thing I can't shake, having recently finished all 133 hours of the series," Phillips writes, "is that Data's positronic brain doesn't have Wi-Fi." Be sure to head on over to <em>Grantland</em> to read the piece in full.</p>
+
+
+  <p>There are many ways for law enforcement agents to track your behavior nowadays, but among the most pervasive &mdash; and perhaps surreptitious &mdash; are <a href="http://www.theverge.com/2012/8/16/3246556/lpr-license-plate-reader">license plate readers</a>. <i>The Wall Street Journal</i> this week <a target="_blank" href="http://online.wsj.com/article/SB10000872396390443995604578004723603576296.html">published an extensive report</a> on the technology, which was once under the purview of police and other public officials, but has since spread into the private sector, as well. Studies suggest that more than a third of the nation's police departments now deploy license plate readers, capturing millions of images and adding them to ever-growing databases. Declining prices have also encouraged some startups to begin building their own equally massive databases, though the practice has certainly given rise to legal controversy.</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/28/3424406/grantland-star-trek-tng-tribute">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/29/3428674/license-plate-readers-police-surveillance-privacy">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:73:"http://www.theverge.com/2012/9/28/3424406/grantland-star-trek-tng-tribute";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:73:"http://www.theverge.com/2012/9/28/3424406/grantland-star-trek-tng-tribute";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:91:"http://www.theverge.com/2012/9/29/3428674/license-plate-readers-police-surveillance-privacy";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.theverge.com/2012/9/29/3428674/license-plate-readers-police-surveillance-privacy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Andrew Webster";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Amar  Toor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
     
     
     
@@ -181,27 +171,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T18:04:59Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T18:04:59Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:59:"Apple highlights third-party Maps alternatives in App Store";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1306:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T18:43:18Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T18:43:18Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:79:"Steve Jobs added Google Maps to the original iPhone just weeks before unveiling";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1201:"
   
   
-    <img alt="Maps alternatives" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6783117/20120928-DSC_7439VERGE_large.jpg" width="630" />
-  
-
-
+    <img alt="iPhone Maps 2007" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6805945/Screen_Shot_2012-09-29_at_2.09.18_PM_large.png" width="630" />
   
 
 
+  
 
 
-  <p>In <a href="http://www.theverge.com/2012/9/28/3422492/apple-ceo-tim-cook-maps-open-letter">his letter to Apple customers</a> published earlier today, Tim Cook mentioned a number of third-party map applications that users can download while the company works to improve its in-house offering. Now Apple has taken things one step further by highlighting more than a dozen of these apps in the App Store, bundling them in a section titled "Find maps for your iPhone."</p>
-<p>The listing contains all of the options outlined by Cook &mdash; including MapQuest, Bing, and Waze &mdash; but expands further with additions like MotionX GPS, Navigon, and even the AT&amp;T-branded Navigator app. Of course you'll still need to open up Safari if you're looking for Google Maps &mdash; <a href="http://www.theverge.com/2012/9/25/3407614/apple-over-a-year-left-on-google-maps-contract-google-maps-ios-app">at least for a couple months</a>. Yet Apple isn't turning a blind eye to its former...</p>
+
+
+  <p>The controversy Apple has faced with its new Maps app has left many users pining for the days when the company and Google were close allies. Such was the case in January 2007 when Steve Jobs unveiled the original iPhone. In an era preceding the lucrative App Store and third-party iOS apps, Apple had chosen Google as a key partner for both Maps and search. Yet it almost didn't turn out that way. <a href="http://www.nytimes.com/2012/09/29/technology/apple-apologizes-for-misstep-on-maps.html?_r=1">According to the <i>New York Times</i></a>, the inclusion of Google Maps on iPhone had been an eleventh-hour decision by Steve Jobs &mdash; the late Apple co-founder believed it would make for a good demonstration of the device's multitouch technology. And indeed it did. Jobs even used the new Maps app to prank Starbucks, drawing some of the biggest laughs...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/28/3423906/apple-highlights-third-party-maps-app-store">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/29/3428380/steve-jobs-apple-google-maps-original-iphone">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:85:"http://www.theverge.com/2012/9/28/3423906/apple-highlights-third-party-maps-app-store";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.theverge.com/2012/9/28/3423906/apple-highlights-third-party-maps-app-store";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:86:"http://www.theverge.com/2012/9/29/3428380/steve-jobs-apple-google-maps-original-iphone";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:86:"http://www.theverge.com/2012/9/29/3428380/steve-jobs-apple-google-maps-original-iphone";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
     ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Chris Welch";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
     
@@ -211,29 +200,92 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T17:11:35Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T17:11:35Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:40:"The Vergecast 048 - September 27th, 2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1581:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T16:30:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T16:30:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:37:"The Classics: 'The Screwfly Solution'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1159:"
   
   
-    <img alt="Photo" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6775535/vergecaststill_large.jpeg" width="630" />
-  
-
-
+    <img alt="Screwfly Solution Classics" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6803569/screwflyclassics_large.png" width="630" />
   
 
 
+  
 
 
-  <p>Come on in, friend. Pull up a chair. Make yourself comfortable. It's time to talk tech. It's time to talk life. It's time for another Vergecast. On this week's episode, our man on the ground Dieter Bohn calls in with the latest news from <a href="http://www.theverge.com/2012/5/1/2991104/blackberry-10-new-user-interface-apps-developer-tools">BlackBerry Jam</a>. David stops by to share the latest trends in cameras from <a href="http://www.theverge.com/2012/9/17/3345678/photokina-2012">Photokina 2012</a>,  along with his experience with the new <a href="http://www.theverge.com/2012/9/26/3409362/barnes-noble-fires-back-at-amazon-with-new-nook-hd-and-hd-tablets">Nook HD</a>. Nilay shares his thoughts on the recent <a href="http://www.theverge.com/2012/9/25/3405808/fcc-chairman-julius-genachowski-broadband-us-speech">broadband speech</a> from FCC Chairman Julius Genachowski. Ross? He's there for whatever reason. And a week after his <a href="http://www.theverge.com/2012/5/1/2991104/blackberry-10-new-user-interface-apps-developer-toohttp://www.theverge.com/2012/9/21/3363238/iphone-5-review">iPhone 5 review</a>, Josh has some new thoughts and scuffs to share. Also, Josh takes a trip down memory lane to reveal his past life as a tech support operator for a ISP.</p>
+
+
+  <p><i><a href="http://www.theverge.com/label/the-classics">The Classics</a> are must-see, must-read, must-play works revered by </i>The Verge<i> staff. They offer glimpses of the future, glimpses of humanity, and a glimpse of our very souls. You should check them out.</i></p>
+<p>When I was a teenager, I decided the best way to learn about science fiction was to read through every Nebula Awards collection in the library system, marking names. It rarely worked: even if I loved the story, I usually forgot the author, leaving me with a jumbled recollection of plot points and writing styles. The single name I remember now isn&rsquo;t even a real one &mdash; it&rsquo;s Raccoona Sheldon, one of the pen names of the science fiction author named Alice Sheldon but better known as James Tiptree, Jr. She had won a 1978 Nebula for her short...</p>
+  <p>
+    <a href="http://www.theverge.com/2012/9/29/3427770/the-classics-the-screwfly-solution">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:76:"http://www.theverge.com/2012/9/29/3427770/the-classics-the-screwfly-solution";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:76:"http://www.theverge.com/2012/9/29/3427770/the-classics-the-screwfly-solution";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Adi Robertson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T16:11:59Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T16:11:59Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:82:"Facebook revamps Messenger iOS app with Favorites, new chat UI, better performance";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1173:"
+  
+  
+    <img alt="Facebook Messenger iOS" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6804611/20120929-DSC_7506VERGE_large.jpg" width="630" />
+  
+
+
+  
+
+
+
+
+  <p>Facebook's been on a bit of a roll with iOS development lately. Just over a month ago, the company <a href="http://www.theverge.com/2012/8/23/3262782/facebook-for-ios-native-app">released a major update to its flagship app</a> that offered tangible boosts in performance and responsiveness. Yet Facebook has also steadily worked to improve its standalone projects like Messenger. The latest version of the messaging app, introduced yesterday, brings full support for iOS 6 and Apple's iPhone 5. It also features the same interface changes that recently arrived on the Android release.</p>
+<p>Swiping in from the left side of your screen will bring up a list of available contacts, and like before, the app will tell you when each of your friends was last active on Facebook. The conversation view has been given a fresh makeover with...</p>
+  <p>
+    <a href="http://www.theverge.com/2012/9/29/3427882/facebook-messenger-ios-app-favorites-chat-bubbles">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:91:"http://www.theverge.com/2012/9/29/3427882/facebook-messenger-ios-app-favorites-chat-bubbles";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.theverge.com/2012/9/29/3427882/facebook-messenger-ios-app-favorites-chat-bubbles";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Chris Welch";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T14:50:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T14:50:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:81:"The Weekender: Social Security numbers, maps security, and life with a Chromebook";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:889:"
+  
+  
+    <img alt="weekender art 6" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6789755/weekender-6_large.jpg" width="630" />
+  
+
+
+  
+
+
+
+
+  <p class="hidden">
+</p>
+<!--  ########  END SNIPPET  ########  -->
+<p>Welcome to The Verge: Weekender edition. Each week, we'll bring you important articles from the previous weeks' original <a href="http://www.theverge.com/label/report">reports</a>, <a href="http://www.theverge.com/features/">features</a> and <a href="http://www.theverge.com/reviews">reviews</a> on <i>The Verge</i>. Think of it as a collection of a few (very few!) of our favorite pieces from the week gone by, which you may have missed, or which you might want to read again.</p>
 <p></p>
   <p>
-    <a href="http://www.theverge.com/2012/9/28/3422538/the-vergecast-048-september-27th-2012">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/29/3425688/the-weekender-social-security-numbers-maps-security-and-life-with-a">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:79:"http://www.theverge.com/2012/9/28/3422538/the-vergecast-048-september-27th-2012";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.theverge.com/2012/9/28/3422538/the-vergecast-048-september-27th-2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:109:"http://www.theverge.com/2012/9/29/3425688/the-weekender-social-security-numbers-maps-security-and-life-with-a";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:109:"http://www.theverge.com/2012/9/29/3425688/the-weekender-social-security-numbers-maps-security-and-life-with-a";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Brendan Murphy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Laura June";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
     
     
     
@@ -241,87 +293,26 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T16:22:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T16:22:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:57:"Sony adds 'Glove Mode' to Xperia Sola for use in the cold";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1461:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T11:33:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T11:33:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:82:"Computer glitch may have led to Deep Blue's historic win over chess champ Kasparov";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1301:"
   
   
-    <img alt="sony xperia sola glove mode ics" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6779455/sony_xperia_sola_glove_mode_ica_large.jpg" width="630" />
-  
-
-
+    <img alt="Deep Blue" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6794973/deep_blue_640_large.jpg" width="630" />
   
 
 
+  
 
 
-  <p>Nokia's Lumia 920 isn't the only smartphone that lets you <a href="http://www.theverge.com/2012/9/5/3293835/nokia-lumia-920s-capacitive-display-works-with-gloves">use your gloves while navigating</a>, Sony has just brought Android 4.0 to the Xperia Sola along with a new feature called "<a target="_blank" href="http://developer.sonymobile.com/2012/09/28/ics-update-lets-you-use-xperia-sola-with-your-gloves-on-video/">Glove Mode</a>." Automatically built into the Sola's Ice Cream Sandwich update, "Glove Mode" makes use of the device's <a href="http://www.theverge.com/2012/3/14/2871193/sony-xperia-sola-floating-touch-hover-event-screen-technology">floating touch technology</a>, which previously provided only a few advantages such as hovering over items in a browser to open drop down menus. When enabled, the handset actually detects the user's finger instead of the glove itself. The feature is turned on by default, otherwise Sola owners just have to unlock their phone with a glove on to ensure that it is activated. If the video below is any indication, the feature works well with what appears to be...</p>
+
+
+  <p>Earlier this year, <a href="http://www.theverge.com/2012/5/11/3015223/deep-blue-15-year-anniversary-kasparov">IBM celebrated the 15-year anniversary</a> of its supercomputer Deep Blue beating chess champion Garry Kasparov. According to a new book, however, it may have been an accidental glitch rather than computing firepower that gave Deep Blue the win.</p>
+<p>At the <i>Washington Post</i>, <a target="_blank" href="http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/09/26/nate-silvers-the-signal-and-the-noise/">Brad Plumer highlights</a> a passage from Nate Silver's <i>The Signal and the Noise</i>. Silver interviewed Murray Campbell, a computer scientist that worked on Deep Blue, who explained that during the 1997 tournament the supercomputer suffered from a bug in the first game. Unable to pick a strategic move because of the glitch, it resorted to its fall-back mechanism: choosing a play at random. "A bug occurred in the game and it may have made Kasparov misunderstand the...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/28/3422878/sony-xperia-sola-glove-mode-android-4-go-u">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/9/29/3426484/computer-glitch-deep-blue-garry-kasparov">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:84:"http://www.theverge.com/2012/9/28/3422878/sony-xperia-sola-glove-mode-android-4-go-u";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:84:"http://www.theverge.com/2012/9/28/3422878/sony-xperia-sola-glove-mode-android-4-go-u";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:82:"http://www.theverge.com/2012/9/29/3426484/computer-glitch-deep-blue-garry-kasparov";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:82:"http://www.theverge.com/2012/9/29/3426484/computer-glitch-deep-blue-garry-kasparov";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Justin Rubio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T16:00:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T16:00:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:34:"What's in your bag, Thomas Ricker?";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1208:"
-  
-  
-    <img alt="ricker-wiyb-lead-1020" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6780773/LL6C9887_large.jpg" width="630" />
-  
-
-
-  
-
-
-
-
-  <p><em><a href="http://www.theverge.com/label/whats-in-your-bag">What's in your bag?</a> is a recurring feature where we ask people to tell us a bit more about their everyday gadgets by opening their bags and hearts to us. Show us your bag in this <a href="http://www.theverge.com/2011/11/23/2582832/whats-in-your-bag">forum post</a>. This week, we're featuring Thomas Ricker.</em></p>
-
-<p>I've had a love affair with computer bags for more than fifteen years now. A fixation betrayed by a dozen or so unused bags, each loved intensely for a time, then tossed to the side of the road like a sex crime, abandoned in favor of another.</p>
-
-<p>My hauling needs have stabilized over the last two years allowing me to settle on just two bags: one that I use for everyday bicycling through Amsterdam, another for professional press events and travel. Preferences honed by nomadism and an obsessive avoidance of...</p>
-  <p>
-    <a href="http://www.theverge.com/2012/9/28/3406344/whats-in-your-bag-thomas-ricker">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:73:"http://www.theverge.com/2012/9/28/3406344/whats-in-your-bag-thomas-ricker";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:73:"http://www.theverge.com/2012/9/28/3406344/whats-in-your-bag-thomas-ricker";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Thomas Ricker";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T15:55:12Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-28T15:55:12Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:64:"Gmail iOS app now optimized for iPhone 5's 4-inch Retina display";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1343:"
-  
-  
-    <img alt="Gmail iPhone 5" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6781179/20120928-DSC_7424VERGE_large.jpg" width="630" />
-  
-
-
-  
-
-
-
-
-  <p>Google has steadily been <a href="http://www.theverge.com/2012/9/24/3384982/google-chrome-update-ios-6-iphone-5">rolling out updates for its iOS apps</a> that add compatibility with the iPhone 5's 4-inch display, and now Gmail is the latest to get the stretch treatment. Owners of Apple's latest handset will see more inbox messages thanks to the extra real estate and won't need to scroll quite as much when diving into an email thread. Since iPhone 5 support is literally the only thing mentioned in this version's release notes, you shouldn't expect any changes in terms of functionality. Gmail <a href="http://www.theverge.com/2012/7/31/3206784/gmail-ios-picture-attachments-update">has steadily improved</a> since initially being met with a lukewarm reception last November, and it's nice to see Google ensuring compatibility with Apple's latest gadgets in a timely manner. Hopefully an update for <a href="http://www.theverge.com/2012/9/11/3314384/youtube-app-iphone-ipod-touch-photos-video">the company's YouTube app...</a></p>
-  <p>
-    <a href="http://www.theverge.com/2012/9/28/3423090/gmail-ios-update-iphone-5-display">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:75:"http://www.theverge.com/2012/9/28/3423090/gmail-ios-update-iphone-5-display";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:75:"http://www.theverge.com/2012/9/28/3423090/gmail-ios-update-iphone-5-display";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Chris Welch";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Sat, 29 Sep 2012 04:56:50 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"03620ddad6036b6e74f6b053e6b94030";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"201";s:14:"content-length";s:4:"6488";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Bryan Bishop";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Sun, 30 Sep 2012 00:59:15 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"3192cb524e9df9d8a48c49030e1b81d7";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"157";s:14:"content-length";s:4:"6125";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}

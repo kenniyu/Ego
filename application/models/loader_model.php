@@ -66,23 +66,15 @@
 			}
 			return $feeds;
 		}
-		function get_feeds_forLabel($username, $label){
-			$query = $this->db->get_where('label', array('username' => $username, 'label_name' => $label));
-			$feeds = array();
-			foreach ($query->result() as $link){
-				array_push($feeds, $link->feed_url);
-			}
-			return $feeds;
-		}
-		function get_feeds_all($username){
-			$query = $this->db->get_where('feed', array('username' => $username));
-			$feeds = array();
-			foreach($query->result() as $link){
-				if ($link->type == 'site'){
-					array_push($feeds, $link->url);
-				}
-				else if ($link->type == 'keyword'){
-					array_push($feeds, 'feed://news.google.com/news?pz=1&cf=all&ned=us&hl=en&q=topic:'.$link->title.'&output=rss');
+		function get_allfeeds($username){
+			$results = $this->db->get_where('feed', array('username' => $username))->result();
+			$feeds = array('sources' => array(), 'tags' => array());
+			foreach($results as $item){
+				if ($item->type == 'site'){
+					$source = $this->db->get_where('sources', array('url' => $item->url))->row();
+					array_push($feeds['sources'], $source->source);
+				} else{
+					array_push($feeds['tags'], $item->url);
 				}
 			}
 			return $feeds;
