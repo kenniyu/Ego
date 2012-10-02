@@ -15,7 +15,7 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
   
   
   
-";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-30T00:08:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
+";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T11:11:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
     
     
     
@@ -23,29 +23,28 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-30T00:08:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-30T00:08:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:86:"Motorola Atrix 4G will not be upgraded to Ice Cream Sandwich, despite earlier promises";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1324:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T11:11:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T11:11:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:64:"Live Twitter stream found in print issue of Entertainment Weekly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1255:"
   
   
-    <img alt="Atrix 4G" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6808719/ATRIX_4G_Dyn_L_vert_Home_ATT_copy_large.jpg" width="630" />
-  
-
-
+    <img alt="Entertainment Weekly live twitter" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6836951/ewlivetwitter_large.jpg" width="630" />
   
 
 
+  
 
 
-  <p>Motorola has confirmed<a href="https://forums.motorola.com/pages/00add97d6c" target="_blank"> </a>that the Atrix 4G won't be receiving an upgrade to Android 4.0 after all. The manufacturer broke the news with a recent <a href="https://forums.motorola.com/pages/00add97d6c" target="_blank">update to its Android upgrade schedule</a>, noting that the Atrix 4G, Electrify, and Photon 4G will all remain on Android 2.3 Gingerbread, rather than making the jump to Ice Cream Sandwich.</p>
-<p>The Atrix 4G was among the handful of handsets pegged for a Q3 2012 upgrade earlier this year, when Motorola released its <a href="http://www.theverge.com/2012/2/15/2799829/motorola-ics-upgrade-schedule">device roadmap</a>. Of the three devices relegated to Gingerbread, the Atrix 4G is the oldest, having been released in early 2011. The Photon 4G hit the market in July 2011, followed by its US Cellular variant, the Electrify, a few months later. This would suggest, then, that owners of these...</p>
+
+
+  <p>The October 5th print issue of <i>Entertainment Weekly</i> contains an insert page with a small LCD designed to display live tweets as well as videos. Around 1,000 copies of the issue distributed in New York and Los Angeles will include the insert, which houses an Android-powered device along with a cellular radio to stream live tweets from the <a href="https://twitter.com/CW_network" target="_blank">@CW_Network</a> Twitter account. The executive vice president of marketing at the CW, Rick Haskins, told <a target="_blank" href="http://mashable.com/2012/10/02/twitter-entertainment-weekly-ad/"><i>Mashable</i> in an interview</a> that the device was built in China and is powered by a 3G radio, although judging from the slow loading times in the video below, the speeds seem closer to EDGE. Users won&rsquo;t be able to interact with the tweets, however, as the screen isn&rsquo;t touch capable. The device also looks...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/29/3429500/motorola-atrix-4g-android-4-ice-cream-sandwich-upgrade">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/10/2/3442506/entertainment-weekly-print-live-twitter">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:96:"http://www.theverge.com/2012/9/29/3429500/motorola-atrix-4g-android-4-ice-cream-sandwich-upgrade";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:96:"http://www.theverge.com/2012/9/29/3429500/motorola-atrix-4g-android-4-ice-cream-sandwich-upgrade";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:81:"http://www.theverge.com/2012/10/2/3442506/entertainment-weekly-print-live-twitter";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:81:"http://www.theverge.com/2012/10/2/3442506/entertainment-weekly-print-live-twitter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Amar  Toor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Ben Kersey";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
     
     
     
@@ -53,29 +52,29 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-30T00:08:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-30T00:08:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:81:"Google combines free storage across Drive and Picasa, counts it toward paid plans";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1454:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T11:04:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T11:04:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:64:"Booty alert: sensor-laden cows text farmers when they're in heat";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1069:"
   
   
-    <img alt="Google Drive iOS" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6807021/20120905-DSC_6548VERGE_large.jpg" width="630" />
-  
-
-
+    <img alt="swiss cow_shutterstock" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6837497/swiss-cow-shutterstock_large.jpg" width="630" />
   
 
 
+  
 
 
-  <p>Google conducted its latest round of "<a href="http://www.theverge.com/2012/7/3/3135453/google-spring-cleaning-youtube-igoogle-symbian-search">spring cleaning</a>" last week, <a target="_blank" href="http://googleblog.blogspot.com/2012/09/more-spring-cleaning.html">announcing plans</a> to discontinue several minor features and to consolidate storage offerings across <a href="http://www.theverge.com/tag/google-drive">Drive</a> and its Picasa photo-sharing service. Among the services being phased out are AdSense for RSS feeds, Google News Badges, and Classic Plus, which allowed users to upload their own background images on Google's homepage.</p>
-<p>Most notable, however, is the company's decision to combine storage plans for Google Drive and Picasa. Previously, <a target="_blank" href="http://support.google.com/picasa/bin/answer.py?hl=en&amp;answer=2375124">Google offered</a> 5GB of free storage on Drive and 1GB on Picasa. Now, all storage will be pooled into the same account, with Google offering a single, 5GB pool of data across both Drive and Picasa. Gmail, it's worth noting, appears to remain...</p>
+
+
+  <p>Now here's an unexpected application of modern wireless technology: bovine reproduction. Swiss academics and farmers have come up with a new sensor system that can detect, with an accuracy rate of roughly 90 percent, when a cow is ready to mate &mdash; and then send out a text message alert. Relatively recent changes in dairy farming methods, including diet supplementation with extra protein and vitamins, have apparently been playing havoc with cows' metabolism and causing them extra stress, which has led to reduced reproductive activity. That's made it ever more critical for farmers to recognize every chance they have to successfully inseminate their cattle.</p>
+<p>A company, Anemon, has been set up to try and commercialize this heat detector and...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/29/3428972/google-spring-cleaning-drive-picasa-storage-consolidation">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/10/2/3442558/cow-heat-detector-sms">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:99:"http://www.theverge.com/2012/9/29/3428972/google-spring-cleaning-drive-picasa-storage-consolidation";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:99:"http://www.theverge.com/2012/9/29/3428972/google-spring-cleaning-drive-picasa-storage-consolidation";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:63:"http://www.theverge.com/2012/10/2/3442558/cow-heat-detector-sms";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:63:"http://www.theverge.com/2012/10/2/3442558/cow-heat-detector-sms";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Amar  Toor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Vlad Savov";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
     
     
     
@@ -83,39 +82,10 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T20:19:14Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T20:19:14Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:58:"Re-thinking car design in the age of self-driving vehicles";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1119:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T10:31:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T10:31:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"Infrared eye-tracking tech makes for a surprisingly accurate tablet interface";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:918:"
   
   
-    <img alt="Google self driving autonomous car stock 1024" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6806957/google-self-driving-car-4-stock-1024_large.jpg" width="630" />
-  
-
-
-  
-
-
-
-
-  <p>As self-driving cars <a href="http://www.theverge.com/2012/9/25/3407746/self-driving-cars-bill-california-google">inch closer to real-world use</a>, car makers have the opportunity to incorporate new design factors that aren't constrained by the requirements of manual control. Brad Templeton, software architect and board member of the Electronic Frontier Foundation, <a target="_blank" href="http://www.templetons.com/brad/robocars/design-change.html">has identified</a> a number of attributes that can be unique to the new mode of transportation, from single-passenger cars and redesigned windshields to vehicles that re-fuel themselves between trips. Check out Templeton's website to read his full vision for the purpose-built robotic car fleets of the future.</p>
-  <p>
-    <a href="http://www.theverge.com/2012/9/29/3428864/self-driving-car-design-future">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:72:"http://www.theverge.com/2012/9/29/3428864/self-driving-car-design-future";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:72:"http://www.theverge.com/2012/9/29/3428864/self-driving-car-design-future";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Justin Rubio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T19:58:58Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T19:58:58Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:96:"Barnes & Noble Simple Touch with Glowlight drops to $119, matches ad-supported Kindle Paperwhite";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1675:"
-  
-  
-    <img alt="Gallery Photo: Barnes &amp; Noble Nook Simple Touch with GlowLight review pictures" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6805795/_MFC9816-hero_large.jpg" width="630" />
+    <img alt="i beam eye tracking" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6837209/DSC05088_large.jpg" width="630" />
   
 
 
@@ -124,168 +94,17 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
 
 
 
-  <p>Barnes &amp; Noble's <a href="http://www.theverge.com/2012/4/24/2969246/barnes-noble-nook-simple-touch-with-glowlight-review">Simple Touch with Glowlight</a> has received a $20 drop in price, which now lines up with the ad-supported version of the <a href="http://www.theverge.com/2012/9/6/3296627/amazon-new-kindle-paperwhite-announcement">Amazon's upcoming Kindle Paperwhite</a>. Walmart is <a target="_blank" href="http://www.walmart.com/ip/20894682?adid=22222222227015257564">already advertising</a> the Simple Touch with Glowlight for $119, and <a target="_blank" href="http://reviews.cnet.com/8301-33198_7-57522921-286/nook-glowlight-e-reader-price-drops-to-%24119/"><i>CNET</i> reports</a> that Target will also be selling it for that price. Barnes and Noble is still showing the device at full price.</p>
-<p>While Amazon's new Kindle Paperwhite features an <a href="http://www.theverge.com/2012/8/30/3280770/amazon-kindle-paperwhite-display">improved frontlit display</a> and an all touch interface, the $119 version that will be released on October 1st will be have ads baked in &mdash; those looking for a distraction-free Paperwhite experience will have to drop an extra $20. The Simple Touch with Glowlight, on the other hand, is ad-free and we're convinced that it is...</p>
-  <p>
-    <a href="http://www.theverge.com/2012/9/29/3428636/barnes-noble-simple-touch-glowlight-nook-discount-119">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:95:"http://www.theverge.com/2012/9/29/3428636/barnes-noble-simple-touch-glowlight-nook-discount-119";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:95:"http://www.theverge.com/2012/9/29/3428636/barnes-noble-simple-touch-glowlight-nook-discount-119";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Justin Rubio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T19:07:07Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T19:07:07Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:62:"License plate readers and the rise of a surveillance industry ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1278:"
-  
-  
-    <img alt="Surveillance camera Flickr" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6805901/225311448_2669028c0a_b_large.jpg" width="630" />
-  
-
-
-  
-
-
-
-
-  <p>There are many ways for law enforcement agents to track your behavior nowadays, but among the most pervasive &mdash; and perhaps surreptitious &mdash; are <a href="http://www.theverge.com/2012/8/16/3246556/lpr-license-plate-reader">license plate readers</a>. <i>The Wall Street Journal</i> this week <a target="_blank" href="http://online.wsj.com/article/SB10000872396390443995604578004723603576296.html">published an extensive report</a> on the technology, which was once under the purview of police and other public officials, but has since spread into the private sector, as well. Studies suggest that more than a third of the nation's police departments now deploy license plate readers, capturing millions of images and adding them to ever-growing databases. Declining prices have also encouraged some startups to begin building their own equally massive databases, though the practice has certainly given rise to legal controversy.</p>
-  <p>
-    <a href="http://www.theverge.com/2012/9/29/3428674/license-plate-readers-police-surveillance-privacy">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:91:"http://www.theverge.com/2012/9/29/3428674/license-plate-readers-police-surveillance-privacy";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.theverge.com/2012/9/29/3428674/license-plate-readers-police-surveillance-privacy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Amar  Toor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T18:43:18Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T18:43:18Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:79:"Steve Jobs added Google Maps to the original iPhone just weeks before unveiling";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1201:"
-  
-  
-    <img alt="iPhone Maps 2007" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6805945/Screen_Shot_2012-09-29_at_2.09.18_PM_large.png" width="630" />
-  
-
-
-  
-
-
-
-
-  <p>The controversy Apple has faced with its new Maps app has left many users pining for the days when the company and Google were close allies. Such was the case in January 2007 when Steve Jobs unveiled the original iPhone. In an era preceding the lucrative App Store and third-party iOS apps, Apple had chosen Google as a key partner for both Maps and search. Yet it almost didn't turn out that way. <a href="http://www.nytimes.com/2012/09/29/technology/apple-apologizes-for-misstep-on-maps.html?_r=1">According to the <i>New York Times</i></a>, the inclusion of Google Maps on iPhone had been an eleventh-hour decision by Steve Jobs &mdash; the late Apple co-founder believed it would make for a good demonstration of the device's multitouch technology. And indeed it did. Jobs even used the new Maps app to prank Starbucks, drawing some of the biggest laughs...</p>
-  <p>
-    <a href="http://www.theverge.com/2012/9/29/3428380/steve-jobs-apple-google-maps-original-iphone">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:86:"http://www.theverge.com/2012/9/29/3428380/steve-jobs-apple-google-maps-original-iphone";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:86:"http://www.theverge.com/2012/9/29/3428380/steve-jobs-apple-google-maps-original-iphone";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Chris Welch";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T16:30:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T16:30:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:37:"The Classics: 'The Screwfly Solution'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1159:"
-  
-  
-    <img alt="Screwfly Solution Classics" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6803569/screwflyclassics_large.png" width="630" />
-  
-
-
-  
-
-
-
-
-  <p><i><a href="http://www.theverge.com/label/the-classics">The Classics</a> are must-see, must-read, must-play works revered by </i>The Verge<i> staff. They offer glimpses of the future, glimpses of humanity, and a glimpse of our very souls. You should check them out.</i></p>
-<p>When I was a teenager, I decided the best way to learn about science fiction was to read through every Nebula Awards collection in the library system, marking names. It rarely worked: even if I loved the story, I usually forgot the author, leaving me with a jumbled recollection of plot points and writing styles. The single name I remember now isn&rsquo;t even a real one &mdash; it&rsquo;s Raccoona Sheldon, one of the pen names of the science fiction author named Alice Sheldon but better known as James Tiptree, Jr. She had won a 1978 Nebula for her short...</p>
-  <p>
-    <a href="http://www.theverge.com/2012/9/29/3427770/the-classics-the-screwfly-solution">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:76:"http://www.theverge.com/2012/9/29/3427770/the-classics-the-screwfly-solution";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:76:"http://www.theverge.com/2012/9/29/3427770/the-classics-the-screwfly-solution";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Adi Robertson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T16:11:59Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T16:11:59Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:82:"Facebook revamps Messenger iOS app with Favorites, new chat UI, better performance";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1173:"
-  
-  
-    <img alt="Facebook Messenger iOS" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6804611/20120929-DSC_7506VERGE_large.jpg" width="630" />
-  
-
-
-  
-
-
-
-
-  <p>Facebook's been on a bit of a roll with iOS development lately. Just over a month ago, the company <a href="http://www.theverge.com/2012/8/23/3262782/facebook-for-ios-native-app">released a major update to its flagship app</a> that offered tangible boosts in performance and responsiveness. Yet Facebook has also steadily worked to improve its standalone projects like Messenger. The latest version of the messaging app, introduced yesterday, brings full support for iOS 6 and Apple's iPhone 5. It also features the same interface changes that recently arrived on the Android release.</p>
-<p>Swiping in from the left side of your screen will bring up a list of available contacts, and like before, the app will tell you when each of your friends was last active on Facebook. The conversation view has been given a fresh makeover with...</p>
-  <p>
-    <a href="http://www.theverge.com/2012/9/29/3427882/facebook-messenger-ios-app-favorites-chat-bubbles">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:91:"http://www.theverge.com/2012/9/29/3427882/facebook-messenger-ios-app-favorites-chat-bubbles";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.theverge.com/2012/9/29/3427882/facebook-messenger-ios-app-favorites-chat-bubbles";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Chris Welch";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T14:50:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T14:50:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:81:"The Weekender: Social Security numbers, maps security, and life with a Chromebook";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:889:"
-  
-  
-    <img alt="weekender art 6" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6789755/weekender-6_large.jpg" width="630" />
-  
-
-
-  
-
-
-
-
-  <p class="hidden">
-</p>
-<!--  ########  END SNIPPET  ########  -->
-<p>Welcome to The Verge: Weekender edition. Each week, we'll bring you important articles from the previous weeks' original <a href="http://www.theverge.com/label/report">reports</a>, <a href="http://www.theverge.com/features/">features</a> and <a href="http://www.theverge.com/reviews">reviews</a> on <i>The Verge</i>. Think of it as a collection of a few (very few!) of our favorite pieces from the week gone by, which you may have missed, or which you might want to read again.</p>
+  <p>One of the more impressive tech demos we saw today belonged to a <a href="http://www.theverge.com/2012/9/19/3358194/tobii-ibeam-tablet-eye-tracking">prototype tablet</a> from Fujitsu that can be controlled with nothing more than the user&rsquo;s eyesight. I Beam uses an infrared LED and camera setup to triangulate the user&rsquo;s viewing angle, determining where the cursor ought to be placed onscreen. After a quick 30-second calibration, we found the controls to be surprisingly accurate, although keeping our eyes trained on a particular location was a little more difficult than we had expected.</p>
 <p></p>
   <p>
-    <a href="http://www.theverge.com/2012/9/29/3425688/the-weekender-social-security-numbers-maps-security-and-life-with-a">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/10/2/3442530/docomo-fujitsu-eye-tracking-ui-tablet">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:109:"http://www.theverge.com/2012/9/29/3425688/the-weekender-social-security-numbers-maps-security-and-life-with-a";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:109:"http://www.theverge.com/2012/9/29/3425688/the-weekender-social-security-numbers-maps-security-and-life-with-a";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:79:"http://www.theverge.com/2012/10/2/3442530/docomo-fujitsu-eye-tracking-ui-tablet";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.theverge.com/2012/10/2/3442530/docomo-fujitsu-eye-tracking-ui-tablet";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Laura June";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Jeff Blagdon";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
     
     
     
@@ -293,26 +112,207 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T11:33:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-29T11:33:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:82:"Computer glitch may have led to Deep Blue's historic win over chess champ Kasparov";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1301:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T08:40:10Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T08:40:10Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"Machine Gun Kelly gig at Microsoft Store cut short by police";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1290:"
   
   
-    <img alt="Deep Blue" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6794973/deep_blue_640_large.jpg" width="630" />
-  
-
-
+    <img alt="MGK" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6836821/mgk_large.jpg" width="630" />
   
 
 
+  
 
 
-  <p>Earlier this year, <a href="http://www.theverge.com/2012/5/11/3015223/deep-blue-15-year-anniversary-kasparov">IBM celebrated the 15-year anniversary</a> of its supercomputer Deep Blue beating chess champion Garry Kasparov. According to a new book, however, it may have been an accidental glitch rather than computing firepower that gave Deep Blue the win.</p>
-<p>At the <i>Washington Post</i>, <a target="_blank" href="http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/09/26/nate-silvers-the-signal-and-the-noise/">Brad Plumer highlights</a> a passage from Nate Silver's <i>The Signal and the Noise</i>. Silver interviewed Murray Campbell, a computer scientist that worked on Deep Blue, who explained that during the 1997 tournament the supercomputer suffered from a bug in the first game. Unable to pick a strategic move because of the glitch, it resorted to its fall-back mechanism: choosing a play at random. "A bug occurred in the game and it may have made Kasparov misunderstand the...</p>
+
+
+  <p>Upcoming American rapper Machine Gun Kelly (MGK) was hired to perform at Microsoft's Atlanta retail store on Friday, but the software giant got more than it bargained for. MGK performed 'Hold On (Shut up)' for the crowd at the Microsoft Store, where he appeared to mark <a href="http://www.thesource.com/" target="_blank"><i>The Source</i></a> magazine&rsquo;s release of their annual Power 30 issue. After rapping "fuck these computers..." the rapper started jumping between tables at the store that contained laptop and tablet computers.</p>
+<p><q class="center">"Fuck these computers..."</q></p>
+<p>Although it's unclear whether any damage was caused, a video of the event clearly shows MGK throwing a promotional sign from one of the tables. <a href="http://allhiphop.com/2012/10/01/hip-hop-rumors-video-mgk-versus-microsoft-rapper-says-fck-these-computers/" target="_blank"><i>All Hip Hop</i> reports</a> that the rapper stomped on "at least five computers" before cops were called and...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/29/3426484/computer-glitch-deep-blue-garry-kasparov">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/10/2/3442458/machine-gun-kelly-mgk-microsoft-store-video-gig">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:82:"http://www.theverge.com/2012/9/29/3426484/computer-glitch-deep-blue-garry-kasparov";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:82:"http://www.theverge.com/2012/9/29/3426484/computer-glitch-deep-blue-garry-kasparov";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:89:"http://www.theverge.com/2012/10/2/3442458/machine-gun-kelly-mgk-microsoft-store-video-gig";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:89:"http://www.theverge.com/2012/10/2/3442458/machine-gun-kelly-mgk-microsoft-store-video-gig";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Bryan Bishop";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Sun, 30 Sep 2012 00:59:15 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"3192cb524e9df9d8a48c49030e1b81d7";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"157";s:14:"content-length";s:4:"6125";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Warren";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T08:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T08:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:85:"HTC One X+ ships this month with bigger battery, more storage, and Android Jelly Bean";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1172:"
+  
+  
+    <img alt="One X+" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6836671/vs09-28_15-50-52x_gallery_post_large.jpeg" width="630" />
+  
+
+
+  
+
+
+
+
+  <p>Never content to sit still for very long, HTC is today announcing an upgraded version of its One X Android flagship, imaginatively titled the One X+. Physically, the new device is indistinguishable from its predecessor, altering only its color scheme and Beats insignia, but internally it includes a larger 2,100mAh battery, 64GB of storage, and a more potent 1.7GHz Tegra 3 (AP37) processor. Shipping with Android 4.1 early this month, the One X+ is HTC's first <a href="http://www.theverge.com/2012/7/3/3134347/android-4-1-jelly-bean-review">Jelly Bean</a> device, proving once again that it's more expedient for phone makers to just build new handsets than to update old ones. Owners of the original One X, the LTE-equipped One XL, and the mid-tier One S will also see their phones updated, but HTC says that will follow the...</p>
+  <p>
+    <a href="http://www.theverge.com/2012/10/2/3424610/htc-one-x-plus-android-jelly-bean-release-date-specs-features">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:103:"http://www.theverge.com/2012/10/2/3424610/htc-one-x-plus-android-jelly-bean-release-date-specs-features";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:103:"http://www.theverge.com/2012/10/2/3424610/htc-one-x-plus-android-jelly-bean-release-date-specs-features";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Vlad Savov";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T07:48:47Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T07:48:47Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:86:"App.net lowers annual fee to $36 and adds a monthly option, as membership nears 20,000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1053:"
+  
+  
+    <img alt="app.net" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6836611/appnet_large.jpg" width="630" />
+  
+
+
+  
+
+
+
+
+  <p>The upstart social network that aims to give people a paid alternative to Twitter and Facebook's overly commercialized services is becoming cheaper today. App.net founder Dalton Caldwell has announced a drop in the annual member fee from $50 to $36 &mdash; which current users will benefit from in the form of extended subscriptions &mdash; alongside the introduction of a $5 monthly membership.</p>
+<p>Both moves are designed to lower the barrier to entry for people curious to try out App.net, which is available via third-party apps on Android, iOS, Windows Phone, and OS X, plus extensions for the Chrome and Firefox browsers. In announcing the changes, Caldwell notes that App.net is nearing 20,000 registered members, whose contributions have allowed the...</p>
+  <p>
+    <a href="http://www.theverge.com/2012/10/2/3442440/app-net-price-change-member-stats">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:75:"http://www.theverge.com/2012/10/2/3442440/app-net-price-change-member-stats";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:75:"http://www.theverge.com/2012/10/2/3442440/app-net-price-change-member-stats";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Vlad Savov";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T06:17:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T06:17:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:58:"Sharp's high density 5-inch display, up close and personal";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1430:"
+  
+  
+    <img alt="sharp 5-inch 1080p stock 1020" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6836211/theverge_1020_large.jpg" width="630" />
+  
+
+
+  
+
+
+
+
+  <p>Here at CEATEC 2012, Sharp is giving attendees a look at its new 5-inch 1080p LCD smartphone display, and at 443 ppi, it is one of the most pixel-dense panels we&rsquo;ve ever seen. As <a href="http://www.theverge.com/2012/10/1/3436644/sharp-starts-mass-production-of-5-inch-1080p-displays-for-smartphones">we reported earlier</a>, the company has recently begun mass-producing the displays, which we&rsquo;ve learned use TFTs produced with continuous grain (CG) silicon rather than the company&rsquo;s heralded <a href="http://www.theverge.com/2012/4/13/2945916/sharp-manufacturing-igzo-display-thinner-energy-efficient">IGZO transistor technology</a>. While the resolution of the new 5-inch display falls a little short of the 498 ppi benchmark set by the <a href="http://www.theverge.com/2012/6/1/3056490/sharp-caac-igzo-498-ppi-display-prototype">6.1-inch IGZO prototype</a> we saw in June, they both looked equally impressive to our eyes (images of the new display below).</p>
+<p>
+</p>
+<p>With all the interest in IGZO, we wondered why the company would decide to mass produce displays using CG silicon;...</p>
+  <p>
+    <a href="http://www.theverge.com/2012/10/2/3441904/sharp-5-inch-1080p-lcd-cg-silicon">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:75:"http://www.theverge.com/2012/10/2/3441904/sharp-5-inch-1080p-lcd-cg-silicon";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:75:"http://www.theverge.com/2012/10/2/3441904/sharp-5-inch-1080p-lcd-cg-silicon";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Jeff Blagdon";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T05:52:59Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T05:52:59Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"Sony shows off RX1 full-frame compact and NEX 16-50mm pancake zoom";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1155:"
+  
+  
+    <img alt="RX1 over" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6836711/DSC01169-over_large.jpeg" width="630" />
+  
+
+
+  
+
+
+
+
+  <p>Sony stoked our interest last month when it <a href="http://www.theverge.com/2012/9/12/3317716/sony-full-frame-cameras-rx1-a99-nex-vg900">announced the RX1</a> &mdash; a $2,700 compact camera with a full-frame sensor and a fixed 35mm f/2.0 Carl Zeiss lens. It promises to be the smallest full-frame camera to date, so we had to see the seemingly physics-defying shooter for ourselves. Unfortunately it's locked away behind glass at CEATEC in Japan, but that didn't stop us coming away with a fuller appreciation for Sony's technical achievement.</p>
+<p>The RX1 looks beautiful in person and is astonishingly small for a full-frame camera; we had our RX100 with us for comparison, and there's really not much of a difference in body size. However, the lens is considerably larger and that protrusion means the RX1 won't make its way into most people's...</p>
+  <p>
+    <a href="http://www.theverge.com/2012/10/2/3442218/sony-rx1-nex-6-pancake-zoom-hands-on">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:78:"http://www.theverge.com/2012/10/2/3442218/sony-rx1-nex-6-pancake-zoom-hands-on";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:78:"http://www.theverge.com/2012/10/2/3442218/sony-rx1-nex-6-pancake-zoom-hands-on";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Sam Byford";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T04:17:10Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T04:17:10Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:50:"Comparing 'Angry Birds' pigs to the 'Bad Piggies' ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1247:"
+  
+  
+    <img alt="Bad Piggies" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6835267/bad-piggies-exclusive-gameplay-top630_large.jpg" width="630" />
+  
+
+
+  
+
+
+
+
+  <p>In theory, the pigs of <i>Angry Birds</i> should be no different from those featured in <a href="http://www.theverge.com/gaming/2012/9/26/3408078/bad-piggies-mobile-review-pigs-fly"><i>Bad Piggies</i></a>, Rovio's <a href="http://www.theverge.com/gaming/2012/9/4/3291154/bad-piggies-angry-birds-sequel-hits-september-27th">recently released</a> spinoff. But <a href="http://www.wired.com/wiredscience/2012/10/how-big-are-the-bad-piggies/" target="_blank">according to <i>Wired'</i>s Rhett Allain</a>, there are some differences &mdash; most notably, their size. Using Newtonian physics to calculate their real-world size, Allain determined that each pig in <i>Bad Piggies</i> would have a girth of about 96 centimeters. That's 83 percent the size of the original <i>Angry Birds</i> pigs, which measured at around 1.16 meters wide. The slingshot, in case you were wondering, would stand at about 4.9 meters tall. </p>
+  <p>
+    <a href="http://www.theverge.com/2012/10/2/3441886/bad-piggies-angry-birds-pig-size-comparison">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:85:"http://www.theverge.com/2012/10/2/3441886/bad-piggies-angry-birds-pig-size-comparison";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.theverge.com/2012/10/2/3441886/bad-piggies-angry-birds-pig-size-comparison";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Amar  Toor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T04:07:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T04:07:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:79:"Rdio's new Artist Program will pay music acts to bring in streaming subscribers";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1359:"
+  
+  
+    <img alt="Rdio iOS app" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6834773/rdio_ios_app_1020_large.jpg" width="630" />
+  
+
+
+  
+
+
+
+
+  <p>Some in the music industry <a href="http://www.theverge.com/2012/1/26/2740981/debate-spotify-mog-rdio-kill-save-music-industry">fear that the advent of streaming services</a> may negatively impact sales, but Rdio is making it a lot more enticing for artists to embrace its service: the company has just announced a new analytics and referral program that will pay artists for each new Rdio subscriber they bring to the table. As <a href="http://blog.rdio.com/us/2012/10/announcing-the-rdio-artist-program.html" target="_blank">detailed on Rdio's blog</a> <a href="http://www.rdio.com/artistprogram/" target="_blank">and website</a>, the Artist Program lets musical acts take control of and customize their artist page on the service; they can then use it share music and links across different social networks, similar to the social sharing features already present for regular Rdio users.</p>
+<p>The twist comes on the analytics side. Rdio will allow artists to track the performance of their links in real-time, and...</p>
+  <p>
+    <a href="http://www.theverge.com/2012/10/2/3440982/rdios-new-artist-program-will-pay-music-acts-to-bring-in-streaming">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:108:"http://www.theverge.com/2012/10/2/3440982/rdios-new-artist-program-will-pay-music-acts-to-bring-in-streaming";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:108:"http://www.theverge.com/2012/10/2/3440982/rdios-new-artist-program-will-pay-music-acts-to-bring-in-streaming";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Bryan Bishop";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Tue, 02 Oct 2012 11:21:23 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"859654ab68a7e4d7f2aaa5681432b696";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"162";s:14:"content-length";s:4:"5911";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}

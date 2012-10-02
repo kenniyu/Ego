@@ -65,7 +65,7 @@
 			} else{
 				echo '<img src="/user/profilePic/'.$username.$profile_ext.'" />';
 			}
-			?>
+		?>
 	</div>
 	<div id="usersidebar_profile_name">
 		<?=$whole_name?>
@@ -73,6 +73,7 @@
 </div>
 
 <div class="usersidebar_main">
+<div class="usersidebar_main_wrapper">
 	<div id="usersidebar_statistics">
 		<div class="usersidebar_header">
 			<div class="usersidebar_header_line">
@@ -201,50 +202,16 @@
 </div>
 </div>
 </div>
-<div class="usersidebar_toggle"><img src="/icons/user_sidebar/ego.png" /></div>
+<div class="usersidebar_toggle_container"><div class="usersidebar_toggle"><img src="/icons/user_sidebar/ego.png" /></div></div>
+</div>
 </div>
 </div>
 </div>
 
 <div id="ultra_modal">
 <div id="ultra_modal_container">
-<div class="ultra_modal_header">
-Shawn Park
-</div>
-<div class="ultra_modal_content">
-</div>
-<div class="ultra_modal_footer">
-<div class="ultra_modal_footer_button">Close</div>
-<div class="ultra_modal_footer_button">Apply</div>
-</div>
 </div>
 <div id="ultra_modal_x">
 x
 </div>
 </div>
-
-
-<!--
-<div class="modal" id="profile_modal">
-<div class="model_wrapper">
-  <div class="modal-header">
-    <div class="modal-close" data-dismiss="modal">x</div>
-    <h3>Edit Profile Picture</h3>
-  </div>
-  <div class="modal-body">
-  	<div id="epp_description">
-	  	You are allowed to upload .gif, .png, and .jpg image files to use as your profile picture. <br>
-	  	Please note that the maximum size for the image file is 2MB (2048 KB). <br>
-	  	For best quality, portrait-type images are recommended. <br><br><br>
-  	</div>
-  	<form id="editProfilePicture" action="/social/edit_profilepic" method="post" accept-charset="utf-8" enctype="multipart/form-data">
-    <input type="file" name="userfile" size="20" />
-  </div>
-  <div class="modal-footer">
-    <div class="modal-button" data-dismiss="modal">Close</div>
-    <div id="epp_submit" class="modal-button">Submit</div>
-    </form>
-  </div>
-</div>
-</div>
--->

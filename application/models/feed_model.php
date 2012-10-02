@@ -6,12 +6,41 @@
 		}
 		
 		//Functions for Feed Sync
-		function add_article($permalink, $title, $source, $date, $content){
+		function add_article($permalink, $title, $source, $thumbnail, $date, $content){
 			$date = $this->encode_date($date);
 			$this->db->insert('articles', array(
-				'aid' => $permalink, 'title' => $title, 'source' => $source, 'datetime' => $date, 'content' => $content
+				'aid' => $permalink, 'title' => $title, 'source' => $source, 'thumbnail' => $thumbnail, 'datetime' => $date, 'content' => $content
 			));
 			return $this->db->get_where('articles', array('aid' => $permalink))->row()->id;
+		}
+		
+		function sync_thumbnail(){
+			$feeds = $this->db->get('feed')->result();
+			foreach($feeds as $feed){
+				if ($feed->type == 'site'){
+					$source = $this->db->get_where('sources', array('url' => $feed->url))->row();
+					$this->db->order_by("datetime", "desc");
+					$thumbnail = $this->db->get_where('articles', array('source' => $source->source))->row()->thumbnail;
+				} else{
+					$articles = $this->db->query("SELECT * FROM tags WHERE tag LIKE '%".$feed->url."%'")->result();
+					$query = "SELECT * FROM articles WHERE id = '";
+					foreach($articles as $tag){
+						$query = $query.$tag->foreign_key."' OR id = '";
+					}
+					$query = substr($query, 0, -10);
+					$query = $query." ORDER BY datetime DESC";
+					$thumbnail = $this->db->query($query)->row()->thumbnail;
+				}
+				$this->db->where('id', $feed->id);
+				$this->db->update('feed', array('thumbnail' => $thumbnail));
+			}
+			
+			$labels = $this->db->get('label')->result();
+			foreach($labels as $label){
+				$target = $this->db->get_where('feed', array('id' => $label->ref_id))->row();
+				$this->db->where('id', $label->id);
+				$this->db->update('label', array('thumbnail' => $target->thumbnail));
+			}
 		}
 		
 		function encode_date($date){

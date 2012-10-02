@@ -18,7 +18,10 @@
 			$query = $this->db->get_where('membership', array('username' => $username));
 			return $query->row()->profile_ext;
 		}
-		
+		function get_email($username){
+			$query = $this->db->get_where('membership', array('username' => $username));
+			return $query->row()->email_address;
+		}
 		
 		//Functions for loading a list of user's Feed/Label/LabelContent
 		function get_feeds($username){
@@ -27,6 +30,7 @@
 			$query = $this->db->get_where('feed', array('username' => $username));
 			return $query->result();
 		}
+		
 		function get_labels($username){
 			$result = array(array(), array());
 			$this->db->order_by("pos_id", "asc");
@@ -38,6 +42,7 @@
 			}
 			return $result;
 		}
+		
 		function labelContent($labelName){
 			$this->db->order_by("pos_id", "asc");
 			$query = $this->db->get_where('label', array('username' => $this->session->userdata('username'), 'label_name' => $labelName));
@@ -118,6 +123,5 @@
 			$target = $this->db->get_where('label_list', array('id' => $id))->row();
 			return $target->count;
 		}
-		
 		
 	}

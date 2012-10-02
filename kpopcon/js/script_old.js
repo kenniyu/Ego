@@ -15,12 +15,11 @@ $(document).ready(function() {
 		$('.menu_item_list').removeClass('menu_item_list_active');
 	});
 	
-	$('#strip_bar2').click(function(){
-			$('#ultra_modal').show("fade", 200);
-	});
-		
-	$('#ultra_modal_x').click(function(){
-		$('#ultra_modal').hide("fade", 200);
+	$('#strip_bar2').click(
+	function() {
+		$('#container').animate({right:500}, 500);
+		regform_active = true;
+		return false;
 	});
 	
 	$('#container').click(

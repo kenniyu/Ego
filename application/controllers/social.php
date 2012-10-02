@@ -58,29 +58,38 @@ class Social extends CI_controller{
 		redirect('site/clips');
 	}
 	
-	function get_friendsList($username){
+	function get_people(){
 		$this->load->model('social_model');
-		$data['friendsList'] = $this->social_model->get_friendsList($username);
-		$this->load->view('social/friends_list', $data);
+		$data['result'] =  $this->social_model->get_people();
+		$this->load->view('modal/people_view_subscribed', $data);
 	}
 	
-	function search_member(){
+	function find_person(){
+		$input = $this->input->post('input');
 		$this->load->model('social_model');
-		$username = $this->input->post('username');
-		$data['result'] = $this->social_model->search_member($username);
-		$this->load->view('social/search_list', $data);
+		$data['result'] = $this->social_model->find_person($input);
+		$this->load->view('modal/people_view_search', $data);
 	}
-	
-	function add_friend($friend_name){
+		
+	function subscribe_person(){
+		$person = $this->input->post('person');
 		$this->load->model('social_model');
 		$username = $this->session->userdata('username');
-		$this->social_model->add_friend($username, $friend_name);
-		redirect('site/clips');
+		$this->social_model->subscribe_person($username, $person);
+		$this->social_model->update_count_subscribers($person);
 	}
+	
+	function unsubscribe_person(){
+		$person = $this->input->post('person');
+		$this->load->model('social_model');
+		$username = $this->session->userdata('username');
+		$this->social_model->unsubscribe_person($username, $person);
+		$this->social_model->update_count_subscribers($person);
+	}	
 	
 	function edit_profilepic(){
 		$config['upload_path'] = './user/profilePic';
-		$config['allowed_types'] = 'gif|jpg|png';
+		$config['allowed_types'] = 'gif|jpg|png|jpeg';
 		$config['max_width']  = '1024';
 		$config['max_height']  = '768';
 		$config['file_name'] = $this->session->userdata('username');
@@ -89,7 +98,7 @@ class Social extends CI_controller{
 		if (!$this->upload->do_upload())
 		{
 			$error = array('error' => $this->upload->display_errors());
-			echo $error;
+			echo $error['error'];
 		}
 		else
 		{	

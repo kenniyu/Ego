@@ -107,15 +107,20 @@
 		);
 		
 		$('#usersidebar_profile').click(function(){
-			$('#ultra_modal').show("fade", 200);
+			$.post("/site/modal_profile",  
+      		function(data) {
+      			$('#ultra_modal_container').html(data);
+				$('#ultra_modal').show("fade", 200);
+			});
 		});
 		
 		$('#ultra_modal_x').click(function(){
+			$('#ultra_modal_container').empty();
 			$('#ultra_modal').hide("fade", 200);
-		})
+		});
 		
-		$('#epp_submit').click(function(){
-			$('#editProfilePicture').submit();
+		$('#um_profilepic_submit').live('click', function(){
+			$('#um_profilepic_edit_form').submit();
 		});
 		
 		$('.usersidebar_lists_edit').toggle(
@@ -146,19 +151,33 @@
 		
 		$('.usersidebar_toggle').toggle(
 		function(){
-			//$('.usersidebar_main').animate({top: '253px', height: '60%'});
+			$('.usersidebar_main').animate({top: '253px', height: '60%'});
 			$('.usersidebar_main').addClass('usersidebar_toggled', 500);
 		},
 		function(){
-			//$('.usersidebar_main').animate({top: '-347px', height: 'auto'});
+			$('.usersidebar_main').animate({top: '-347px', height: 'auto'});
 			$('.usersidebar_main').removeClass('usersidebar_toggled', 500);
 		});
 		
-		$('.usersidebar_toggle').waypoint(function(event, direction){
+		$('.usersidebar_toggle_container').waypoint(function(event, direction){
 			$('.usersidebar_main').toggleClass('usersidebar_sticky', direction=='down');
 			$('.usersidebar_main').removeClass('usersidebar_toggled', direction=='up');
 		}, {offset: 256});
 		
+		/*
+		$('.head_toolbar_container').waypoint(function(event, direction){
+			$('.head_toolbar').toggleClass('sticky', direction=='down');
+			$('.head_filtering').toggleClass('head_filtering_sticky', direction=='down');
+			$('.head_toolbox').toggleClass('head_toolbox_sticky', direction=='down');
+			//Change selector to head_toolbar
+			if (direction=='down'){
+			$('.head_toolbar').css('background-color', 'rgba(0, 0, 0, 0.8)', direction=='down');
+			}
+			else{
+			$('.head_toolbar').css('background-color', 'rgba(0, 0, 0, 0.5)', direction=='up');
+			}
+		});
+		*/
 		
 		
 		//Right Menu: Show Add Feed
@@ -405,7 +424,7 @@
 		/*******************
 		  *	   Contents     *
 		   *******************/
-		   
+		
     	//Enable sticky head toolbar
 		$('.head_toolbar_container').waypoint(function(event, direction){
 			$('.head_toolbar').toggleClass('sticky', direction=='down');
@@ -413,7 +432,7 @@
 			$('.head_toolbox').toggleClass('head_toolbox_sticky', direction=='down');
 			//Change selector to head_toolbar
 			if (direction=='down'){
-			$('.head_toolbar').css('background-color', 'rgba(0, 0, 0, 0.85)', direction=='down');
+			$('.head_toolbar').css('background-color', 'rgba(0, 0, 0, 0.8)', direction=='down');
 			}
 			else{
 			$('.head_toolbar').css('background-color', 'rgba(0, 0, 0, 0.5)', direction=='up');
@@ -448,61 +467,26 @@
 			$('#ftbox_received').addClass("feed_toolbox_active");
 		}
 		
-		//Feed Toolbox: Friends
-		//Show popover
-		$('#ftbox_friends').click(function(){
-			if (friends_flag == false) {
-				$("#ftbox_friends_popover").show();
-				$('.ffp_loading').show();
-				$.get(
-    				'/social/get_friendsList/'+username,
-    				function(data) {
-    					$('.ffp_loading').hide();
-	    				$('#ffp_list_contents').html(data);
-	    		});
-				friends_flag = true;
-			}else{
-				$("#ftbox_friends_popover").hide();
-				friends_flag = false;
-			}
-		});
-		
-		//Show Friends List
-		$('#ffp_list_toggle').click(function(){
-			$('#ffp_add').hide();
-			$('#ffp_list').show();
-			$('.ffp_loading').show();
-			$.get(
-    				'/social/get_friendsList/'+username,
-    				function(data) {
-    					$('.ffp_loading').hide();
-	    				$('#ffp_list_contents').html(data);
+		//Feed Toolbox: Following
+		$('#head_clipbox_follow').click(function(){
+			$.post("/site/modal_people",  
+      		function(data) {
+      			$('#ultra_modal_container').append(data);
+      			$.post("/social/get_people/",
+      			function(data){
+	      			$('#ultra_modal_subscribed').html(data);
+	      			$('#ultra_modal_subscribed').show();
+	      		});	
+				$('#ultra_modal').show("fade", 200);
 			});
 		});
 		
-		//Show AddBox
-		$('#ffp_add_toggle').click(function(){
-			$('#ffp_list').hide();
-			$('#ffp_add').show();
-		});
-		
-		//Search Member
-		$('#ffp_search_member_submit').click(function(){
-			$('#ffp_search_member').submit();
-		});
-		
-		$('#ffp_search_member').submit(function(){
-			$('.ffp_loading').show();
-			$.ajax({
-				data: $(this).serialize(),
-				type: $(this).attr('method'),
-				url: $(this).attr('action'),
-				success: function(data){
-					$('.ffp_loading').hide();
-					$('#ffp_add_contents').html(data);
-				}
+		$('.head_feedbox_feed').click(function(){
+			$.post("/site/modal_feed",  
+      		function(data) {
+      			$('#ultra_modal_container').append(data);
+				$('#ultra_modal').show("fade", 200);
 			});
-			return false;
 		});
 			
 		//Feed Loader with waypoints
@@ -689,64 +673,9 @@
 		});
 		
 		/*******************
-		  *	    Footer      *
+		  *	    Modals      *
 		   *******************/
-		   
-		//Show Dicovery Bar
-		$('#discovery_slider').click(function(){
-			if (!discovery_flag){
-    			$('#discovery').animate({height:180}, 500);
-    			$('#discovery_loading').show();
-    			$.get(
-    				'/feed/feed_loader/'+$('#feed_type').text()+'/'+$('#feed_id').text()+'/discovery',
-    				function(data) {
-	    				$('#discovery_container').append(data);
-	    				$('#discovery_loading').hide();
-				});
-    			discovery_flag = true;
-    		}else{
-    			$('#discovery').animate({height:0}, 500);
-    			$('#discovery_content').empty();
-    			discovery_flag = false;
-    		}
-		});
 		
-		//Slide entries in Discovery Bar to the right.
-    	$('#dislider_right').click(function() {
-    		if (!discovery_lastinView){
-    		$('.discovery_entry:first').animate({"left": "-="+$('#discovery_container').width()}, {
-    		duration: 1000,
-    		step: function( now, fx ){
-      			$( ".discovery_entry:gt(0)" ).css( "left", now );
-      			}
-      		});
-      		discovery_firstinView = false;
-      		}
-      	});
-      	
-      	$('.discovery_entry:last').appear(function(){
-      		alert('msg');
-      		discovery_lastinView = true;
-      	});
-      	
-      	//Slide entries in Discovery Bar to the left.
-      	$('#dislider_left').click(function() {
-      		if (!discovery_firstinView){
-	      		$('.discovery_entry:first').animate({"left": "+="+$('#discovery_container').width()}, {
-		      		duration: 1000,
-		      		step: function( now, fx ){
-			      	$( ".discovery_entry:gt(0)" ).css( "left", now );
-			      	}
-			    });
-			    discovery_lastinView = false;
-			 }
-      	});
-      	
-      	$('.discovery_entry:first').appear(function(){
-      		alert('msg');
-      		discovery_firstinView = true;
-      	});
-      	
 	});
 	
 	

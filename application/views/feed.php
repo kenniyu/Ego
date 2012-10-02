@@ -17,7 +17,12 @@
 	   	<div id="feed_info">
 	   	<h1><?php if ($feed_type == 'label'){echo $label_title;}else{echo $feed_title;}?></h1>
 	   	</div>
-	   	<div class="head_toolbar_container">
+	</div>
+	</div>
+	
+    <div id="header_push"></div>
+    <div id="contentarea">
+    <div class="head_toolbar_container">
 	   	<div class="head_toolbar">
 	   		<div class="head_toolbar_wrapper">
 	   		<div class="head_filtering">
@@ -37,17 +42,14 @@
 		   		</div>
 	   		</div>
 	   		
-	   		<div class="head_toolbox">
+	   		<div class="head_toolbox head_feedbox_feed">
 	   		<div class="head_toolbox_wrapper">
-	   			<img class="toolbox_icon" src="/icons/head_toolbox/settings.svg" />
-	   			<div class="head_toolbox_text">Toolbox</div>
+	   			<img class="toolbox_icon" src="/icons/head_toolbox/feed.svg" />
+	   			<div class="head_toolbox_text">My Feeds</div>
 	   		</div>
 	   		</div>
 	   	</div>
 	   	</div>
-	   	</div>
-		
-	</div>
 	</div>
     
 	<div id="feedContent">	<!--the feed content-->
@@ -61,5 +63,6 @@
 		</center>
 	</div>
 	</div>
+    </div>
 </div>
 </div>

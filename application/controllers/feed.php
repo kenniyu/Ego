@@ -80,6 +80,12 @@ class Feed extends CI_controller{
 		$this->load->view('loader/feed_viewer', $data);
 	}
 	
+	function sync_thumbnail(){
+		$this->load->model('feed_model');
+		$this->feed_model->sync_thumbnail();
+		echo "Sync Complete";
+	}
+	
 	function sync_feed_all(){
 		$this->load->model('feed_model');
 		$sources = $this->feed_model->load_sources_all();
@@ -112,7 +118,14 @@ class Feed extends CI_controller{
 				$title = $item->get_title();
 				$date = $item->get_date();
 				$content = $item->get_content();
-				$aid = $this->feed_model->add_article($permalink, $title, $source, $date, $content);
+				preg_match('/<img[^>]+>/i',$content, $result); 
+				if ($result == NULL){
+					$thumbnail = NULL;
+				}else{
+				preg_match('/(src)=("[^"]*")/i',$result[0], $output);
+					$thumbnail = str_replace("src=", "", $output[0]);
+				}
+				$aid = $this->feed_model->add_article($permalink, $title, $source, $thumbnail, $date, $content);
 				//Generate tags for each article and save in cache.
 				$tags = array();
 				$tags_json = $this->extract_keyword(strip_tags($content));
@@ -226,11 +239,6 @@ class Feed extends CI_controller{
 	
 	function add_keyword_temp(){
 		$this->load->view('feed/add_keyword');
-	}
-	
-	function parse_date(){
-		$this->load->model('feed_model');
-		$this->feed_model->parse_date('20 June 2012, 12:05 am');
 	}
 	
 }
