@@ -26,6 +26,8 @@
 		echo '<div class="um_feed_feed_thumbnail">';
 		if ($feed->thumbnail != ''){
 			echo '<img src='.$feed->thumbnail.' />';
+		} else{
+			echo '<img id="um_feed_feed_thumbnail_default" src="/icons/modal/feed.svg" />';
 		}
 		echo '</div>';
 		echo '<div class="um_feed_feed_desc">';
@@ -49,6 +51,8 @@
 			echo '<div class="um_feed_feed_thumbnail">';
 			if ($item->thumbnail != ''){
 				echo '<img src='.$item->thumbnail.' />';
+			} else {
+			 	echo '<img id="um_feed_feed_thumbnail_default" src="/icons/modal/feed.svg" />';
 			}
 			echo '</div>';
 			echo '<div class="um_feed_feed_desc">';
