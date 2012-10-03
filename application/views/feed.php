@@ -20,9 +20,7 @@
 		  </div>
 		  
 		  <div class="feedAdd">
-        <form id="addFeedSite" action="/query/add_feed_keyword_label" method="post" accept-charset="utf-8" class="form">
-          <input class="rightToolboxInput" type="text" data-provide="typeahead" autofocus name="site_name" id="queryTypeahead" placeholder="Search for web sites or interests" />
-        </form>
+        <input class="rightToolboxInput" type="text" data-provide="typeahead" autofocus name="site_name" id="queryTypeahead" placeholder="Search for web sites or interests" />
 		  </div>
 		  
 		</div>

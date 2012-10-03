@@ -23,6 +23,7 @@ class Query extends CI_Controller{
 			echo $result;
 		}
 	}
+
 	function add_label(){
 		$label_name = $this->input->post('label_name');
 		$new_label = $this->input->post('feeds');
@@ -30,6 +31,15 @@ class Query extends CI_Controller{
 		$this->query_model->add_label($label_name, $new_label);
 		header('Location: '.$_SERVER['HTTP_REFERER']);
 	}
+
+  function search_typeahead() {
+		$query_string = $this->input->post('query');
+		$this->load->model('query_model');
+		$feed_results = $this->query_model->get_feeds_by_title($query_string);
+    array_unshift($feed_results, array("id" => "-1", "title" => "Feed Title"));
+    $json = json_encode($feed_results);
+    echo $json;
+  }
 
 	function update_label(){
 		$feeds = $this->input->post('feeds');

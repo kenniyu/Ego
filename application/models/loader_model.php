@@ -27,6 +27,16 @@
 			$query = $this->db->get_where('feed', array('username' => $username));
 			return $query->result();
 		}
+		function get_feeds_by_title($typeaheadText){
+			$this->db->order_by("title", "asc"); 
+			$query = $this->db->get_where('feed', array('title' => $typeaheadText));
+			return $query->result();
+		}
+		function get_keywords_by_title($typeaheadText){
+			$this->db->order_by("title", "asc"); 
+			$query = $this->db->get_where('feed', array('title' => $typeaheadText));
+			return $query->result();
+		}
 		function get_labels($username){
 			$result = array(array(), array());
 			$this->db->order_by("pos_id", "asc");

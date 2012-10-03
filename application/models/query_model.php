@@ -44,6 +44,20 @@
 			$this->db->where('username', $this->session->userdata('username'));
 			$this->db->update('membership', array('label_count' => $label_count+1));
 		}
+
+		function get_feeds_by_title($typeaheadText){
+      $this->db->from('feed');
+      $this->db->like('title', $typeaheadText, 'none');
+      $results = $this->db->get();
+			return $results->result_array();
+		}
+    function get_feeds_by_url($typeaheadText){
+      $this->db->from('feed');
+      $this->db->like('url', $typeaheadText, 'none');
+      $results = $this->db->get();
+			return $results->result_array();
+    }
+
 		function updateLabel($feeds, $id){
 			$label_name = $this->db->get_where('label_list', array('id' => $id))->row()->label;
 			if ($this->db->get_where('label', array(

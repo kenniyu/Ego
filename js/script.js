@@ -654,17 +654,23 @@
       		alert('msg');
       		discovery_firstinView = true;
       	});
-
+		
 	    $('#queryTypeahead').typeahead({
-			source: function(query, typeahead) {
-				console.log(query);
-				return $.ajax({
-					url: '/query/add_feed_keyword_label',
-					data: { query: query }
-				}).done(function(data) {
-					return typeahead.process(data);
-				});
-			}
+        source: function(typeahead, query) {
+          return $.post('/query/search_typeahead', {
+            query: query
+          }, function(data) {
+            return typeahead.process(JSON.parse(data));
+          });
+        },
+        minLength: 2,
+        property: 'title',
+        onselect: function(data) {
+          if (data['id'] === '-1') {
+            return false;
+          }
+          console.log(data);
+        }
 	    });
       	
 	});
