@@ -57,11 +57,11 @@
 <div id="search">
 <input type="text" autofocus name="search_keyword" placeholder="Search" /><span class="search_category"><input type="checkbox" name="search[]" value="'friends'" />Friends</span><span class="search_category"><input type="checkbox" name="search[]" value="'sites'" />Sites</span><span class="search_category"><input type="checkbox" name="search[]" value="'feeds'" />Feeds</span>
 </div>
-<div id="right">	<!--the right section-->
 
-<div id="sidebar2">	<!--the right sidebar-->
-	<div id="profile">	<!--the profile image-->
-		<a data-toggle="modal" href="#profile_modal"><div id="profile_edit">Edit Profile Picture</div></a>
+<div id="usersidebar">
+<div id="usersidebar_wrapper">
+<div id="usersidebar_profile">
+	<div id="usersidebar_profile_picture">
 		<?php 
 			if ($profile_ext=='') {
 				echo '<img src="/images/profile.png" />';
@@ -69,167 +69,153 @@
 				echo '<img src="/user/profilePic/'.$username.$profile_ext.'" />';
 			}
 		?>
-		<div id="userinfo">
-		<div id="userinfo_overlay"></div>
-		<div id="userinfo_content">
-			<?=$whole_name?>
-			<div id="userinfo_logout" rel="tooltip" title="Logout">
-			<a href="/login/logout"><img src="/icons/right_toolbox/logout.png" /></a>
+	</div>
+	<div id="usersidebar_profile_name">
+		<?=$whole_name?>
+	</div>
+</div>
+
+<div class="usersidebar_main">
+<div class="usersidebar_main_wrapper">
+	<div id="usersidebar_statistics">
+		<div class="usersidebar_header">
+			<div class="usersidebar_header_line">
+			</div>
+			<div class="usersidebar_header_text">
+				STATISTICS
 			</div>
 		</div>
+		<div id="usersidebar_stats_notification">
+			<div id="usersidebar_stats_notification_count">3</div>
+			<div id="usersidebar_stats_notification_text">Notifications</div>
+		</div>
+		<div id="usersidebar_stats_count">
+			<div id="usersidebar_stats_feedcount">
+				<div class="usersidebar_stats_counter_div_count">113</div><div class="usersidebar_stats_counter_div_text">New Feeds</div>
+			</div>
+			<div id="usersidebar_stats_clipcount">
+				<div class="usersidebar_stats_counter_div_count">37</div><div class="usersidebar_stats_counter_div_text">New Clips by Friends</div>
+			</div>
 		</div>
 	</div>
-	
-    <!--
-    <div id="addBox">
-	    <div id="addBoxIcon">
-	    +
-	    </div>
-	    <div id="addBoxText">
-	    Add
-	    </div>
-    </div>
-    
-    /query/add_feed, /query/add_keyword, /query/add_label 
-    <div id="right_addbox">
-    <div id="right_addboxArrow"><img src="/icons/right_toolbox/arrow.png" /></div>
-    <div id="rf_boxContainer">
-      <form id="addFeedSite" action="/query/add_feed_keyword_label" method="post" accept-charset="utf-8" class="form">
-        <input class="rightToolboxInput" type="text" data-provide="typeahead" autofocus name="site_name" id="queryTypeahead" placeholder="Search for web sites or interests" />
-      </form>
-    </div>
-    
-    <div class="right_formbox" id="right_addbox_site">
-      <form id="addFeedSite" action="/query/add_feed" method="post" accept-charset="utf-8" class="form">
-      <input class="rightToolboxInput" type="text" autofocus name="site_name" placeholder="Name of the web site" /><br />
-      <input class="rightToolboxInput" type="text" name="rss_address" placeholder="RSS address" /><br />
-      <div id="addFeedSiteMessage" class="rightToolboxContainer"></div>
-      <div id="addFeedSiteSubmit" class="rightToolboxSubmit">Add</div>
-      </form>
-    </div>
-    
-    <div class="right_formbox" id="right_addbox_keyword">
-      <form id="addFeedInterest" action="/query/add_keyword" method="post" accept-charset="utf-8" class="form">
-      <input class="rightToolboxInput" type="text" autofocus name="keyword" placeholder="Enter your interest" /><br />
-      <div id="addFeedInterestMessage" class="rightToolboxContainer"></div>
-      <div id="addFeedInterestSubmit" class="rightToolboxSubmit">Add</div>
-      </form>
-    </div>
-    
-    <div class="right_formbox" id="right_addbox_label">
-      <form id="addLabel" action="/query/add_label" method="post" accept-charset="utf-8" class="form">
-      <?php
-  			$temp = $this->db->get_where('feed', array('username' => $username));
-  			$feeds = $temp->result();
-  			foreach ($feeds as $links)
-  			{
-  				echo '<input type="checkbox" name="feeds[]" value="'.$links->id.'" />'.$links->title.'<br />';
-  			}
-  	?>
-      <input class="rightToolboxInput" type="text" autofocus name="label_name" placeholder="Label Name" /><br />
-      <div id="addLabelSubmit" class="rightToolboxSubmit">Add</div>
-      </form>
-    </div>
-    </div>
-    -->
-    
-    
-    <div>	<!--the feed labels-->
-    <div id="labelListHead" class="linkshead">
-    LABELS
-    </div>
-    <ul id="labelList" class="menu">
-    <?php
+
+	<div id="usersidebar_trending">
+		<div class="usersidebar_header">
+			<div class="usersidebar_header_line">
+			</div>
+			<div class="usersidebar_header_text">
+				TRENDING
+			</div>
+		</div>
+		<div id="usersidebar_trending_box">
+			<div id="usersidebar_trending_visible">
+				<div class="usersidebar_trending_rank_active">1</div>
+				<div class="usersidebar_trending_keyword_active">iPhone 5</div>
+			</div>
+			<div id="usersidebar_trending_hidden">
+			</div>
+		</div>
+	</div>
+
+<div id="usersidebar_lists">
+		<div class="usersidebar_header">
+			<div class="usersidebar_header_line">
+			</div>
+			<div class="usersidebar_header_text">
+				MY EGO
+			</div>
+		</div>
+
+<!--<div id="usersidebar_lists_toggle">
+	<div id="usersidebar_lists_toggle_feed" class="usersidebar_lists_toggle_button">
+		<img src="/icons/user_sidebar/feed.svg" />
+	</div>
+	<div id="usersidebar_lists_toggle_clips" class="usersidebar_lists_toggle_button">
+		<img src="/icons/user_sidebar/clip.svg" />
+	</div>
+	<div id="usersidebar_lists_toggle_friends" class="usersidebar_lists_toggle_button">
+		<img src="/icons/user_sidebar/user.svg" />
+	</div>
+</div>
+-->
+<div id="usersidebar_lists_content">
+<div id="usersidebar_lists_content_wrapper">
+<div id="usersidebar_lists_content_parent">
+<div id="usersidebar_lists_feed">Feeds<div class="usersidebar_lists_edit"><img src="/icons/user_sidebar/edit.svg" /></div></div>
+<?php
+    if ($feed_type == 'label' && $label_id == 'all_feeds'){
+		echo '<li class="usersidebar_list usersidebar_list_active"><a href="/site/label/all_feeds">All Feeds</a></li>';
+	} else{
+		echo '<li class="usersidebar_list"><a href="/site/label/all_feeds">All Feeds</a></li>';
+	}
     for ($i = 0; $i<sizeof($label_list[0]); $i++){
     	$label_link = $label_list[0][$i];
     	if ($feed_type == 'label' && $label_id == $label_link->id){
-			echo '<li class="rightList_active rightListLabel" id="label_'.$label_link->id.'">';
+			echo '<li class="usersidebar_list usersidebar_list_active usersidebar_label" id="label_'.$label_link->id.'">';
 		} else{
-			echo '<li class="rightList rightListLabel" id="label_'.$label_link->id.'">';
-		}		
-		echo '<div class="labelListToggle" data-id="'.$label_link->id.'"><img src="/icons/right_toolbox/arrow_right.png" /></div>';
-		echo anchor('/site/label/'.$label_link->id, $label_link->label, array('class' => 'labelListLinks', 'title' => $label_link->label));
-		echo '<div class="rightListToolbox">';
-		echo '<div class="rightListLabelAdd"><img src="/icons/right_toolbox/labeladd.png" /></div>';
-		echo '<div class="rightListDelete" data-type="label" data-id="'.$label_link->id.'"><img src="/icons/right_toolbox/delete.png" /></div></div>';
-		echo '<div class="labelAddContent">
-			  <form class="labelAddForm" data-id="'.$label_link->id.'" action="/query/add_keyword" method="post" accept-charset="utf-8" class="form">
-			  <input class="rightToolboxInput" type="text" autofocus name="feed" placeholder="Feed to add to this label" />
-			  <div class="labelAddMessage rightToolboxContainer"></div>
-			  <div class="labelAddSubmit rightToolboxSubmit">Add</div>
-			  </form>
-			  </div>';
-		echo '<div class="labelContent"><ul class="rightListInnerList" data-id="'.$label_link->id.'">';
-		foreach($label_list[1][$i] as $item){
-			echo '<li class="rightListInner" id="labelContent_'.$item->id.'">';
-			echo anchor('/site/feed/'.$item->ref_id, $item->feed_title, array('title' => $item->feed_title));
-			echo '<div class="rightListToolbox"><div class="rightListDelete" data-type="labelContent" data-id="'.$item->id.'"><img src="/icons/right_toolbox/delete.png" /></div></div>';
-			echo '</li>';
+			echo '<li class="usersidebar_list usersidebar_label" id="label_'.$label_link->id.'">';
 		}
-		echo'</ul></div>';
-		echo'</li>';
+		echo '<div class="usersidebar_list_delete">X</div>';		
+		echo anchor('/site/label/'.$label_link->id, $label_link->label, array('class' => 'usersidebar_list_item', 'title' => $label_link->label));
+		echo '<div class="usersidebar_list_toggle">></div>';
+		echo '</li>';
 	}
-	if ($feed_type == 'label' && $label_id == 'all_feeds'){
-		echo '<li class="rightList_active"><a href="/site/label/all_feeds">All Feeds</a></li>';
-	} else{
-		echo '<li class="rightList"><a href="/site/label/all_feeds">All Feeds</a></li>';
-	}
-	?>
-    </ul>
-   	</div>
-    <br />
-    <div>	<!--the feed links-->
-    <div id="feedListHead" class="linkshead">
-    MY FEEDS 
-    </div>
-    <ul id="feedList" class="menu">
-    <?php
+	echo '<li id="label_myfeeds" class="usersidebar_list">My Feeds<div class="usersidebar_list_toggle">></div></li>';
+?>
+</div>
+<div id="usersidebar_lists_content_children">
+
+<div class="usersidebar_lists_label_content" id="usersidebar_lists_label_content_myfeeds">
+<div class="usersidebar_lists_label_content_header">
+<div class="usersidebar_lists_label_content_header_back"><img src="/icons/user_sidebar/back.png" /></div>
+<div class="usersidebar_lists_label_content_header_text">My Feeds</div>
+</div>
+<?php
 	foreach ($feed_list as $link)
 	{
 		if ($feed_type == 'site' && $feed_id == $link->id){
-			echo '<li class="rightList_active rightListFeed" data-feed="'.$link->title.'" id="feed_'.$link->id.'">';
+			echo '<li class="usersidebar_list usersidebar_list_active" data-feed="'.$link->title.'" id="feed_'.$link->id.'">';
 		} else{
-			echo '<li class="rightList rightListFeed" data-feed="'.$link->title.'" id="feed_'.$link->id.'">';
+			echo '<li class="usersidebar_list" data-feed="'.$link->title.'" id="feed_'.$link->id.'">';
 		}
 		echo anchor('/site/feed/'.$link->id, $link->title, array('title' => $link->title));
-		echo '<div class="rightListToolbox"><div class="rightListDelete" data-type="feed" data-id="'.$link->id.'"><img src="/icons/right_toolbox/delete.png" /></div></div>';
 		echo '</li>';
 	}
-	?>
-    </ul>
-    <br />
-    <div id="waypoint">
-	</div>
-    <br />
-	</div>
-</div>
-<div id="stub">	<!--the bottom portion-->
-
-</div>
-<div id="misc">
-© Ego 2012
-</div>
-<div id="scrollbox">
-</div>
+?>
 </div>
 
-<div class="modal" id="profile_modal">
-  <div class="modal-header">
-    <div class="modal-close" data-dismiss="modal">x</div>
-    <h3>Edit Profile Picture</h3>
-  </div>
-  <div class="modal-body">
-  	<div id="epp_description">
-	  	You are allowed to upload .gif, .png, and .jpg image files to use as your profile picture. <br>
-	  	Please note that the maximum size for the image file is 2MB (2048 KB). <br>
-	  	For best quality, portrait-type images are recommended. <br><br><br>
-  	</div>
-  	<form id="editProfilePicture" action="/social/edit_profilepic" method="post" accept-charset="utf-8" enctype="multipart/form-data">
-    <input type="file" name="userfile" size="20" />
-  </div>
-  <div class="modal-footer">
-    <div class="modal-button" data-dismiss="modal">Close</div>
-    <div id="epp_submit" class="modal-button">Submit</div>
-    </form>
-  </div>
+<?php
+    for ($i = 0; $i<sizeof($label_list[0]); $i++){
+    	$label_link = $label_list[0][$i];
+    	echo '<div class="usersidebar_lists_label_content" id="labelcontent_'.$label_link->id.'">';
+    	echo '<div class="usersidebar_lists_label_content_header">
+    		  <div class="usersidebar_lists_label_content_header_back"><img src="/icons/user_sidebar/back.png" /></div>';
+    	echo '<div class="usersidebar_lists_label_content_header_text">'.$label_link->label.'</div>';
+    	echo '</div>';
+    	echo '<li class="usersidebar_list"><input class="usersidebar_list_add" placeholder="Add Feed to '.$label_link->label.'" /></li>';
+		foreach($label_list[1][$i] as $item){
+			echo '<li class="usersidebar_list" id="labelContent_'.$item->id.'">';
+			echo anchor('/site/feed/'.$item->ref_id, $item->feed_title, array('title' => $item->feed_title));
+			echo '</li>';
+		}
+		echo '</div>';
+	}
+?>
+
+</div>
+</div>
+</div>
+</div>
+<div class="usersidebar_toggle_container"><div class="usersidebar_toggle"><img src="/icons/user_sidebar/ego.png" /></div></div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="ultra_modal">
+<div id="ultra_modal_container">
+</div>
+<div id="ultra_modal_x">
+x
+</div>
 </div>

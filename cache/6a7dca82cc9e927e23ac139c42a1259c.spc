@@ -15,7 +15,7 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
   
   
   
-";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:31:37Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
+";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"The Verge -  All Posts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:59:"http://cdn1.sbnation.com/community_logos/34086/verge-fv.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T22:18:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:37:"http://www.theverge.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:24:"http://www.theverge.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
     
     
     
@@ -23,26 +23,28 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:31:37Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:31:37Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:14:"Photokina 2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:635:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T22:18:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T22:18:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:43:"Essential Windows Phone Apps - Verge Forums";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:331:"
   
   
-    <img alt="photokina" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5559745/Xv09-17_10-01-3020_large.jpg" width="630" />
+    <img alt="FROM THE FORUMS Windows Phone Store" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6841607/windowsphonestore-fromtheforums_large.jpg" width="630" />
+  
+
+
   
 
 
 
 
-
-  <p>Photokina is the biennial photography convention where NIkon, Canon, and all the other camera big shots compete for attention with their latest products and best new innovations. Follow this stream to learn about all the new announcements, from more affordable full-frame shooters like the D600 and EOS 6D to slim new mirrorless cams like the Sony NEX-6.</p>
+  
   <p>
-    <a href="http://www.theverge.com/2012/9/17/3345678/photokina-2012">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/10/2/3444014/essential-windows-phone-apps">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:56:"http://www.theverge.com/2012/9/17/3345678/photokina-2012";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:56:"http://www.theverge.com/2012/9/17/3345678/photokina-2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:70:"http://www.theverge.com/2012/10/2/3444014/essential-windows-phone-apps";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:70:"http://www.theverge.com/2012/10/2/3444014/essential-windows-phone-apps";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Vlad Savov";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Verge Forums";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
     
     
     
@@ -50,26 +52,29 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:20:58Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:20:58Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:38:"The Verge is live from Photokina 2012!";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1363:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T21:55:34Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T21:55:34Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"Nokia's latest Lumia 920 ad targets 'boring' iPhone 5 colors";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1362:"
   
   
-    <img alt="photokina" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5559745/Xv09-17_10-01-3020_large.jpg" width="630" />
+    <img alt="via dl.dropbox.com" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6841135/Screen_20Shot_202012-10-02_20at_2022.11.22_large.png" width="630" />
+  
+
+
   
 
 
 
 
-
-  <p>Barely a fortnight has passed since our last <a href="http://www.theverge.com/2012/8/29/3276308/best-of-ifa-2012-live-berlin">escapades in Gemany</a>, but we're back in Angela's realm this week to cover the biggest show in photography: Photokina. This biennial convention brings Nikon, Canon, and all the other big camera makers together so they can compare their latest products and do a bit of bragging about their best new innovations. Nikon went public with the <a href="http://www.theverge.com/2012/9/13/3319830/nikon-d600-full-frame-dslr-release-date-price-specs">full-frame D600</a> last week, and today Canon has responded with its own full-frame shooter in the shape of the <a href="http://www.theverge.com/2012/9/17/3337640/canon-eos-6d-full-frame-dslr-wi-fi-release-date-price-specs">Wi-Fi-equipped EOS 6D</a>. Those will surely be the big highlight items on the DSLR front, but stay tuned for a ton more photography news as Photokina develops &mdash; mirrorless, point-and-shoot, and maybe even medium format cameras are all likely to cross our...</p>
+  <p>Apple's iPhone is far from the only iconic smartphone, but it may still be the single biggest target for competitors. In a new German video, Nokia urges buyers to trade the black and white of the iPhone 5 for the bright hues of the Lumia line, as a fresh-faced rebel enlivens a joyless midnight launch by requesting his phone in yellow. Below the video, we're told that Nokia wants to lift buyers from the "drab mass of fruit junkies."</p>
+<p>Competitor Samsung has long mocked the iPhone and its fans, who it's <a href="http://www.theverge.com/2012/4/23/2968370/the-next-galaxy-teaser-trailer">implied are sheep</a> blindly <a href="http://www.theverge.com/2012/9/19/3358132/samsung-mock-iphone-5-commercial">parroting talking points</a>. While Nokia has certainly drawn comparisons between <a target="_blank" href="http://www.neowin.net/images/uploaded/a99pwnthccaerh2s.jpg-large">its new Lumia and the iPhone</a> before, it's now more directly taking on Apple, building off the perception that iOS and the iPhone have...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/17/3345654/the-verge-is-live-from-photokina-2012">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/10/2/3445686/nokia-lumia-ad-boring-iphone-colors">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:79:"http://www.theverge.com/2012/9/17/3345654/the-verge-is-live-from-photokina-2012";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.theverge.com/2012/9/17/3345654/the-verge-is-live-from-photokina-2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:77:"http://www.theverge.com/2012/10/2/3445686/nokia-lumia-ad-boring-iphone-colors";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:77:"http://www.theverge.com/2012/10/2/3445686/nokia-lumia-ad-boring-iphone-colors";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Vlad Savov";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Adi Robertson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
     
     
     
@@ -77,27 +82,29 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:00:26Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:00:26Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"Canon S110, G15, and SX50 HS boost high-end PowerShot line next month";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1201:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T19:24:38Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T19:24:38Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:94:"Patents to the people: US Patent and Trademark Office sends staffer to live among NYC startups";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1255:"
   
   
-    <img alt="canon s110 (embargo 17/9)" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5557089/HR_S110_WHITE_FRONT_CL_copy_large.jpg" width="630" />
+    <img alt="David Kappos 640" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6840483/david_kappos_cornell_640VERGE_large.jpg" width="630" />
+  
+
+
   
 
 
 
 
-
-  <p>If smartphones really are threatening the compact camera market, it stands to reason that the higher-end point-and-shoots will be the last models standing. Canon's had more success than most in this arena, and today is announcing updates to its most capable PowerShot compacts ahead of Photokina. The company promises across-the-board improvements in autofocus performance and shutter lag, and has reshuffled its lineup to give it more focus. There's a lot more difference between the S and G series than in previous years, for example, making the decision on which to buy come down to more than just the figurative or literal size of your pockets.</p>
-<p><q class="left">A bit disappointing next to the RX100</q>The S110 is the follow-up to <a href="http://www.theverge.com/2011/11/23/2578710/canon-powershot-s100-review">last year's S100</a> and the latest...</p>
+  <p>Almost exactly a year after the America Invents Act <a href="http://www.whitehouse.gov/the-press-office/2011/09/16/president-obama-signs-america-invents-act-overhauling-patent-system-stim" target="_blank">passed a number of patent reforms</a>, the US Patent and Trademark Office is conducting an experiment. The agency announced today that one of its patent examiners will be stationed at the new Cornell University applied sciences campus in order to provide expertise and guidance to students and entrepreneurs in the New York City area.</p>
+<p>This is a first for the patent office, which has been attacking the reform of its ancient system with a creativity unusual for a government agency. Once the legislature gave the USPTO the signal to start making changes, director David Kappos &mdash; the former head of IBM's intellectual property division &mdash; was free to get progressive. One easy example is the...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/17/3345022/canon-s110-g15-sx50-powershot-price-release-date">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/10/2/3444814/uspto-david-kappos-cornell-nyc-america-invents-act">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:90:"http://www.theverge.com/2012/9/17/3345022/canon-s110-g15-sx50-powershot-price-release-date";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:90:"http://www.theverge.com/2012/9/17/3345022/canon-s110-g15-sx50-powershot-price-release-date";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:92:"http://www.theverge.com/2012/10/2/3444814/uspto-david-kappos-cornell-nyc-america-invents-act";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:92:"http://www.theverge.com/2012/10/2/3444814/uspto-david-kappos-cornell-nyc-america-invents-act";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Sam Byford";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Adrianne Jeffries";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
     
     
     
@@ -105,27 +112,31 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:00:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T08:00:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"Canon announces the EOS 6D,  a full-frame DSLR with built-in Wi-Fi for $2,099";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1324:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T19:20:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T19:20:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:94:"Valve launches non-game software titles on Steam, six programs 10 percent off through the week";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1266:"
   
   
-    <img alt="Canon EOS 6D (embargo)" height="420" src="http://cdn2.sbnation.com/entry_photo_images/5523665/HR_6D_EF24_105_3Q_CL_large.jpg" width="630" />
+    <img alt="steam" height="420" src="http://cdn0.sbnation.com/entry_photo_images/6840557/steam_logo.png_large.png" width="630" />
+  
+
+
   
 
 
 
 
-
-  <p>Nikon threw the photography world for a loop last week by <a href="http://www.theverge.com/2012/9/13/3319830/nikon-d600-full-frame-dslr-release-date-price-specs">announcing the D600</a> &mdash; a full-frame DSLR that hits a reasonably affordable price point. Apparently, Canon has its sights on the exact same market, as the company has just introduced the EOS 6D: the lightest, smallest, and least expensive full-frame DSLR the company has ever produced. Canon's latest entry not only compares favorably with the D600, it also provides a compelling alternative to photographers who don't have $3,500 to spare &mdash; but are nonetheless enamored with <a href="http://www.theverge.com/2012/3/2/2836313/canon-eos-5d-mark-iii-official-22-3-megapixel-full-frame-dslr">the 5D Mark III's stacked spec sheet</a>.</p>
-<p>However, the 6D is far more than a repackaged 5D Mark III with some corners cut to achieve its $2,099 retail price &mdash; the camera is Canon's first DSLR to contain...</p>
+  <p>Valve will <a href="http://www.theverge.com/gaming/2012/8/8/3228247/valve-to-sell-non-gaming-software-on-steam-starting-september-5th" target="_blank">begin publishing non-game software on Steam</a>, with the <a href="http://store.steampowered.com/software" target="_blank">first group of titles available today</a> at a 10 percent discount, the company announced.</p>
+<p>Steam community members can now download editing software titles ArtRage Studio Pro, CameraBag 2, GameMaker: Studio, 3D-Coat, 3DMark Vantage, and 3DMark 11 through Valve's platform. Most of these titles are compatible with Steamworks features, including automatic updates and saving work files to the Steam Cloud.</p>
+<p>Most notably, GameMaker Studio integrates with Steam Workshop, allowing users to share their creations directly with other Steam members.</p>
+<p>Steam users can purchase these titles at their discounted prices until the end of the week.</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/17/3337640/canon-eos-6d-full-frame-dslr-wi-fi-release-date-price-specs">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/gaming/2012/10/2/3444974/valve-launches-software-titles-on-steam-six-programs-10-percent-off">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:101:"http://www.theverge.com/2012/9/17/3337640/canon-eos-6d-full-frame-dslr-wi-fi-release-date-price-specs";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:101:"http://www.theverge.com/2012/9/17/3337640/canon-eos-6d-full-frame-dslr-wi-fi-release-date-price-specs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:116:"http://www.theverge.com/gaming/2012/10/2/3444974/valve-launches-software-titles-on-steam-six-programs-10-percent-off";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:116:"http://www.theverge.com/gaming/2012/10/2/3444974/valve-launches-software-titles-on-steam-six-programs-10-percent-off";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Nathan Ingraham";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Alexa Ray Corriea";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
     
     
     
@@ -133,82 +144,31 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T05:58:40Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T05:58:40Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"Fitbit One and affordable Zip sync fitness data directly to iPhone 5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1605:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T18:54:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T18:54:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:53:"The Verge Mobile Show, live at 4:30PM ET / 9:30PM BST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:664:"
   
   
-    <img alt="Fitbit zip and fitbit one" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5537869/fitbit-zip-and-one_large.jpg" width="630" />
+    <img alt="verge mobile show intro screenshot 2" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6840461/Screen_Shot_2012-05-30_at_3.25.02_PM_large.png" width="630" />
   
 
 
-
-
-
-  <p>Today Fitbit is announcing the Fitbit One and Fitbit Zip activity trackers with Bluetooth 4.0 support. The company is also releasing an <a href="http://itunes.apple.com/us/app/fitbit-activity-calorie-tracker/id462638897?mt=8" target="_blank">updated version of its iOS app</a> that will allow both new Bluetooth Smart devices to synchronize directly with the iPhone 4S, third-generation iPad, and new iPhone 5 when it begins shipping later this month. The <a href="https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5maXRiaXQuRml0Yml0TW9iaWxlIl0." target="_blank">Android app</a>, like the iOS app, is being updated with a more complete view of your data but it does not allow for direct device synchronization (a limited number of Android devices will be supported "soon"). Like the $149 <a href="http://www.theverge.com/products/nike-fuelband/5127">Nike+ FuelBand</a> and <a href="http://www.theverge.com/2011/12/8/2621420/jawbone-up-refund-defective-fitness-band">now defunct</a> $99.99 <a href="http://www.theverge.com/products/up/3716" target="_blank">Jawbone Up</a>, the new Fitbit trackers are meant to motivate people towards their health and fitness goals by making them aware of their daily...</p>
-  <p>
-    <a href="http://www.theverge.com/2012/9/17/3340692/fitbit-zip-one-bluetooth-40-smart-fitness-tracker">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:91:"http://www.theverge.com/2012/9/17/3340692/fitbit-zip-one-bluetooth-40-smart-fitness-tracker";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.theverge.com/2012/9/17/3340692/fitbit-zip-one-bluetooth-40-smart-fitness-tracker";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Thomas Ricker";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T05:00:12Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T05:00:12Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:55:"Fujifilm XF1 has retro good looks, more palatable price";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1090:"
-  
-  
-    <img alt="Gallery Photo: Fujifilm XF1 pictures" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5553147/FF-XF1_GroupShot-hero_large.jpg" width="630" />
   
 
 
 
 
-
-  <p>Fujifilm is using Photokina 2012 to expand its X series of digital cameras, and to make the lineup available to a lot more people. The company's latest announcement is the XF1, a high-end point-and-shoot that adopts a retro style similar to the X100 or X10 but at a much friendlier $499.99 price.</p>
-<p>Like Sony's RX100, the XF1 fights above its weight class: it has a fairly large 12-megapixel, two-thirds-inch sensor, an f/1.8-4.9 lens with 4x manual zoom beginning at 25mm equivalent, ISO range up to ISO 12,800, and DSLR-like shooting speeds. It can shoot 1080p video, and has a new scene recognition feature that adapts to what you're shooting. The XF1 is also designed to operate like a DSLR, though the screen-focused controls make it more akin...</p>
-  <p>
-    <a href="http://www.theverge.com/2012/9/17/3343944/fujifilm-xf1-price-specs-release-date">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:79:"http://www.theverge.com/2012/9/17/3343944/fujifilm-xf1-price-specs-release-date";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.theverge.com/2012/9/17/3343944/fujifilm-xf1-price-specs-release-date";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"David Pierce";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T04:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T04:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Shazam now lets you tag live TV on any channel, hits 250 million users";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1042:"
-  
-  
-    <img alt="shazam for iphone" height="420" src="http://cdn0.sbnation.com/entry_photo_images/5557095/shazam_large.png" width="630" />
-  
-
-
-
-
-
-  <p>Music-tagging app <a href="http://www.shazam.com" target="_blank">Shazam</a> today <a href="http://www.shazam.com/music/web/pressrelease.html?nid=NEWS20120917035849" target="_blank">announced</a> that it's expanding its functionality to let you tag any TV show on any channel in order to find out what music is playing, who's acting on screen, and more. The company also announced that it now has a mind-boggling 250 million users, which makes it one of the top ten most downloaded apps of all time since it debuted back in 2008. "Each week we get more than two million users. People think it's magical," Chief Revenue Officer Doug Garland says. "But the reason people come back is because there's an amazing degree of utility."</p>
+  <p>Sometimes, no mobile news has occurred in the prior seven-day period.* On those weeks, we don't broadcast a <i>Verge Mobile Show</i>.</p>
+<p>On all other weeks, we do. We're delighted to report that this is one of those weeks. Join us, get informed... profit.</p>
+<p><i>*Note: this has never happened</i></p>
 <p></p>
   <p>
-    <a href="http://www.theverge.com/2012/9/17/3344706/shazam-for-tv-any-channel-250-million-users">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/10/2/3444754/the-verge-mobile-show-live-october-2">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:85:"http://www.theverge.com/2012/9/17/3344706/shazam-for-tv-any-channel-250-million-users";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.theverge.com/2012/9/17/3344706/shazam-for-tv-any-channel-250-million-users";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:78:"http://www.theverge.com/2012/10/2/3444754/the-verge-mobile-show-live-october-2";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:78:"http://www.theverge.com/2012/10/2/3444754/the-verge-mobile-show-live-october-2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Ellis Hamburger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Chris Ziegler";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
     
     
     
@@ -216,26 +176,29 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T02:59:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-17T02:59:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:55:"How should mobile phone makers innovate? - Verge Forums";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:326:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T18:36:49Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T18:36:49Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"Motorola drops latest ITC patent infringement claims against Apple";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1201:"
   
   
-    <img alt="android home screen from the forums" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5541153/104ftf_large.jpg" width="630" />
+    <img alt="Motorola logo" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6840405/Motorola_stock_logo_large.jpg" width="630" />
   
-
-
-
 
 
   
+
+
+
+
+  <p>Back in August <a href="http://www.theverge.com/2012/8/17/3250656/motorola-files-new-patent-case-against-apple-with-itc">Motorola filed a new round of patent infringement claims against Apple</a> with the US International Trade Commission, seeking an import ban on the iPhone and the iPad &mdash; but in a recent filing the company mysteriously withdrew the complaints. It's unclear just what led Google-owned Motorola to make the move; normally we'd expect this type of withdrawal if a settlement was near, but in the filing itself Motorola specifically states that "There are no agreements between Motorola and Apple, written or oral, express or implied, concerning the subject matter of this investigation."</p>
+<p>Whether the move is indicative of concerns Motorola had with its case &mdash; or something else entirely &mdash; remains to be seen. We've reached out to...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/15/3335544/mobile-hardware-there-is-still-innovation-to-be-done">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/10/2/3444598/motorola-drops-itc-patent-infringement-claims-apple">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:94:"http://www.theverge.com/2012/9/15/3335544/mobile-hardware-there-is-still-innovation-to-be-done";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:94:"http://www.theverge.com/2012/9/15/3335544/mobile-hardware-there-is-still-innovation-to-be-done";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:93:"http://www.theverge.com/2012/10/2/3444598/motorola-drops-itc-patent-infringement-claims-apple";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:93:"http://www.theverge.com/2012/10/2/3444598/motorola-drops-itc-patent-infringement-claims-apple";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Verge Forums";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Bryan Bishop";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
     
     
     
@@ -243,27 +206,29 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T23:13:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T23:13:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"Potential US budget cuts could have a significant impact on science";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1219:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T18:14:54Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T18:14:54Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"The 'future of polling' on Microsoft's Election 2012 Xbox Live hub";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1353:"
   
   
-    <img alt="united states usa america flags waving stock 1024" height="420" src="http://cdn3.sbnation.com/entry_photo_images/5546461/american-flag-waving-stock-1024_large.jpg" width="630" />
+    <img alt="Photo" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6831525/election-2012-hub-daily-poll-960_large.jpg" width="630" />
+  
+
+
   
 
 
 
 
-
-  <p>While <a href="http://www.theverge.com/2012/8/13/3240071/president-obama-mars-curiosity-promise-protect-science-technology">President Obama has pledged</a> to protect "critical investments in science and technology," looming cuts to the US government's budget could severely reduce the amount of funding these areas receive. The White House Office of Management and Budget has released a lengthy new report covering the potential impact of these budget cuts, which reveals that various science agencies of note could see drastic cuts. The National Institutes of Health, for instance, would be hit with a loss of $2.5 billion in authorized spending, while the Centers for Disease Control and Prevention would lose $464 million and the The National Science Foundation $630 million.</p>
-<p>NASA, meanwhile, would see cuts as well, including having its science budget slashed by...</p>
+  <p>Microsoft's <a target="new" href="http://www.theverge.com/2012/8/23/3262549/microsoft-xbox-live-election-2012">Election 2012 hub on Xbox Live</a> launched in late August, and since then, the company has been using it to collect data. That data, in aggregate and in specific subsets, will power <a target="_blank" href="http://www.theverge.com/gaming/2012/8/23/3263278/election-2012-hub-xbox-live-microsoft-interactive-tv-polling">"the future of polling" as well as "the future of TV,"</a> said Jose Pinero, senior director of marketing and public relations for Microsoft, in a phone interview with <i>Polygon</i> conducted yesterday.</p>
+<p>The company also wants to use the data to engage with and galvanize its Xbox Live user base in an unprecedented way: to "establish a two-way dialogue" and "get more people involved in the civic process," said Pinero. Through polling conducted daily and during the upcoming campaign debates, Microsoft seeks to provide Xbox Live users with instant interaction...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/16/3342436/us-science-budget-cuts">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/10/2/3439482/future-of-polling-microsoft-election-2012-xbox-live-hub-interactive-tv">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:64:"http://www.theverge.com/2012/9/16/3342436/us-science-budget-cuts";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:64:"http://www.theverge.com/2012/9/16/3342436/us-science-budget-cuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:112:"http://www.theverge.com/2012/10/2/3439482/future-of-polling-microsoft-election-2012-xbox-live-hub-interactive-tv";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:112:"http://www.theverge.com/2012/10/2/3439482/future-of-polling-microsoft-election-2012-xbox-live-hub-interactive-tv";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Andrew Webster";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Samit Sarkar";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
     
     
     
@@ -271,24 +236,88 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T20:26:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-09-16T20:26:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:46:"Watch this: a guide to CG animations from 1964";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:959:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T16:53:42Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T16:53:42Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:101:"Evernote CEO Phil Libin responds to Skitch critics: 'We don't think the world needs another MS Paint'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1221:"
   
   
-    <img alt="AT&amp;T archives CG animations" height="420" src="http://cdn1.sbnation.com/entry_photo_images/5548079/attcg-1_large.jpg" width="630" />
+    <img alt="phil libin 1020" height="420" src="http://cdn2.sbnation.com/entry_photo_images/6838883/PhilLibin-1020_large.jpg" width="630" />
+  
+
+
   
 
 
 
 
-
-  <p>We often take CG for granted in modern films &mdash; everything from sci-fi flicks to action-heavy blockbusters include plenty of computer generated visuals. But in 1964 the process wasn't quite so widespread. In this film from AT&amp;T's archives &mdash; charmingly titled <em>A Computer Technique For the Production of Animated Movies</em> &mdash; you can see just how CG animations were created decades ago. And the 16-minute film doesn't just explain how the process works, it's also an example: as the introduction explains "this very film was produced entirely by the process which is about to be described."</p>
-<p> <br id="1347826484040"></p>
+  <p>"Our vision for <a href="http://skitch.com" target="_blank">Skitch</a> hasn't changed at all," Evernote CEO Phil Libin insists, "and the core beliefs of its founders are lined up with ours." Yet, plenty of Skitch users are upset with a recent update to the app that removed some well-loved features like instant uploads and added long, ungainly Evernote URLs in place of Skitch's short links. "We did a full rewrite of Skitch, and we didn't take anything out &mdash; there's just some stuff we haven't put in yet," Libin says. <a href="http://blog.evernote.com/2011/08/18/evernote-acquires-skitch-evernote_etc/" target="_blank">Evernote acquired Skitch back in August 2011</a>, and has slowly been integrating the two popular applications.</p>
+<p>But he isn't worried. "We have to draw some lines and ask 'What is Evernote not?' and 'What is Skitch not?'" he says. The company works using all its own products...</p>
   <p>
-    <a href="http://www.theverge.com/2012/9/16/3342862/watch-this-1964-computer-animations">Continue reading&hellip;</a>
+    <a href="http://www.theverge.com/2012/10/2/3443246/phil-libin-interview-evernote-skitch">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:77:"http://www.theverge.com/2012/9/16/3342862/watch-this-1964-computer-animations";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:77:"http://www.theverge.com/2012/9/16/3342862/watch-this-1964-computer-animations";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:78:"http://www.theverge.com/2012/10/2/3443246/phil-libin-interview-evernote-skitch";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:78:"http://www.theverge.com/2012/10/2/3443246/phil-libin-interview-evernote-skitch";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Andrew Webster";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Mon, 17 Sep 2012 08:45:27 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"4b79adebe92533883e9ad8a5447b593d";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"698";s:14:"content-length";s:4:"5314";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Ellis Hamburger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T16:22:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T16:22:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:78:"Lenovo to begin making some ThinkPads in the USA, beating American competitors";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1637:"
+  
+  
+    <img alt="via cdn0.sbnation.com" height="420" src="http://cdn3.sbnation.com/entry_photo_images/6839389/DSC_7643-hero_gallery_post_large.jpg" width="630" />
+  
+
+
+  
+
+
+
+
+  <p>"Made in the USA." Those are four words that are rarely found on electronics, but following <a href="http://www.theverge.com/2012/6/27/3121979/made-in-the-usa-google-nexus-q-streamer-american">Google's surprising move to build the unsuccessful Nexus Q in the United States</a>, Lenovo is opening up a plant in North Carolina to manufacture a portion of its ThinkPad and ThinkCentre laptops, desktops, and tablets. According to the <a href="http://www.newsobserver.com/2012/10/01/2383480/lenovo-expanding-in-guilford-county.html#storylink=misearch" target="_blank">North Carolina-based <i>News &amp; Observer</i></a>, the new manufacturing facility will cost around $2 million and will employ 115 workers once it opens next year in Whitsett, NC &mdash; not far from Lenovo's US headquarters in Raleigh.</p>
+<p><q class="left">Largely a symbolic gesture, for now</q></p>
+<p>Considering the Chinese company had <a href="http://www.theverge.com/2012/5/23/3038620/lenovo-2011-2012-fiscal-year-earnings">$29.6 billion in revenue during its last fiscal year</a>, the decision appears to be primarily symbolic. <a href="http://professional.wsj.com/article/SB10000872396390443862604578030391796799174-lMyQjAxMTAyMDAwMTAwODE3Wj.html?mg=reno64-wsj" target="_blank"><i>The Wall Street Journal </i>r...</a></p>
+  <p>
+    <a href="http://www.theverge.com/2012/10/2/3443596/lenovo-thinkpad-thinkcentre-computers-made-in-the-usa">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:95:"http://www.theverge.com/2012/10/2/3443596/lenovo-thinkpad-thinkcentre-computers-made-in-the-usa";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:95:"http://www.theverge.com/2012/10/2/3443596/lenovo-thinkpad-thinkcentre-computers-made-in-the-usa";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Dante D'Orazio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T16:00:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2012-10-02T16:00:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"Status Symbols: Palm V";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1367:"
+  
+  
+    <img alt="Palm V" height="420" src="http://cdn1.sbnation.com/entry_photo_images/6839535/palm-v-56-1020_large.jpg" width="630" />
+  
+
+
+  
+
+
+
+
+  <p><a href="http://www.theverge.com/label/status-symbols%20http://www.theverge.com/label/status-symbols%20http://www.theverge.com/label/status-symbols%20http://www.theverge.com/label/status-symbols"><i>Status Symbols</i></a><i> are devices that transcend their specs and features, and become something beautiful and luxurious in their own right. They're things that live on after the megapixel and megahertz wars move past them, beacons of timeless design and innovation.</i></p>
+<p>This might come as a surprise to younger readers, but there existed an age <i>before</i> smartphones. The 1990s and early 2000s bore witness to dozens upon dozens of so-called PDAs &mdash; personal digital assistants, a term famously coined by ex-Apple CEO John Sculley upon the introduction of the ill-fated Newton &mdash; and Palm Computing was one of the PDA Age's superstars.</p>
+<p>Today, of course, Palm is <a href="http://www.theverge.com/2012/6/5/3062611/palm-webos-hp-inside-story-pre-postmortem">little more than a footnote in mobile history</a>, but 1998 was a heady year for founder Jeff...</p>
+  <p>
+    <a href="http://www.theverge.com/2012/10/2/3362938/status-symbols-palm-v">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:63:"http://www.theverge.com/2012/10/2/3362938/status-symbols-palm-v";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:63:"http://www.theverge.com/2012/10/2/3362938/status-symbols-palm-v";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"Chris Ziegler";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:12:{s:4:"date";s:29:"Tue, 02 Oct 2012 23:11:27 GMT";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";s:13:"cache-control";s:72:"private, max-age=0, must-revalidate, private, max-age=0, must-revalidate";s:6:"status";s:6:"200 OK";s:4:"etag";s:32:"2f8a196861f751720384289ed513f8bc";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:9:"x-runtime";s:3:"189";s:14:"content-length";s:4:"5877";s:3:"via";s:16:"1.1 sbnation.com";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:7:"deflate";s:10:"connection";s:10:"Keep-Alive";}s:5:"build";s:14:"20111015034325";}

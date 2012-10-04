@@ -1,6 +1,15 @@
 <?php
 
 class Query extends CI_Controller{
+	function add_article(){
+		$permalink = $this->input->post('permalink');
+		$title = $this->input->post('title');
+		$content = $this->input->post('content');
+		$source = $this->input->post('source');
+		$date = $this->input->post('date');
+		$this->load->model('query_model');
+		$this->query_model->add_article($permalink, $title, $source, $date, $content);
+	}
 	function add_feed(){
 		$title = $this->input->post('site_name');
 		$url = $this->input->post('rss_address');
@@ -14,9 +23,8 @@ class Query extends CI_Controller{
 	}
 	function add_keyword(){
 		$keyword = $this->input->post('keyword');
-		$url = str_replace(' ', '+', $keyword);
 		$this->load->model('query_model');
-		$result = $this->query_model->add_feed($keyword, $url, 'keyword');
+		$result = $this->query_model->add_feed($keyword, $keyword, 'keyword');
 		if (is_int($result)){
 			echo '<li class="rightList"><a href="/site/feed/'.$result.'">'.$keyword.'</a></li>';
 		} else{
@@ -35,9 +43,21 @@ class Query extends CI_Controller{
   function search_typeahead() {
 		$query_string = $this->input->post('query');
 		$this->load->model('query_model');
-		$feed_results = $this->query_model->get_feeds_by_title($query_string);
-    array_unshift($feed_results, array("id" => "-1", "title" => "Feed Title"));
-    $json = json_encode($feed_results);
+
+		$sources_results = $this->query_model->get_sources($query_string);
+    $tags_results = $this->query_model->get_tags($query_string);
+
+    $combined_results = $sources_results;
+
+    array_unshift($combined_results, array("id" => "-1", "title" => "Sources"));
+    array_push($combined_results, array("id" => "-1", "title" => "Tags"));
+
+    foreach ($tags_results as &$value) {
+      array_push($combined_results, $value);
+    }
+
+    $json = json_encode($combined_results);
+
     echo $json;
   }
 

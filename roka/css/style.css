@@ -1,0 +1,47 @@
+body {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+margin: 0px;
+}
+
+#background {
+position: absolute;
+width: 100%;
+height: 100%;
+}
+
+#background img {
+width: 100%;
+height: 100%;
+}
+
+#container {
+position: relative;
+width: 100%;
+height: 100%;
+}
+
+#title {
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 15px;
+padding-bottom: 15px;
+position: absolute;
+bottom: 50px;
+left: 50px;
+background-color: rgba(0, 0, 0, 0.5);
+font-weight: 100;
+}
+
+#title_big {
+color: white;
+font-size: 83px;
+float: left;
+}
+
+#title_med {
+float: left;
+color: white;
+font-size: 53px;
+padding-top: 27px;
+padding-left: 20px;
+}

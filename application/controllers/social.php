@@ -22,15 +22,29 @@ class Social extends CI_controller{
 		$this->load->view('loader/clip_viewer', $data);
 	}
 	
+	function give_bump($type){
+		$permalink = $this->input->post('permalink');
+		$username = $this->session->userdata('username');
+		$this->load->model('social_model');
+		$result = $this->social_model->give_bump($type, $permalink, $username);
+		echo $result;
+	}
+	
 	function add_clip(){
 		$permalink = $this->input->post('permalink');
-		$title = $this->input->post('title');
-		$content = $this->input->post('content');
-		$source = $this->input->post('source');
-		$date = $this->input->post('date');
-		$this->load->model('query_model');
-		$result = $this->query_model->add_clip($permalink, $title, $content, $source, $date, 'public');
+		$username = $this->session->userdata('username');
+		$this->load->model('social_model');
+		$result = $this->social_model->add_clip($permalink, $username, 'public');
 		echo $result;
+	}
+		
+	function share_entry(){
+		$permalink = $this->input->post('permalink');
+		$sender = $this->session->userdata('username');
+		$recipient = $this->input->post('recipient');
+		$this->load->model('social_model');
+		$result = $this->social_model->share_clip($sender, $recipient, $permalink, 'received');
+		echo $result;	
 	}
 	
 	function move_clip($id, $destination){
@@ -44,42 +58,38 @@ class Social extends CI_controller{
 		redirect('site/clips');
 	}
 	
-	function get_friendsList($username){
+	function get_people(){
 		$this->load->model('social_model');
-		$data['friendsList'] = $this->social_model->get_friendsList($username);
-		$this->load->view('social/friends_list', $data);
+		$data['result'] =  $this->social_model->get_people();
+		$this->load->view('modal/people_view_subscribed', $data);
 	}
 	
-	function search_member(){
+	function find_person(){
+		$input = $this->input->post('input');
 		$this->load->model('social_model');
-		$username = $this->input->post('username');
-		$data['result'] = $this->social_model->search_member($username);
-		$this->load->view('social/search_list', $data);
+		$data['result'] = $this->social_model->find_person($input);
+		$this->load->view('modal/people_view_search', $data);
 	}
-	
-	function add_friend($friend_name){
+		
+	function subscribe_person(){
+		$person = $this->input->post('person');
 		$this->load->model('social_model');
 		$username = $this->session->userdata('username');
-		$this->social_model->add_friend($username, $friend_name);
-		redirect('site/clips');
+		$this->social_model->subscribe_person($username, $person);
+		$this->social_model->update_count_subscribers($person);
 	}
 	
-	function share_entry(){
-		$sender = $this->session->userdata('username');
-		$recipient = $this->input->post('recipient');
-		$permalink = $this->input->post('permalink');
-		$title = $this->input->post('title');
-		$content = $this->input->post('content');
-		$source = $this->input->post('source');
-		$date = $this->input->post('date');
-		$this->load->model('query_model');
-		$result = $this->query_model->share_clip($sender, $recipient, $permalink, $title, $content, $source, $date, 'received');
-		echo $result;
-	}
+	function unsubscribe_person(){
+		$person = $this->input->post('person');
+		$this->load->model('social_model');
+		$username = $this->session->userdata('username');
+		$this->social_model->unsubscribe_person($username, $person);
+		$this->social_model->update_count_subscribers($person);
+	}	
 	
 	function edit_profilepic(){
 		$config['upload_path'] = './user/profilePic';
-		$config['allowed_types'] = 'gif|jpg|png';
+		$config['allowed_types'] = 'gif|jpg|png|jpeg';
 		$config['max_width']  = '1024';
 		$config['max_height']  = '768';
 		$config['file_name'] = $this->session->userdata('username');
@@ -88,7 +98,7 @@ class Social extends CI_controller{
 		if (!$this->upload->do_upload())
 		{
 			$error = array('error' => $this->upload->display_errors());
-			echo $error;
+			echo $error['error'];
 		}
 		else
 		{	

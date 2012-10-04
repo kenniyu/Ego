@@ -163,7 +163,9 @@
 
         ,
         render: function(items) {
-            var that = this
+            var that = this,
+                numSources = 0,
+                numTags = 0;
 
             items = $(items)
                 .map(function(i, item) {
@@ -176,14 +178,33 @@
                   }
 
                   i.find('a').html(that.highlighter(item));
-                  var jsonObj = JSON.parse(i.attr('data-value'));
+                  var jsonObj = JSON.parse(i.attr('data-value')),
+                      categoryTitle;
                   if (jsonObj['id'] === '-1') {
-                    i.find('a').closest('li').addClass('categoryTitle').text(jsonObj['title']);
+                    categoryTitle = jsonObj['title'].toLowerCase();
+                    i.find('a').closest('li').addClass('categoryTitle '+categoryTitle+'Title').text(jsonObj['title']);
                     i.find('a').remove();
                   }
+                  if (jsonObj['source']) {
+                    numSources += 1;
+                  } else if (jsonObj['tag']) {
+                    numTags += 1;
+                  }
 
-                  return i[0]
-            })
+                  // count sources
+
+                  return i[0];
+            });
+
+            for (var i = items.length - 1; i >= 0; i--) {
+              if (numTags == 0 && $(items[i]).hasClass('tagsTitle')) {
+                items.splice(i, 1);
+              }
+              if (numSources == 0 && $(items[i]).hasClass('sourcesTitle')) {
+                items.splice(i, 1);
+              }
+            };
+
 
             items.first()
                 .addClass('active')
@@ -193,6 +214,7 @@
             } else {
               this.$menu.html(items);
             }
+
             return this
         }
 
@@ -329,7 +351,6 @@
         click: function(e) {
             e.stopPropagation()
             e.preventDefault()
-            console.log($(e.target));
             if ($(e.target).hasClass('categoryTitle')) {
               this.show();
             } else {

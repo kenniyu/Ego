@@ -106,9 +106,79 @@
 			}
 		);
 		
-		$('#epp_submit').click(function(){
-			$('#editProfilePicture').submit();
+		$('#usersidebar_profile').click(function(){
+			$.post("/site/modal_profile",  
+      		function(data) {
+      			$('#ultra_modal_container').html(data);
+				$('#ultra_modal').show("fade", 200);
+			});
 		});
+		
+		$('#ultra_modal_x').click(function(){
+			$('#ultra_modal_container').empty();
+			$('#ultra_modal').hide("fade", 200);
+		});
+		
+		$('#um_profilepic_submit').live('click', function(){
+			$('#um_profilepic_edit_form').submit();
+		});
+		
+		$('.usersidebar_lists_edit').toggle(
+		function(){
+			$('.usersidebar_list_item').css('margin-left', '30px');
+			$('.usersidebar_list_delete').show('slide', {direction: 'left'}, 50);
+			
+		},
+		function(){
+			$('.usersidebar_list_delete').hide();
+			$('.usersidebar_list_item').css('margin-left', '0px');
+		});
+		
+		$('.usersidebar_list_toggle').click(function(){
+			id = $(this).parent().attr('id').substring(6);
+			if (id == 'myfeeds'){
+				$('#usersidebar_lists_label_content_myfeeds').show();
+			} else{
+				$('#labelcontent_'+id).show();	
+			}
+			$('#usersidebar_lists_content_wrapper').css('margin-left', '-200px');
+		});
+		
+		$('.usersidebar_lists_label_content_header_back').click(function(){
+			$(this).parent().parent().parent().parent().css('margin-left', '0px');
+			$(this).parent().parent().hide();
+		});
+		
+		$('.usersidebar_toggle').toggle(
+		function(){
+			$('.usersidebar_main').animate({top: '253px', height: '60%'});
+			$('.usersidebar_main').addClass('usersidebar_toggled', 500);
+		},
+		function(){
+			$('.usersidebar_main').animate({top: '-347px', height: 'auto'});
+			$('.usersidebar_main').removeClass('usersidebar_toggled', 500);
+		});
+		
+		$('.usersidebar_toggle_container').waypoint(function(event, direction){
+			$('.usersidebar_main').toggleClass('usersidebar_sticky', direction=='down');
+			$('.usersidebar_main').removeClass('usersidebar_toggled', direction=='up');
+		}, {offset: 256});
+		
+		/*
+		$('.head_toolbar_container').waypoint(function(event, direction){
+			$('.head_toolbar').toggleClass('sticky', direction=='down');
+			$('.head_filtering').toggleClass('head_filtering_sticky', direction=='down');
+			$('.head_toolbox').toggleClass('head_toolbox_sticky', direction=='down');
+			//Change selector to head_toolbar
+			if (direction=='down'){
+			$('.head_toolbar').css('background-color', 'rgba(0, 0, 0, 0.8)', direction=='down');
+			}
+			else{
+			$('.head_toolbar').css('background-color', 'rgba(0, 0, 0, 0.5)', direction=='up');
+			}
+		});
+		*/
+		
 		
 		//Right Menu: Show Add Feed
 		$('#addBox').click(function(){
@@ -127,6 +197,7 @@
 		$('#addFeedSiteSubmit').click(function(){
 			$('#addFeedSite').submit();
 		});
+
 		
 		$('#addFeedSite').submit(function(){
 			$.ajax({
@@ -354,10 +425,19 @@
 		/*******************
 		  *	   Contents     *
 		   *******************/
-		   
+		
     	//Enable sticky head toolbar
 		$('.head_toolbar_container').waypoint(function(event, direction){
 			$('.head_toolbar').toggleClass('sticky', direction=='down');
+			$('.head_filtering').toggleClass('head_filtering_sticky', direction=='down');
+			$('.head_toolbox').toggleClass('head_toolbox_sticky', direction=='down');
+			//Change selector to head_toolbar
+			if (direction=='down'){
+			$('.head_toolbar').css('background-color', 'rgba(0, 0, 0, 0.8)', direction=='down');
+			}
+			else{
+			$('.head_toolbar').css('background-color', 'rgba(0, 0, 0, 0.5)', direction=='up');
+			}
 		});
 		
 		//Feed Toolbox: Reload
@@ -388,61 +468,26 @@
 			$('#ftbox_received').addClass("feed_toolbox_active");
 		}
 		
-		//Feed Toolbox: Friends
-		//Show popover
-		$('#ftbox_friends').click(function(){
-			if (friends_flag == false) {
-				$("#ftbox_friends_popover").show();
-				$('.ffp_loading').show();
-				$.get(
-    				'/social/get_friendsList/'+username,
-    				function(data) {
-    					$('.ffp_loading').hide();
-	    				$('#ffp_list_contents').html(data);
-	    		});
-				friends_flag = true;
-			}else{
-				$("#ftbox_friends_popover").hide();
-				friends_flag = false;
-			}
-		});
-		
-		//Show Friends List
-		$('#ffp_list_toggle').click(function(){
-			$('#ffp_add').hide();
-			$('#ffp_list').show();
-			$('.ffp_loading').show();
-			$.get(
-    				'/social/get_friendsList/'+username,
-    				function(data) {
-    					$('.ffp_loading').hide();
-	    				$('#ffp_list_contents').html(data);
+		//Feed Toolbox: Following
+		$('#head_clipbox_follow').click(function(){
+			$.post("/site/modal_people",  
+      		function(data) {
+      			$('#ultra_modal_container').append(data);
+      			$.post("/social/get_people/",
+      			function(data){
+	      			$('#ultra_modal_subscribed').html(data);
+	      			$('#ultra_modal_subscribed').show();
+	      		});	
+				$('#ultra_modal').show("fade", 200);
 			});
 		});
 		
-		//Show AddBox
-		$('#ffp_add_toggle').click(function(){
-			$('#ffp_list').hide();
-			$('#ffp_add').show();
-		});
-		
-		//Search Member
-		$('#ffp_search_member_submit').click(function(){
-			$('#ffp_search_member').submit();
-		});
-		
-		$('#ffp_search_member').submit(function(){
-			$('.ffp_loading').show();
-			$.ajax({
-				data: $(this).serialize(),
-				type: $(this).attr('method'),
-				url: $(this).attr('action'),
-				success: function(data){
-					$('.ffp_loading').hide();
-					$('#ffp_add_contents').html(data);
-				}
+		$('.head_feedbox_feed').click(function(){
+			$.post("/site/modal_feed",  
+      		function(data) {
+      			$('#ultra_modal_container').append(data);
+				$('#ultra_modal').show("fade", 200);
 			});
-			return false;
 		});
 			
 		//Feed Loader with waypoints
@@ -455,7 +500,7 @@
 			$('#end_feedContent').waypoint('remove');
 			$('#loading').show();
 			$.get(
-			'http://localhost/index.php/feed/feed_loader/'+feed_type+'/'+feed_id+'/'+init_feed,
+			'http://localhost/index.php/feed/load_feed/'+feed_type+'/'+feed_id+'/'+init_feed,
 			function(data) {
 				$('#feedContent').append(data);
 				$('#end_feedContent').waypoint(opts);
@@ -529,24 +574,42 @@
 			}
 		});
 	
+		//Article Toolbox: Bump
+		
+		$('.etbox_bump_up').live('click', function() {
+			var root = $(this).parent().parent().parent();
+			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
+			var target = $(this).children('.etbox_bump_up_count');
+			$.post("/social/give_bump/0", 
+				{ 'permalink': permalink }, // data to send JSON-hash encoded        
+				function(data) {
+      				target.text(data);
+      		});
+		});
+		
+		$('.etbox_bump_down').live('click', function() {
+			var root = $(this).parent().parent().parent();
+			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
+			var target = $(this).children('.etbox_bump_down_count');
+			$.post("/social/give_bump/1", 
+				{ 'permalink': permalink }, // data to send JSON-hash encoded        
+				function(data) {
+      				target.text(data);
+      		});
+		});
+		
 		
 		//Article Toolbox: Clip
 		$('.etbox_clip').live('click', function() {
 			var root = $(this).parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
-			var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
-			var source = root.children('.entry_header').children('.entry_info').children('.entry_source').text();
-			var date = root.children('.entry_header').children('.entry_info').children('.entry_date').text();
-      		var content = root.children('.entry_content').html();
-      		var target = $(this).children('.clip_count');
-  			$.post("/social/add_clip", 
-      		{ 'permalink': permalink, 'title': title, 'content': content, 'source': source, 'date': date }, // data to send JSON-hash encoded        
-      		function(data) {
-      			target.text(data);
-     			alert("The article \""+title+"\" was successfully added to your Clip.");
-     			target.show();
-     			root.addClass('hasAid');
-  			});
+			var target = $(this).children('.clip_count');
+			$.post("/social/add_clip", 
+				{ 'permalink': permalink }, // data to send JSON-hash encoded        
+				function(data) {
+      				target.text(data);
+      				target.show();
+      		});
     	});
 		
 		//Article Toolbox: Mark as read
@@ -571,6 +634,19 @@
 		
 		$('.esp_share').live('submit', function(){
 			var recipient = $(this).children('.esp_recipient').val();
+			var root = $(this).parent().parent();
+			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
+			var target = $(this).children('.clip_count');
+			$.post("/social/share_entry", 
+				{ 'recipient': recipient, 'permalink': permalink }, // data to send JSON-hash encoded        
+				function(data) {
+      				target.text(data);
+      				target.show();
+      				root.children('.entry_footer').children('.etbox_share_popover').toggle('fade', {}, 300);
+      		});
+			
+			/*
+			var recipient = $(this).children('.esp_recipient').val();
 			var root = $(this).parent().parent().parent().parent();
 			var permalink = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').attr('href');
 			var title = root.children('.entry_header').children('.entry_headline').children('.entry_permalink').children('.entry_title').text();
@@ -588,6 +664,7 @@
      			root.addClass('hasAid');
   			});
   			return false;
+  			*/
 		});
 		
 		$('#NowAt').hover(function(){
@@ -597,7 +674,7 @@
 		});
 		
 		/*******************
-		  *	    Footer      *
+		  *	    Modals      *
 		   *******************/
 		   
 		//Show Dicovery Bar
@@ -655,7 +732,7 @@
       		discovery_firstinView = true;
       	});
 		
-	    $('#queryTypeahead').typeahead({
+	    $('#addbox_input').typeahead({
         source: function(typeahead, query) {
           return $.post('/query/search_typeahead', {
             query: query
@@ -666,13 +743,48 @@
         minLength: 2,
         property: 'title',
         onselect: function(data) {
+          var siteName,
+              rssAddress,
+              tagString;
           if (data['id'] === '-1') {
             return false;
+          } else {
+            if (data['tag']) {
+              // call add tag
+              tagString = data['tag'];
+              addTag(tagString);
+            } else if (data['source']) {
+              // call add feed
+              siteName = data['source'];
+              rssAddress = data['url'];
+              addFeed(siteName, rssAddress);
+            }
           }
-          console.log(data);
         }
 	    });
-      	
+
+      function addFeed(siteName, rssAddress) {
+        $.ajax({
+          type: 'POST',
+          data: {'site_name': siteName, 'rss_address': rssAddress},
+          url: '/query/add_feed',
+          success: function(data) {
+            console.log(data);
+          }
+        });
+      }
+
+      function addTag(tagString) {
+        $.ajax({
+          type: 'POST',
+          data: { 'keyword': tagString },
+          url: '/query/add_keyword',
+          success: function(data) {
+            console.log(data);
+          }
+        });
+      }
+		
 	});
 	
 	

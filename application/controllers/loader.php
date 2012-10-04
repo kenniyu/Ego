@@ -32,6 +32,7 @@ class Loader extends CI_controller{
 		echo'</div>';
 		echo '</li>';
 	}
+
 	function get_feedCount($username){
 		$this->load->model('loader_model');
 		echo $this->loader_model->get_feedCount($username);

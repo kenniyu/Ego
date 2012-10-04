@@ -4,6 +4,7 @@
 		public function __construct(){
 			$this->load->database();
 		}
+		
 		function add_feed($title, $url, $type){
 			if ($title == '' || $url == ''){
 				return 'Oops - you are missing something!';
@@ -12,30 +13,32 @@
 				return 'You already have another feed with the same name. Try another.';
 			} else {
 				$this->load->model('loader_model');
-				$feed_count = $this->loader_model->get_feedCount($this->session->userdata('username'));	// get the current feed count of the user
-				$new_feed = array(
-				'username' => $this->session->userdata('username'),
-				'title' => $title,
-				'url' => $url,
-				'type' => $type, 
-				'pos_id' => $feed_count+1
-				);
-				$this->db->insert('feed', $new_feed);
-				$this->db->where('username', $this->session->userdata('username'));
-				$this->db->update('membership', array('feed_count' => $feed_count+1));	//update the feed count
-				$query = $this->db->get_where('feed', array('username' => $this->session->userdata('username'), 'title' => $title));
-				return intval($query->row()->id);
+				$this->load->model('feed_model');
+				
+				if ($type == 'keyword' || $this->feed_model->validate_source($url)){
+					$feed_count = $this->loader_model->get_feedCount($this->session->userdata('username'));	// get the current feed count of the user
+					$new_feed = array(
+						'username' => $this->session->userdata('username'),
+						'title' => $title,
+						'url' => $url,
+						'type' => $type, 
+						'pos_id' => $feed_count+1
+					);
+					$this->db->insert('feed', $new_feed);
+					$this->db->where('username', $this->session->userdata('username'));
+					$this->db->update('membership', array('feed_count' => $feed_count+1));	//update the feed count
+					$query = $this->db->get_where('feed', array('username' => $this->session->userdata('username'), 'title' => $title));
+					return intval($query->row()->id);
+				} else {
+					return 'The source you have provided is not valid.';
+				}
 			}
 		}
+		
 		function add_label($label_name, $new_label){
 			foreach($new_label as $id){
 				$target = $this->db->get_where('feed', array('id' => $id))->row();
-				if ($target->type == 'keyword'){
-					$url = 'feed://news.google.com/news/feeds?gl=us&pz=1&cf=all&ned=us&hl=en&q='.$target->url.'&output=rss';
-				} else{
-					$url = $target->url;
-				}
-				$this->db->insert('label', array('username' => $this->session->userdata('username'), 'label_name' => $label_name, 'feed_url' => $url, 'feed_title' => $target->title, 'ref_id' => $id));
+				$this->db->insert('label', array('username' => $this->session->userdata('username'), 'label_name' => $label_name, 'feed_url' => $target->url, 'feed_title' => $target->title, 'ref_id' => $id));
 			}
 			
 			$this->load->model('loader_model');
@@ -43,6 +46,24 @@
 			$this->db->insert('label_list', array('username' => $this->session->userdata('username'), 'label' => $label_name, 'pos_id' => $label_count+1));
 			$this->db->where('username', $this->session->userdata('username'));
 			$this->db->update('membership', array('label_count' => $label_count+1));
+		}
+
+		function get_sources($query){
+      $this->db->from('sources');
+      $this->db->select('sources.*, sources.source AS title');
+      $this->db->like('source', $query, 'none');
+      $this->db->limit(10, 0);
+      $results = $this->db->get();
+			return $results->result_array();
+		}
+
+		function get_tags($query){
+      $this->db->from('tags');
+      $this->db->select('tags.*, tags.tag AS title');
+      $this->db->like('tag', $query, 'none');
+      $this->db->limit(10, 0);
+      $results = $this->db->get();
+			return $results->result_array();
 		}
 
 		function get_feeds_by_title($typeaheadText){
@@ -140,41 +161,11 @@
 				'aid' => $permalink, 'title' => $title, 'source' => $source, 'date' => $date, 'content' => $content
 			));
 		}
-		function add_clip($permalink, $title, $content, $source, $date, $type){
-			if ($this->db->get_where('articles', array('aid' => $permalink))->num_rows() == 0){
-				$this->db->insert('articles', array(
-					'aid' => $permalink, 'title' => $title, 'source' => $source, 'date' => $date, 'content' => $content
-				));
-			}  
-			$article = $this->db->get_where('articles', array('aid' => $permalink))->row();
-			$ref_id = $article->id;
-			$this->db->insert('clips', array(
-				'username' => $this->session->userdata('username'), 'type' => $type, 'ref_id' => $ref_id
-			));
-			$clip_count = intval($article->clip_count);
-			$this->db->where('aid', $permalink);
-			$this->db->update('articles', array('clip_count' => $clip_count+1));
-			return $clip_count+1;
-		}
-		function share_clip($sender, $recipient, $permalink, $title, $content, $source, $date, $type){
-			if ($this->db->get_where('articles', array('aid' => $permalink))->num_rows() == 0){
-				$this->db->insert('articles', array(
-					'aid' => $permalink, 'title' => $title, 'source' => $source, 'date' => $date, 'content' => $content
-				));
-			}  
-			$article = $this->db->get_where('articles', array('aid' => $permalink))->row();
-			$ref_id = $article->id;
-			$this->db->insert('clips', array(
-				'username' => $recipient, 'type' => $type, 'sender' => $sender, 'ref_id' => $ref_id
-			));
-			$share_count = intval($article->share_count);
-			$this->db->where('aid', $permalink);
-			$this->db->update('articles', array('share_count' => $share_count+1));
-			return $share_count+1;
-		}
+		
 		function mark($aid){
 			$this->db->insert('mark', array('aid' => $aid, 'username' => $this->session->userdata('username'), 'timestamp' => date("Y-m-d")));
 		}
+		
 		function move_clip($id, $destination){
 			$update = array('type' => $destination);
 			$this->db->where('id', $id);
