@@ -84,20 +84,3 @@ foreach ($entries as $item)
 	</div>';
 }
 ?>
-
-<script>
-		$('.usersidebar_toggle').toggle(
-		function(){
-			$('.usersidebar_main').animate({top: '253px', height: '60%'});
-			$('.usersidebar_main').addClass('usersidebar_toggled', 500);
-		},
-		function(){
-			$('.usersidebar_main').animate({top: '-347px', height: 'auto'});
-			$('.usersidebar_main').removeClass('usersidebar_toggled', 500);
-		});
-$('.usersidebar_toggle_container').waypoint(function(event, direction){
-			$('.usersidebar_main').toggleClass('usersidebar_sticky', direction=='down');
-			$('.usersidebar_main').removeClass('usersidebar_toggled', direction=='up');
-		}, {offset: 256});
-
-</script>

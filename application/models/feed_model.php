@@ -5,15 +5,22 @@
 			$this->load->database();
 		}
 		
+<<<<<<< HEAD
 		//Functions for Feed Sync
 		function add_article($permalink, $title, $source, $thumbnail, $date, $content){
 			$date = $this->encode_date($date);
 			$this->db->insert('articles', array(
 				'aid' => $permalink, 'title' => $title, 'source' => $source, 'thumbnail' => $thumbnail, 'datetime' => $date, 'content' => $content
+=======
+		function add_article($permalink, $title, $source, $date, $content){
+			$this->db->insert('articles', array(
+				'aid' => $permalink, 'title' => $title, 'source' => $source, 'date' => $date, 'content' => $content
+>>>>>>> 21294f0d275f42e298de75a2ea78bcaf40d1506c
 			));
 			return $this->db->get_where('articles', array('aid' => $permalink))->row()->id;
 		}
 		
+<<<<<<< HEAD
 		function sync_thumbnail(){
 			$feeds = $this->db->get('feed')->result();
 			foreach($feeds as $feed){
@@ -102,12 +109,15 @@
 			return $date;
 		}
 		
+=======
+>>>>>>> 21294f0d275f42e298de75a2ea78bcaf40d1506c
 		function add_tags($tags, $aid){
 			foreach($tags as $tag){
 				$this->db->insert('tags', array('foreign_key' => $aid, 'tag' => $tag));
 			}
 		}
 		
+<<<<<<< HEAD
 		//Functions for Adding Sources
 		function validate_source($url){
 			if ($this->db->get_where('sources', array('url' => $url))->num_rows() > 0){
@@ -145,6 +155,8 @@
 		}
 
 		//Functions for Loading Feeds
+=======
+>>>>>>> 21294f0d275f42e298de75a2ea78bcaf40d1506c
 		function check_aid($permalink){
 			if ($this->db->get_where('articles', array('aid' => $permalink))->num_rows() == 0){
 				return false;
@@ -153,6 +165,7 @@
 			}
 		}
 		
+<<<<<<< HEAD
 		function decode_date($datetime){
 			$result = explode(' ', $datetime);
 			$date = $result[0];
@@ -286,5 +299,17 @@
 				return $result = $this->db->query($query)->result();
 			}
 		}
+=======
+		function load_feed_keyword($tag){
+			$entries = array();
+			$targets = $this->db->get_where('tags', array('tag' => $tag))->result();
+			foreach($targets as $target){
+				array_push($entries, $this->db->get_where('articles', array('id' => $target->foreign_key))->row());
+			}
+			return $entries;
+		}
+	
+	
+>>>>>>> 21294f0d275f42e298de75a2ea78bcaf40d1506c
 	}
 //End of Feed_model

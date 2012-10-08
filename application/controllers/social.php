@@ -79,14 +79,6 @@ class Social extends CI_controller{
 		$this->social_model->update_count_subscribers($person);
 	}
 	
-	function unsubscribe_person(){
-		$person = $this->input->post('person');
-		$this->load->model('social_model');
-		$username = $this->session->userdata('username');
-		$this->social_model->unsubscribe_person($username, $person);
-		$this->social_model->update_count_subscribers($person);
-	}	
-	
 	function edit_profilepic(){
 		$config['upload_path'] = './user/profilePic';
 		$config['allowed_types'] = 'gif|jpg|png|jpeg';

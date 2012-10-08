@@ -6,41 +6,29 @@
 </div>
 </div>
 <div id="content"> <!--the contents-->
-	<div id="header_container"><img id="header_bg" src="/icons/head_toolbox/bg.jpg" />
 	<div id="header">	<!--the contents header-->
-	   	<div id="feed_info">
-	   	<h1>Article</h1>
-	   	</div>
-	   	<div class="head_toolbar_container">
-	   	<div class="head_toolbar">
-	   		<div class="head_toolbar_wrapper">
-	   		<div class="head_filtering">
-	   			<div id="head_filtering_density">
-		   		<img class="toolbox_icon" src="/icons/head_toolbox/density.svg" />
-	   			</div>
-	   			<div id="head_filtering_infograph">
-	   			<img class="toolbox_icon" src="/icons/head_toolbox/infograph.svg" />
-	   			</div>
-	   		</div>
-	   		
-	   		
-	   		<div id="addbox">
-		   		<input id="addbox_input" placeholder="Add your interest" />
-		   		<div id="addbox_icon">
-		   		<img class="toolbox_icon" src="/icons/head_toolbox/search.svg" />
-		   		</div>
-	   		</div>
-	   		
-	   		<div class="head_toolbox">
-	   		<div class="head_toolbox_wrapper">
-	   			<img class="toolbox_icon" src="/icons/head_toolbox/settings.svg" />
-	   			<div class="head_toolbox_text">Toolbox</div>
-	   		</div>
-	   		</div>
-	   	</div>
-	   	</div>
-	   	</div>
-	</div>
+	    	 <div id="feed_info">
+		<img src="/icons/feed_toolbox/feed.png" />
+		<h1>Article</h1>
+		</div>
+		<div class="head_toolbar_container">
+		<div class="head_toolbar">
+		<a href="/site/label/"><div id="ftbox_home" class="feed_toolbox feed_toolbox_left" rel="tooltip_bot" title="All Feeds"><img src="/icons/feed_toolbox/allfeeds.png" /></div></a>
+		<div id="ftbox_search" class="feed_toolbox">
+			<div id="ftbox_search_button" rel="tooltip_bot" title="Search this Feed">
+				<img src="/icons/feed_toolbox/search.png" />
+			</div>
+			<div id="ftbox_search_form">
+				<input type="text" autofocus name="search_keyword" placeholder="Search this Feed" />
+			</div>
+		</div>
+		<div id="ftbox_refresh" class="feed_toolbox" rel="tooltip_bot" title="Reload"><img src="/icons/feed_toolbox/refresh.png" /></div>
+		<div id="ftbox_mode" class="feed_toolbox" rel="tooltip_bot" title="Display Mode"><img src="/icons/feed_toolbox/mode.png" /></div>
+		<div id="ftbox_favorite" class="feed_toolbox" rel="tooltip_bot" title="Add to Favorites"><img src="/icons/feed_toolbox/favorite.png" /></div>
+		<div id="ftbox_density" class="feed_toolbox" rel="tooltip_bot" title="Density Controller"><img src="/icons/feed_toolbox/density.png" /></div>
+		<div id="ftbox_infograph" class="feed_toolbox feed_toolbox_extended" rel="tooltip_bot" title="Show Infograph"><img src="/icons/feed_toolbox/infograph.png" /><h6>INFOGRAPH</h6></div>
+		</div>
+		</div>
 	</div>
 	    
 	<div id="articleContent">	<!--the feed content-->
