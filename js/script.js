@@ -769,7 +769,7 @@
           data: {'site_name': siteName, 'rss_address': rssAddress},
           url: '/query/add_feed',
           success: function(data) {
-            console.log(data);
+            $('#addbox_input').val('');
           }
         });
       }
@@ -780,7 +780,7 @@
           data: { 'keyword': tagString },
           url: '/query/add_keyword',
           success: function(data) {
-            console.log(data);
+            $('#addbox_input').val('');
           }
         });
       }
